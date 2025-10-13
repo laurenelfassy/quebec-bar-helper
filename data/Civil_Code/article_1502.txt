@@ -1,0 +1,3 @@
+Article 1502
+
+Lorsque l’obligation est subordonnée à la condition qu’un événement n’arrivera pas dans un temps déterminé, cette condition est accomplie lorsque le temps s’est écoulé sans que l’événement soit arrivé; elle l’est également lorsqu’il devient certain, avant l’écoulement du temps prévu, que l’événement n’arrivera pas. S’il n’y a pas de temps déterminé, la condition n’est censée accomplie que lorsqu’il devient certain que l’événement n’arrivera pas. 1991, c. 64, a.

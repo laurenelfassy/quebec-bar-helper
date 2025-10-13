@@ -32,3 +32,4 @@ if query:
     response = qa_chain.run(query)
     st.write("### Answer:")
     st.write(response)
+

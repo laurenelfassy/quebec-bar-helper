@@ -1,0 +1,187 @@
+LA PREUVE TESTIMONIALE
+L’instruction d’une cause sous-entend l’audition de témoins.
+Le témoin rapporte ce qu’il sait, ce qu’il a vu ou entendu; il explique sa version des faits. Par ailleurs, ce témoignage étant un moyen de présenter la preuve, il devra être pertinent au litige. C’est ainsi que plusieurs règles encadrent la présentation du témoignage.
+Par exemple, le témoignage visant à rapporter la déclaration extrajudiciaire d’une personne qui ne témoigne pas devant le tribunal sera de façon générale inadmissible en preuve. Cette règle, nommée le ouï-dire, implique une déclaration extrajudiciaire dont on veut se servir pour établir la véracité de son contenu.
+Section 1 : La définition, la recevabilité et la mise en preuve du témoignage
+Le témoignage est la déclaration par laquelle un témoin viendra relater les faits qu’il a lui-même constatés. 
+Deux sortes de témoins seront appelés à témoigner : 
+Le témoin ordinaire
+L’expert. 
+Nous verrons que le témoin ordinaire ne peut émettre une opinion, ce privilège étant réservé à l’expert suivant quelques conditions.
+La définition du témoignage 
+(Art. 2843 C.c.Q.) : Le témoignage est la déclaration par laquelle une personne relate les faits dont elle a eu personnellement connaissance ou par laquelle un expert donne son avis.
+Il doit, pour faire preuve, être contenu dans une déposition faite à l’instance, sauf du consentement des parties ou dans les cas prévus par la loi.
+Touché, senti, goûté, vu, entendu
+Permet d’établir un fait pur et simple, un fait juridique, établir un aveu, une présomption ou encore un commencement un preuve.
+La mise en preuve
+Pour assurer la présence d’un témoin lors de l’instance, nous devons l’assigner à comparaitre par l’entremise d’une citation à comparaitre (Arts. 269 et ss C.p.c.). La citation utilisée est celle du Ministère de la justice. 
+La citation est signée par un juge ou un greffier si c’est à la demande d’une partie ou par l’avocat lui-même qui représente une partie. 
+Elle doit être signifiée aux témoins en vertu de l’Art. 139, al.2 (1) C.p.c.
+Cette procédure doit lui être signifiée au moins 10 jours avant le moment prévu pour leur comparution, à moins qu’il n’y ait urgence et que le juge ou le greffier n’abrège le délai de notification. Cet abrègement du délai ne peut laisser moins de 24 heures entre la notification et la comparution; la décision d’abréger est portée sur la citation à comparaître 
+(Art. 269, al.2 C.c.Q.).
+La citation est accompagnée lors de la signification de l’indemnité payable au témoin pour une première journée d’audience ainsi que ses frais de transport, d’hébergement… (Art. 273 C.p.c.).
+Lors de l’audience, le témoin sera assermenté (Art. 277 C.p.c.). Il est d’abord interrogé par la partie l’ayant assignée et ensuite contre-interrogé par l’autre partie. Il pourra, si des faits nouveaux sont ressortis du contre-interrogatoire être réinterrogé sur ces éléments afin de compléter son témoignage (Art. 280 C.p.c.).
+L’Art. 279, al. 4 C.p.c.) prévoit la possibilité pour un témoin de témoigner à distance si la technologie le permet. 
+Le juge peut toujours exiger la présence physique du témoin en salle d’audience (Art. 276 C.p.c.).
+*Plusieurs exceptions par contre* :
+Avant même qu’une instance ne soit entreprise (Art. 253 C.p.c.)
+(Art. 253 C.p.c.) : La personne qui prévoit qu’elle sera partie à un litige peut, si elle a des raisons de craindre qu’une preuve dont elle aura besoin ne se perde ou ne devienne plus difficile à présenter, interroger les témoins dont elle craint l’absence, le décès ou la défaillance; elle peut aussi faire examiner une chose ou un bien dont l’état peut influer sur le sort du litige. Elle y procède avec l’accord de l’intéressé qui sera éventuellement le demandeur ou le défendeur ou avec l’autorisation du tribunal.
+Celui qui exécute sur un immeuble des travaux susceptibles d’endommager un immeuble voisin peut demander l’examen de cet immeuble sans avoir à justifier d’un litige éventuel.
+Cause par défaut (Art. 182 C.p.c.)
+(Art. 182 C.c.Q.): Lorsqu’une enquête est nécessaire, le greffier spécial reçoit la preuve, laquelle peut n’être constituée que de déclarations écrites sous serment.
+Lors de l’enquête, le défendeur ne peut produire aucun témoin, mais il peut, le cas échéant, contre-interroger les témoins cités par le demandeur. Les témoins peuvent être interrogés par le greffier spécial ou, le cas échéant, par le juge en son cabinet, si l’un ou l’autre l’estime opportun. Les dépositions des témoins sont enregistrées à moins que les parties n’y renoncent.
+Cette manière de faire permet aux parties de ne pas faire entendre les témoins en personne devant le tribunal et de procéder plutôt par déclaration sous serment de ceux-ci. 
+Les causes de défaut sont mentionnées à l’Art. 180 C.p.c.
+Interrogatoire sur serment
+Interrogatoire de certaines personnes sera possible sous serment, mais comme on prive la partie adverse de son droit au contre-interrogatoire, cette dernière peut exiger que cette personne soit interrogée hors la présence du tribunal (Arts. 105, al.3 et 222 C.p.c.). 
+Si cet interrogatoire est par la suite transmis au dossier de la cour en vertu de l’Art. 227 C.p.c., le témoignage fera partie du dossier. 
+Les interrogatoires préalables à l’instruction (Arts. 221, 222 C.p.c.)
+Lorsqu’une partie, l’un de ses représentants ou un tiers est interrogé au préalable, son témoignage peut s’il est produit au dossier faire partie du dossier et ainsi être considéré par le juge (Arts. 221. 222 C.p.c.).
+Interrogé un témoin hors la présence du tribunal (Art. 295 C.p.c.)
+(Art. 295 C.p.c.) : craignant l’absence lors de l’instruction dans un litige déjà entrepris contrairement à l’exception de l’Art. 253 C.p.c. Le témoin est assigné à l’avance, interrogé et contre-interrogé. Sa déposition est consignée au dossier de la Cour. 
+La force probante 
+(Art. 2845 C.c.Q.) : La force probante du témoignage est laissée à l’appréciation du tribunal.
+Vrai/Faux
+Toute personne est apte à témoigner.
+Faux, il existe des exceptions aux personnes aptes à témoigner. Ainsi, une personne est inapte à témoigner si elle souffre d’une incapacité physique ou mentale ou, si en raison de son jeune âge, elle n’est pas en mesure de rapporter des faits dont elle a eu personnellement connaissance ou si elle ne comprend pas la nature du serment (art. 276 C.p.c. et 2844 C.c.Q.).
+Par ailleurs, un huissier, bien qu’il soit apte à témoigner, ne peut être cité à comparaître pour témoigner de faits ou d’aveux dont il aurait eu connaissance lors de la notification d’un acte de procédure. D’autres personnes ne sauraient être contraintes à témoigner, même si elles sont aptes à le faire (voir arts. 282, 283 et 284 C.p.c. notamment).
+Le témoignage de l’enfant
+(Art. 2844 C.c.Q.) : l’enfant peut agir comme témoin
+S’il comprend la nature du serment, il sera assermenté comme un adulte
+S’il ne comprend pas la nature du serment, mais qu’il doit dire la vérité, il sera admis à témoigner sauf que son témoignage devra être corroboré. 
+(Art. 24 C.p.c.) : la définition du serment « engagement solennel de dire la vérité ou d’exercer une fonction avec impartialité et compétence » 
+(Art. 34 C.c.Q.) : Le tribunal doit, chaque fois qu’il est saisi d’une demande mettant en jeu l’intérêt d’un enfant, lui donner la possibilité d’être entendu si son âge et son discernement le permettent.
+(Art. 290 C.p.c.) : Lorsque le tribunal entend un mineur ou un majeur inapte, celui-ci peut être accompagné d’une personne apte à l’aider ou à le rassurer.
+(Art. 291 C.p.c.): Le juge peut interroger le mineur ainsi que le majeur inapte en salle d’audience ou en son cabinet après avoir avisé les parties. 
+(al.1) : pour le majeur inapte, le juge pourra notamment l’interroger à son domicile ou à un autre lieu approprié, mais seulement une fois qu’il aura avisé les parties. 
+Il existe des dispositions particulières quant au témoignage de l’enfant dans d’autres lois soit, la loi sur la protection de la jeunesse ainsi que la loi sur la preuve au Canada. 
+(Art. 2845 C.c.Q.): La force probante du témoignage est laissée à l’appréciation du tribunal.
+Le témoignage de l’expert
+Au C.p.c., il existe 3 types d’expert (art. 22, al.1 C.p.c.)
+L’expert d’une partie (Art. 232 C.p.c.)
+L’expert commun (Art. 233 C.p.c.)
+L’expert commis par le tribunal (Art. 234 C.p.c.)
+Les devoirs et pouvoirs de l’expert sont dévolus aux Arts. 235-237 C.p.c.
+(Art. 235, al.3 C.p.c.) : le tribunal ou les parties peuvent exiger qu’i porte serment (art. 24 C.p.c.). Dans tous les cas, il agit sous son serment professionnel et à cet égard, il devra joindre sa déclaration à son rapport d’expertise. 
+(Art. 22, al.2 C.p.c.) : L’expert doit accomplir sa mission avec objectivité, impartialité et rigueur.
+(Art. 238, al.3 C.p.c.) : les conclusions de l’expert ne lie pas les parties sauf si elles déclarent les accepter. Notamment, celles-ci ne lient pas le tribunal. 
+(Art. 293 C.p.c.) : son rapport tient lieu de témoignage. 
+(Art. 2845 C.c.Q.) : la force probante du rapport est tenu à l’appréciation du tribunal. 
+Dans son appréciation, le tribunal tient compte notamment de la crédibilité de l’expert, de ses connaissances, de la manière qu’il s’est acquitté de sa tâche, de la validité des tests utilités, de son objectivité, de son désintéressement par rapport aux parties. 
+(Art. 238, al.3 C.p.c.) : les conclusions de l’expert ne lie pas les parties sauf si elles déclarent les accepter. Notamment, celles-ci ne lient pas le tribunal. 
+Le témoignage par déclaration assermentée 
+C’est possible de rendre témoignage en dehors de la salle de Cour par l’intermédiaire d’une déclaration assermentée (Arts. 105 et 106 C.p.c.). 
+Un témoignage écrit fait preuve de son contenu. Selon l’Art. 2845 C.c.Q., celle-ci sera laissée à l’appréciation du tribunal. 
+Utilisation :
+La preuve par défaut (Arts. 181 et 182 C.p.c.)
+La demande d’injonction interlocutoire (Arts. 106, al.2 (preuve orale permise), 509 et ss C.p.c.)
+Le pourvoi en contrôle judiciaire (Arts. 106, al.2 (preuve orale permise), 529 et ss C.p.c.)
+La saisie avant jugement (Arts. 106, al.2 (preuve orale permise), 516 et ss C.p.c.)
+Les demandes en matière familiale (Art. 414 C.p.c.)
+Section 2 : La prohibition du ouï-dire
+La preuve par ouï-dire est en principe interdite, sous réserve de certaines exceptions. Une personne ne peut donc pas témoigner par l’intermédiaire d’une autre personne ou d’un écrit; elle doit comparaître comme témoin et témoigner des faits dont elle a eu personnellement connaissance.
+(Art. 2832 C.c.Q.) : L’écrit ni authentique ni semi-authentique qui rapporte un fait peut être rendu par écrit alors que techniquement cela va à l’encontre du ouï-dire. 
+Lorsqu’il est précisé « sous réserve des règles contenues dans ce livre » cela fait référence aux cas d’exceptions prévues plus loin dans le C.c.Q. 
+Exemple de ouï-dire écrit : un témoin qui est absolument terrorisé d’aller devant le tribunal et fait un écrit et signer l’écrit pour la présenter devant le tribunal (en principe, c’est interdit car le témoin n’est pas présent pour le témoigner et seul sa feuille est présente). 
+Exemple de ouï-dire orale : « Roger m’a dit qu’il à vue un ours » … pas admissible si la véracité de son témoignage tente de prouver la présence d’un ours. (Roger doit être présent pour en témoigner et être contre-interroger à ce sujet)
+Les déclarations extrajudiciaires non visées par l’interdiction du ouï-dire
+A priori, ces déclarations ressemblent à du ouï-dire, mais elles ne le sont pas. 
+L’aveu a besoin du support d’un témoin mise en preuve. Il se peut qu’une personne soit assermentée et rende témoignage, mais ce n’est pas le cas, elle est en train de mettre en preuve un aveu. 
+(Art. 2850 C.c.Q.): L’aveu est la reconnaissance d’un fait de nature à produire des conséquences juridiques contre son auteur.
+Les exceptions à la prohibition du ouï-dire
+Le consentement des parties 
+(Arts. 2859 C.p.c.) : à défaut de s’objecter à une preuve de ouï-dire, celui-ci est admis de consentement tacite entre les parties et le tribunal sera en droit de croire que vous permettez que pareil preuve soit faite. 
+Inversement, l’Art. 2869 C.c.Q. prévoit que les parties peuvent y consentir explicitement. 
+L’art. 266, al.2 C.p.c. : Cependant, si la partie justifie de sa diligence et établit que le témoin absent est nécessaire et que son absence n’est due à aucune manoeuvre de sa part, le tribunal peut ajourner l’instruction. L’ajournement peut être évité si l’autre partie consent à ce que la partie expose, sous serment, les faits que le témoin défaillant rapporterait et admette soit la vérité de ces faits, soit que le témoin en déposerait.
+La loi 
+Le témoignage par déclaration
+(Art. 292 C.p.c.) : Une partie peut produire à titre de témoignage, outre une déclaration prévue au livre De la preuve du Code civil, la déclaration écrite de son témoin, y compris un constat d’huissier, pourvu que cette déclaration ne vise à prouver qu’un fait secondaire du litige et qu’elle ait été préalablement notifiée aux autres parties.
+Une autre partie peut, avant la date fixée pour l’instruction, exiger la présence à l’enquête du témoin concerné ou encore obtenir l’autorisation du tribunal de l’interroger hors sa présence.
+Les dossiers médicaux 
+Les dossiers médicaux sont des écrit rapportant des faits au sens de l’art. 2832 C.c.Q. Il est reconnu par la CSC que les annotations au dossier médical constituent une preuve fiable alors, une exception à la prohibition du ouï-dire.
+Déclarations sous serment à l’appui de la demande en injonction ainsi qu’à l’avis d’exécution
+Injonction (Art. 509 C.p.c.)
+Avis d’exécution (Art. 520 C.p.c.)
+Ces déclarations peuvent contenir du ouï-dire dans le cas où le déclarant déclare ses sources. 
+Déclarations extrajudiciaires légalement admissibles (Arts. 2870 et 2871 C.c.Q.)
+Possible d’avoir besoin de faire témoigner une personne et de lui faire dire ce qu’une autre personne aurait dit ou encore, faire témoigner une personne pour établir ce qu’une autre personne aurait affirmé dans un écrit que cette personne aurait fait.
+Ces déclarations seront admissibles si on avise l’autre partie qu’on entend utiliser pareil déclaration, si elle écrite, on doit notamment communiquer cet écrit. La partie adverse peut consentir (Art. 2869 C.p.c.) ou refuser auquel cas l’autorisation du tribunal sera nécessaire. 
+(Art. 2870, al.1 C.p.c.). 
+Exemple : j’appelle à la pizzéria, la serveuse répond et prend la commande et dit : oh le four à bois explose, incendiant ainsi le restaurant au complet. Ensuite, lors du procès, la cause de l’explosion doit être prouvée. Un seul témoin a vu réellement ce qui s’est passé et c’est la serveuse qui n’est plus vivante alors, on voudra utiliser ce que j’ai entendu pour prouver qu’il y a eu une explosion même si je n’ai pas été personnellement témoin. Je devrais dans ce cas demander la permission au tribunala en vertu de l’art. 25 C.p.c. et 2870 C.c.Q. 
+Ce que je dois démontrer :
+La nécessité de recevoir la déclaration 
+Pour démontrer la véracité de ce qui s’est passé
+Impossible ou déraisonnable d’exiger la présence du témoin
+Démontrer la fiabilité de la déclaration : devant une personne en autorité par exemple
+Trois situations où une déclaration est présumée fiable (Art. 2870, al.3 C.c.Q.):
+Si pareil déclaration est effectuée dans le cadre des activités d’une entreprise
+Les documents insérés dans un registre dont la tenue est exigée par la loi (Art 343 C.c.Q.)
+Les déclarations spontanées et contemporaines de la survenance des faits. (Exemple de la Pizzeria)
+Une fois le fardeau comblé, je pourrais témoigner et démontrer que l’incendie est dû à l’explosion du four à bois.
+Tout comme le témoignage, cette déclaration sera laissée à l’appréciation du tribunal (art. 2845 C.c.Q.)
+Vrai/Faux
+Dans une affaire opposant Robert à Jacqueline, Me Arnaud Smith, avocat de Jacqueline, fait entendre Luc au sujet d’une conversation dont il a été témoin alors qu’il attendait dans le cabinet du notaire :
+Q :	Qui était dans la salle d’attente avec vous?
+R :	Jacqueline et Robert.
+Q :	Comment était Jacqueline?
+R :	Elle n’était pas bien du tout. Elle était comme en transe. La secrétaire du notaire est venue la chercher, s’est présentée et lui a demandé si elle était bien Jacqueline. Jacqueline l’a regardée comme si elle ne comprenait pas sa question et c’est Robert qui a répondu : « Oui c’est bien elle, mais elle n’a pas son appareil auditif. »
+Vous pouvez formuler une objection au motif que le témoin rapporte les paroles du défendeur et cela constitue du ouï-dire.
+Faux, puisque la déclaration provient de la partie adverse, Robert, qui est présent, ce qui constitue un cas où le ouï-dire est permis.
+Section 3 : L’irrecevabilité de la preuve testimoniale
+La règle de la meilleure preuve exige la production de l’original de l’écrit ou d’une copie qui en tient lieu légalement afin de prouver l’acte juridique qui y est constaté. Il existe toutefois (3)  exceptions à cette règle.
+L’irrecevabilité de l’art. 2860 C.c.Q.
+(Art. 2860 C.c.Q.):  L’acte juridique constaté dans un écrit ou le contenu d’un écrit doit être prouvé par la production de l’original ou d’une copie qui légalement en tient lieu.
+Toutefois, lorsqu’une partie ne peut, malgré sa bonne foi et sa diligence, produire l’original de l’écrit ou la copie qui légalement en tient lieu, la preuve peut être faite par tous moyens.
+À l’égard d’un document technologique, la fonction d’original est remplie par un document qui répond aux exigences de l’article 12 de la Loi concernant le cadre juridique des technologies de l’information (chapitre C-1.1) et celle de copie qui en tient lieu, par la copie d’un document certifiée qui satisfait aux exigences de l’article 16 de cette loi.
+Ne peut pas par le témoignage prouver le contenu d’un écrit alors même que l’écrit existe. 
+Si ce n’est pas possible de produire l’original de l’écrit ou la copie, la preuve peut se faire par tous moyens et donc par témoignage. 
+L’irrecevabilité de l’art. 2862 C.c.Q.
+(Art. 2862 C.c.Q.) : La preuve d’un acte juridique ne peut, entre les parties, se faire par témoignage lorsque la valeur du litige excède 1 500 $.
+Néanmoins, en l’absence d’une preuve écrite et quelle que soit la valeur du litige, on peut prouver par témoignage tout acte juridique dès lors qu’il y a commencement de preuve; on peut aussi prouver par témoignage, contre une personne, tout acte juridique passé par elle dans le cours des activités d’une entreprise.
+Plusieurs tempérament à cette règle : 
+Absence d’écrit (Art. 2861 C.c.Q.)
+Exemple : dans une relation de proximité entre deux personnes de la même famille, c’est possible de ne pas faire un contrat. 
+Valeur du litige de moins de 1 500 $ (art. 2862, al.1 C.c.Q.)
+Dans le cadre des activités d’une entreprise (arts. 1525 et 2862, al.2 C.c.Q.)
+Exemple : un écrit produit dans le cours des activités d’un dépanneur pourra être opposé le commerçant. 
+Ne s’applique qu’entre les parties
+Alors, un tiers par son propre témoignage pourrait prouver l’acte juridique. 
+Ne s’applique pas lorsque nous sommes en présence d’un commencement de preuve (Art. 2862, al.2 C.c.Q.)
+(Art. 2865 C.c.Q.) : Le commencement de preuve peut résulter d’un aveu ou d’un écrit émanant de la partie adverse, de son témoignage ou de la présentation d’un élément matériel, lorsqu’un tel moyen rend vraisemblable le fait allégué.
+Élément doit provenir de la partie adverse.
+Exemple : près 50 000$ à Julie. Julie ne rembourse pas. J’engage des procédures judiciaires contre Julie. Je ne pourrais ni pas mon témoignage, ni par celui de mes témoins tenter d’établir le près que j’ai fait à Julie puisqu’entre les parties, le témoignage pour une réclamation de plus de 1 500$ n’est pas permis. Je pourrais toutefois tenter d’établir un commencement de preuve, soit par des éléments provenant de l’univers de Julie qui rendront vraisemblable le près allégué. Suite au près, elle s’est acheté un véhicule de luxe ou encore, assigner le gérant de la Banque avec copie de ses relevé de compte. Si le tribunal établi qu’il y a un commencement de preuve, il me permettra de témoigner. 
+L’irrecevabilité de l’art. 2863 C.c.Q.
+Exception 1 : en présence d’un commencement de preuve
+(Art. 2863 C.c.Q.) : Les parties à un acte juridique constaté par un écrit ne peuvent, par témoignage, le contredire ou en changer les termes, à moins qu’il n’y ait un commencement de preuve.
+Pas seulement un écrit rapportant des faits, mais bien un acte juridique
+Le témoignage ne doit pas avoir pour objet de contredire ou de changer des termes
+Règle n’est pas d’ordre public. À défaut pour l’autre partie de s’objecter, la preuve par témoignage sera possible (art. 2859 C.c.Q.).
+Exemple : A poursuit B en réclamation de loyer, invoquant au soutien de sa demande introductive d’instance un bail commercial prévoyant un loyer mensuel de 1 500$. En défense B prétend que le loyer était, contrairement à ce qui est indiqué dans le bail, de 1 200$ par mois. B tente ainsi de contredire le bail, mais il ne pourra pas témoigner à cet effet. Toutefois, en contre-interrogatoire, l’avocat de B pourra questionner A sur le fait qu’elle a reçu pendant 2 ans des loyers mensuels de 1 200$, qu’il n’a jamais transmis de mise en demeure pendant ces 2 années à B, soit de respecter l’obligation de paiement de loyer à 1 500 $. On pourrait notamment produire des bilans émanant de A montrant que ce sont des sommes de 1200$ qu’elle recevait contrairement à ce qui est prévu au bail. On se sert aussi des hésitations de A en réponse aux questions. Ensuite, B voudra témoigner pour prouver son près et c’est possible que l’avocat de A s’objecte à son témoignage. On pourra avancer qu’au vue du témoignage de A et des autres éléments de preuve ressortant de A, il existe un commencement de preuve. 
+Exception 2 : lorsqu’il s’agit d’interpréter l’écrit
+(Art. 2864 C.c.Q.) : La preuve par témoignage est admise lorsqu’il s’agit d’interpréter un écrit, de compléter un écrit manifestement incomplet ou d’attaquer la validité de l’acte juridique qu’il constate.
+Exception 3 : Lorsqu’il s’agit de compléter un écrit manifestement incomplet
+(Art. 2864 C.c.Q.)
+Exception 4 : Lorsqu’il s’agit d’attaquer la validité de l’acte juridique 
+(Art. 2864 C.c.Q.)
+C’est le cas quand l’une des 4 conditions de validité n’est pas respecté (cause, capacité, objet, consentement). 
+Exception 5 : Lorsqu’il s’agit de prouver d’autres actes juridiques valablement faits
+Il peut s’agir d’un acte juridique fait antérieurement, concommitant ou postérieurement à celui écrit. 
+Exemple : un contrat de près assorti d’un cautionnement qui lui ne le serait pas
+Exemple : avoir confié à un entrepreneur par contrat écrit une tâche et lui en confier une seconde, mais sans écrit 
+Exemple : entente qui aurait modifié l’écrit lorsque l’entente était verbale.
+Exception 6 : Lorsqu’un tiers veut contredire l’écrit
+Interdiction ne s’applique qu’à l’égard des parties. 
+Exception 7 : Pour contredire l’écrit d’entreprise 
+(Art. 2831 C.c.Q.): L’écrit non signé, habituellement utilisé dans le cours des activités d’une entreprise pour constater un acte juridique, fait preuve de son contenu.
+(Art. 2836 C.c.Q.): Les écrits visés par la présente section peuvent être contredits par tous moyens.
+Donc, par la preuve testimoniale de l’une ou l’autre des parties. 
+Pouvons-nous contredire ou en changer les termes d’une manière autre que par le témoignage ?
+Oui, par un autre écrit (contre-lettre par exemple), aveu judiciaire écrit ou verbal, aveu extrajudiciaire écrit, preuve par présomption, élément matériel dans la mesure où celui-ci ne participe pas à la preuve par témoignage.
+La contradiction d’un écrit
+Vrai/Faux
+Un commerçant achète des fenêtres givrées. Or, l’écrit constatant cet achat porte la mention d’un modèle « non givré ». Le commerçant acheteur, alors très pressé, demande au vendeur de modifier cette mention, mais signe l’écrit tel quel, puisque le vendeur lui confirme qu’il effectuera la modification par la suite. Toutefois, cette modification n’est jamais apportée à l’écrit signé par les parties. La livraison des fenêtres non givrées est effectuée en l’absence de l’acheteur qui n’a pu signaler à ce moment la non-conformité des matériaux d’une valeur de 18 700 $.
+Le commerçant acheteur (demandeur) dépose une demande en exécution spécifique contre le commerçant vendeur (défendeur) et réclame qu’il lui livre le modèle « givré » tel que convenu.
+Le témoignage du commerçant acheteur est recevable pour contredire cet écrit.
+Faux, le témoignage du commerçant acheteur n’est pas recevable. Il faut, au préalable, considérer la nature juridique de cet écrit, soit un acte sous seing privé (art. 2826 C.c.Q.). Une fois sa confection établie (ce qui serait le cas ici puisque le commerçant acheteur ne nie pas sa signature), il fait preuve non seulement de l’acte juridique qu’il renferme (la vente), mais aussi des déclarations des parties qui s’y rapportent (mention « non givré » qui signifie que l’acheteur achète des fenêtres non givrées) (art. 2829 C.c.Q.). Le témoignage proposé vise à contredire la mention « non givré » apparaissant dans le contrat car l’acheteur veut, par son témoignage, établir qu’il a acheté des fenêtres givrées et que le vendeur lui a livré un produit non conforme à ce qui a été convenu. En raison de l’article 2863 C.c.Q., ce témoignage est irrecevable. 
+Signalons que la possibilité d’utiliser la preuve testimoniale en présence d’un acte passé dans le cours des activités d’entreprise de l’un ou l’autre des contractants n’existe que lorsqu’il s’agit de PROUVER cet acte juridique (art. 2862 C.c.Q.) et non pour CONTREDIRE un acte juridique déjà établi-prouvé par écrit (art. 2863 C.c.Q.). Ici, puisque l’acte juridique a déjà été mis en preuve par l’écrit qui le constate, on cherche plutôt à contredire par témoignage cet écrit et cela n’est pas permis vu l’interdiction de l’art. 2863 C.c.Q. D’autres personnes ne sauraient être contraintes à témoigner, même si elles sont aptes à le faire (arts. 282, 283 et 284 C.p.c. notamment). 
+Par ailleurs, il ne s’agit pas de prouver un contrat distinct de celui qui est écrit, auquel cas, la preuve par témoin ne serait pas utilisée pour contredire l’écrit mais bien pour prouver ce contrat distinct. Toutefois, même s’il était question d’un contrat distinct, ce dernier, vu la valeur du litige, n’aurait pu être prouvé par témoignage. 

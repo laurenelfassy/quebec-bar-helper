@@ -1,0 +1,174 @@
+PREUVE CIVILE  CORRIGÉS  
+ 
+Qualités et exigences  de la preuve civile | Corrigés  1 LES QUALITÉS ET LES EXIGENCES DE LA 
+PREUVE  CIVILE  ET L’ÉCRIT COMME  
+MOYEN DE PREUVE  
+ 
+EXERCICE 1  
+ 
+EXERCICE PRATIQUE  : QUALITÉ DE LA PREUVE ET MOYENS DE PREUVE  
+ CORRIGÉ  
+ 
+ 
+1. Déterminez  la nature et la valeur probante de chacun des écrits suivants. Motivez votre 
+réponse.  
+ 
+a) Le certificat de décès de Beni Rachid attesté par le  directeur de l’état civil du Québec 
+pour prouver le décès de Beni Rachid.  
+ 
+Nature  : Il s’agit d’une copi e attestée par l’officier (art.  2815 C.c.Q.) d’un acte 
+authentique, soit un certificat provenant d’un registre à caractère public dont la loi requiert la tenue par un officier public, soit le directeur de l’état civil (art.  144, al. 2 et 
+2814, par.  5 C.c.Q.).  
+ 
+Force probante  : Les énonciation s, dans l’acte authentique, des faits que l’officier public 
+avait mission de constater ou d’inscrire f ont preuve à l’égard de tous (art.  2818 et 2820, 
+al. 1 C.c.Q.  pour la force probante de la copie authentique ). 
+ 
+ 
+b) Un document intitulé «  Contrat d’achat de portes et de fenêtres  », pour prouver la date 
+de l’acte juridique dans une demande en annulation de la vente intentée par Paul 
+Raymond contre André Martin. La date paraît à l’acte qui a été signé par Paul Raymond 
+et André Martin. Paul et André font tous les deux le commerce de portes et de fenêtres 
+et le prix de vente a été fixé à 17  550 $. 
+ 
+Nature  : Il s’agit ici d ’un acte sous seing privé (art.  2826 C.c.Q.; contrat d’achat) utilisé  à 
+l’égard d’une partie à cet acte.  
+ 
+Force probante  : Celui qui invoque un acte sous seing privé doit faire la preuve de la 
+confection (art.  2828, al.  1 C.c.Q.) mais lorsque l’acte est utilisé contre celui qui paraît 
+l’avoir signé, il est tenu pour reconnu s’il n’est pas contesté (art.  2828 , al. 2 C.c.Q.). Dès 
+
+ CORRIGÉS  
+ 
+Qualités et exigences  de la preuve civile | Corrigés  2 que la confection est ainsi établie, cet acte fait preuve contre André Martin non seulement 
+de l’acte juridique qu’il contient  (art. 2829 C.c.Q.). , mais également de sa date (art.  2830, 
+al. 2 C.c.Q.).  
+ 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::  
+ 2. L’énoncé suivant est -il bien fondé? Motivez votre réponse.  
+ 
+Le président de la société X.Y.Z. inc. peut, par témoignage, établir que le prix véritable pour 
+l’achat d’un camion était de 18 000 $ et non pas de 40  000 $, tel qu’il est mentionné, pour 
+des raisons fiscales, dans le contrat de vente écrit conclu avec la société A.B.C. inc., signé 
+par le repr ésentant autorisé de chacune de ces sociétés.  
+ 
+Non, cet énoncé n’est pas bien fondé. Le contrat de vente est un acte sous seing privé (art.  2826 C.c.Q.). Il fait donc preuve, à l’égard des parties, de l’acte juridique qu’il renferme 
+et des déclarations des  parties qui s’y rapportent (art.  2829 C.c.Q.). Suivant l’ article  2863 
+C.c.Q., les parties à un acte juridique constaté par écrit ne peuvent, par témoignage, le contredire ou en changer les termes  (comme ici, le prix, élément de l’acte juridique) , à moins 
+qu’il n’y ait commencement de preuve. Dans les circonstances de ce dossier, le président ne pouvait donc pas faire cette preuve.  
+ 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::::::::::  
+ 
+Dans l a situation suivante, déterminez si les moyens de preuve proposés sont appropriés aux 
+faits à prouver et indiquez les articles du Code civil ou du Code de procédure civile qui 
+s’appliquent. Si  non, indiquez le moyen de preuve appropr ié. 
+ 
+3. Par contrat de vente intervenu devant notaire, Denise Lafleur a acheté de la société Les 
+Arpents Verts inc. un terrain situé à Saint -Félix -de-Valois, pour construire un chalet. Lors de 
+la signature de l’acte de vente, le représentant de la société Les Arpents Verts inc. est son 
+vice- président, Antoine Dubé. Peu avant la signature de l’acte de vente, il avait remis au 
+notaire l’extrait du procès -verbal de l’assemblée du conseil d’administration de la société 
+Les Arpents Verts inc., dûment certifié pa r le secrétaire de la société, qui l’autorisait à signer 
+le contrat de vente de ce terrain, le tout selon les termes et conditions du projet d’acte de vente soumis au conseil d’administration de cette société.  
+ 
+Aujourd’hui, la société Les Arpents Verts inc . conteste qu’Antoine Dubé ait été autorisé à 
+signer ce contrat et en demande l’a nnulation par une demande intro ductive d’instance.  
+ 
+ CORRIGÉS  
+ 
+Qualités et exigences  de la preuve civile | Corrigés  3 Denise Lafleur entend faire la preuve que le conseil d’administration de la société Les 
+Arpents Verts inc. avait dûment autorisé Antoine Dubé à signer le contrat de vente, par la 
+production de l’extrait du procès -verbal de l’assemblée du conseil d’administration de la 
+société, certifié conforme par son secrétaire.  
+ 
+Oui, il s’agit d’un moyen de preuve approprié. L’extrait du procès -verbal de l’assemblée du 
+conseil d’administration de la société Les Arpents Verts inc. est un écrit ni authentique ni 
+semi -authentique qui rapporte des faits (art.  2832 C.c.Q.), mais qui fait preuve de son 
+contenu, sans nécessité de prouver la signature ni l’autorité de l’auteur, puisqu’il s’agit de 
+l’extrait du procès -verbal de l’assemblée d’un conseil d’administration d’une personne 
+morale, délivré par le secrétaire de cette société, désig né pour tenir les livres et registres  de 
+cette personne morale (art.  343, al. 1 et 2  C.c.Q.).  
+ Par ailleurs, le contenu de ce document peut être contredit par tous moyens, art.  2836 C.c.Q.  
+ 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::  
+ 
+4. Dites si l’énoncé est vrai ou faux et motivez votre réponse.  
+ 
+Jocelyne Gareau est décédée, laissant comme léga taire universelle sa voisine, Marie- Ange 
+Breault.  
+ 
+Le neveu de Jocelyne Gareau, Marc -André Lebel, demande que soit déclaré nul le testament 
+de sa tante, alléguant que celle -ci n’avait pas la capacité de tester. Il appartiendra à la 
+défenderesse Marie- Ange Breault d’établir, au stade initial, que la testatrice avait la 
+capacité de tester, le fardeau de la preuve à cet égard lui appartenant.  
+ Faux, la capacité se présume (art.  4 C.c.Q.). Au stade initial, celui qui demande la nullité du 
+testament, soit Marc -André Lebel, a le fardeau de prouver, par une preuve prépondérante 
+(art.  2804 C.c.Q.), l’incapacité de la testatrice au moment de la signature du testament 
+(art.  2803, al.  2 C.c.Q.). Si la preuve est ainsi faite en demande, le fardeau de la preuve se 
+transf ère sur la partie défenderesse qui doit prouver, par une preuve prépondérante, que la 
+testatrice était dans un intervalle de lucidité au moment de la signature du testament. (Voir 
+Brusenbauch c. Young, 2019 QCCA 914).  
+  
+ CORRIGÉS  
+ 
+Qualités et exigences  de la preuve civile | Corrigés  4 EXERCICE 2  
+ 
+DOSSIER VILLE DE ST -GILLES  : CORRIGÉ  
+ 
+ 
+1. Pierre Lasalle s’inquiète du fait que vous n’avez pas requis la présence du greffier de la Ville afin de prouver le règlement municipal de zonage numéro R -1214, pièce  P-2. La présence 
+du greffier est -elle requise pour faire la preuve du règlement? Motivez votre réponse.  
+ 
+Non, la copie conforme du règlement de zonage R -1214 de la Ville de Saint -Gilles est un 
+document authentique dans la mesure où il a été attesté par le greffier de la Ville qui en est 
+le dépositaire (art.  2814, p ar. 4 et 2815 C.c.Q.). Il fait donc preuve de s a conformité à l’original 
+(art.  2820, al.  1 C.c.Q.). Il n’est donc pas nécessaire de requérir la présence du greffier pour 
+déposer la copie conforme de ce règlement.  Par ailleurs, et au -delà de la connaissance  
+d’office qu’en a le tribunal, toute copie  de loi, incluant un règlement comme en l’espèce, 
+trouve sa force probante dans l’article 2812 C.c.Q. par l’attestation qui en est faite. Aucune  
+preuve de sa conformité n’est requise.  
+ 
+ 
+2. L’état certifié des droit s, pièce  P-1, que vous avez dûment communiqué et produit avant 
+l’instruction est -il une preuve recevable pour prouver que Luce Desautels était, au moment 
+de la contravention en mars  0014, propriétaire du terrain? Motivez votre réponse.  
+ Oui, selon les articles 2814, par.  5, 2817, 3006.1, al.  2, 3019, 2944 et 2969 C.c.Q. Il s’agit d’un 
+acte authentique, parce qu’il est attesté par un officier public compétent, soit l’Officier de la publicité foncière. En effet, une des fonctions de l’Officier de la publicité  foncière est de 
+délivrer à toute personne qui le requiert un état certifié des droits inscrits sur les registres tel 
+que l’édicte l’article 3019 C.c.Q.  qui fait état des droits grevant cet immeuble à la date de la 
+délivrance de cet état  L’autre fonction est d’inscrire au registre les informations reçues 
+(art.  3006.1 C.c.Q.).  
+ 
+Selon l’article  2818 C.c.Q., les énonciations dans l’acte authentique des faits que l’officier 
+public a pour mission d’inscrire font preuve à l’égard de tous ; il en  va de même pour la copie 
+attestée par l’Officier par l’article  2820, al.  2 C.c.Q.  
+ 
+Or, cet état certifié des droits inscrits est fait à partir du registre foncier et ces inscriptions 
+emportent à l’égard de tous , présomption simple de l’existen ce de ce dro it (art.  2944 C.c.Q.).  
+ 
+ CORRIGÉS  
+ 
+Qualités et exigences  de la preuve civile | Corrigés  5 3. Vous appelez comme premier témoin Pierre Lasalle. En cours d’interrogatoire, avant de lui 
+poser des questions portant spécifiquement sur les faits constatés et relatifs à la 
+contravention, vous lui demandez de produire le procès -verbal qu’il a dressé le 
+24 mars  0014 et que vous avez communiqué comme pièce P-4. Ce procès -verbal contient 
+en résumé tous les faits qu’il doit relater au cours de son témoignage. 
+ L’avocat de la défenderesse formule une objection au motif que ce document ne peut faire 
+preuve des faits constatés, qu’il s’agit d’un écrit ni authentique ni semi -authentique qui relate 
+des faits et qui ne peut être produit pour faire preuve en faveur de son auteur.  
+Que répondrez -vous à cette objection? Motivez votre réponse.  
+ 
+Ce document est un écrit ni authentique ni semi -authentique qui rapporte des faits  au sens de 
+l’article  2832 C.c.Q. , dont l’existence, sans égard à son contenu, est lui -même un fait pertinent 
+et peut être mis en preuve à ce titre (art.  2857 C.c.Q.).  
+ 
+En effet, le règlement de la Ville de Saint -Gilles requiert que certaines formalités particulières 
+soient remplies avant l’institution d’un recours judiciaire, soit notamment que l’inspecteur 
+municipal dresse un procès -verbal de la contravention et en fasse r apport au conseil.  
+L’accomplissement de ces formalités doit donc être mises en preuve.  
+ 
+C’est donc pour faire la preuve que cette formalité a été remplie que le procès -verbal, 
+pièce  P-4, est produit et non pour faire la preuve de la véracité de son contenu  ni pour servir 
+à titre «  d’auto -corroboration  » (self-serving  evidence ) en faveur du témoin.  
+ 
+ 

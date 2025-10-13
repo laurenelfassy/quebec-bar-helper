@@ -1,0 +1,153 @@
+1-	LES EFFETS DE LA PUBLICITÉ DES DROITS
+L’article 2941 C.c.Q. donne les deux principaux effets de la publicité des droits à l’égard des tiers :
+-	rendre les droits opposables aux tiers lorsqu’une disposition de la loi soumet l’opposabilité à cette formalité;
+-	établir le rang des droits selon les règles établies au code.
+NOTA :	La règle générale se trouve à l’article 2945 C.c.Q. qui prescrit que les droits prennent rang suivant la date, l’heure et la minute inscrites sur le bordereau de présentation, pourvu que les inscriptions soient faites sur les registres appropriés.
+Cette règle générale comporte de nombreuses exceptions qui sont étudiées dans la Collection de droit.
+2-	LES DROITS SOUMIS OU ADMIS À LA PUBLICITÉ
+Certains droits doivent obligatoirement être publiés pour être opposables aux tiers. On parle alors de droits soumis à la publicité.
+Exemple :	l’hypothèque, qu’elle soit mobilière ou immobilière, doit être publiée pour être opposable, selon l’article 2663 C.c.Q.
+D’autres droits ne sont publiés que par choix et parce qu’une disposition de la loi permet leur publication. On parle alors de droits admis à la publicité.
+Exemple :	Un bail immobilier peut être publié en vertu de l’article 1852 C.c.Q. Sa publication n’est pas obligatoire, mais elle est permise. La publication confère des droits opposables au tiers qui se porte acquéreur de l’immeuble après la publication du bail (art. 1887 C.c.Q.).
+3-	LES MODES DE PUBLICITÉ
+L’article 2934 C.c.Q. énonce que la publicité des droits résulte :
+-	de l’inscription qui en est faite sur le registre approprié (registre des droits personnels et réels mobiliers ou registre foncier);
+-	à moins que la loi ne permette expressément un autre mode.
+A-	Quant à la publicité au moyen d’un « autre mode expressément permis »
+L’inscription entraîne la publicité des droits, mais la publicité ne nécessite pas nécessairement une inscription.
+Exemple :	l’hypothèque mobilière avec dépossession, appelée le gage, est publiée par la détention du bien ou du titre qu’exerce le créancier, selon l’article 2703 C.c.Q. Cette détention s’opère par la maîtrise des valeurs mobilières et des titres intermédiés (art. 2714.1 C.c.Q.) et de certaines créances pécuniaires (art. 2713.1 C.c.Q.).
+Cependant, la publicité se fait dans presque tous les cas par une inscription au registre approprié.
+B-	Quant à la publicité au moyen d’une inscription au registre approprié
+Il existe deux sortes de registre à cet effet.
+1.	Le registre foncier
+Le registre foncier est tenu au Bureau de la publicité foncière par l’Officier de la publicité foncière selon l’article 2969 C.c.Q.
+Le registre foncier est constitué d’autant de livres fonciers qu’il y a de circonscriptions foncières au Québec, soit 73 (art. 2972, al. 1 C.c.Q.).
+Chaque livre foncier est constitué de plusieurs registres dont un index des immeubles (art. 2972, al. 2 C.c.Q.).
+L’index des immeubles comprend des fiches immobilières et chaque fiche répertorie les droits qui concernent un immeuble (art. 2972.4 C.c.Q.).
+Ces fiches sont tenues sur un support informatique à compter de la date à laquelle une circonscription foncière est pleinement informatisée. La première a été celle de Saint-Hyacinthe, le 9 octobre 2001 et l’opération est complétée depuis novembre 2003.
+Les index des immeubles antérieurs à l’informatisation sont numérisés de même que les actes au long.
+Chaque réquisition peut être lue, puisque l’index des immeubles indique le numéro sous lequel chacune a été inscrite et que ce numéro permet de consulter en entier le document qui a créé le droit publié (exemple, l’acte d’hypothèque).
+L’inscription consiste à indiquer la nature du document présenté et elle vaut pour les droits mentionnés dans la réquisition selon l’article 2934.1 C.c.Q.
+2.	Le registre des droits personnels et réels mobiliers 
+Ce deuxième registre est constitué pour l’ensemble de la province de Québec (art. 2969, al. 2 C.c.Q.); le Bureau de la publicité des droits personnels et réels mobiliers se trouve au Palais de justice de Montréal.
+Ce registre est tenu sous une forme informatisée depuis sa création le 1er janvier 1994.
+-	Les droits sont inscrits sous le nom du constituant (fiche nominative). Les véhicules routiers énumérés à l’article 15 du règlement (y compris une motoneige dont le modèle est postérieur à 1988) font l’objet d’une fiche descriptive du bien en plus de la fiche nominative.
+-	Le registre permet de savoir qu’un droit a été publié, mais l’acte constitutif de ce droit ne peut être consulté parce qu’il n’est pas envoyé au RDPRM.
+Exemple :	si une hypothèque mobilière est inscrite, seul l’avis prévu à l’article 2983 C.c.Q. (Formulaire RH) est envoyé au RDPRM et l’acte d’hypothèque lui-même est conservé par le créancier, de sorte qu’il n’est pas possible de le lire en consultant le registre.
+4-	LE CONTENU DES REGISTRES
+La principale différence quant à la nature des droits inscrits au registre foncier et ceux inscrits au registre des droits personnels et réels mobiliers est relative aux titres de propriété :
+-	le registre foncier contient des inscriptions relatives au titre de propriété d’un lot (art. 2938, al. 1 C.c.Q.);
+-	le registre des droits personnels et réels mobiliers ne contient pas d’informations relatives au droit de propriété d’un bien meuble (sauf exception, par exemple la réserve de propriété et sa cession selon l’article 1745 C.c.Q., la vente avec faculté de rachat et sa cession selon l’article 1750 C.c.Q., la donation en vertu de l’article 1824 C.c.Q., les baux de plus d’un an de véhicules ou de biens requis pour l’exploitation d’une entreprise selon l’article 1852 C.c.Q., et le crédit-bail, selon l’article 1847 C.c.Q.).
+En matière foncière, on peut donc remonter la chaîne de titres d’un lot afin de connaître les noms des anciens propriétaires, ce qui n’est pas possible en matière mobilière.
+5-	LE REGISTRE FONCIER
+Le registre foncier contient des droits réels immobiliers et des droits personnels.
+Cependant, on trouve principalement au registre foncier des droits réels immobiliers.
+A-	Les droits réels immobiliers
+L’article 2938, al. 1 C.c.Q. édicte que « Sont soumises à la publicité, l’acquisition, la constitution, la reconnaissance, la modification, la transmission et l’extinction d’un droit réel immobilier. »
+Les droits réels immobiliers les plus fréquemment publiés au registre foncier concernent le droit de propriété et l’hypothèque.
+1.	Les inscriptions concernant le droit de propriété d’un immeuble
+Le principal droit réel étant le droit de propriété, on trouve au registre les inscriptions qui s’y rapportent, c’est-à-dire celles :
+a)	concernant l’acquisition d’un immeuble :
+-	acte de vente ainsi que le droit de résolution de la vente immobilière (art. 1742 et 2939 C.c.Q.);
+-	acte de délaissement volontaire ou le jugement en délaissement forcé pour prise en paiement d’un immeuble (art. 2781, al. 2 et 2938 C.c.Q.);
+-	donation d’un bien immobilier (art. 1824 C.c.Q.);
+-	transmission d’un droit de propriété à un héritier dans un immeuble de la succession (art. 2998, al. 1 C.c.Q.).
+b)	concernant les modalités et démembrements du droit de propriété :
+-	le droit de propriété fait l’objet de certaines modalités dont la principale est la copropriété : la déclaration de copropriété divise doit être inscrite (art. 1060 C.c.Q.);
+-	les démembrements du droit de propriété constituent des droits réels selon l’article 1119 C.c.Q. et doivent donc faire l’objet d’une inscription lors de leur acquisition : il s’agit de l’usufruit, de l’usage, de la servitude et de l’emphytéose.
+2.	Les inscriptions concernant l’hypothèque immobilière
+Le deuxième droit réel en importance étant l’hypothèque immobilière, on trouve au registre foncier les inscriptions suivantes :
+-	l’hypothèque elle-même qui doit être inscrite pour être opposable aux tiers (art. 2663 C.c.Q.). Cette règle s’applique autant à l’hypothèque immobilière conventionnelle, dont l’hypothèque des loyers que produit un immeuble (art. 2695, al. 2 C.c.Q.), qu’aux hypothèques légales de l’État (art. 2725 C.c.Q.), celles résultant d’un jugement (art. 2730 C.c.Q.), celles du syndicat des copropriétaires (art. 2729 C.c.Q.) et celles en faveur des personnes qui ont participé à la construction ou à la rénovation d’un immeuble, sauf dans ce dernier cas la période de 30 jours prévue à l’article 2727 C.c.Q.;
+-	la transmission d’une créance hypothécaire par subrogation ou par cession doit également être inscrite (art. 3003 et 3004 C.c.Q.);
+-	le préavis d’exercice d’un droit hypothécaire (art. 2757 C.c.Q.);
+-	l’avis d’abandon de prise en paiement selon l’article 2779 C.c.Q.;
+-	l’avis de retrait d’autorisation de percevoir des loyers (art. 2745 et 2695 C.c.Q.).
+B-	Les droits personnels
+Outre ces droits réels immobiliers soumis à la publicité, on trouve au registre foncier certains droits personnels dont l’inscription est permise par le code.
+Exemples :	-	Le bail immobilier peut être inscrit en vertu de l’article 1852 C.c.Q.
+	-	La déclaration de résidence familiale peut également faire l’objet d’une inscription selon les articles 404 et 405 C.c.Q.
+6-	LE REGISTRE DES DROITS PERSONNELS ET RÉELS MOBILIERS
+Ce registre contient des droits réels mobiliers et des droits personnels.
+A-	Les droits réels mobiliers
+L’article 2938, al. 3 C.c.Q. prévoit que les droits réels mobiliers sont soumis à la publicité dans la mesure où la loi prescrit ou autorise expressément leur publication.
+En conséquence, il faut obligatoirement retrouver une disposition expresse prévoyant la publication à ce registre pour pouvoir procéder à l’inscription d’un droit réel mobilier au RDPRM. Par exemple :
+-	hypothèque mobilière conventionnelle ou légale (art. 2663 C.c.Q.);
+-	transmission par subrogation ou par cession d’une créance hypothécaire mobilière (art. 3003 et 3004 C.c.Q.);
+-	préavis d’exercice d’un droit hypothécaire (art. 2757 C.c.Q.);
+-	avis de retrait d’autorisation de percevoir des créances hypothéquées (art. 2745 C.c.Q.);
+-	la réserve du droit de propriété d’un meuble acquis pour le service ou l’exploitation d’une entreprise et la réserve du droit de propriété d’un meuble ou d’un véhicule routier déterminés par l’article 15.01 du Règlement sur le registre des droits personnels et réels mobiliers (art. 1745 C.c.Q.);
+-	la vente avec faculté de rachat d’un tel bien (art. 1750 C.c.Q.);
+-	le droit de propriété du crédit-bailleur (art. 1847 C.c.Q.);
+-	les stipulations d’insaisissabilité (art. 2649 C.c.Q.) et d’inaliénabilité (art. 1214 C.c.Q.);
+-	le bail mobilier soumis à la publicité en vertu de l’article 1852, al. 2 C.c.Q. et sa cession (art. 1852, al. 3 C.c.Q.).
+B-	Les droits personnels
+Le registre des droits personnels et réels mobiliers, comme son nom l’indique, contient l’inscription de plusieurs droits de nature personnelle qui sont soumis ou admis à la publicité.
+Ces droits se divisent en deux catégories :
+-	article 2938, al. 2 C.c.Q. : la renonciation à une succession, à un legs, à une communauté de biens, au partage de la valeur des acquêts ou du patrimoine familial, ainsi que le jugement qui annule la renonciation;
+-	article 2938, al. 3 C.c.Q. : droits dont une disposition de la loi prescrit ou autorise expressément la publication.
+Par exemple :	-	le contrat de mariage et sa modification (art. 442 C.c.Q.);
+-	la clôture d’inventaire d’une succession (art. 795 C.c.Q.);
+-	le jugement de divorce, en annulation de mariage ou en séparation de corps (art. 456 C.p.c.);
+-	le bail mobilier admis à la publicité comme énoncé à l’article 1852 C.c.Q.
+7-	LA PRÉINSCRIPTION D’UNE DEMANDE EN JUSTICE
+Il est également possible en vertu de l’article 2966 C.c.Q. de procéder à la préinscription d’une demande en justice au registre approprié.
+L’article 2966, al. 1 C.c.Q. prévoit que toute demande en justice qui concerne un droit réel soumis ou admis à l’inscription sur le registre foncier peut faire l’objet d’une préinscription.
+Exemple :	en matière immobilière, une action en passation de titre peut être préinscrite.
+L’effet de cette préinscription se trouve au premier alinéa de l’article 2968 C.c.Q. qui confère une rétroactivité au jugement à certaines conditions.
+En pratique, la préinscription d’une action aura pour effet d’empêcher la vente de l’immeuble à un tiers de bonne foi avant l’obtention du jugement.
+En matière mobilière, l’article 2966, al. 2 C.c.Q. permet la préinscription d’une demande en justice qui concerne un droit réel mobilier à la condition expresse que celui-ci ait déjà été inscrit sur le registre des droits personnels et réels mobiliers.
+Exemples :	-	Une action en révocation pour cause d’ingratitude (art. 1836 et s. C.c.Q.) d’une donation mobilière d’actions déjà inscrite, en vertu de l’article 1824, al. 1 C.c.Q., pourrait être préinscrite.
+	-	À l’inverse, une action en passation de titre intentée contre le promettant vendeur d’un Boeing 747 ne peut être publiée, parce que le droit de propriété de ce meuble (titre de propriété du promettant vendeur) n’est pas et ne peut pas être inscrit au RDPRM.
+Si la demande est rejetée ou discontinuée, l’article 3066.2, al. 1 C.c.Q. permet d’obtenir la radiation de l’avis par l’inscription du jugement ou d’un certificat du greffier attestant que la demande a été discontinuée.
+La Cour d’appel a déclaré que les articles se rapportant à la préinscription doivent être interprétés de façon stricte (Aéroterm de Montréal Inc. c. Banque Royale du Canada, REJB 1998-05558). Elle a décidé qu’une action en inopposabilité d’une vente d’immeuble ne peut pas être préinscrite (Re/Max 2001 c. El Hayek, REJB 2001-27134).
+8-	LES RÉQUISITIONS D’INSCRIPTION SUR LE REGISTRE FONCIER
+L’article 2982, al. 2 C.c.Q. prévoit qu’il existe trois façons de procéder pour inscrire un droit au registre foncier. Depuis le 8 novembre 2021, il est obligatoire de transmettre les réquisitions sur un support technologique. Il faut présenter au Bureau de la publicité foncière :
+-	l’acte ou un extrait authentique;
+OU
+un sommaire;
+OU
+un avis lorsque la loi le prévoit.
+Chacun de ces trois modes est assujetti à des règles particulières.
+A-	La présentation de l’acte ou d’un extrait authentique
+-	Il s’agit du principal mode d’inscription d’un droit au registre foncier.
+Par exemple, une hypothèque immobilière conventionnelle est inscrite au registre foncier si le notaire fait parvenir l’acte d’hypothèque sur support technologique au Bureau de la publicité foncière (art. 2982, al. 1 C.c.Q.).
+La réglementation prévoit qu’il faut payer les droits prescrits et présenter un exemplaire de l’acte.
+-	La personne qui requiert l’inscription d’un droit peut, dans certains cas, faire parvenir au Bureau de la publicité foncière une partie seulement d’un acte authentique plutôt que la totalité de celui-ci. Il s’agit alors d’une inscription obtenue à la suite de la présentation d’un extrait d’un acte authentique.
+B-	Le sommaire
+L’inscription d’un droit au moyen d’un sommaire est beaucoup moins fréquente.
+Ce mode est généralement utilisé lorsqu’il est impossible d’utiliser les deux autres modes pour quelque raison que ce soit.
+Par exemple :	un jugement de délaissement forcé pour prise en paiement est un acte authentique, mais il ne peut être inscrit simplement en présentant le jugement au Bureau de la publicité foncière, parce que les mentions exigées par la Loi concernant les droits sur les mutations immobilières n’y paraissent pas. Selon l’article 38 du Règlement sur la publicité foncière, le formulaire visé à l’article 2982 C.c.Q. doit mentionner que la réquisition vise à la fois l’inscription du droit et les radiations conformément à l’article 3075.1 C.c.Q.
+Il faut alors procéder de la façon mentionnée à l’article  40 du Règlement sur la publicité foncière :
+-	rédiger un sommaire, c’est-à-dire un document qui :
+•	résume l’acte (sous seing privé ou non) par lequel le droit a été créé;
+ET
+•	contient entre autres toutes les mentions prescrites par la loi ou les règlements (art. 2981 C.c.Q. et art. 40 du Règlement sur la publicité foncière);
+-	joindre au sommaire l’acte résumé (art. 39 du Règlement sur la publicité foncière);
+-	faire parvenir ces documents sur un support technologique au Bureau de la publicité foncière.
+C-	L’avis
+Si le Code civil du Québec prévoit que l’inscription est faite au moyen d’un avis, il faut rédiger un avis et le faire parvenir au Bureau de la publicité foncière.
+Il faut joindre à l’avis les procès-verbaux de signification dans le cas du préavis d’exercice d’un droit hypothécaire selon l’article 2757 C.c.Q. L’avis d’hypothèque légale pour une créance qui résulte d’un jugement est présenté avec une copie authentique du jugement, sauf en matière familiale, en vertu de l’article 2730 C.c.Q.
+D-	L’attestation
+Quel que soit le mode choisi (acte, sommaire ou avis), il faut, sauf pour quelques rares exceptions, que le document présenté au Bureau de la publicité foncière soit attesté (art. 2988 et s. C.c.Q.).
+Il existe plusieurs formes d’attestation et les principales sont les suivantes :
+-	s’il s’agit d’un acte notarié, la signature du notaire constitue l’attestation exigée par la loi (art. 2988 C.c.Q.);
+-	s’il s’agit d’un acte sous seing privé visant l’inscription d’un droit (exemple : acte de vente d’immeuble sous seing privé), sa suppression ou sa réduction (exemple : quittance ou mainlevée totale ou partielle), l’attestation doit être conforme à l’article 2991 C.c.Q. et être signée par un notaire ou un avocat;
+-	s’il s’agit d’un avis d’inscription d’hypothèque légale (par exemple : un avis fait en vertu de l’article 2730 C.c.Q.), des avis requis pour l’inscription d’un droit, pour la radiation ou la réduction d’une inscription résultant d’un jugement en matière familiale ou pour la radiation d’une déclaration de résidence familiale ou d’un avis cadastral (art. 3033 C.c.Q.), l’attestation doit également être conforme à l’article 2991 C.c.Q. et être signée par un notaire ou un avocat (art. 2995, al. 2 C.c.Q.);
+-	s’il s’agit d’un avis d’inscription des droits résultant d’un bail, l’exactitude du contenu de l’avis doit être attestée par un notaire ou un avocat (art. 2999.1 C.c.Q.); cet avis permet d’inscrire les droits sans avoir à présenter le bail lui-même, qui peut contenir certains éléments que les parties ne veulent pas rendre publics;
+-	s’il s’agit d’un autre avis (par exemple, un préavis d’exercice d’un droit hypothécaire selon l’article 2757 C.c.Q. ou un avis d’abandon de prise en paiement selon l’article 2779 C.c.Q.);
+OU
+s’il s’agit d’un bail immobilier dont la réquisition est faite par la présentation de l’acte et non par l’avis décrit à l’article 2999.1, al. 2 C.c.Q.;
+OU
+s’il s’agit d’une déclaration de résidence familiale,
+l’attestation doit simplement être conforme à l’article 2995, al. 2 C.c.Q., ce qui signifie que l’avis est signé par la personne qui le donne et par deux témoins. Ensuite, l’un des témoins signe une déclaration sous serment dans laquelle il affirme que le signataire et les deux témoins ont signé le document en présence les uns des autres.
+Lorsque l’attestation est impossible, elle est remplacée par un jugement autorisant la publicité (art. 2994 C.c.Q.).
+E-	La désignation
+Il est important de désigner correctement le lot concerné afin que le droit soit opposable aux tiers. L’article 3032 C.c.Q. prévoit que le numéro donné à un lot est sa seule désignation. Un acte inscrit sur un mauvais lot est considéré comme non opposable aux tiers.
+9-	LES RÉQUISITIONS D’INSCRIPTION SUR LE REGISTRE
+	DES DROITS PERSONNELS ET RÉELS MOBILIERS
+Au registre des droits personnels et réels mobiliers, la réquisition se fait par la présentation d’un avis au Bureau de la publicité des droits personnels et réels mobiliers (art. 2983 C.c.Q.).
+L’avis prend la forme du formulaire approprié fourni par le registre ou téléchargé à partir de son site Internet.
+Aucune attestation n’est requise (art. 2995, al. 1 C.c.Q.).
+L’avis doit être acheminé par la poste ou par messager avec le paiement des droits prescrits et, dans certains cas, des documents doivent y être joints (exemples : préavis d’exercice d’un droit hypothécaire et procès-verbal de signification, art. 2757 C.c.Q.).
+La transmission électronique de réquisitions d’inscription est possible pour ceux qui ont obtenu des biclés de signature et des certificats d’identité (art. 15.4 et s. du Règlement sur le registre des droits personnels et réels mobiliers).
+Il est important de désigner correctement le constituant par son nom exact et sa véritable date de naissance, qui constituent la clé d’entrée au registre.

@@ -1,0 +1,265 @@
+L'ÉLÉMENT MATÉRIEL, L'AVEU, LA PRÉSOMPTION ET LES DOCUMENTS TECHNOLOGIQUES
+La preuve se définit comme l’ensemble des règles qui permettent la démonstration de l’existence d’un fait devant un tribunal. La connaissance des règles de preuve s’avère donc essentielle au plaideur appelé à représenter un client dans un litige civil. Il doit déterminer ce qu’il doit prouver et les moyens qu’il peut utiliser pour présenter cette preuve.
+Cette preuve peut être constituée d’écrits, mais aussi d’objets, de lieux et de documents technologiques. Elle peut provenir de l’admission de faits d’une partie mais aussi de l’appréciation par le tribunal d’un ensemble d’éléments lui permettant d’en déduire une conclusion de faits.
+Section 1 : L’élément matériel de preuve
+La preuve matérielle est un objet qui sera présenté au tribunal ou encore un lieu qui sera visité par ce dernier.
+Vrai/Faux
+Vous désirez que la partie adverse conserve les sandales qu’elle portait le jour de l’accident afin de les exhiber au tribunal. Des photographies prises par votre expert en sinistres révèlent qu’il s’agissait de sandales sans lanières à l’arrière et, en apparence, fort usées. Vous pouvez demander que la partie adverse conserve les sandales afin de les exhiber au procès.
+Vrai, selon l’art. 251, al. 1 C.p.c., vous pouvez demander que la partie adverse conserve ses sandales afin de les exhiber lors du procès, puisqu’il s’agit d’un élément matériel de preuve. Elle est alors tenue de les présenter aux autres parties et de les préserver. Au surplus, l’art. 20, al. 1 C.p.c. prévoit l’obligation pour les parties de s’assurer de préserver les éléments de preuve pertinents.
+La présentation d’un élément matériel
+Définition
+(Art. 2854 C.c.Q.) : La présentation d’un élément matériel constitue un moyen de preuve qui permet au juge de faire directement ses propres constatations. Cet élément matériel peut consister en un objet, de même qu’en la représentation sensorielle de cet objet, d’un fait ou d’un lieu.
+La recevabilité 
+(Art. 2868 C.c.Q.): La preuve par la présentation d’un élément matériel est admise conformément aux règles de recevabilité prévues pour prouver l’objet, le fait ou le lieu qu’il représente.
+Une limite au principe de la recevabilité d’un élément matériel.
+Exemple (Art. 2862 C.c.Q.) : l’élément matériel qui procéderait par témoignage ne sera pas non plus possible. Si je ne peux pas par mon propre témoignage prouver que le défendeur a emprunté mon argent, je ne peux pas non plus présenter un élément matériel tel qu’une bande vidéo où on me verrait dire « le défendeur m’a emprunté de l’argent ».
+(Art. 2862 C.c.Q.) La preuve d’un acte juridique ne peut, entre les parties, se faire par témoignage lorsque la valeur du litige excède 1 500 $.
+Néanmoins, en l’absence d’une preuve écrite et quelle que soit la valeur du litige, on peut prouver par témoignage tout acte juridique dès lors qu’il y a commencement de preuve; on peut aussi prouver par témoignage, contre une personne, tout acte juridique passé par elle dans le cours des activités d’une entreprise. 
+L’élément matériel doit faire l’objet d’une preuve distincte d’authenticité pour être considéré par le tribunal.
+(Art. 2855 C.c.Q.) : La présentation d’un élément matériel, pour avoir force probante, doit au préalable faire l’objet d’une preuve distincte qui en établisse l’authenticité. […]
+Doit prouver qu’il est véritablement l’objet en question, qu’il n’a pas été modifié, ni altéré depuis la survenance des faits
+S’il s’agit d’une représentation sensorielle par la vue d’une photo : doit prouver les circonstances, ce qui a été constaté sur la photo…
+Une fois la preuve d’authenticité faite, le tribunal pourra la considérer. Toutefois, il faut avoir bien pris soin de mettre en preuve convenable.
+Les règles de mise en preuve 
+Comme toute preuve que l’on désire mettre en preuve et que nous avons en notre possession, on doit d’abord le communiquer suivant l’Art. 246 et ss C.p.c. Il devra ensuite être produit et lors de l’audience, faire une preuve distincte d’authenticité. On pourra cependant éviter de faire cette preuve distincte d’authenticité si on a bien pris soin de transmettre la mise en demeure de reconnaitre l’origine d’un document ou l’intégrité qu’il comporte (Art. 264 C.p.c.) et que celle-ci n’a pas été contestée. Ainsi, sa simple production jointe à l’élément matériel sera suffisante pour prouver son authenticité. 
+Il peut s’agir d’un objet qui n’est pas reproductible (brique ou un élément matériel par exemple) alors, on doit se fier à l’Art. 249 C.p.c. :
+La partie qui ne peut remettre à la partie qui le demande copie d’une pièce ou d’un autre élément de preuve, en raison de leur nature ou des circonstances, est tenue d’y donner accès par un autre moyen.
+En cas de désaccord entre elles, les parties peuvent soumettre à la décision du juge les modalités et le délai de communication de ces pièces et éléments de preuve.
+C’est notamment possible que le tribunal exige la production de cet élément de preuve au tribunal (Art. 287 C.p.c.). 
+S’il s’agit d’un immeuble, bien souvent, l’effet combiné de l’Art. 267 C.p.c. et de l’Art. 2810 C.c.Q., permettra au juge la visite des lieux. 
+Bien que cette preuve serait meilleure que le serait un témoignage rapportant la structure des lieux, il ne faut pas confondre celle-ci avec la règle de la meilleure preuve. La règle de l’Art. 2860 C.p.c. de la meilleure preuve doit plutôt être compris comme celle où un écrit existe (ne concerne que les écrits) il ne s’agit tout simplement pas du même contexte. La preuve la meilleure est souvent une captation vidéo ou une photo. 
+La force probante
+(Art. 2856 C.c.Q.) : Le tribunal peut tirer de la présentation d’un élément matériel toute conclusion qu’il estime raisonnable.
+Puisqu’il fait lui-même ses propres constatations (Art. 2854 C.c.Q.)
+Section 2 : L’aveu
+Selon l’art. 2850 C.c.Q., « l’aveu est la reconnaissance d’un fait de nature à produire des conséquences juridiques contre son auteur »
+Ne peut porter que sur un fait et non un droit, ce dernier est laissé à l’appréciation du tribunal. 
+Exemple : une partie ne pourrait dire « j’ai commis une faute » puisque la qualification du comportement est exclusivement au juge. La partie pourrait par contre affirmer « je suis tombée à cause de mes lacets pas attachés ou j’allais trop vite » = reconnaître des faits qui lui sont défavorable. 
+Notamment, il doit s’agir de conséquences juridiques défavorables, soit en soulageant le fardeau de preuve de la partie adverse. 
+Contre son auteur : l’aveu ne peut émaner que d’une partie à l’instance ou de son mandataire et non d’un tiers.
+(Art. 2851, al.1 C.c.Q.) : L’aveu peut être exprès ou implicite.
+Exprès : écrit ou verbal 
+Implicite : ne découle pas de l’action positive de l’auteur de l’aveu, mais plutôt de sa conduite. Par exemple, lorsqu’un commerçant paie un fournisseur, il reconnait implicitement détenir un contrat avec lui dans lequel il est débiteur. 
+Vrai/Faux
+Il est possible, au moyen d’un aveu, de contredire la date et la mention « lecture faite, les parties ont signé en ma présence » contenues dans un acte d’hypothèque immobilière.
+Faux, l’aveu ne peut faire échec au contenu d’un acte authentique rapportant des faits que l’officier public avait mission de constater. Une partie, par son aveu, ne peut contredire ou changer les termes d’un écrit exprimant des faits que le notaire avait l’obligation de constater et qu’il a déclaré avoir constatés. Il faut d’abord procéder par voie de demande de faire déclarer faux l’acte authentique (art. 2821 C.c.Q.; art. 258 C.p.c.) et attaquer ensuite cet écrit par tout moyen de preuve (Bélanger c. Courtemanche, [1966] R.L. 276, C.P.).
+Il existe 2 types d’aveux :
+L’aveu judiciaire 
+L’aveu extrajudiciaire 
+L’aveu judiciaire 
+C’est celui fait au cours de l’instance et il est toujours en principe recevable en preuve. 
+Afin de mettre en preuve un aveu judiciaire exprès, il y a 2 possibilités :
+De l’initiative de la partie ou de son avocat
+Dans un acte de procédure (art. 99 C.p.c.)
+Lors de son interrogatoire à l’audience (Art. 280 C.p.c.)
+Lors d’un acquiescement à la demande (Art. 217 C.p.c.)
+Dans une déclaration sous serment (Arts. 106 et 414 C.p.c.)
+À l’initiative de l’autre partie 
+Lors de l’interrogatoire de la partie adverse hors la présence du tribunal lorsque la personne prévoit qu’elle sera partie à un litige et qu’elle craint qu’une preuve ne se perdre ou ne devienne plus difficile à présenter (Arts. 253, 256 C.p.c.)
+Lors de l’interrogatoire sous serment (Art. 105, al.3 C.p.c.)
+L’interrogatoire préalable de (Arts. 221, 222 C.p.c.)
+Peut s’agir notamment du témoignage rendu par anticipation hors la présence du tribunal en vertu de l’Art. 295 C.p.c.
+= Dans la mesure où ils auront été communiqués et produits selon l’Art. 227 C.p.c.
+Lors du contre-interrogatoire de la partie adverse dans la constitution préalable de la preuve (Art. 253 et ss C.p.c.)
+Lors de l’interrogatoire ou du contre-interrogatoire d’une partie à l’instruction (Art. 280 C.p.c.)
+L’aveu judiciaire peut également être implicite :
+Lorsqu’il y a l’absence de contestation d’une pièce avant l’inscription pour instruction et jugement (Art. 262 C.p.c.)
+Lorsqu’il y a absence de déclaration sous serment niant l’origine d’un document ou son intégrité suivant la réception d’une mise en demeure de reconnaitre (Art. 264, al.2 C.p.c.)
+Lorsqu’il y a défaut de répondre à un interrogatoire écrit (Art. 225 C.p.c.)
+La force probante de l’aveu judiciaire est prévue à l’art. 2852 C.c.Q.
+(Art. 2852, al.1 C.c.Q.) : L’aveu fait par une partie au litige, ou par un mandataire autorisé à cette fin, fait preuve contre elle, s’il est fait au cours de l’instance où il est invoqué. Il ne peut être révoqué, à moins qu’on ne prouve qu’il a été la suite d’une erreur de fait.
+La partie qui regrette son aveu pourrait le révoquer si elle démontre qu’il a eu une erreur de fait puisqu’elle s’est basée sur des faits qu’elle croyait existant afin de formuler son aveu
+La partie qui regrette l’aveu que son avocat aurait fait de désavouer son avocat suivant la procédure l’Art. 191 C.p.c.
+Quoi qu’il en soit, une fois un aveu judiciaire fait et non révoqué, il fait preuve en entier de ce qu’il est contenu et aucune autre preuve n’est nécessaire pour établir le fait ainsi avoué. 
+L’aveu extrajudiciaire 
+Fait hors de l’instance à laquelle il est invoqué ou même fait dans une autre instance. Comme il s’agit d’un fait, cet aveu doit d’abord être allégué et par la suite prouvé.
+Lorsqu’il s’agit d’un écrit, ce dernier est toujours recevable sous réserve de l’exception de l’Art. 1609 C.c.Q.)
+(Art. 1609 C.c.Q.):
+Les quittances, transactions ou déclarations obtenues du créancier par le débiteur, un assureur ou leurs représentants, lorsqu’elles sont liées au préjudice corporel ou moral subi par le créancier, sont sans effet si elles ont été obtenues dans les 30 jours du fait dommageable et sont préjudiciables au créancier.
+La mise en preuve de l’aveu extrajudiciaire doit s’effectuer d’abord en alléguant l’aveu, soit le fait dans les procédures (Art. 99 C.p.c.) et ensuite en faire la preuve. 
+Ainsi, si l’aveu a été fait par écrit, il devra être communiqué, produit au dossier et par la suite faire l’objet d’une preuve distincte d’authenticité, soit qu’il émane effectivement de celui que l’on prétend en être l’auteur. L’Art. 2832 C.c.Q. le prévoit puisqu’il s’agit d’un simple écrit constatant un fait.
+On peut éviter à avoir à faire une pareil preuve si on communique l’écrit à travers la mise en demeure de l’Art. 264 C.p.c. en mettant en demeure la personne de reconnaitre l’origine du document et l’intégrité de l’information qu’il porte s’il n’y a pas de suite de la mise en demeure ou qu’il a une reconnaissance exprès de l’intégrité. Auquel cas, nous n’aurons qu’à transmettre au greffe, la mise en demeure, l’écrit joint ainsi que la réponse, le cas échéant. 
+Quant à l’aveu extrajudiciaire verbal, il est presque toujours recevable. On le met en preuve par le témoin qui sera entendu ou par celui contenu dans un interrogatoire préalable qui n’aurait pas été communiqué ni été produit au dossier de la Cour puisque sinon il constituerait un aveu judiciaire. La seule exception qui empêche sa recevabilité est prévue à l’Art. 2867 C.p.c. 
+(Art. 2867 C.c.Q.) : L’aveu, fait en dehors de l’instance où il est invoqué, se prouve par les moyens recevables pour prouver le fait qui en est l’objet.
+Exemple : A poursuit B en remboursement d’un prêt consenti. A n’a pas cru bon de constater par écrit le prêt. Donc, au tribunal, A veut présenter une preuve par témoignage pour établir le prêt, mais l’art. 2862, al.1 C.c.Q. empêche la preuve testimoniale d’un acte juridique intervenu entre les parties lorsque le litige est de 1 500$ ou plus (donc A ne peut pas témoigner pour prouver son prêt). Toutefois, A a appris de C que B a parlé à C et lui a dit avoir emprunté de l’argent A. A en demande fait témoigner C pour qu’il relate au tribunal l’aveu extrajudiciaire verbal de B. CEPENDANT, l’art. 2867 C.c.Q. empêche ce type de preuve puisque l’aveu de l’acte juridique ne peut pas non plus être fait par témoignage. (l’article 2867 empêche ce type de preuve puisque si la preuve par témoin n’est pas recevable, la preuve de l’aveu ne peut non-plus être fait par un témoignage). 
+La mise en preuve de l’aveu extrajudiciaire verbal pour sa part nécessite de faire entendre le témoin ayant entendu l’aveu. Par exemple, si P a chuté sur un trottoir appartenant à la municipalité et poursuit ensuite la municipalité. S on fait entendre la personne qui a ramassé P suivant sa chute et que P a dit qu’il était tombé en raison de ses lacets détachés et non en raison de l’état du trottoir, on fera entendre cette personne en tant que témoin pour prouver l’aveu verbal de P. 
+La force probante de l’aveu se situe à l’Art. 2852, al.2 C.c.Q. et prévoit que la force probante de tout autre aveu est laissée à l’appréciation du tribunal.
+Ainsi, celui qui voudrait contester l’aveu extrajudiciaire, ce qui est habituellement l’auteur même de l’aveu, pourra le faire en expliquant les circonstances et la portée de l’aveu qu’il a fait. En démontrant que l’aveu n’a pas été donné de manière libre et volontaire, pourquoi aujourd’hui il rapporte un fait différent.
+Vrai/Faux
+La force probante de l’aveu extrajudiciaire, écrit ou verbal, est laissée à l’appréciation du tribunal.
+Vrai, selon l’art. 2852, al. 2 C.c.Q., la force probante de tout aveu autre que celui fait au cours de l’instance où il est invoqué est laissée à l’appréciation du tribunal.
+L’indivisibilité de l’aveu
+En principe on doit le prendre en son entier sans en enlever des parties défavorables. 
+Il existe 3 types d’aveux non divisibles :
+L’aveu pur et simple : énonçant un fait en une seule proposition
+Exemple : je reconnais devoir de l’argent à A. 
+L’aveu qualifié : qualifie autrement l’opération juridique ou en ajoute une condition 
+Exemple : oui j’ai reçu l’argent de A, mais ce n’est pas un prêt, c’est plutôt un don.
+Exemple : oui j’ai reçu l’argent de B, mais le remboursement n’est pas dû immédiatement, seulement dans 5 ans. 
+La conférencière prétend que cet aveu est inutile en preuve!
+L’aveu complexe : contient 2 faits qui s’annulent à toute fin utile
+Exemple : j’ai reçu l’argent de A, mais je l’ai complètement remboursé.
+Exemple : j’ai reçu l’argent de A, mais A me devait déjà un montant de 75 000 $
+La conférencière prétend que cet aveu ne peut pas être utilisé en preuve puisque le premier fait est annulé par le second. 
+Les exceptions à l’indivisibilité de l’aveu (Art. 2853 C.c.Q.) :
+L’aveu contient des faits étrangers à la contestation liée : 
+Les faits contenus à la DID rencontrés par les faits qui constitueront la défense. On sait sur quoi la contestation portera alors, celle-ci est liée.
+Exemple : pour la première lors de l’instruction, B vient affirmer que le prêt réclamé n’est pas dû, ce fait ressortant pour la 1ère fois dans le processus aurait dû être annoncé dès que l’on lui a demandé d’annoncer ses moyens de défenses exposer ce fait. En choisissant de l’exposer tardivement constitue un fait étranger à la contestation liée et alors, on peut découpé l’aveu fait et enlevé la partie qui ne nous intéresse pas et ne garder que l’aveu, devenant ainsi qu’un aveu simple. 
+Que la partie contestée de l’aveu soit invraisemblable ou contredite par des indices de mauvaise foi ou contredite par une preuve contraire. 
+Exemple : B affirme que l’acte juridique intervenu entre les parties n’était pas un prêt, mais plutôt un don. Si on met en preuve que le pouvoir économique de A, soit le débiteur n’est pas plus grand que celui de B et bien il est invraisemblable de penser que A ait pu faire un don à B même si c’est son ami. Dans ce cas, on pourra découper l’aveu de B et ne garde que la partie nous intéressant, soit celle à l’effet qu’il a reçu l’argent. 
+Il n’y ait pas de connexité entre les faits mentionnés dans l’aveu.
+Cette absence de connexité st retrouvé uniquement dans l’aveu complexe.
+Exemple : j’ai reçu l’argent de A, mais A me devait déjà un montant de 75 000 $ pour l’achat d’un bateau. Normalement, ces deux créances pourraient s’éteindre par compensation, mais le second fait que B ajoute n’a aucun lien connexe avec le prêt initial que A réclame. En pareil cas, on pourrait découper l’aveu et ne conserver uniquement la première partie de celui-ci qui nous ai favorable. 
+(Art. 2851, al.2 C.c.Q.) : Il ne peut toutefois résulter du seul silence que dans les cas prévus par la loi.
+Section 3 : La preuve par présomption
+Les présomptions, qu’elles soient légales ou de faits, permettent au tribunal de tirer une conclusion à partir de faits établis en preuve.
+Vrai/Faux
+La présomption légale d’un fait réputé peut être réfutée par la partie adverse.
+Faux, l’art. 2847, al.2 C.c.Q. énonce que la présomption légale qui concerne des faits réputés est absolue et aucune preuve ne peut lui être opposée.
+La présomption sert à prouver un fait indirectement. 
+(Art. 2846 C.c.Q.) : La présomption est une conséquence que la loi ou le tribunal tire d’un fait connu à un fait inconnu.
+La présomption légale (Art. 2847, al.1 C.c.Q.)
+(Art. 2847, al.1 C.c.Q.) : La présomption légale est celle qui est spécialement attachée par la loi à certains faits; elle dispense de toute autre preuve celui en faveur de qui elle existe.
+Il existe deux sortes de présomptions légales, soit celle simple ou absolue. 
+Absolue : le législateur utilise le mot réputé. 
+Exemple (Art. 1422 C.c.Q.) : un contrat est nul 
+Simple : le législateur utilise le mot présumé
+Exemple (Art. 525 C.c.Q.): présomption de paternité de l’époux de la mère
+La mise en preuve de la présomption légale s’effectue en prouvant simplement les faits inclus dans la disposition de la loi. 
+Exemple en suivant l’exemple de l’art. 525 C.c.Q., pour établir que l’époux de la mère est le père, les seuls élément à prouver sont qu’un enfant est né d’une mère marié à cet homme et automatiquement cet homme est le père.
+La force probante, une fois que tous les faits de l’article de loi sont prouvés, aucune autre preuve n’est nécessaire et le fait inconnu existe donc.
+La possibilité de contester une présomption légale dite absolue, aucunement preuve contraire ne pourra être apportée. 
+La possibilité de contester une présomption légale dite simple ou présumée, la preuve contraire demeure possible. Une fois la présomption de paternité établie, il pourra rapporter une preuve à l’effet qu’il n’est pas le père. 
+(Art. 2866 C.c.Q.) : 
+Nulle preuve n’est admise contre une présomption légale, lorsque, à raison de cette présomption, la loi annule certains actes ou refuse l’action en justice, sans avoir réservé la preuve contraire.
+Toutefois, cette présomption peut être contredite par un aveu fait à l’instance au cours de laquelle la présomption est invoquée, lorsqu’elle n’est pas d’ordre public(simple). 
+Les présomptions de faits (Art. 2847, al.2 C.c.Q.)
+(Art. 2847, al.2 C.c.Q.) : Celle qui concerne des faits présumés est simple et peut être repoussée par une preuve contraire; celle qui concerne des faits réputés est absolue et aucune preuve ne peut lui être opposée.
+Exemples : lorsque le juge doit établir la cause du décès de l’assuré ou la cause d’un incendie en l’absence d’une preuve directe. 
+La mise en preuve de la présomption de faits, se réalise par la preuve des faits entourant le fait inconnu. 
+La force probante de cette présomption repose sur les épaules de la partie, à savoir d’établir les faits et les indices qui permettront de croire en l’existence du fait inconnu. Les faits et les indices devront être nous dit la jurisprudence et l’Art. 2849 C.c.Q. : graves, précises et concordantes.
+Grave : rapport étroit entre le fait et le fait inconnu. Exemple : trouve un bidon d’essence vide sur les lieux de l’incendie. 
+Précis : tendre directement et seulement à l’établissement du fait inconnu. Par exemple : si vous avez un accident dont on cherche la cause et que le véhicule sur la chaussé ne présente aucune trace de freinage, on peut conclure qu’il s’agit d’un suicide ou d’un accident par distraction. Lorsqu’un fait mène à deux conclusions différentes, ce fait n’aura pas la qualification suffisamment précise pour participer à l’établissement de la présomption. 
+Concordant : les faits par leurs ensembles et leurs accords doivent tendre entre eux à établir le fait inconnu. 
+Le tribunal dans l’analyse de tous ces faits sera invité à appliquer un principe d’induction. 
+La possibilité de contester une présomption de faits établie, il y a un renversement du fardeau de preuve et c’est à la partie adverse de présenter une preuve allant à l’encontre de ce fait présumé. 
+Section 4 : Les documents technologiques
+À l’ère des courriels, des textos et des réseaux sociaux, les écrits se retrouvent maintenant sur différents supports. Depuis le 1er novembre 2001, le législateur a établi le principe de l’équivalence et de l’interchangeabilité des supports de l’écrit par la mise en vigueur de la Loi concernant le cadre juridique des technologies de l’information.
+Vrai/Faux : Le support adéquat
+Pour qu’un contrat soit valide et exécutable, il doit nécessairement être signé par tous les participants sur un support papier.
+Faux, selon l’art 2 de la Loi concernant le cadre juridique des technologies de l’information, à moins que la loi n’exige l’emploi d’un support ou d’une technologie spécifique, chacun peut utiliser le support ou la technologie de son choix.
+Les documents technologiques 
+Art. 1 (2) de la Loi concernant le cadre juridique des technologies de l’information : la cohérence des règles de droit et leur application aux communications effectuées au moyen de documents qui sont sur des supports faisant appel aux technologies de l’information, qu’elles soient électronique, magnétique, optique, sans fil ou autres ou faisant appel à une combinaison de technologies;
+*Cette loi s’applique de manière générale à toute loi qui ne prévoit pas de disposition particulière quant au support de certains documents. *
+Le principe de l’équivalence fonctionnel des documents
+Le principe de l’interchangeabilité des documents
+Le principe du libre choix du support pour les différents documents
+Il écrit reste un écrit qu’il soit un support papier ou sur un support électronique. Cette loi ne créée par un nouveau moyen de preuve, nous demeurons avec 5 moyens de preuve classiques. 
+Les conséquences et les effets de la L.c.c.j.t.i.
+La valeur juridique d’un document technologique équivaut à celle d’un document papier, quel que soit le support utilisé si certaines normes sont respectées
+Un document technologique peut servir comme mode de communication, à moins qu’une loi prévoie un mode particulier
+L’expression du consentement par une marque autre que la signature traditionnelle permise, à moins qu’une disposition particulière d’une loi n’exige la signature traditionnelle
+La L.c.c.j.t.i. complète le droit de la preuve prévu au C.c.Q. et en facilite l’application des notions juridiques du droit de la preuve au document technologique
+La L.c.c.j.t. intègre dans notre droit plusieurs nouvelles notions
+Voici quelques notions : 
+La notion de document 
+(Art. 3 L.c.c.j.t.i.) : 
+Un document est constitué d’information portée par un support. L’information y est délimitée et structurée, de façon tangible ou logique selon le support qui la porte, et elle est intelligible sous forme de mots, de sons ou d’images. L’information peut être rendue au moyen de tout mode d’écriture, y compris d’un système de symboles transcriptibles sous l’une de ces formes ou en un autre système de symboles.
+Pour l’application de la présente loi, est assimilée au document toute banque de données dont les éléments structurants permettent la création de documents par la délimitation et la structuration de l’information qui y est inscrite.
+Un dossier peut être composé d’un ou de plusieurs documents.
+Les documents sur des supports faisant appel aux technologies de l’information visées au paragraphe 2° de l’article 1 sont qualifiés dans la présente loi de documents technologiques.
+Un document existe sans égard à la qualification de son support. 
+La notion d’intégrité
+(Art. 6 L.c.c.j.t.i.) :
+L’intégrité du document est assurée, lorsqu’il est possible de vérifier que l’information n’en est pas altérée et qu’elle est maintenue dans son intégralité, et que le support qui porte cette information lui procure la stabilité et la pérennité voulues.
+L’intégrité du document doit être maintenue au cours de son cycle de vie, soit depuis sa création, en passant par son transfert, sa consultation et sa transmission, jusqu’à sa conservation, y compris son archivage ou sa destruction.
+Dans l’appréciation de l’intégrité, il est tenu compte, notamment des mesures de sécurité prises pour protéger le document au cours de son cycle de vie.
+Pour faciliter son intégrité et sa preuve l’art. 7 L.c.c.j.t.i. mentionne ce qui suit :
+(Art. 7 L.c.c.j.t.i.) :
+Il n’y a pas lieu de prouver que le support du document ou que les procédés, systèmes ou technologies utilisés pour communiquer au moyen d’un document permettent d’assurer son intégrité, à moins que celui qui conteste l’admission du document n’établisse, par prépondérance de preuve, qu’il y a eu atteinte à l’intégrité du document.
+Présomption d’intégrité du support de l’information et ce sera à celui prétendant que son intégrité a été atteinte de faire la demande conformément à l’art. 262, al.2 C.p.c. à l’aide d’une déclaration sous serment à cet effet. Ainsi, un document technologique peut avoir fonction d’original en vertu de l’art. 2860, al.3 C.c.Q. 
+La notion de neutralité technologique
+Une loi neutre au plan technologique ne préfèrera pas l’utilisation d’une technologie ou d’un support en préférence à un autre. 
+Le libre choix du support existe en raison de l’égalité de l’ensemble des supports et de leur valeur. 
+Exemple : la signature, peu importe la forme, si elle répond aux exigences de l’Art. 2827 C.c.Q. et qu’elle constitue une marque distinctive pour manifester son consentement, elle peut être traditionnelle manuscrite ou la signature apposée en signant un courriel. 
+La notion d’équivalence
+En principe, peu importe le support d’un document, ils sont équivalents. L’Art. 5 L.c.c.j.t.i. prévoit que :
+La valeur juridique d’un document, notamment le fait qu’il puisse produire des effets juridiques et être admis en preuve, n’est ni augmentée ni diminuée pour la seule raison qu’un support ou une technologie spécifique a été choisi.
+Le document dont l’intégrité est assurée a la même valeur juridique, qu’il soit sur support papier ou sur un autre support, dans la mesure où, s’il s’agit d’un document technologique, il respecte par ailleurs les mêmes règles de droit.
+Le document dont le support ou la technologie ne permettent ni d’affirmer, ni de dénier que l’intégrité en est assurée peut, selon les circonstances, être admis à titre de témoignage ou d’élément matériel de preuve et servir de commencement de preuve, comme prévu à l’article 2865 du Code civil.
+Lorsque la loi exige l’emploi d’un document, cette exigence peut être satisfaite par un document technologique dont l’intégrité est assurée.
+Si le document devait servir à établir un contrat par exemple un acte sous seing privé (Art. 2826 C.c.Q.) sur un support technologique. Les règles de fonds de l’art. 2826 C.c.Q. devront être respectées. 
+La jurisprudence affirme qu’il est possible d’utiliser des CD pour remplacer des informations écrites (10 000 pages) et des rapports qui auraient normalement dû être communiqués. 
+L’équivalence fonctionnelle nous permet de déterminer l’utilisation qui sera faite du document technologique. Elle a la même fonction d’un document papier. Sile document technologique contient un écrit, celui-ci sera qualifié de preuve écrite. C’est l’usage qu’on fait du document qui compte. 
+L’impact sur le droit de la preuve
+Aucun véritable impact. La loi vise davantage à établir des critères. La valeur juridique n’est donc pas impactée et c’est grâce au principe de l’interchangeabilité des supports. Cependant, ce principe n’est pas absolu et connait certaines exceptions. 
+Le contrat de consommation exige un écrit sur support papier (Art. 25 L.p.c.)
+Une hypothèque immobilière ne peut être sur un support technologique, elle doit être notariée (art. 2693 C.c.Q.)
+Un achat sur un site transactionnel devient un acte sous seing privé SI l’intégrité est assurée et les conditions de l’acte sous seing privé ont été respectées (Art. 2826 C.c.Q.). Le message de confirmation de l’achat fait preuve de l’acte juridique, des déclarations et de la date (art. 2829 et 2830 C.c.Q.)
+La valeur juridique découle de l’intégrité du document : 
+Si l’intégrité des documents est préservée selon les exigences de la L.c.c.j.t.i., il est possible de les transférer, de les archiver, de les changer de support et de les transmettre dans des réseaux tout en conservant leur pleine valeur juridique. 
+La L.c.c.j.t.i. énonce les conditions pour accorder une valeur juridique à ces documents
+La L.c.c.j.t.i. précise les exigences à l’égard des différentes étapes du cycle de vie des documents
+Si TOUTEFOIS l’intégrité du document n’est pas assurée, celui-ci peut néanmoins servir d’élément matériel, de témoignage ou de commencement de preuve, selon le cas. 
+La notion du lien entre une personne et un document
+Le document doit être relié à la personne qui en est l’auteur. Pour un document papier c’est facile puisque la signature lie la personne au document. Dans l’univers technologique, les Arts. 38 et ss L.c.c.j.t.i. précisent à quelles conditions un document s technologiques sera relié à son auteur, notamment quant à la forme que peut prendre la signature. 
+La notion de transfert
+La loi prévoit la possibilité de procéder au transfert de certains documents : faire passer un docuement d’un support à un autre. Exemple : numérise un document papier à un support technologique. 
+Pour ensuite, à certaines conditions détruire l’original (Art. 17, al.2 et 3 L.c.c.j.t.i.). :
+Toutefois, sous réserve de l’article 20, pour que le document source puisse être détruit et remplacé par le document qui résulte du transfert tout en conservant sa valeur juridique, le transfert doit être documenté de sorte qu’il puisse être démontré, au besoin, que le document résultant du transfert comporte la même information que le document source et que son intégrité est assurée.
+La documentation comporte au moins la mention du format d’origine du document dont l’information fait l’objet du transfert, du procédé de transfert utilisé ainsi que des garanties qu’il est censé offrir, selon les indications fournies avec le produit, quant à la préservation de l’intégrité, tant du document devant être transféré, s’il n’est pas détruit, que du document résultant du transfert.
+(Art. 2842, al.2 C.c.Q.) : Le document résultant du transfert de l’information est appuyé, au besoin, de la documentation visée à l’article 17 de la Loi concernant le cadre juridique des technologies de l’information (chapitre C-1.1).
+La valeur du juridique des documents est désormais est prévisible et en facilité son admissibilité puisqu’elle n’est pas supportée par le support utilisé comme c’est le cas traditionnel du papier, mais plutôt l’intégrité de l’information portée par ce support. 
+Vrai/Faux
+Dans le cadre d’un litige, il est mis en preuve que tous les employés de la défenderesse, l’entreprise Marché Aucoin inc., utilisent le même logiciel comme agenda pour y inscrire leur emploi du temps de façon systématique. Afin de prouver l’existence et la durée du temps qui a été investi lors d’une rencontre tenue le 15 mars dernier, l’avocat de la demanderesse tente, entre autres, d’introduire en preuve la reproduction, sur support papier, d’entrées tirées des agendas de deux employés de Marché Aucoin inc.
+Une objection est formulée par l’avocat de la défenderesse quant à la production de ces documents au motif que la reproduction sur support papier de ces entrées ne présente pas les critères de fiabilité prévus par la loi sans avoir accompli quelque autre formalité. Selon l’avocat de Marché Aucoin inc., cette preuve ne constitue pas la meilleure preuve en vertu de l’art. 2860 C.c.Q. Cette objection est mal fondée.
+Vrai, les entrées effectuées via le logiciel contenant l’agenda des employés de la défenderesse et leur emploi du temps constituent des écrits au sens de l’art. 2837, al. 1 C.c.Q. Étant donné que l’écrit est un support faisant appel aux technologies de l’information, l’écrit est qualifié de document technologique selon l’art. 2837, al. 2 C.c.Q. Ce document technologique sert d’original ou de meilleure preuve, en vertu de l’art. 2860, al. 3 C.c.Q., car il répond aux exigences de l’art. 12 de la Loi concernant le cadre juridique des technologies de l’information. Selon l’art. 2839 C.c.Q. ou l’art. 6 L.c.c.j.t.i., l’intégrité d’un document est assurée lorsqu’il est possible de vérifier que l’information n’en est pas altérée et qu’elle est maintenue dans son intégrité. Par ailleurs, en vertu de l’art. 2840 C.c.Q. ou de l’art. 7 L.c.c.j.t.i., il n’y a pas lieu de prouver que le support du document permet d’en assurer son intégrité.
+Capsule vidéo (Loi concernant le cadre juridique des technologies de l’information)
+Le principe de l’intégrité du document fait référence à « à garder ses qualités intelligibles pendant out son cycle de vie ». 
+C’est toute la question de conservation du document!
+Nous pouvons sauvegarder des documents par plusieurs moyens (Art 28-20 de la Loi) – exemple : compressé, transporté, etc. 
+Si nous avons transféré un document papier en document technologique, nous devons remplir les modalités de l’article 12 de la Loi pour que le document technologique prend place de l’originale. (Voir l’article 12 de la Loi)
+Voici les étapes pour changer un document technologique en document papier (changement pour l’originalité)
+Vidéo Arthur
+Habituellement, nous devons prouver selon la prépondérance des probabilités (sauf outrage au tribunal = hors de toute doute raisonnable). 
+ATTENTION : si nous faisons référence à la loi sur la municipalité, nous devons l’alléguer. Le tribunal n’a pas à la prendre d’office (Art 2807). – regarder la collection de droit à ce sujet
+Si l’officier n’avais pas mission de constater, mais simplement retranscrit, nous ne devons pas faire une inscription de faux (Art 2821), nous devons faire une contestation sous 262 C.p.c.
+Art 2988 : l’article nous dit que le notaire doit vérifier l’identité, la qualité et la capacité de la personne… mais le notaire n’est pas un médecin est la capacité et la qualité peut se présume, donc en revanche, le notaire doit seulement vérifier l’identité de la partie. (Donc quand on conteste l’identité, nous devons faire une inscription de FAUX, mais quand on conteste la capacité ou la qualité, nous devons faire une contestation en vertu de 262)
+Si une personne veut contester une déclaration d’une partie qui figure dans l’acte sous seing privé, il peut le faire par témoignage (Art 2862 et 2863 ne s’applique pas) mais si nous voulons contester l’acte sous seing privé, nous ne pouvons pas faire le témoignage sous les exceptions de 2862 et 2863. 
+Ex : dans l’acte sous seing privé, nous avons une déclaration par rapport à la température, nous pouvons, par témoignage, contredire la déclaration (mais nous ne pouvons pas contester l’acte soi-même). 
+ATTENTION : pour ce qui est des écrits ni authentique, ni semi-authentique qui rapporte un fait… si nous sommes devant la Cour du Québec avec un litige moins de 100,000$, nous n’avons pas à prouver l’intégralité du document pur et simple (présomption), sauf si nous avons contestation. – maintenant, plus nécessaire de faire un témoignage ou une MED pour prouver. 
+Technologie : si nous faisons une copie (ex : un courriel transformé en papier) nous devons faire une certification (Art 2841 al.2 et 13 de la L.c.c.j.t) 
+Témoignage : le témoignage n’a pas à être corroboré (Art 2844 al.1)
+Aveu : attention, un peu comme la présomption, si nous ne pouvons pas prouver par témoignage, nous ne pouvons pas faire recours à l’aveu (preuve indirecte) suite à un témoignage illégal. 
+	Ex : le témoignage est interdit parce que la valeur et plus que 1,500$, alors nous ne pouvons pas utiliser l’aveu extrajudiciaire pour prouver la valeur. 
+Élément matériel : si nous avons un enregistrement audio (un document techno)… si nous avons un document technologique qui continent des métadonnée, pas besoin de prouver l’authenticité (Art 5 de la Loi). 
+La section : recevabilité des éléments et des moyens de preuve (chaque article est comme une objection)
+Art 2857 = la pertinence de la preuve
+Art 2858 = si l’élément de la preuve viole un droit
+---------------ATTENTION : les article 2859 à 2868, le tribunal ne peut pas les soulever d’office!
+Art 2859 et ss.
+Art 2862 al.2 – les actes juridique passé par ELLE dans le cours des activités d’une entreprise (ex : nous avons un contrat entre le consommateur et l’entreprise… le consommateur peut prouver le contrat par témoignage que l'entreprise à fait le contrat parce que c’est un acte passé par elle dans le cours d’une activité d’une entreprise, mais l’entreprise ne peut pas prouver l’acte à l’égard du consommateur, parce que le consommateur n’a pas passé cette acte dans le cours d’une activité d’une entreprise (le consommateur n’exploite pas une entreprise).  
+Commencement de preuve : nous avons besoin d’un aveu ou un écrit qui émane de la partie adverse (nous pouvons essayer d’obtenir un aveu en cours d’instance (ex : interrogatoire préalable) pour avoir un commencement de preuve).
+ Pour contredire une présomption légale : nous ne pouvons pas le faire, sauf si nous avons un aveu fait en cours d’instance (interrogatoire préalable). 
+Déclaration 
+Nous pouvons accepter la déclaration écrite de la personne si nous avons des raison suffisant pour croire qu’elle ne va pas comparaître (ex : le témoin est mort). 
+NOUS N’AVONS PAS À COMMUNIQUER LA PREUVE SI NOUS VOULONS ATTAQUER LA CRÉDIBILITÉ DU TÉMOIN
+Ex : nous contre-interrogeons notre propre témoin, et on demande de témoigner sur un incendie. Nous pouvons attaquer sa crédibilité sans communiquer les éléments de preuve à l’avance! (PAS LA VÉRACITÉ, MAIS LA CRÉDIBILITÉ). – nous voulons montrer que le témoin n’est pas crédible!
+ATTENTION : nous devons faire une différence entre l’interrogatoire préalable et l’interrogatoire sans la présence du tribunal
+Pour l’interrogatoire préalable, elle n’a pas à être publié si la partie qui l’a fait ne le considère pas nécessaire… donc si on demande au tribunal l’interroger une personne hors sa présence, ce qui se dit est comme si c’est lors de l’instance et disponible pour toute le monde… alors que si on fait une interro préalable et on réalise que l’interro ne nous aide pas, nous pouvons décider de ne pas la publier!
+Collection de droit (différence entre la déclaration extra et l’aveu extra)
+Pour que la déclaration de l’article 2780 s’applique nous devons remplir les conditions suivantes : 
+La déclaration n’équivalut pas au témoignage de l’article 2843
+La déclaration doit être fait par une personne qui ne comparaît pas
+La déclaration doit porter sur des faits au sujet desquels son auteur aurait pu légalement déposer s’il avait comparu comme témoin
+Si nous avons un expert qui produit un rapport et par la suite il décède, nous pouvons utiliser sn rapport à titre de témoignage, mais le rapport est recevable que pour établir les faits constatés par l’expert, pas son opinion. 
+Si nous voulons utiliser un DEC, nous devons le communiquer à la partie adverse, à défaut de consentement de la partie adverse, nous pouvons demander l’autorisation du tribunal. 
+La partie requièrent doit démontrer qu’il est impossible d’obtenir la comparution du déclarant ou déraisonnable de l’exiger
+Doit aussi démontrer que les circonstances entourant la déclaration donnant à celle-ci des garantis suffisamment sérieuses pour pouvoir s’y fier. (Authenticité et intégrité)
+Entreprise = nous avons une présomption d’authenticité
+Registre de l’état = présomption
+Déclaration spontanée = présomption d’authente
+Once done… la DEC extrajudiciaire vaut comme témoignage. (Art 2843)
+Pour ce qui est de l’aveu : lorsque l’aveu extra est mise en preuve, nous pouvons demander des précisions en vertu de l’article 169 al.2. 
+Lorsque l’aveu extra porte sur un fait qui ne peut être prouvé par témoin, cet aveu extra ne pourra être établi par preuve testimoniale; si la preuve du fait nécessite un écrit, l’aveu extra devra être prouvé au moyen d’un écrit. 
+Le plaidoyer de culpabilité donné par la partie adverse dans une clause pénale constitue un aveu extra qui peut être introduit en preuve. 

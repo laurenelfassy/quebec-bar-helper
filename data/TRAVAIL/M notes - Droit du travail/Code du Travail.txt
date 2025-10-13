@@ -1,0 +1,2707 @@
+chapitre C-27
+CODE DU TRA V AIL
+C
+O
+D
+E
+D
+U
+T
+R
+A
+V
+A
+I
+L3
+1
+1
+2d
+é
+c
+e
+m
+b
+r
+e
+1
+9
+7
+7TABLE DES MATIÈRES
+TITRE I
+DES RELATIONS DU TRA V AIL
+CHAPITRE I
+DÉFINITIONS...................................................................................................... 1
+CHAPITRE II
+DES ASSOCIATIONS
+SECTION I
+DU DROIT D’ASSOCIATION.......................................................................... 3
+SECTION II
+DE CERTAINES OBLIGATIONS DES ASSOCIATIONS ACCRÉDITÉES... 20.1
+SECTION III
+DE L’ACCRÉDITATION DES ASSOCIATIONS DE SALARIÉS................... 21
+SECTION IV  Abrogée, 2001, c. 26, a. 37.
+CHAPITRE III
+DE LA CONVENTION COLLECTIVE.............................................................. 52
+CHAPITRE IV
+DU RÈGLEMENT DES DIFFÉRENDS ET DES GRIEFS
+SECTION I
+DE L’ARBITRE DE DIFFÉREND..................................................................... 74
+SECTION I.1
+DE LA PREMIÈRE CONVENTION COLLECTIVE....................................... 93.1
+SECTION II  (Abrogée)
+SECTION III
+DE L’ARBITRE DE GRIEF............................................................................... 100
+SECTION IV
+DE LA RÉGLEMENTATION............................................................................ 103
+CHAPITRE V
+DES GRÈVES ET LOCK-OUT........................................................................... 105
+CHAPITRE V .1
+DISPOSITIONS PARTICULIÈRES APPLICABLES AUX SERVICES
+PUBLICS ET AUX SECTEURS PUBLIC ET PARAPUBLIC
+SECTION I  Abrogée, 2011, c. 16, a. 131.
+SECTION II
+DES SERVICES PUBLICS................................................................................ 111.0.15
+© Éditeur officiel du Québec À jour au 0
+1
+1er 0
+9
+septembre 2020
+Ce document a valeur officielle.
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 1 sur 64
+SECTION III
+DES SECTEURS PUBLIC ET PARAPUBLIC.................................................. 111.1
+SECTION IV
+POUVOIRS DE REDRESSEMENT.................................................................. 111.16
+SECTION V
+DISPOSITIONS DIVERSES.............................................................................. 111.21
+CHAPITRE V .2
+DISPOSITIONS PARTICULIÈRES APPLICABLES AUX EXPLOITATIONS
+FORESTIÈRES..................................................................................................... 111.23
+CHAPITRE V .3
+DISPOSITIONS PARTICULIÈRES APPLICABLES AUX EXPLOITATIONS
+AGRICOLES........................................................................................................ 111.27
+CHAPITRE V .4
+POUVOIRS GÉNÉRAUX DU TRIBUNAL........................................................ 111.33
+CHAPITRE VI  Abrogé, 2015, c. 15, a. 138.
+SECTION I  Abrogée, 2015, c. 15, a. 138.
+SECTION II  Abrogée, 2015, c. 15, a. 138.
+SECTION III  Abrogée, 2015, c. 15, a. 138.
+SECTION IV  Abrogée, 2015, c. 15, a. 138.
+SECTION V  Abrogée, 2015, c. 15, a. 138.
+SECTION VI  Abrogée, 2015, c. 15, a. 138.
+SECTION VII  Abrogée, 2015, c. 15, a. 138.
+CHAPITRE VII
+DE LA RÉGLEMENTATION.............................................................................. 138
+CHAPITRE VIII
+DES RECOURS.................................................................................................... 139
+CHAPITRE IX
+DISPOSITIONS PÉNALES................................................................................. 141
+CHAPITRE X
+DE LA PROCÉDURE.......................................................................................... 150
+CHAPITRE X.1
+RESPONSABILITÉ............................................................................................. 152.1
+CHAPITRE XI
+ANNEXE I
+ANNEXE ABROGATIVECODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 2 sur 64
+TITRE I
+DES RELATIONS DU TRA V AIL
+CHAPITRE I
+DÉFINITIONS
+1.  Dans le présent code, à moins que le contexte ne s’y oppose, les termes suivants signifient:
+a) «association de salariés » : un groupement de salariés constitué en syndicat professionnel, union,
+fraternité ou autrement et ayant pour buts l’étude, la sauvegarde et le développement des intérêts
+économiques, sociaux et éducatifs de ses membres et particulièrement la négociation et l’application de
+conventions collectives;
+b) «association accréditée » : l’association reconnue par décision du Tribunal comme représentant de
+l’ensemble ou d’un groupe des salariés d’un employeur;
+c) «association d’employeurs » : un groupement d’employeurs ayant pour buts l’étude et la sauvegarde
+des intérêts économiques de ses membres et particulièrement l’assistance dans la négociation et l’application
+de conventions collectives;
+d) «convention collective » : une entente écrite relative aux conditions de travail conclue entre une ou
+plusieurs associations accréditées et un ou plusieurs employeurs ou associations d’employeurs;
+e) «différend»  : une mésentente relative à la négociation ou au renouvellement d’une convention
+collective ou à sa revision par les parties en vertu d’une clause la permettant expressément;
+f) «grief» : toute mésentente relative à l’interprétation ou à l’application d’une convention collective;
+g) «grève» : la cessation concertée de travail par un groupe de salariés;
+h) «lock-out» : le refus par un employeur de fournir du travail à un groupe de salariés à son emploi en vue
+de les contraindre à accepter certaines conditions de travail ou de contraindre pareillement des salariés d’un
+autre employeur;
+i) (paragraphe abrogé);
+j) «ministre» : le ministre du Travail;
+k) «employeur» : quiconque, y compris l’État, fait exécuter un travail par un salarié;
+l) «salarié» : une personne qui travaille pour un employeur moyennant rémunération, cependant ce mot ne
+comprend pas:
+1° une personne qui, au jugement du Tribunal, est employée à titre de gérant, surintendant, contremaître
+ou représentant de l’employeur dans ses relations avec ses salariés;
+2° un administrateur ou un dirigeant d’une personne morale, sauf si une personne agit à ce titre à l’égard
+de son employeur après avoir été désignée par les salariés ou une association accréditée;
+3° un fonctionnaire du gouvernement dont l’emploi est d’un caractère confidentiel au jugement du
+Tribunal ou aux termes d’une entente liant le gouvernement et les associations accréditées conformément au
+chapitre IV de la Loi sur la fonction publique ( chapitre F-3.1.1 ) qui sont parties à une convention collective
+qui autrement s’appliquerait à ce fonctionnaire; tel est l’emploi d’un conciliateur, d’un médiateur et d’un
+médiateur arbitre du ministère du Travail, d’un fonctionnaire du Conseil exécutif, du vérificateur général, de
+la Commission de la fonction publique, du cabinet d’un ministre ou d’un sous-ministre ou d’un fonctionnaireCODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 3 sur 64
+qui, dans un ministère ou un organisme du gouvernement, fait partie du service du personnel ou d’une
+direction du personnel;
+3.1° un fonctionnaire du ministère du Conseil exécutif sauf dans les cas que peut déterminer, par décret,
+le gouvernement;
+3.2° un fonctionnaire du Conseil du trésor sauf dans les cas que peut déterminer, par décret, le
+gouvernement;
+3.3° un fonctionnaire de l’Institut de la statistique du Québec affecté aux fonctions visées à l’article 4 de
+la Loi sur l’Institut de la statistique du Québec (chapitre I-13.011);
+4° un procureur aux poursuites criminelles et pénales;
+5° un membre de la Sûreté du Québec;
+6° un membre du personnel du directeur général des élections;
+7° un fonctionnaire du Tribunal affecté aux fonctions visées à l’article 86 ou à l’article 87 de la Loi
+instituant le Tribunal administratif du travail (chapitre T-15.1);
+m) (paragraphe abrogé);
+n) «exploitation forestière » : ensemble des activités en forêt reliées à l’abattage et à la récolte du bois
+dont la coupe, le tronçonnement, l’écorçage, le débardage, l’empilement et le chargement, à l’exclusion du
+transport routier du bois;
+o) «exploitant forestier » : un bénéficiaire d’une garantie d’approvisionnement consentie en vertu de la
+Loi sur l’aménagement durable du territoire forestier (chapitre A-18.1) ou un producteur forestier qui alimente
+une usine de transformation du bois à partir d’une forêt privée;
+p) (paragraphe abrogé);
+q) (paragraphe abrogé);
+r) (paragraphe abrogé);
+s) «Tribunal»  : le Tribunal administratif du travail institué par la Loi instituant le Tribunal administratif
+du travail (chapitre T-15.1).
+S. R. 1964, c. 141, a. 1; 1965 (1re sess.), c. 14, a. 76 ; 1968, c. 17, a. 97; 1969, c. 20, a. 10; 1969, c. 47, a. 2 ; 1969, c. 48, a. 1; 1969, c.
+14, a. 18; 1971, c. 20, a. 66 ; 1971, c. 48, a. 161; 1972, c. 55, a. 173; 1972, c. 60, a. 29 ; 1977, c. 41, a. 1, a. 2 ; 1978, c. 15, a. 124 ; 1981,
+c. 9, a. 34 ; 1982, c. 37, a. 1 ; 1982, c. 54, a. 52 ; 1982, c. 53, a. 56 ; 1983, c. 22, a. 1 ; 1983, c. 55, a. 138 ; 1984, c. 47, a. 26 ; 1985, c. 12,
+a. 82; 1986, c. 89, a. 50 ; 1986, c. 108, a. 242 ; 1988, c. 73, a. 72 ; 1990, c. 69, a. 1 ; 1993, c. 6, a. 1 ; 1994, c. 12, a. 66 ; 1994, c. 18, a. 33 ;
+1996, c. 29, a. 43 ; 1996, c. 35, a. 18 ; 1998, c. 46, a. 58 ; 1998, c. 44, a. 46 ; 1999, c. 40, a. 59 ; 2001, c. 26, a. 1 ; 2004, c. 22, a. 14 ; 2005,
+c. 34, a. 51; 2006, c. 58, a. 1; 2011, c. 16, a. 129; 2010, c. 3, a. 268; 2013, c. 2, a. 66; 2015, c. 15, a. 126; N.I. 2016-01-01.
+2.  (Abrogé).
+S. R. 1964, c. 141, a. 2; 1969, c. 47, a. 3; 1969, c. 48, a. 2; 1977, c. 41, a. 1; 1986, c. 108, a. 243; 2001, c. 26, a. 2; 2013, c. 2, a. 67.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 4 sur 64
+CHAPITRE II
+DES ASSOCIATIONS
+SECTION I
+DU DROIT D’ASSOCIATION
+3.  Tout salarié a droit d’appartenir à une association de salariés de son choix et de participer à la formation
+de cette association, à ses activités et à son administration.
+S. R. 1964, c. 141, a. 3; 1977, c. 41, a. 3.
+4.  Les policiers municipaux ne peuvent être membres d’une association de salariés qui n’est pas formée
+exclusivement de policiers municipaux ou qui est affiliée à une autre organisation.
+S. R. 1964, c. 141, a. 4.
+5.  Personne ne peut, au nom ou pour le compte d’une association de salariés, solliciter, pendant les heures
+de travail, l’adhésion d’un salarié à une association.
+S. R. 1964, c. 141, a. 5.
+6.  Une association de salariés ne doit tenir aucune réunion de ses membres au lieu du travail sauf si elle est
+accréditée et du consentement de l’employeur.
+S. R. 1964, c. 141, a. 6.
+7.  (Abrogé).
+S. R. 1964, c. 141, a. 7; 2013, c. 2, a. 67.
+8.  (Abrogé).
+S. R. 1964, c. 141, a. 8; 1969, c. 47, a. 4; 1969, c. 48, a. 3 ; 1977, c. 41, a. 4 ; 1979, c. 45, a. 149 ; 1986, c. 108, a. 244 ; 2001, c. 26, a. 3 ;
+2010, c. 3, a. 269; 2013, c. 2, a. 67.
+9.  Sous réserve de la Loi sur les terres du domaine de l’État (chapitre T-8.1), le propriétaire d’une
+entreprise minière où des salariés sont logés sur des terrains auxquels il est en mesure d’interdire l’accès doit
+accorder cet accès à tout représentant d’une association de salariés muni d’un permis délivré par le Tribunal
+conformément aux règlements adoptés à cette fin en vertu de l’article 138.
+L’exploitant d’une telle entreprise est tenu de fournir à ce représentant le gîte et le couvert au prix courant
+pour les salariés.
+S. R. 1964, c. 141, a. 9; 1969, c. 47, a. 5; 1969, c. 48, a. 4; 1977, c. 41, a. 1; 1987, c. 23, a. 97; 2001, c. 26, a. 4; 2015, c. 15, a. 237.
+10.  Tout employeur a droit d’appartenir à une association d’employeurs de son choix, et de participer à la
+formation de cette association, à ses activités et à son administration.
+S. R. 1964, c. 141, a. 10; 1977, c. 41, a. 5.
+11.  Un centre de services scolaire ou une commission scolaire peut donner à une association de centres de
+services scolaires ou de commissions scolaires un mandat exclusif pour les fins des articles 52 à 93.
+Ce mandat n’est révocable qu’au temps fixé par l’article 22 pour une demande d’accréditation.
+Il appartient au Tribunal de statuer sur la validité de ce mandat.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 5 sur 64
+Tant qu’il est en vigueur, les obligations prévues aux articles 53 et 56 incombent exclusivement au
+mandataire.
+1965 (1re sess.), c. 50, a. 1; 1969, c. 47, a. 6 ; 1977, c. 41, a. 1 ; 1988, c. 84, a. 700 ; 1997, c. 47, a. 64 ; 2001, c. 26, a. 5 ; 2015, c. 15, a.
+237; 2
+0
+2
+0
+,
+c
+.
+12020, c. 1, a. 310 13.
+12.  Aucun employeur, ni aucune personne agissant pour un employeur ou une association d’employeurs,
+ne cherchera d’aucune manière à dominer, entraver ou financer la formation ou les activités d’une association
+de salariés, ni à y participer.
+Aucune association de salariés, ni aucune personne agissant pour le compte d’une telle organisation
+n’adhérera à une association d’employeurs, ni ne cherchera à dominer, entraver ou financer la formation ou
+les activités d’une telle association ni à y participer.
+S. R. 1964, c. 141, a. 11.
+13.  Nul ne doit user d’intimidation ou de menaces pour amener quiconque à devenir membre, à s’abstenir
+de devenir membre ou à cesser d’être membre d’une association de salariés ou d’employeurs.
+S. R. 1964, c. 141, a. 12; 1977, c. 41, a. 6.
+14.  Aucun employeur, ni aucune personne agissant pour un employeur ou une association d’employeurs ne
+doit refuser d’employer une personne à cause de l’exercice par cette personne d’un droit qui lui résulte du
+présent code, ni chercher par intimidation, mesures discriminatoires ou de représailles, menace de renvoi ou
+autre menace, ou par l’imposition d’une sanction ou par quelque autre moyen à contraindre un salarié à
+s’abstenir ou à cesser d’exercer un droit qui lui résulte du présent code.
+Le présent article n’a pas pour effet d’empêcher un employeur de suspendre, congédier ou déplacer un
+salarié pour une cause juste et suffisante dont la preuve lui incombe.
+S. R. 1964, c. 141, a. 13; 1983, c. 22, a. 2.
+14.0.1.  Toute plainte au Tribunal liée à l’application de l’article 12, de l’article 13 ou, dans le cas du refus
+d’employer une personne, de l’article 14, doit être déposée dans les 30 jours de la connaissance de la
+contravention alléguée.
+Outre les pouvoirs qui lui sont autrement dévolus, le Tribunal peut prononcer la dissolution d’une
+association de salariés, lorsqu’il lui est prouvé que cette association a participé à une contravention à l’article
+12. Lorsque cette association est un syndicat professionnel, le Tribunal transmet une copie authentique de sa
+décision au registraire des entreprises, qui donne avis de la décision à la Gazette officielle du Québec .
+2015, c. 15, a. 127.
+14.1.  (Abrogé).
+1987, c. 85, a. 2; 2001, c. 26, a. 173.
+15.  Lorsqu’un employeur ou une personne agissant pour un employeur ou une association d’employeurs
+congédie, suspend ou déplace un salarié, exerce à son endroit des mesures discriminatoires ou de représailles,
+ou lui impose toute autre sanction à cause de l’exercice par ce salarié d’un droit qui lui résulte du présent
+code, le Tribunal peut:
+a) ordonner à l’employeur ou à une personne agissant pour un employeur ou une association
+d’employeurs de réintégrer ce salarié dans son emploi, avec tous ses droits et privilèges, dans les huit jours de
+la signification de la décision et de lui verser, à titre d’indemnité, l’équivalent du salaire et des autres
+avantages dont l’a privé le congédiement, la suspension ou le déplacement.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 6 sur 64
+Cette indemnité est due pour toute la période comprise entre le moment du congédiement, de la suspension
+ou du déplacement et celui de l’exécution de l’ordonnance ou du défaut du salarié de reprendre son emploi
+après avoir été dûment rappelé par l’employeur.
+Si le salarié a travaillé ailleurs au cours de la période précitée, le salaire qu’il a ainsi gagné doit être déduit
+de cette indemnité;
+b) ordonner à l’employeur ou à une personne agissant pour un employeur ou une association
+d’employeurs d’annuler une sanction ou de cesser d’exercer des mesures discriminatoires ou de représailles à
+l’endroit de ce salarié et de lui verser à titre d’indemnité l’équivalent du salaire et des autres avantages dont
+l’ont privé la sanction, les mesures discriminatoires ou de représailles.
+S. R. 1964, c. 141, a. 14; 1969, c. 47, a. 7; 1977, c. 41, a. 1, a. 7; 1983, c. 22, a. 3; 2001, c. 26, a. 6; 2015, c. 15, a. 237.
+16.  Le salarié qui croit avoir été l’objet d’une sanction ou d’une mesure visée à l’article 15 doit, s’il désire
+se prévaloir des dispositions de cet article, déposer sa plainte au Tribunal dans les 30 jours de la sanction ou
+mesure dont il se plaint.
+S. R. 1964, c. 141, a. 15; 1969, c. 47, a. 7; 1969, c. 48, a. 5; 1977, c. 41, a. 1; 1983, c. 22, a. 4; 2001, c. 26, a. 7; 2015, c. 15, a. 128.
+17.  S’il est établi à la satisfaction du Tribunal que le salarié exerce un droit qui lui résulte du présent code,
+il y a présomption simple en sa faveur que la sanction lui a été imposée ou que la mesure a été prise contre lui
+à cause de l’exercice de ce droit et il incombe à l’employeur de prouver qu’il a pris cette sanction ou mesure à
+l’égard du salarié pour une autre cause juste et suffisante.
+S. R. 1964, c. 141, a. 16; 1969, c. 47, a. 7; 1969, c. 48, a. 6; 1977, c. 41, a. 1; 1983, c. 22, a. 5; 1999, c. 40, a. 59; 2001, c. 26, a. 8 ;
+2006, c. 58, a. 2; 2015, c. 15, a. 237.
+18.  (Abrogé).
+S. R. 1964, c. 141, a. 17; 1983, c. 22, a. 6.
+19.  Sur requête de l’employeur ou du salarié, le Tribunal peut fixer le quantum d’une indemnité et
+ordonner le paiement d’un intérêt au taux légal à compter du dépôt de la plainte sur les sommes dues en vertu
+de l’ordonnance.
+Il doit être ajouté à ce montant une indemnité calculée en appliquant à ce montant, à compter de la même
+date, un pourcentage égal à l’excédent du taux d’intérêt fixé suivant l’article 28 de la Loi sur l’administration
+fiscale (chapitre A-6.002) sur le taux légal d’intérêt.
+S. R. 1964, c. 141, a. 18; 1969, c. 47, a. 8; 1969, c. 48, a. 7; 1977, c. 41, a. 1, a. 8; 1983, c. 22, a. 7; 2001, c. 26, a. 9; 2010, c. 31, a.
+175; 2015, c. 15, a. 237.
+19.1.  (Abrogé).
+1977, c. 41, a. 8; 1992, c. 61, a. 173; 2001, c. 26, a. 10.
+20.  (Abrogé).
+S. R. 1964, c. 141, a. 19; 1969, c. 48, a. 8; 1977, c. 41, a. 1; 1983, c. 22, a. 8; 2001, c. 26, a. 10.
+20.0.1.  L’employeur qui a l’intention d’apporter, au mode d’exploitation de son entreprise, des
+changements ayant pour effet de modifier le statut d’un salarié, visé par une accréditation ou une requête en
+accréditation, en celui d’entrepreneur non salarié doit en prévenir l’association de salariés concernée au
+moyen d’un avis écrit comportant une description de ces changements.
+Lorsqu’elle ne partage pas l’avis de l’employeur sur les conséquences de ces changements sur le statut du
+salarié, l’association peut, dans les 30 jours qui suivent la réception de l’avis, demander au Tribunal de seCODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 7 sur 64
+prononcer sur les conséquences de ces changements sur le statut du salarié. L’association doit transmettre sans
+délai une copie de cette demande à l’employeur.
+L’employeur ne peut mettre en application les changements visés au premier alinéa avant l’expiration du
+délai prévu au deuxième alinéa ou, si l’association de salariés a alors demandé l’intervention du Tribunal,
+avant de s’être entendu avec l’association sur les conséquences de ces changements sur le statut du salarié ou
+avant la décision du Tribunal, selon la première de ces échéances.
+Le Tribunal doit rendre sa décision dans les 60 jours de la réception de la demande de l’association.
+2001, c. 26, a. 11; 2015, c. 15, a. 237.
+SECTION II
+DE CERTAINES OBLIGATIONS DES ASSOCIATIONS ACCRÉDITÉES
+1977, c. 41, a. 9.
+20.1.  Lorsqu’il y a élection à une fonction à l’intérieur d’une association accréditée, elle doit se faire au
+scrutin secret conformément aux statuts ou règlements de l’association.
+À défaut de dispositions dans les statuts ou règlements de l’association prévoyant que l’élection doit se
+faire au scrutin secret, celle-ci doit avoir lieu au scrutin secret des membres de l’association aux intervalles
+prévus dans les statuts ou règlements ou, à défaut, tous les ans.
+1977, c. 41, a. 9.
+20.2.  Une grève ne peut être déclarée qu’après avoir été autorisée au scrutin secret par un vote majoritaire
+des membres de l’association accréditée qui sont compris dans l’unité de négociation et qui exercent leur droit
+de vote.
+L’association doit prendre les moyens nécessaires, compte tenu des circonstances, pour informer ses
+membres, au moins 48 heures à l’avance, de la tenue du scrutin.
+1977, c. 41, a. 9; 1994, c. 6, a. 1.
+20.3.  La signature d’une convention collective ne peut avoir lieu qu’après avoir été autorisée au scrutin
+secret par un vote majoritaire des membres de l’association accréditée qui sont compris dans l’unité de
+négociation et qui exercent leur droit de vote.
+1977, c. 41, a. 9.
+20.4.  L’inobservation des articles 20.2 ou 20.3 ne donne ouverture qu’à l’application du chapitre IX.
+1977, c. 41, a. 9; 1992, c. 61, a. 174.
+20.5.  Les statuts ou règlements d’une association accréditée peuvent comporter des exigences supérieures
+à celles prévues aux articles 20.1 à 20.3.
+1977, c. 41, a. 9.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 8 sur 64
+SECTION III
+DE L’ACCRÉDITATION DES ASSOCIATIONS DE SALARIÉS
+1977, c. 41, a. 10.
+21.  A droit à l’accréditation l’association de salariés groupant la majorité absolue des salariés d’un
+employeur ou, dans les cas prévus au paragraphe b de l’article 28 ou aux articles 32 et 37, celle qui obtient, à
+la suite du scrutin prévu auxdits articles, la majorité absolue des voix des salariés de l’employeur, qui ont droit
+de vote.
+A également droit à l’accréditation l’association de salariés qui, dans le cas prévu à l’article 37.1, obtient le
+plus grand nombre de voix à la suite d’un scrutin.
+Le droit à l’accréditation existe à l’égard de la totalité des salariés de l’employeur ou de chaque groupe
+desdits salariés qui forme un groupe distinct aux fins du présent code, suivant l’accord intervenu entre
+l’employeur et l’association de salariés et constaté par l’agent de relations du travail, ou suivant la décision du
+Tribunal.
+Un seul salarié peut former un groupe aux fins du présent article.
+S. R. 1964, c. 141, a. 20; 1965 (1re sess.), c. 50, a. 2 ; 1969, c. 47, a. 9; 1969, c. 48, a. 9; 1970, c. 33, a. 1 ; 1971, c. 44, a. 1; 1973, c. 43,
+a. 242; 1977, c. 41, a. 1, a. 11; 1983, c. 22, a. 9; 2001, c. 26, a. 12; 2014, c. 9, a. 1; 2015, c. 15, a. 237.
+22.  L’accréditation peut être demandée:
+a) en tout temps, à l’égard d’un groupe de salariés qui n’est pas représenté par une association accréditée
+et qui n’est pas déjà visé en totalité ou en partie par une requête en accréditation;
+b) (paragraphe abrogé);
+b.1) sous réserve du paragraphe b.2, après 12 mois de la date d’une accréditation, à l’égard d’un groupe
+de salariés pour lesquels une convention collective n’a pas été conclue et pour lesquels un différend n’a pas
+été soumis à l’arbitrage ou ne fait pas l’objet d’une grève ou d’un lock-out permis par le présent code;
+b.2) après 12 mois de la décision du Tribunal sur la description de l’unité de négociation rendue en vertu
+du paragraphe d.1 de l’article 28, à l’égard d’un groupe de salariés pour lesquels une convention collective n’a
+pas été conclue et pour lesquels un différend n’a pas été soumis à l’arbitrage ou ne fait pas l’objet d’une grève
+ou d’un lock-out permis par le présent code ;
+c) après neuf mois de la date d’expiration d’une convention collective ou d’une sentence arbitrale en
+tenant lieu, à l’égard d’un groupe de salariés pour lesquels une convention collective n’a pas été conclue et
+pour lesquels un différend n’a pas été soumis à l’arbitrage ou ne fait pas l’objet d’une grève ou d’un lock-out
+permis par le présent code;
+d) du quatre-vingt-dixième au soixantième jour précédant l’expiration d’une sentence arbitrale tenant lieu
+de convention collective ou la date d’expiration ou de renouvellement d’une convention collective dont la
+durée est de trois ans ou moins;
+e) du cent quatre-vingtième au cent cinquantième jour précédant la date d’expiration ou de
+renouvellement d’une convention collective dont la durée est de plus de trois ans ainsi que, lorsque cette
+durée le permet, pendant la période s’étendant du cent quatre-vingtième au cent cinquantième jour précédant
+le sixième anniversaire de la signature ou du renouvellement de la convention et chaque deuxièmeCODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 9 sur 64
+anniversaire subséquent, sauf lorsqu’une telle période prendrait fin à 12 mois ou moins du cent quatre-
+vingtième jour précédant la date d’expiration ou de renouvellement de la convention collective.
+S. R. 1964, c. 141, a. 21; 1977, c. 41, a. 12; 1979, c. 32, a. 3; 1983, c. 22, a. 10; 1994, c. 6, a. 2; 2001, c. 26, a. 13; 2003, c. 26, a. 1 ;
+2015, c. 15, a. 237.
+23.  (Abrogé).
+1969, c. 47, a. 10; 1969, c. 48, a. 10 ; 1977, c. 41, a. 1, a. 13 ; 1978, c. 15, a. 140 ; 1979, c. 45, a. 150 ; 1981, c. 23, a. 6 ; 1981, c. 9, a. 34 ;
+1982, c. 53, a. 56; 1983, c. 55, a. 161; 1994, c. 12, a. 66; 1996, c. 29, a. 43; 1999, c. 40, a. 59; 2000, c. 8, a. 242; 2001, c. 26, a. 14.
+23.1.  (Abrogé).
+1983, c. 22, a. 11; 1999, c. 40, a. 59; 2001, c. 26, a. 14.
+24.  (Abrogé).
+1969, c. 48, a. 11; 1977, c. 41, a. 1; 1999, c. 40, a. 59; 2001, c. 26, a. 14.
+25.  L’accréditation est demandée par une association de salariés au moyen d’une requête déposée au
+Tribunal qui, sur réception, en transmet une copie à l’employeur avec toute information qu’elle juge
+appropriée.
+La requête doit être autorisée par résolution de l’association et signée par ses représentants mandatés,
+indiquer le groupe de salariés qu’elle veut représenter et être accompagnée des formules d’adhésion prévues
+au paragraphe b du premier alinéa de l’article 36.1 ou de copies de ces formules ainsi que de tout document
+ou information exigé par un règlement.
+L’employeur doit, au plus tard le jour ouvrable suivant celui de sa réception et pendant au moins 5 jours
+consécutifs, afficher une copie de cette requête et de l’avis d’audience du Tribunal dans un endroit bien en
+vue. Il doit également, dans les 5 jours de la réception de la copie de la requête, afficher, dans un endroit bien
+en vue, la liste complète des salariés de l’entreprise visés par la requête avec la mention de la fonction de
+chacun d’eux. L’employeur doit transmettre sans délai une copie de cette liste à l’association requérante et en
+tenir une copie à la disposition de l’agent de relations du travail saisi de la requête.
+S. R. 1964, c. 141, a. 22; 1969, c. 47, a. 11; 1969, c. 48, a. 12 ; 1977, c. 41, a. 14; 1983, c. 22, a. 12; 1986, c. 36, a. 1; 2001, c. 26, a. 15;
+2006, c. 58, a. 3; 2015, c. 15, a. 237.
+25.1.  (Abrogé).
+1987, c. 85, a. 10; 2001, c. 26, a. 173.
+26.  Le Tribunal peut exiger de l’association requérante ou accréditée le dépôt de ses statuts et règlements.
+S. R. 1964, c. 141, a. 23; 1977, c. 41, a. 15; 2001, c. 26, a. 16; 2015, c. 15, a. 237.
+27.  Le Tribunal met une copie de la requête en accréditation à la disposition du public par tout moyen qu’il
+juge approprié.
+S. R. 1964, c. 141, a. 24; 1969, c. 47, a. 12; 1969, c. 48, a. 13 ; 1977, c. 41, a. 1 ; 1981, c. 9, a. 34 ; 1982, c. 53, a. 56 ; 1994, c. 12, a. 66 ;
+1996, c. 29, a. 43; 2001, c. 26, a. 17; 2015, c. 15, a. 237.
+27.1.  Le dépôt d’une requête à l’égard d’un groupe de salariés qui n’est pas représenté par une association
+accréditée rend irrecevable une requête déposée à compter du jour qui suit le premier dépôt, à l’égard de la
+totalité ou d’une partie des salariés visés par la première requête.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 10 sur 64
+Aux fins du premier alinéa, une requête est réputée avoir été déposée le jour de sa réception à l’un des
+bureaux du Tribunal.
+1983, c. 22, a. 13; 2001, c. 26, a. 18; 2015, c. 15, a. 237.
+28.  En outre, sur réception de la requête, il doit être procédé de la façon suivante:
+a) le Tribunal doit dépêcher sans délai un agent de relations du travail qui doit s’assurer du caractère
+représentatif de l’association et de son droit à l’accréditation. À cette fin, l’agent de relations du travail
+procède à la vérification des livres et archives de l’association et de la liste des salariés de l’employeur; il
+peut, en tout temps, vérifier auprès de toute association, de tout employeur et de tout salarié l’observation du
+chapitre II et tout fait dont il lui appartient de s’enquérir. S’il vient à la conclusion que l’association jouit du
+caractère représentatif requis et s’il constate qu’il y a accord entre l’employeur et l’association sur l’unité de
+négociation et sur les personnes qu’elle vise, il doit l’accréditer sur-le-champ par écrit en indiquant le groupe
+de salariés qui constitue l’unité de négociation. S’il ne vient pas à la conclusion que l’association jouit du
+caractère représentatif requis, l’agent de relations du travail doit faire un rapport sommaire de sa vérification
+au Tribunal et en transmettre une copie aux parties. Il doit, dans ce rapport, mentionner les raisons pour
+lesquelles il n’a pas accordé l’accréditation;
+b) si l’agent de relations du travail constate qu’il y a accord entre l’employeur et l’association sur l’unité
+de négociation et sur les personnes qu’elle vise et qu’il y a entre 35% et 50% des salariés dans cette unité qui
+sont membres de l’association de salariés, il procède au scrutin pour s’assurer du caractère représentatif de
+cette dernière. Il accrédite l’association si elle obtient la majorité absolue des voix des salariés compris dans
+l’unité de négociation. S’il ne vient pas à la conclusion que l’association jouit du caractère représentatif
+requis, l’agent de relations du travail doit faire un rapport sommaire de sa vérification au Tribunal et en
+transmettre une copie aux parties. Il doit, dans ce rapport, mentionner les raisons pour lesquelles il n’a pas
+accordé l’accréditation;
+c) si l’employeur refuse son accord sur l’unité de négociation demandée il doit, par écrit, en expliciter les
+raisons et proposer l’unité qu’il croit appropriée à l’agent de relations du travail. Celui-ci doit faire un rapport
+sommaire du désaccord au Tribunal et en transmettre une copie aux parties. Ce rapport doit comporter les
+raisons explicitées par l’employeur, la description de l’unité que celui-ci croit appropriée et, le cas échéant, la
+mention qu’il y a entre 35% et 50% des salariés dans l’unité de négociation demandée qui sont membres de
+l’association de salariés. Si l’employeur néglige ou refuse de communiquer les raisons de son désaccord et de
+proposer l’unité qu’il croit appropriée dans les 15 jours de la réception d’une copie de la requête, il est
+présumé avoir donné son accord sur l’unité de négociation. L’agent de relations du travail procède alors
+suivant le paragraphe a ou le paragraphe b, selon le cas;
+d) si l’agent de relations du travail constate qu’il y a accord entre l’employeur et l’association sur l’unité
+de négociation, mais non sur certaines personnes visées par la requête, il accrédite néanmoins l’association
+sur-le-champ si cette dernière jouit du caractère représentatif pour l’unité de négociation demandée, peu
+importe que les personnes sur lesquelles il n’y a pas accord soient éventuellement, selon la décision du
+Tribunal, incluses dans l’unité de négociation ou qu’elles en soient exclues. En même temps, l’agent de
+relations du travail fait un rapport du désaccord visé ci-dessus au Tribunal et en transmet une copie aux
+parties. Ce désaccord ne peut avoir pour effet d’empêcher la conclusion d’une convention collective;
+d.1) l’agent de relations du travail accrédite l’association sur-le-champ même si l’employeur refuse son
+accord sur une partie de l’unité de négociation, lorsqu’il constate que l’association jouit néanmoins du
+caractère représentatif et qu’il estime qu’elle conservera son caractère représentatif quelle que soit la décision
+éventuelle du Tribunal sur la description de l’unité de négociation. En même temps, l’agent de relations du
+travail fait un rapport du désaccord au Tribunal et en transmet une copie aux parties. Aucun avis de
+négociation ne peut être donné par l’association accréditée avant la décision du Tribunal sur la description de
+l’unité de négociation;
+e) lorsqu’il y a déjà une association accréditée, ou qu’il y a plus d’une association de salariés requérante,
+l’agent de relations du travail, s’il constate qu’il y a accord entre l’employeur et toute association en cause sur
+l’unité de négociation et sur les personnes qu’elle vise, accrédite l’association qui groupe la majorité absolueCODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 11 sur 64
+des salariés ou, à défaut, procède à un scrutin secret suivant les dispositions de l’article 37 et accrédite
+conséquemment l’association qui a obtenu le plus grand nombre de voix conformément aux dispositions de
+l’article 37.1. S’il y a désaccord sur l’unité de négociation ou sur les personnes qu’elle vise, l’agent fait un
+rapport du désaccord au Tribunal et en transmet une copie aux parties.
+1969, c. 47, a. 12; 1969, c. 48, a. 14; 1977, c. 41, a. 1, a. 16; 1983, c. 22, a. 14; 2001, c. 26, a. 19; 2015, c. 15, a. 237.
+29.  L’agent de relations du travail ne peut accréditer une association dès qu’il a des raisons de croire que
+l’article 12 n’a pas été respecté ou qu’il est informé qu’un tiers ou une partie intéressée a déposé une plainte
+en vertu de cet article. Toutefois, il peut, de sa propre initiative ou à la demande du Tribunal, effectuer une
+enquête sur cette contravention appréhendée à l’article 12.
+Il peut aussi suspendre la vérification qu’il effectue en vertu de l’article 28.
+Aux fins de l’enquête visée au premier alinéa, l’agent de relations du travail peut:
+1° avoir accès à toute heure raisonnable à tout lieu de travail ou établissement d’une partie pour obtenir
+une information nécessaire à l’application du présent code;
+2° exiger tout renseignement nécessaire pour l’application du code, de même que la communication pour
+examen et reproduction de tout document s’y rapportant.
+Il doit, sur demande, s’identifier et exhiber le certificat délivré par le Tribunal attestant sa qualité.
+1969, c. 47, a. 12; 1969, c. 48, a. 14; 1977, c. 41, a. 1; 1983, c. 22, a. 15; 2001, c. 26, a. 20; 2015, c. 15, a. 237.
+30.  L’agent de relations du travail doit faire un rapport de toute enquête effectuée de sa propre initiative ou
+à la demande du Tribunal. Il doit aussi faire un rapport de toute vérification qu’il a suspendue en application
+de l’article 29.
+Un tel rapport doit être transmis au président du Tribunal, versé au dossier de l’affaire et transmis aux
+parties intéressées. Celles-ci peuvent présenter leurs observations par écrit au Tribunal dans les cinq jours de
+la réception de ce rapport. Ces observations, le cas échéant, sont également versées au dossier de l’affaire.
+1969, c. 47, a. 12; 1969, c. 48, a. 14; 1977, c. 41, a. 1, a. 17; 2001, c. 26, a. 20; 2015, c. 15, a. 237.
+31.  Le Tribunal ne peut accréditer une association de salariés s’il est établi à sa satisfaction que l’article 12
+n’a pas été respecté.
+Lorsqu’il a à statuer sur une requête en accréditation, le Tribunal peut soulever d’office le non respect de
+l’article 12.
+1969, c. 48, a. 14; 1977, c. 41, a. 18; 1983, c. 22, a. 16; 2001, c. 26, a. 20; 2015, c. 15, a. 237.
+32.  Lorsqu’il est saisi d’une requête en accréditation, le Tribunal décide de toute question relative à l’unité
+de négociation et aux personnes qu’elle vise; il peut à cette fin modifier l’unité proposée par l’association
+requérante.
+Sont seuls parties intéressées quant à l’unité de négociation et aux personnes qu’elle vise, toute association
+en cause et l’employeur.
+Il doit également décider du caractère représentatif de l’association requérante par tout moyen d’enquête
+qu’il juge opportun et notamment par le calcul des effectifs de l’association requérante ou par la tenue d’un
+vote au scrutin secret.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 12 sur 64
+Sont seuls parties intéressées quant au caractère représentatif d’une association de salariés, tout salarié
+compris dans l’unité de négociation ou toute association de salariés intéressée.
+1969, c. 48, a. 14; 1977, c. 41, a. 1; 1983, c. 22, a. 17; 1999, c. 40, a. 59; 2001, c. 26, a. 21; 2015, c. 15, a. 237.
+33.  (Abrogé).
+1969, c. 48, a. 14; 1977, c. 41, a. 1, a. 19; 1992, c. 61, a. 175; 2001, c. 26, a. 22.
+34.  (Abrogé).
+1969, c. 48, a. 14; 1977, c. 41, a. 20; 2001, c. 26, a. 22.
+35.  Le dossier du Tribunal comprend les rapports produits par l’agent de relations du travail en vertu des
+articles 28 et 30, les pièces et documents qui ont été déposés, l’enregistrement ou la sténographie des
+témoignages, le cas échéant, ainsi que la décision du Tribunal. Il ne comprend pas la liste des membres des
+associations en cause non plus que les pièces ou documents qui identifient l’appartenance d’un salarié à une
+association de salariés.
+1969, c. 48, a. 14; 1977, c. 41, a. 21; 2001, c. 26, a. 23; 2015, c. 15, a. 237.
+36.  L’appartenance d’une personne à une association de salariés ne doit être révélée par quiconque au
+cours de la procédure d’accréditation ou de révocation d’accréditation sauf au Tribunal, à un membre de son
+personnel ou au juge d’un tribunal saisi d’un pourvoi en contrôle judiciaire prévu au Code de procédure civile
+(chapitre C-25.01) relatif à une accréditation. Ces personnes ainsi que toute autre personne qui prend
+connaissance de cette appartenance sont tenues au secret.
+1969, c. 48, a. 14; 1977, c. 41, a. 1; 1983, c. 22, a. 18; 2001, c. 26, a. 24; 2015, c. 15, a. 237; N.I. 2016-01-01 (NCPC).
+36.1.  Aux fins de l’établissement du caractère représentatif d’une association de salariés ou de la
+vérification du caractère représentatif d’une association accréditée, une personne est reconnue membre de
+cette association lorsqu’elle satisfait aux conditions suivantes:
+a) elle est un salarié compris dans l’unité de négociation visée par la requête;
+b) elle a signé une formule d’adhésion dûment datée et qui n’a pas été révoquée avant le dépôt de la
+requête en accréditation ou la demande de vérification du caractère représentatif;
+c) elle a payé personnellement à titre de cotisation syndicale une somme d’au moins 2 $ dans les douze
+mois précédant soit la demande de vérification du caractère représentatif, soit le dépôt de la requête en
+accréditation ou sa mise à la poste par poste recommandée;
+d) elle a rempli les conditions prévues aux paragraphes a à c soit le ou avant le jour de la demande de
+vérification du caractère représentatif, soit le ou avant le jour du dépôt de la requête en accréditation.
+Le Tribunal ne doit tenir compte d’aucune autre condition exigible selon les statuts ou règlements de cette
+association de salariés.
+1977, c. 41, a. 22; 2001, c. 26, a. 25; 2015, c. 15, a. 237; N.I. 2016-01-01 (NCPC).
+37.  Le Tribunal doit ordonner un vote au scrutin secret chaque fois qu’une association requérante groupe
+entre 35% et 50% des salariés dans l’unité de négociation appropriée. Seules peuvent briguer les suffrages
+l’association ou les associations requérantes qui groupent chacune au moins 35% des salariés visés ainsi que
+l’association accréditée, s’il y en a une.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 13 sur 64
+Le présent article ne s’applique pas si l’une des associations groupe la majorité absolue des salariés.
+S. R. 1964, c. 141, a. 25; 1969, c. 47, a. 13; 1969, c. 48, a. 15 ; 1977, c. 41, a. 1, a. 23; 1983, c. 22, a. 19; 2001, c. 26, a. 26; 2015, c. 15,
+a. 237.
+37.1.  Lorsqu’un vote au scrutin secret ordonné en vertu de la présente section met en présence plus de
+deux associations de salariés et qu’elles obtiennent ensemble la majorité absolue des voix des salariés qui ont
+droit de vote sans que l’une d’elle n’obtienne la majorité absolue, le Tribunal doit ordonner la tenue d’un
+nouveau vote au scrutin secret sans la participation de celle qui a obtenu le plus petit nombre de voix.
+Lorsqu’un vote au scrutin secret ordonné en vertu de la présente section met en présence deux associations
+de salariés, le Tribunal accrédite celle qui a obtenu le plus grand nombre de voix si les deux associations
+obtiennent ensemble la majorité absolue des voix des salariés qui ont droit de vote.
+1983, c. 22, a. 20; 2001, c. 26, a. 27; 2015, c. 15, a. 237.
+37.2.  Lorsqu’il procède à un scrutin secret ou ordonne la tenue d’un vote au scrutin secret en vertu du
+présent code ou d’une autre loi, le Tribunal en détermine les règles et peut prendre toute mesure et donner
+toute instruction qui lui semblent nécessaires en vue de l’efficacité et de la régularité du scrutin.
+2006, c. 58, a. 4; 2015, c. 15, a. 237.
+38.  Tout employeur est tenu de faciliter la tenue du scrutin et tout salarié faisant partie d’un groupe désigné
+par le Tribunal est tenu de voter, à moins d’une excuse légitime.
+S. R. 1964, c. 141, a. 26; 1969, c. 47, a. 13; 1977, c. 41, a. 1; 2001, c. 26, a. 27; 2015, c. 15, a. 237.
+39.  De plein droit, au cours de son enquête, et en tout temps sur requête d’une partie intéressée, le Tribunal
+peut décider si une personne est un salarié ou un membre d’une association, si elle est comprise dans l’unité
+de négociation, et toutes autres questions relatives à l’accréditation.
+S. R. 1964, c. 141, a. 30; 1969, c. 47, a. 17; 1977, c. 41, a. 1, a. 24; 1983, c. 22, a. 21; 2001, c. 26, a. 27; 2015, c. 15, a. 237.
+39.1.  La décision concernant une requête en accréditation doit être rendue dans les 60 jours de son dépôt.
+L’article 35 de la Loi instituant le Tribunal administratif du travail (chapitre T-15.1) ne s’applique pas
+lorsque la décision est rendue par un agent de relations du travail. Celui-ci permet cependant aux parties
+intéressées de présenter leurs observations et, s’il y a lieu, de produire des documents pour compléter leur
+dossier.
+2015, c. 15, a. 129.
+40.  Une requête en accréditation ne peut être renouvelée avant trois mois de son rejet par le Tribunal ou
+d’un désistement produit par une association requérante sauf s’il s’agit d’une requête irrecevable en vertu de
+l’article 27.1, d’un désistement produit à la suite du regroupement des territoires de municipalités locales ou
+de ceux de centres de services scolaires ou de commissions scolaires, d’une intégration de personnel dans une
+communauté métropolitaine ou de la création d’une société de transport.
+S. R. 1964, c. 141, a. 31; 1969, c. 47, a. 18 ; 1977, c. 41, a. 1, a. 25 ; 1983, c. 22, a. 22 ; 1988, c. 84, a. 701 ; 1993, c. 67, a. 110 ; 1996, c.
+2, a. 219; 2000, c. 56, a. 218; 2001, c. 26, a. 28; 2015, c. 15, a. 237; 2
+0
+2
+0
+,
+c
+.
+12020, c. 1, a. 310 13.
+41.  Le Tribunal peut, au temps fixé au paragraphe b.1, b.2, c, d ou e de l’article 22, et le cas échéant à
+l’article 111.3, révoquer l’accréditation d’une association qui:
+a) a cessé d’exister, ou
+b) ne groupe plus la majorité absolue des salariés qui font partie de l’unité de négociation pour laquelle
+elle a été accréditée.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 14 sur 64
+Malgré le quatrième alinéa de l’article 32, un employeur peut, dans le délai prévu à l’alinéa précédent,
+demander au Tribunal de vérifier si l’association existe encore ou si elle représente encore la majorité absolue
+des salariés qui font partie de l’unité de négociation pour laquelle elle a été accréditée.
+Un agent de relations du travail chargé de vérifier le caractère représentatif de l’association envoie une
+copie de son rapport au requérant, à l’association et à l’employeur. Ceux-ci peuvent contester ce rapport en
+exposant par écrit leurs motifs au Tribunal dans les 10 jours de la réception du rapport.
+S. R. 1964, c. 141, a. 32; 1969, c. 47, a. 19; 1969, c. 48, a. 17 ; 1977, c. 41, a. 1, a. 26; 1978, c. 52, a. 1; 1983, c. 22, a. 23; 1994, c. 6, a.
+3; 2001, c. 26, a. 29; 2015, c. 15, a. 237.
+42.  À la suite d’une requête en accréditation, en révision ou en révocation d’accréditation ou d’une requête
+portant sur une question relative à l’application de l’article 45, le Tribunal peut ordonner la suspension des
+négociations et du délai pour l’exercice du droit de grève ou de lock-out et empêcher le renouvellement d’une
+convention collective.
+En ce cas, les conditions de travail prévues dans la convention collective demeurent en vigueur et l’article
+60 s’applique jusqu’à la décision du Tribunal.
+S. R. 1964, c. 141, a. 33; 1969, c. 47, a. 20; 1969, c. 48, a. 18 ; 1977, c. 41, a. 27 ; 1994, c. 6, a. 4 ; 2001, c. 26, a. 30 ; 2006, c. 58, a. 5 ;
+2015, c. 15, a. 237.
+43.  L’accréditation d’une association de salariés annule de plein droit l’accréditation de toute autre
+association pour le groupe visé par la nouvelle accréditation.
+S. R. 1964, c. 141, a. 34; 1969, c. 47, a. 21.
+44.  La révocation de l’accréditation empêche le renouvellement de toute convention collective conclue par
+l’association privée de son accréditation et emporte aussi de plein droit pour cette dernière la déchéance des
+droits et avantages lui résultant de cette convention collective.
+S. R. 1964, c. 141, a. 35; 1969, c. 47, a. 22.
+45.  L’aliénation ou la concession totale ou partielle d’une entreprise n’invalide aucune accréditation
+accordée en vertu du présent code, aucune convention collective, ni aucune procédure en vue de l’obtention
+d’une accréditation ou de la conclusion ou de l’exécution d’une convention collective.
+Sans égard à la division, à la fusion ou au changement de structure juridique de l’entreprise, le nouvel
+employeur est lié par l’accréditation ou la convention collective comme s’il y était nommé et devient par le
+fait même partie à toute procédure s’y rapportant, aux lieu et place de l’employeur précédent.
+Le deuxième alinéa ne s’applique pas dans un cas de concession partielle d’entreprise lorsque la
+concession n’a pas pour effet de transférer au concessionnaire, en plus de fonctions ou d’un droit
+d’exploitation, la plupart des autres éléments caractéristiques de la partie d’entreprise visée.
+S. R. 1964, c. 141, a. 36; 1969, c. 47, a. 23; 1969, c. 48, a. 19; 2001, c. 26, a. 31; 2003, c. 26, a. 2.
+45.1.  (Abrogé).
+2001, c. 26, a. 32; 2003, c. 26, a. 3.
+45.2.  Dans le cas d’une concession partielle d’une entreprise, les règles suivantes s’appliquent:
+1° la convention collective visée au deuxième alinéa de l’article 45 qui n’est pas expirée lors de la prise
+d’effet de la concession est réputée expirer, aux fins des relations du travail entre le nouvel employeur et
+l’association de salariés concernée, le jour de cette prise d’effet;CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 15 sur 64
+2° le nouvel employeur n’est pas lié par l’accréditation ou la convention collective lorsqu’une entente
+particulière portant sur cette concession comporte une clause à l’effet que les parties renoncent à l’application
+du deuxième alinéa de l’article 45. Une telle clause lie le Tribunal mais n’affecte pas la portée, chez
+l’employeur cédant, de l’accréditation de l’association de salariés signataire.
+Le paragraphe 1° du premier alinéa ne s’applique pas dans le cas d’une concession partielle d’entreprise
+entre employeurs des secteurs public et parapublic au sens du paragraphe 1° de l’article 111.2.
+2001, c. 26, a. 32; 2003, c. 26, a. 4; 2015, c. 15, a. 237.
+45.3.  Lorsqu’une entreprise, dont les relations du travail étaient jusqu’alors régies par le Code canadien du
+travail (Lois révisées du Canada (1985), chapitre L-2), passe, en ce domaine, sous la compétence législative
+du Québec, les dispositions suivantes s’appliquent:
+1° une accréditation accordée, une convention collective conclue par un syndicat accrédité ainsi qu’une
+procédure engagée en vertu du Code canadien du travail en vue de l’obtention d’une accréditation ou de la
+conclusion ou de l’exécution d’une convention collective sont réputées être une accréditation accordée, une
+convention collective conclue et déposée et une procédure engagée en vertu du présent code;
+2° l’employeur demeure lié par l’accréditation ou la convention collective, ou encore, dans les
+circonstances où le deuxième alinéa de l’article 45 aurait été applicable si l’entreprise avait alors été de la
+compétence législative du Québec, le nouvel employeur devient lié par l’accréditation ou la convention
+collective comme s’il y était nommé et il devient par le fait même partie à toute procédure s’y rapportant, aux
+lieux et place de l’employeur précédent;
+3° les procédures alors en cours en vue de l’obtention d’une accréditation ou de la conclusion ou de
+l’exécution d’une convention collective sont continuées et décidées suivant les dispositions du présent code,
+compte tenu des adaptations nécessaires;
+4° les dispositions du troisième alinéa de l’article 45 ou de l’article 45.2, selon le cas, s’appliquent
+lorsque le passage résulte d’une concession partielle d’entreprise.
+2001, c. 26, a. 32; 2003, c. 26, a. 5.
+46.  Il appartient au Tribunal, sur requête d’une partie intéressée, de trancher toute question relative à
+l’application des articles 45 à 45.3. À cette fin, il peut notamment en déterminer l’applicabilité.
+Il peut aussi, sur requête d’une partie intéressée, régler toute difficulté découlant de l’application de ces
+articles et de leurs effets de la façon qu’il estime la plus appropriée. À cette fin, il peut notamment rendre
+toute décision nécessaire à la mise en oeuvre d’une entente entre les parties intéressées sur la description des
+unités de négociation et sur la désignation d’une association pour représenter le groupe de salariés visé par
+l’unité de négociation décrite à cette entente ou sur toute autre question d’intérêt commun.
+À cette même fin et lorsque plusieurs associations de salariés sont mises en présence par l’application des
+articles 45 et 45.3, le Tribunal peut également:
+1° accorder ou modifier une accréditation;
+2° accréditer l’association de salariés qui groupe la majorité absolue des salariés ou procéder à un scrutin
+secret suivant les dispositions de l’article 37 et accréditer conséquemment l’association qui a obtenu le plus
+grand nombre de voix conformément aux dispositions de l’article 37.1;
+3° décrire ou modifier une unité de négociation;
+4° fusionner des unités de négociation et, lorsque plusieurs conventions collectives s’appliquent aux
+salariés du nouvel employeur compris dans une unité de négociation résultant de cette fusion, déterminer laCODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 16 sur 64
+convention collective qui demeure en vigueur et apporter aux dispositions de celle-ci toute modification ou
+adaptation qu’elle juge nécessaire.
+La fusion d’unités de négociation emporte la fusion, s’il en est, des listes d’ancienneté des salariés qu’elles
+visaient, selon les règles d’intégration des salariés déterminées par le Tribunal.
+Lorsqu’une concession d’entreprise survient durant la procédure en vue de l’obtention d’une accréditation,
+le Tribunal peut décider que l’employeur cédant et le concessionnaire sont successivement liés par
+l’accréditation.
+Le Tribunal peut aussi, sur requête d’une partie intéressée déposée au plus tard le trentième jour suivant la
+prise d’effet d’une concession partielle d’entreprise et lorsqu’il juge que cette concession a été faite dans le
+but principal d’entraver la formation d’une association de salariés ou de porter atteinte au maintien de
+l’intégralité d’une association de salariés accréditée:
+1° écarter l’application, le cas échéant, du troisième alinéa de l’article 45 et rendre toute décision
+appropriée pour favoriser l’application du deuxième alinéa du même article;
+2° écarter l’application du paragraphe 1° du premier alinéa de l’article 45.2 et déterminer que le nouvel
+employeur demeure lié, jusqu’à la date prévue de son expiration, par la convention collective visée au
+deuxième alinéa de l’article 45.
+S. R. 1964, c. 141, a. 37; 1969, c. 47, a. 24; 1969, c. 48, a. 20 ; 1977, c. 41, a. 1 ; 1990, c. 69, a. 2 ; 2001, c. 26, a. 33 ; 2003, c. 26, a. 6 ;
+2015, c. 15, a. 237.
+46.1.  La décision du Tribunal sur une requête visée au premier alinéa de l’article 46 et portant sur
+l’applicabilité des articles 45 à 45.3 doit être rendue dans les 90 jours du dépôt de la requête.
+2015, c. 15, a. 130.
+47.  Un employeur doit retenir sur le salaire de tout salarié qui est membre d’une association accréditée le
+montant spécifié par cette association à titre de cotisation.
+L’employeur doit, de plus, retenir sur le salaire de tout autre salarié faisant partie de l’unité de négociation
+pour laquelle cette association a été accréditée, un montant égal à celui prévu au premier alinéa.
+L’employeur est tenu de remettre mensuellement à l’association accréditée les montants ainsi retenus avec
+un état indiquant le montant prélevé de chaque salarié et le nom de celui-ci.
+S. R. 1964, c. 141, a. 38; 1977, c. 41, a. 28.
+47.1.  Une association accréditée doit divulguer chaque année à ses membres ses états financiers. Elle doit
+aussi remettre gratuitement au membre qui en fait la demande une copie de ces états financiers.
+1977, c. 41, a. 28.
+47.2.  Une association accréditée ne doit pas agir de mauvaise foi ou de manière arbitraire ou
+discriminatoire, ni faire preuve de négligence grave à l’endroit des salariés compris dans une unité de
+négociation qu’elle représente, peu importe qu’ils soient ses membres ou non.
+1977, c. 41, a. 28.
+47.2.1.  (Abrogé).
+1987, c. 85, a. 21; 2001, c. 26, a. 173.
+47.3.  Si un salarié qui a subi un renvoi ou une mesure disciplinaire, ou qui croit avoir été victime de
+harcèlement psychologique, selon les articles 81.18 à 81.20 de la Loi sur les normes du travail ( chapitre N ‐CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 17 sur 64
+1.1), croit que l’association accréditée contrevient à cette occasion à l’article 47.2, il doit, s’il désire se
+prévaloir de cet article, porter plainte et demander par écrit au Tribunal d’ordonner que sa réclamation soit
+déférée à l’arbitrage.
+1977, c. 41, a. 28; 1994, c. 6, a. 5; 2001, c. 26, a. 34; 2002, c. 80, a. 77; 2015, c. 15, a. 131; 2015, c. 15, a. 237.
+47.4.  (Abrogé).
+1977, c. 41, a. 28; 1983, c. 22, a. 24; 1994, c. 6, a. 6; 2001, c. 26, a. 35.
+47.5.  Toute plainte portée en application de l’article 47.2 doit l’être dans les six mois de la connaissance de
+l’agissement dont le salarié se plaint.
+Si le Tribunal estime que l’association a contrevenu à l’article 47.2, il peut autoriser le salarié à soumettre
+sa réclamation à un arbitre nommé par le ministre pour décision selon la convention collective comme s’il
+s’agissait d’un grief. Les articles 100 à 101.10 s’appliquent, compte tenu des adaptations nécessaires.
+L’association paie les frais encourus par le salarié.
+Le Tribunal peut, en outre, rendre toute autre ordonnance qu’il juge nécessaire dans les circonstances.
+1977, c. 41, a. 28; 2001, c. 26, a. 36; 2015, c. 15, a. 132 et 237.
+47.6.  Si une réclamation est déférée à un arbitre en vertu de l’article 47.5, l’employeur ne peut opposer
+l’inobservation par l’association de la procédure et des délais prévus à la convention collective pour le
+règlement des griefs.
+1977, c. 41, a. 28.
+48.  (Abrogé).
+S. R. 1964, c. 141, a. 39; 1969, c. 47, a. 25; 1969, c. 48, a. 21; 1977, c. 41, a. 29.
+49.  (Abrogé).
+1969, c. 47, a. 26; 1969, c. 48, a. 22; 1977, c. 41, a. 30; 1983, c. 22, a. 25; 1986, c. 95, a. 79; 2001, c. 26, a. 37.
+50.  (Abrogé).
+1969, c. 47, a. 26; 1969, c. 48, a. 23; 1977, c. 41, a. 1, a. 31; 2001, c. 26, a. 37.
+SECTION IV
+Abrogée, 2001, c. 26, a. 37.
+1994, c. 6, a. 7; 2001, c. 26, a. 37.
+50.1.  (Abrogé).
+1994, c. 6, a. 7; 2001, c. 26, a. 37.
+50.2.  (Abrogé).
+1994, c. 6, a. 7; 2001, c. 26, a. 37.
+51.  (Abrogé).
+1969, c. 47, a. 26; 1969, c. 48, a. 24; 1977, c. 41, a. 1, a. 32; 2001, c. 26, a. 37.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 18 sur 64
+51.1.  (Abrogé).
+1977, c. 41, a. 33; 2001, c. 26, a. 37.
+CHAPITRE III
+DE LA CONVENTION COLLECTIVE
+52.  L’association accréditée donne à l’employeur, ou celui-ci donne à l’association accréditée, un avis écrit
+d’au moins huit jours de la date, de l’heure et du lieu où ses représentants seront prêts à rencontrer l’autre
+partie ou ses représentants pour la conclusion d’une convention collective.
+L’association accréditée ou l’employeur peut donner cet avis dans les 90 jours précédant l’expiration de la
+convention, à moins qu’un autre délai n’y soit prévu.
+L’association accréditée ou l’employeur peut donner cet avis dans les 90 jours précédant l’expiration d’une
+sentence arbitrale tenant lieu de convention collective.
+Dans le cas d’une convention collective visée au paragraphe 1° du premier alinéa de l’article 45.2,
+l’association accréditée ou l’employeur peut donner cet avis dans les 30 jours suivant l’expiration réputée de
+la convention.
+S. R. 1964, c. 141, a. 40; 1969, c. 47, a. 27; 1969, c. 48, a. 25; 1977, c. 41, a. 34; 2003, c. 26, a. 7.
+52.1.  La partie qui donne un avis en vertu de l’article 52 doit le transmettre à son destinataire par
+télécopieur, messagerie ou poste recommandée ou le lui faire signifier par un huissier.
+1977, c. 41, a. 35; 1994, c. 6, a. 8; N.I. 2016-01-01 (NCPC).
+52.2.  Si aucun avis n’est donné suivant l’article 52, l’avis prévu audit article est réputé avoir été reçu le
+jour de l’expiration de la convention collective ou de la sentence arbitrale en tenant lieu, sauf dans la situation
+visée au quatrième alinéa de cet article, où il est réputé avoir été reçu le trentième jour suivant l’expiration
+réputée de la convention.
+Si l’association de salariés nouvellement accréditée n’a pas donné un semblable avis, l’avis est réputé avoir
+été reçu 90 jours après la date de l’obtention de l’accréditation.
+En tout temps, le Tribunal peut, sur simple demande de tout intéressé, déterminer la date d’expiration de la
+convention collective lorsque cette date n’y est pas clairement indiquée.
+1977, c. 41, a. 35; 1994, c. 6, a. 9; 2001, c. 26, a. 38; 2003, c. 26, a. 8; 2015, c. 15, a. 237.
+53.  La phase des négociations commence à compter du moment où l’avis visé à l’article 52 a été reçu par
+son destinataire ou est réputé avoir été reçu suivant l’article 52.2.
+Les négociations doivent commencer et se poursuivre avec diligence et bonne foi.
+S. R. 1964, c. 141, a. 41; 1977, c. 41, a. 36; 1994, c. 6, a. 10.
+53.1.  L’employeur ou l’association accréditée ne peut refuser de négocier ou retarder la négociation au
+seul motif qu’il y a désaccord entre les parties sur les personnes visées par l’accréditation.
+1983, c. 22, a. 26.
+54.  À toute phase des négociations, l’une ou l’autre des parties peut demander au ministre de désigner un
+conciliateur pour les aider à effectuer une entente.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 19 sur 64
+Avis de cette demande doit être donné le même jour à l’autre partie.
+Sur réception de cette demande, le ministre doit désigner un conciliateur.
+S. R. 1964, c. 141, a. 42; 1977, c. 41, a. 36.
+55.  À toute phase des négociations, le ministre peut, d’office, désigner un conciliateur; il doit alors
+informer les parties de cette nomination.
+S. R. 1964, c. 141, a. 43; 1977, c. 41, a. 36.
+56.  Les parties sont tenues d’assister à toute réunion où le conciliateur les convoque.
+S. R. 1964, c. 141, a. 44; 1977, c. 41, a. 36.
+57.  Le conciliateur fait rapport au ministre à la demande de ce dernier.
+S. R. 1964, c. 141, a. 45; 1977, c. 41, a. 36.
+57.1.  (Abrogé).
+1983, c. 22, a. 27; 1987, c. 68, a. 39; 1993, c. 6, a. 2.
+58.  Le droit à la grève ou au lock-out est acquis 90 jours après la réception, par son destinataire, de l’avis
+qui lui a été signifié ou transmis suivant l’article 52.1 ou qu’il est réputé avoir reçu suivant l’article 52.2, à
+moins qu’une convention collective ne soit intervenue entre les parties ou à moins que celles-ci ne décident
+d’un commun accord de soumettre leur différend à un arbitre.
+S. R. 1964, c. 141, a. 46; 1977, c. 41, a. 36; 1983, c. 22, a. 28; 1994, c. 6, a. 11.
+58.1.  La partie qui déclare une grève ou un lock-out doit informer, par écrit, le ministre dans les quarante-
+huit heures qui suivent la déclaration de la grève ou du lock-out, suivant le cas, et indiquer le nombre de
+salariés compris dans l’unité de négociation concernée.
+1977, c. 41, a. 36.
+58.2.  Lorsqu’il estime qu’une telle mesure est de nature à favoriser la négociation ou la conclusion d’une
+convention collective, le Tribunal peut, à la demande de l’employeur, ordonner à une association accréditée
+de tenir, à la date ou dans le délai qu’elle détermine, un scrutin secret pour donner à ses membres compris
+dans l’unité de négociation l’occasion d’accepter ou de refuser les dernières offres que lui a faites l’employeur
+sur toutes les questions faisant toujours l’objet d’un différend entre les parties.
+Le Tribunal ne peut ordonner la tenue d’un tel scrutin qu’une seule fois durant la phase des négociations
+d’une convention collective.
+Le scrutin est tenu sous la surveillance du Tribunal.
+2001, c. 26, a. 39; 2006, c. 58, a. 6; 2015, c. 15, a. 237.
+59.  À compter du dépôt d’une requête en accréditation et tant que le droit au lock-out ou à la grève n’est
+pas exercé ou qu’une sentence arbitrale n’est pas intervenue, un employeur ne doit pas modifier les conditions
+de travail de ses salariés sans le consentement écrit de chaque association requérante et, le cas échéant, de
+l’association accréditée.
+Il en est de même à compter de l’expiration de la convention collective et tant que le droit au lock-out ou à
+la grève n’est pas exercé ou qu’une sentence arbitrale n’est pas intervenue.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 20 sur 64
+Les parties peuvent prévoir dans une convention collective que les conditions de travail contenues dans
+cette dernière vont continuer de s’appliquer jusqu’à la signature d’une nouvelle convention.
+S. R. 1964, c. 141, a. 47; 1969, c. 47, a. 28; 1977, c. 41, a. 37; 1994, c. 6, a. 12.
+60.  Pendant la période visée à l’article 59, il est interdit de conseiller ou d’enjoindre à des salariés de ne
+pas continuer à fournir leurs services à leur employeur aux mêmes conditions de travail.
+S. R. 1964, c. 141, a. 48.
+61.  Une association accréditée est subrogée de plein droit dans tous les droits et obligations résultant d’une
+convention collective en vigueur conclue par une autre association; cependant elle peut y mettre fin ou la
+déclarer non avenue par avis écrit transmis à l’employeur et au Tribunal.
+S. R. 1964, c. 141, a. 49; 1969, c. 47, a. 29; 1977, c. 41, a. 1; 2001, c. 26, a. 40; 2015, c. 15, a. 237.
+61.1.  Dans le cas d’une exploitation forestière, une association accréditée est subrogée de plein droit dans
+tous les droits et obligations résultant d’une convention collective en vigueur conclue par une autre
+association, y compris le précompte des cotisations syndicales. Cependant, elle ne peut mettre fin à cette
+convention collective ou la déclarer non avenue lorsque celle-ci est d’une durée de trois ans ou moins.
+1977, c. 41, a. 38; 1994, c. 6, a. 13.
+62.  La convention collective peut contenir toute disposition relative aux conditions de travail qui n’est pas
+contraire à l’ordre public ni prohibée par la loi.
+S. R. 1964, c. 141, a. 50 ( partie ).
+63.  Un employeur ne peut être tenu, en vertu d’une disposition de la convention collective, de renvoyer un
+salarié pour la seule raison que l’association accréditée a refusé ou différé d’admettre ce salarié comme
+membre ou l’a suspendu ou exclu de ses rangs, sauf dans les cas suivants:
+a) le salarié a été embauché à l’encontre d’une disposition de la convention collective;
+b) le salarié a participé, à l’instigation ou avec l’aide directe ou indirecte de son employeur ou d’une
+personne agissant pour ce dernier, à une activité contre l’association accréditée.
+S. R. 1964, c. 141, a. 50 ( partie ); 1977, c. 41, a. 39.
+64.  Une convention collective n’est pas invalidée par la nullité d’une ou plusieurs de ses clauses.
+S. R. 1964, c. 141, a. 52.
+65.  Une convention collective doit être d’une durée déterminée d’au moins un an.
+La durée doit être d’au plus trois ans s’il s’agit d’une première convention collective pour le groupe de
+salariés visé par l’accréditation.
+S. R. 1964, c. 141, a. 53; 1965 (1re sess.), c. 50, a. 3; 1994, c. 6, a. 14.
+66.  Est présumée en vigueur pour la durée d’une année, la convention ne comportant pas de terme fixe et
+certain.
+S. R. 1964, c. 141, a. 54.
+67.  La convention collective lie tous les salariés actuels ou futurs visés par l’accréditation.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 21 sur 64
+L’association accréditée et l’employeur ne doivent conclure qu’une seule convention collective à l’égard
+du groupe de salariés visé par l’accréditation.
+S. R. 1964, c. 141, a. 55; 1969, c. 47, a. 30; 1969, c. 48, a. 26.
+68.  La convention collective conclue par une association d’employeurs lie tous les employeurs membres
+de cette association auxquels elle est susceptible de s’appliquer, y compris ceux qui y adhèrent ultérieurement.
+La convention collective conclue par une association de centres de services scolaires ou de commissions
+scolaires ne lie que celles qui lui ont donné le mandat exclusif prévu à l’article 11.
+S. R. 1964, c. 141, a. 56; 1965 (1re sess.), c. 50, a. 4; 1988, c. 84, a. 700; 2
+0
+2
+0
+,
+c
+.
+12020, c. 1, a. 310 13.
+69.  L’association accréditée peut exercer tous les recours que la convention collective accorde à chacun
+des salariés qu’elle représente sans avoir à justifier d’une cession de créance de l’intéressé.
+S. R. 1964, c. 141, a. 57; 1969, c. 47, a. 31.
+70.  Les recours de plusieurs salariés contre un même employeur peuvent être cumulés dans une seule
+demande et le total réclamé détermine la compétence tant en première instance qu’en appel.
+S. R. 1964, c. 141, a. 58.
+71.  Les droits et recours qui naissent d’une convention collective ou d’une sentence qui en tient lieu se
+prescrivent par six mois à compter du jour où la cause de l’action a pris naissance. Le recours à la procédure
+de griefs interrompt la prescription.
+S. R. 1964, c. 141, a. 59.
+72.  Une convention collective ne prend effet qu’à compter du dépôt, auprès du ministre, de deux
+exemplaires ou copies conformes à l’original, de cette convention collective et de ses annexes. Il en est de
+même de toute modification qui est apportée par la suite à cette convention collective.
+Ce dépôt a un effet rétroactif à la date prévue dans la convention collective pour son entrée en vigueur ou,
+à défaut, à la date de la signature de la convention collective.
+À défaut d’un tel dépôt dans les 60 jours de la signature de la convention collective ou de ses
+modifications, le droit à l’accréditation est dès lors acquis, à l’égard du groupe de salariés pour lesquels cette
+convention collective ou ces modifications ont été conclues, en faveur de toute autre association, pourvu
+qu’elle en fasse la demande après l’expiration de ces 60 jours mais avant qu’un tel dépôt ait été fait, et pourvu
+que l’accréditation lui soit accordée par la suite.
+La partie qui fait ce dépôt doit indiquer le nombre de salariés régis par la convention collective et se
+conformer aux autres dispositions réglementaires établies à cet effet en vertu de l’article 138.
+S. R. 1964, c. 141, a. 60; 1969, c. 47, a. 32; 1969, c. 48, a. 27; 1977, c. 41, a. 40; 1994, c. 6, a. 15; 2001, c. 26, a. 41; 2006, c. 58, a. 7.
+73.  Nulle association accréditée ayant conclu une convention collective, nul groupe de salariés régis par
+une telle convention ou par une sentence arbitrale en ayant l’effet, ne fera de démarches en vue de devenir
+membre d’une autre association ou de s’y affilier, sauf, selon le cas:
+1° dans les 90 jours précédant l’expiration de la sentence arbitrale ou la date d’expiration ou de
+renouvellement de la convention lorsque la durée de celle-ci est de trois ans ou moins;
+2° pendant 180 jours à compter du début de toute période durant laquelle l’accréditation peut être
+demandée lorsque la durée de la convention est de plus de trois ans.
+S. R. 1964, c. 141, a. 61; 1969, c. 47, a. 33; 1977, c. 41, a. 41; 1994, c. 6, a. 16.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 22 sur 64
+CHAPITRE IV
+DU RÈGLEMENT DES DIFFÉRENDS ET DES GRIEFS
+1977, c. 41, a. 42.
+SECTION I
+DE L’ARBITRE DE DIFFÉREND
+1983, c. 22, a. 29.
+74.  Un différend est soumis à un arbitre sur demande écrite adressée au ministre par les parties.
+S. R. 1964, c. 141, a. 62; 1983, c. 22, a. 30.
+75.  Le ministre avise les parties qu’il défère le différend à l’arbitrage.
+S. R. 1964, c. 141, a. 63; 1983, c. 22, a. 31.
+76.  Un arbitre ne doit avoir aucun intérêt pécuniaire dans le différend qui lui est soumis ni avoir agi dans
+ce différend à titre d’agent d’affaires, de procureur, de conseiller ou de représentant d’une partie.
+S. R. 1964, c. 141, a. 64; 1983, c. 22, a. 32.
+77.  Dans les 10 jours de la réception de l’avis prévu par l’article 75, les parties doivent se consulter sur le
+choix de l’arbitre; si elles s’entendent, le ministre nomme à ce poste la personne de leur choix. À défaut
+d’entente, le ministre le nomme d’office.
+Un arbitre nommé d’office est choisi sur une liste dressée annuellement par le ministre après consultation
+du Comité consultatif du travail et de la main-d’oeuvre visé à l’article 12.1 de la Loi sur le ministère du
+Travail (chapitre M-32.2). Le ministre peut, de la même manière, modifier la liste en cours d’année.
+S. R. 1964, c. 141, a. 65; 1977, c. 41, a. 43; 1983, c. 22, a. 33; 1991, c. 76, a. 3; 1994, c. 6, a. 17; 2011, c. 16, a. 86.
+78.  L’arbitre procède à l’arbitrage avec assesseurs à moins que, dans les quinze jours de sa nomination, il
+n’y ait entente à l’effet contraire entre les parties.
+Chaque partie désigne, dans les quinze jours de la nomination de l’arbitre, un assesseur pour assister ce
+dernier et la représenter au cours de l’audition du différend et du délibéré. Si une partie ne désigne pas un
+assesseur dans ce délai, l’arbitre peut procéder en l’absence de l’assesseur de cette partie.
+Il peut procéder en l’absence d’un assesseur lorsque celui-ci ne se présente pas après avoir été
+régulièrement convoqué.
+S. R. 1964, c. 141, a. 66; 1969, c. 47, a. 34; 1983, c. 22, a. 34.
+79.  L’arbitre est tenu de rendre sa sentence selon l’équité et la bonne conscience.
+Pour rendre sa sentence, l’arbitre peut tenir compte, entre autres, des conditions de travail qui prévalent
+dans des entreprises semblables ou dans des circonstances similaires ainsi que des conditions de travail
+applicables aux autres salariés de l’entreprise.
+S. R. 1964, c. 141, a. 67; 1983, c. 22, a. 35; 1994, c. 6, a. 18.
+80.  En cas de démission, de refus d’agir ou d’empêchement de l’arbitre, il est remplacé suivant la
+procédure prévue pour la nomination originale.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 23 sur 64
+En cas de démission, de refus d’agir ou d’empêchement d’un assesseur, la partie qui l’a désigné lui nomme
+un remplaçant. L’arbitre peut poursuivre l’arbitrage si la partie ne désigne pas un remplaçant dans le délai
+qu’il indique.
+S. R. 1964, c. 141, a. 68; 1983, c. 22, a. 36; 1999, c. 40, a. 59.
+81.  L’arbitre procède en toute diligence à l’instruction du différend selon la procédure et le mode de preuve
+qu’il juge appropriés.
+S. R. 1964, c. 141, a. 69; 1983, c. 22, a. 37.
+82.  Les séances d’arbitrage sont publiques; l’arbitre peut toutefois, de son chef ou à la demande de l’une
+des parties, ordonner le huis clos.
+S. R. 1964, c. 141, a. 70; 1983, c. 22, a. 38.
+83.  L’arbitre a tous les pouvoirs d’un juge de la Cour supérieure pour la conduite des séances d’arbitrage; il
+ne peut cependant imposer l’emprisonnement.
+S. R. 1964, c. 141, a. 71; 1983, c. 22, a. 39.
+84.  Sur demande des parties ou à l’initiative de l’arbitre, les témoins sont cités à comparaître par ordre
+écrit, signé par l’arbitre. Celui-ci peut faire prêter serment.
+S. R. 1964, c. 141, a. 72; 1983, c. 22, a. 40; 1994, c. 6, a. 19; N.I. 2016-01-01 (NCPC).
+85.  Une personne dûment citée à comparaître devant un arbitre qui refuse de comparaître ou de témoigner
+peut y être contrainte comme si elle avait été citée à comparaître suivant le Code de procédure civile ( chapitre
+C‐25.01).
+S. R. 1964, c. 141, a. 73; 1983, c. 22, a. 41; 1990, c. 4, a. 227; N.I. 2016-01-01 (NCPC).
+86.  Toute personne citée à comparaître pour témoigner devant un arbitre a droit à la même indemnité que
+les témoins en Cour supérieure et au remboursement de ses frais de déplacement et de séjour.
+Cette somme est payable par la partie qui a proposé la citation à comparaître, mais la personne qui
+bénéficie de son salaire durant cette période n’a droit qu’au remboursement des frais de déplacement et de
+séjour.
+Lorsqu’une personne est dûment citée à comparaître à l’initiative d’un arbitre, cette somme est payable à
+parts égales par les parties.
+S. R. 1964, c. 141, a. 74; 1994, c. 6, a. 20; 2001, c. 26, a. 42; N.I. 2016-01-01 (NCPC).
+87.  L’arbitre peut communiquer ou autrement notifier tout ordre, document ou procédure émanant de lui ou
+des parties en cause.
+S. R. 1964, c. 141, a. 75; 1983, c. 22, a. 42; 1994, c. 6, a. 21; N.I. 2016-01-01 (NCPC).
+88.  La sentence arbitrale doit être motivée et rendue par écrit. Elle doit être signée par l’arbitre.
+S. R. 1964, c. 141, a. 76; 1983, c. 22, a. 43.
+89.  L’arbitre transmet l’original de la sentence au ministre et en expédie, en même temps, une copie à
+chaque partie.
+S. R. 1964, c. 141, a. 77; 1977, c. 41, a. 44; 1983, c. 22, a. 44; 2001, c. 26, a. 43; 2006, c. 58, a. 8.
+90.  L’arbitre doit rendre sa sentence dans les 60 jours suivant la fin de la dernière séance d’arbitrage.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 24 sur 64
+En cas d’empêchement de l’arbitre, le ministre peut toutefois, à la demande de l’arbitre ou d’une partie,
+accorder à l’arbitre un délai supplémentaire d’un nombre de jours précis.
+Lorsqu’il juge que les circonstances et l’intérêt des parties le justifient, le ministre peut aussi, à la demande
+de l’arbitre, lui accorder un délai supplémentaire n’excédant pas 30 jours, qu’il peut, aux mêmes conditions,
+prolonger de nouveau.
+S. R. 1964, c. 141, a. 78; 1983, c. 22, a. 45; 2001, c. 26, a. 44.
+91.  En tout temps avant sa sentence finale, un arbitre peut rendre toute décision intérimaire qu’il croit juste
+et utile.
+S. R. 1964, c. 141, a. 79; 1983, c. 22, a. 46.
+91.1.  L’arbitre peut corriger en tout temps une sentence entachée d’erreur d’écriture ou de calcul, ou de
+toute autre erreur matérielle.
+1993, c. 6, a. 3.
+92.  La sentence de l’arbitre lie les parties pour une durée d’au moins un an et d’au plus trois ans. Les
+parties peuvent cependant convenir d’en modifier le contenu en partie ou en tout.
+Même si la sentence expire à une date antérieure à celle où elle est rendue, elle peut néanmoins couvrir
+toutes les matières qui n’ont pas fait l’objet d’un accord entre les parties.
+S. R. 1964, c. 141, a. 80; 1983, c. 22, a. 47; 2001, c. 26, a. 45.
+93.  La sentence a l’effet d’une convention collective signée par les parties.
+Elle peut être exécutée sous l’autorité d’un tribunal compétent, sur poursuite intentée par une partie,
+laquelle n’est pas tenue de mettre en cause la personne pour le bénéfice de laquelle elle agit.
+S. R. 1964, c. 141, a. 81.
+SECTION I.1
+DE LA PREMIÈRE CONVENTION COLLECTIVE
+1977, c. 41, a. 45.
+93.1.  Dans le cas de la négociation d’une première convention collective pour le groupe de salariés visé
+par l’accréditation, une partie peut demander au ministre de soumettre le différend à un arbitre après que
+l’intervention du conciliateur se sera avérée infructueuse.
+1977, c. 41, a. 45; 1983, c. 22, a. 48.
+93.2.  La demande au ministre doit être faite par écrit et copie doit en être transmise en même temps à
+l’autre partie.
+1977, c. 41, a. 45.
+93.3.  Même si l’intervention du conciliateur, jusqu’alors infructueuse, s’est poursuivie après la demande
+d’arbitrage, le ministre peut charger un arbitre de tenter de régler le différend.
+1977, c. 41, a. 45; 1983, c. 22, a. 48; 2006, c. 58, a. 9.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 25 sur 64
+93.4.  L’arbitre doit décider de déterminer le contenu de la première convention collective lorsqu’il est
+d’avis qu’il est improbable que les parties puissent en arriver à la conclusion d’une convention collective dans
+un délai raisonnable. Il informe alors les parties et le ministre de sa décision.
+1977, c. 41, a. 45; 1983, c. 22, a. 49.
+93.5.  Si une grève ou un lock-out est en cours à ce moment, il doit prendre fin à compter du moment où
+l’arbitre informe les parties qu’il a jugé nécessaire de déterminer le contenu de la convention collective pour
+régler le différend.
+À partir de ce moment, les conditions de travail applicables aux salariés compris dans l’unité de
+négociation sont celles dont le maintien est prévu à l’article 59.
+1977, c. 41, a. 45; 1983, c. 22, a. 50.
+93.6.  (Abrogé).
+1977, c. 41, a. 45; 1983, c. 22, a. 51.
+93.7.  Les parties peuvent, à tout moment, s’entendre sur l’une des questions faisant l’objet du différend.
+L’accord est consigné à la sentence arbitrale, qui ne peut le modifier.
+1977, c. 41, a. 45.
+93.8.  (Abrogé).
+1977, c. 41, a. 45; 1983, c. 22, a. 52.
+93.9.  Les articles 75 à 93 s’appliquent à l’arbitrage prévu à la présente section.
+1977, c. 41, a. 45; 1983, c. 22, a. 53; 2001, c. 26, a. 46; 2006, c. 58, a. 10.
+SECTION II
+(Abrogée)
+1993, c. 6, a. 4; 2016, c. 242016, c. 24, a. 51 1.
+94.  (Abrogé).
+S. R. 1964, c. 141, a. 82; 1969, c. 47, a. 35 ; 1977, c. 41, a. 46 ; 1983, c. 22, a. 54 ; 1993, c. 6, a. 4 ; 1996, c. 2, a. 221 ; 1996, c. 30, a. 1 ;
+2016, c. 242016, c. 24, a. 51 1.
+95.  (Abrogé).
+S. R. 1964, c. 141, a. 83; 1983, c. 22, a. 55; 1993, c. 6, a. 4; 1996, c. 30, a. 2.
+96.  (Abrogé).
+S. R. 1964, c. 141, a. 84; 1983, c. 22, a. 56; 1993, c. 6, a. 4; 1996, c. 30, a. 3; 2016, c. 242016, c. 24, a. 51 1.
+97.  (Abrogé).
+S. R. 1964, c. 141, a. 85; 1983, c. 22, a. 57; 1993, c. 6, a. 4; 1996, c. 30, a. 3; 2016, c. 242016, c. 24, a. 51 1.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 26 sur 64
+98.  (Abrogé).
+S. R. 1964, c. 141, a. 86; 1983, c. 22, a. 58; 1993, c. 6, a. 4; 1996, c. 30, a. 3; 2016, c. 242016, c. 24, a. 51 1.
+99.  (Abrogé).
+S. R. 1964, c. 141, a. 87; 1983, c. 22, a. 59; 1993, c. 6, a. 4; 1996, c. 2, a. 221; 2016, c. 242016, c. 24, a. 51 1.
+99.1.  (Abrogé).
+1993, c. 6, a. 4; 2016, c. 242016, c. 24, a. 51 1.
+99.1.1.  (Abrogé).
+1996, c. 30, a. 4; 2016, c. 242016, c. 24, a. 51 1.
+99.2.  (Abrogé).
+1993, c. 6, a. 4; 2016, c. 242016, c. 24, a. 51 1.
+99.3.  (Abrogé).
+1993, c. 6, a. 4; 1994, c. 6, a. 22; 2016, c. 242016, c. 24, a. 51 1.
+99.4.  (Abrogé).
+1993, c. 6, a. 4; 1996, c. 30, a. 5; 2016, c. 242016, c. 24, a. 51 1.
+99.5.  (Abrogé).
+1993, c. 6, a. 4; 1996, c. 2, a. 221; 1996, c. 30, a. 6; 2016, c. 242016, c. 24, a. 51 1.
+99.6.  (Abrogé).
+1993, c. 6, a. 4; 2016, c. 242016, c. 24, a. 51 1.
+99.7.  (Abrogé).
+1993, c. 6, a. 4; 1996, c. 30, a. 7; 2016, c. 242016, c. 24, a. 51 1.
+99.8.  (Abrogé).
+1993, c. 6, a. 4; 2001, c. 26, a. 47; 2016, c. 242016, c. 24, a. 51 1.
+99.9.  (Abrogé).
+1993, c. 6, a. 4; 1994, c. 6, a. 23; 1996, c. 2, a. 221; 2001, c. 26, a. 48; 2006, c. 58, a. 11; 2016, c. 242016, c. 24, a. 51 1.
+99.10.  (Abrogé).
+1993, c. 6, a. 4; 1996, c. 2, a. 221; 2016, c. 242016, c. 24, a. 51 1.
+99.11.  (Abrogé).
+1993, c. 6, a. 4; 2016, c. 242016, c. 24, a. 51 1.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 27 sur 64
+SECTION III
+DE L’ARBITRE DE GRIEF
+1977, c. 41, a. 47; 1983, c. 22, a. 60.
+100.  Tout grief doit être soumis à l’arbitrage en la manière prévue dans la convention collective si elle y
+pourvoit et si l’association accréditée et l’employeur y donnent suite; sinon il est déféré à un arbitre choisi par
+l’association accréditée et l’employeur ou, à défaut d’accord, nommé par le ministre.
+L’arbitre nommé par le ministre est choisi sur la liste prévue à l’article 77.
+Sauf disposition contraire, les dispositions de la présente section prévalent, en cas d’incompatibilité, sur les
+dispositions de toute convention collective.
+S. R. 1964, c. 141, a. 88; 1969, c. 47, a. 36; 1969, c. 48, a. 28; 1977, c. 41, a. 48; 1983, c. 22, a. 61.
+100.0.1.  Un grief soumis à l’autre partie dans les quinze jours de la date où la cause de l’action a pris
+naissance ne peut être rejeté par l’arbitre au seul motif que le délai prévu à la convention collective n’a pas été
+respecté.
+1983, c. 22, a. 62.
+100.0.2.  Lorsque les parties ont réglé un grief avant qu’il ne soit déféré à l’arbitrage et qu’une des parties
+refuse de donner suite au règlement intervenu, l’autre partie peut déférer le grief à l’arbitrage malgré toute
+entente à l’effet contraire et malgré l’expiration des délais prévus aux articles 71, 100.0.1 ou à la convention
+collective.
+1983, c. 22, a. 62.
+100.1.  L’arbitre ne peut être poursuivi en justice en raison d’actes accomplis de bonne foi dans l’exercice
+de ses fonctions.
+1977, c. 41, a. 48; 1983, c. 22, a. 63.
+100.1.1.  L’arbitre procède à l’arbitrage avec assesseurs si, dans les quinze jours de sa nomination, il y a
+entente à cet effet entre les parties.
+En cas d’entente, chaque partie désigne, dans le délai prévu au premier alinéa, un assesseur pour assister
+l’arbitre et la représenter au cours de l’audition du grief et du délibéré. Si une partie refuse de donner suite à
+l’entente dans ce délai, l’arbitre peut procéder en l’absence de l’assesseur de cette partie.
+Il peut procéder en l’absence d’un assesseur lorsque celui-ci ne se présente pas après avoir été
+régulièrement convoqué.
+1983, c. 22, a. 64.
+100.1.2.  En cas de démission, de refus d’agir ou d’empêchement de l’arbitre, il est remplacé suivant la
+procédure prévue pour la nomination originale.
+En cas de démission, de refus d’agir ou d’empêchement d’un assesseur, la partie qui l’a désigné lui nomme
+un remplaçant. L’arbitre peut poursuivre l’arbitrage si la partie ne désigne pas un remplaçant dans le délai
+qu’il indique.
+1983, c. 22, a. 64; 1999, c. 40, a. 59.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 28 sur 64
+100.2.  L’arbitre doit procéder en toute diligence à l’instruction du grief et, sauf disposition contraire de la
+convention collective, selon la procédure et le mode de preuve qu’il juge appropriés.
+À cette fin, il peut, d’office, convoquer les parties pour procéder à l’audition du grief.
+Aux fins prévues à l’article 27 de la Loi instituant le Tribunal administratif du travail ( chapitre T-15.1 ), il
+peut aussi tenir avec elles une conférence préparatoire à l’audition du grief.
+1977, c. 41, a. 48; 1983, c. 22, a. 65; 2001, c. 26, a. 49; 2015, c. 15, a. 133.
+100.2.1.  Aucun grief ne peut être rejeté pour vice de forme ou irrégularité de procédure.
+1983, c. 22, a. 66; 1999, c. 40, a. 59.
+100.3.  Si l’arbitre est informé par écrit du règlement total ou partiel ou du désistement d’un grief dont il a
+été saisi, il en donne acte et dépose sa sentence conformément à l’article 101.6.
+1977, c. 41, a. 48; 1983, c. 22, a. 67.
+100.4.  Les séances d’arbitrage sont publiques; l’arbitre peut toutefois, de son chef ou à la demande de
+l’une des parties, ordonner le huis clos.
+1977, c. 41, a. 48; 1983, c. 22, a. 68.
+100.5.  L’arbitre doit donner à l’association accréditée, à l’employeur et au salarié intéressé l’occasion
+d’être entendus.
+Si un intéressé ci-dessus dûment convoqué par un avis écrit d’au moins cinq jours francs de la date, de
+l’heure et du lieu où il pourra se faire entendre ne se présente pas ou refuse de se faire entendre, l’arbitre peut
+procéder à l’audition de l’affaire et aucun recours judiciaire ne peut être fondé sur le fait qu’il a ainsi procédé
+en l’absence de cet intéressé.
+1977, c. 41, a. 48; 1983, c. 22, a. 69.
+100.6.  À la demande d’une partie ou de sa propre initiative, l’arbitre peut citer un témoin à comparaître
+pour déclarer ce qu’il connaît, pour produire un document ou pour les deux objets à la fois, sauf s’il est d’avis
+que la demande de citation à comparaître est futile à sa face même. La citation à comparaître doit être
+signifiée au moins cinq jours francs avant la convocation.
+Une personne ainsi citée qui refuse de comparaître, de témoigner ou de produire les documents requis peut
+y être contrainte comme si elle avait été citée à comparaître suivant le Code de procédure civile (chapitre C ‐
+25.01).
+L’arbitre peut exiger et recevoir le serment d’un témoin.
+Le témoin cité à comparaître a droit à la même indemnité que les témoins en Cour supérieure et au
+remboursement de ses frais de déplacement et de séjour.
+Cette somme est payable par la partie qui a proposé la citation à comparaître, mais la personne qui
+bénéficie de son salaire durant cette période n’a droit qu’au remboursement des frais de déplacement et de
+séjour.
+Lorsqu’une personne est dûment citée à comparaître à l’initiative d’un arbitre, cette somme est payable à
+parts égales par les parties.
+1977, c. 41, a. 48; 1983, c. 22, a. 70; 1990, c. 4, a. 228; 1999, c. 40, a. 59; 2001, c. 26, a. 50; N.I. 2016-01-01 (NCPC).CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 29 sur 64
+100.7.  L’arbitre peut poser à un témoin les questions qu’il croit utiles.
+1977, c. 41, a. 48; 1983, c. 22, a. 71.
+100.8.  Un témoin ne peut refuser de répondre pour le motif que sa réponse pourrait tendre à l’incriminer
+ou à l’exposer à une poursuite, de quelque nature qu’elle puisse être; mais s’il fait une objection en ce sens, sa
+réponse ne pourra servir contre lui dans une poursuite pénale intentée en vertu d’une loi du Québec.
+1977, c. 41, a. 48.
+100.9.  À la demande de l’une des parties ou de sa propre initiative, l’arbitre peut visiter les lieux qui se
+rapportent au grief dont il est saisi. Il doit alors inviter les parties à l’accompagner.
+À l’occasion d’une visite des lieux, l’arbitre peut examiner tout bien qui se rapporte au grief. Il peut aussi,
+à cette occasion, interroger les personnes qui s’y trouvent.
+1977, c. 41, a. 48; 1983, c. 22, a. 72; 1999, c. 40, a. 59.
+100.10.  Une mésentente relative au maintien des conditions de travail prévu à l’article 59 ou à l’article
+93.5, doit être déférée à l’arbitrage par l’association de salariés intéressée comme s’il s’agissait d’un grief.
+1977, c. 41, a. 48.
+100.11.  L’arbitre doit rendre une sentence à partir de la preuve recueillie à l’enquête.
+1977, c. 41, a. 48; 1983, c. 22, a. 73.
+100.12.  Dans l’exercice de ses fonctions l’arbitre peut:
+a) interpréter et appliquer une loi ou un règlement dans la mesure où il est nécessaire de le faire pour
+décider d’un grief;
+b) fixer les modalités de remboursement d’une somme qu’un employeur a versée en trop à un salarié;
+c) ordonner le paiement d’un intérêt au taux légal à compter du dépôt du grief, sur les sommes dues en
+vertu de sa sentence.
+Il doit être ajouté à ce montant une indemnité calculée en appliquant à ce montant, à compter de la même
+date, un pourcentage égal à l’excédent du taux d’intérêt fixé suivant l’article 28 de la Loi sur l’administration
+fiscale (chapitre A-6.002) sur le taux légal d’intérêt;
+d) fixer, à la demande d’une partie, le montant dû en vertu d’une sentence qu’il a rendue;
+e) corriger en tout temps une décision entachée d’erreur d’écriture ou de calcul, ou de quelque autre
+erreur matérielle;
+f) en matière disciplinaire, confirmer, modifier ou annuler la décision de l’employeur et, le cas échéant, y
+substituer la décision qui lui paraît juste et raisonnable, compte tenu de toutes les circonstances de l’affaire.
+Toutefois, lorsque la convention collective prévoit une sanction déterminée pour la faute reprochée au salarié
+dans le cas soumis à l’arbitrage, l’arbitre ne peut que confirmer ou annuler la décision de l’employeur ou, le
+cas échéant, la modifier pour la rendre conforme à la sanction prévue à la convention collective;
+g) rendre toute autre décision, y compris une ordonnance provisoire, propre à sauvegarder les droits des
+parties.
+1977, c. 41, a. 48; 1983, c. 22, a. 74; 2001, c. 26, a. 51; 2010, c. 31, a. 175.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 30 sur 64
+100.13.  (Abrogé).
+1977, c. 41, a. 48; 1983, c. 22, a. 75.
+100.14.  (Abrogé).
+1977, c. 41, a. 48; 1983, c. 22, a. 75.
+100.15.  (Abrogé).
+1977, c. 41, a. 48; 1983, c. 22, a. 75.
+100.16.  L’arbitre peut ordonner de son propre chef la réouverture de l’enquête.
+1977, c. 41, a. 48; 1983, c. 22, a. 76.
+101.  La sentence arbitrale est sans appel, lie les parties et, le cas échéant, tout salarié concerné. L’article 51
+de la Loi instituant le Tribunal administratif du travail ( chapitre T-15.1 ) s’applique à la sentence, compte tenu
+des adaptations nécessaires.
+S. R. 1964, c. 141, a. 89; 1977, c. 41, a. 49; 1983, c. 22, a. 77; 2001, c. 26, a. 52; 2015, c. 15, a. 134.
+101.1.  (Abrogé).
+1977, c. 41, a. 50; 1983, c. 22, a. 78.
+101.2.  La sentence arbitrale doit être motivée et rendue par écrit. Elle doit être signée par l’arbitre.
+1977, c. 41, a. 50; 1983, c. 22, a. 79.
+101.3.  L’arbitre et les assesseurs sont tenus de garder le secret du délibéré jusqu’à la date de la sentence.
+1977, c. 41, a. 50; 1983, c. 22, a. 80.
+101.4.  (Abrogé).
+1977, c. 41, a. 50; 1983, c. 22, a. 81.
+101.5.  À défaut d’un délai fixé à la convention collective, l’arbitre doit rendre sa sentence dans les 90
+jours suivant, soit la fin de la dernière séance d’arbitrage, soit le début du délibéré lorsqu’il n’y a pas de
+séance d’arbitrage, à moins que les parties ne consentent par écrit, avant l’expiration du délai, à accorder un
+délai supplémentaire d’un nombre de jours précis.
+1977, c. 41, a. 50; 1983, c. 22, a. 82; 1994, c. 6, a. 24.
+101.6.  L’arbitre doit déposer la sentence en deux exemplaires ou copies conformes à l’original auprès du
+ministre et transmettre en même temps une copie de la sentence à chacune des parties.
+1977, c. 41, a. 50; 1983, c. 22, a. 83; 2001, c. 26, a. 53; 2006, c. 58, a. 12.
+101.7.  À défaut par l’arbitre de rendre sa sentence dans le délai de l’article 101.5 ou de la déposer et de la
+transmettre aux parties conformément à l’article 101.6, le Tribunal peut, sur requête d’une partie, rendre
+l’ordonnance qu’il juge nécessaire pour que la sentence soit rendue, déposée et transmise dans les meilleurs
+délais.
+1977, c. 41, a. 50; 1983, c. 22, a. 84; 1994, c. 6, a. 25; 2001, c. 26, a. 54; 2015, c. 15, a. 237.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 31 sur 64
+101.8.  L’arbitre ne peut exiger d’honoraires et de frais à moins qu’il ne rende sa sentence dans un délai
+conforme à l’article 101.5 et qu’il ne présente aux parties une preuve de l’envoi de la sentence au ministre.
+1977, c. 41, a. 50; 1983, c. 22, a. 85; 2001, c. 26, a. 55; 2006, c. 58, a. 13.
+101.9.  L’arbitre doit conserver le dossier de l’arbitrage pendant deux ans à compter du dépôt de la
+sentence.
+1977, c. 41, a. 50; 1983, c. 22, a. 85.
+101.10.  (Abrogé).
+1977, c. 41, a. 50; 2001, c. 26, a. 56; 2006, c. 58, a. 14.
+102.  Pendant la durée d’une convention collective, toute mésentente autre qu’un grief au sens de l’article 1
+ou autre qu’un différend pouvant résulter de l’application de l’article 107, ne peut être réglée que de la façon
+prévue dans la convention et dans la mesure où elle y pourvoit. Si une telle mésentente est soumise à
+l’arbitrage, les articles 100 à 101.10 s’appliquent.
+S. R. 1964, c. 141, a. 90; 1977, c. 41, a. 51.
+SECTION IV
+DE LA RÉGLEMENTATION
+103.  Le gouvernement peut, par règlement, déterminer, après consultation du Comité consultatif du travail
+et de la main-d’oeuvre visé à l’article 12.1 de la Loi sur le ministère du Travail (chapitre M-32.2), la
+rémunération et les frais des arbitres de griefs et de différends nommés par le ministre, un ou des modes de
+détermination de la rémunération et des frais des arbitres choisis par les parties ainsi que les situations
+auxquelles ce règlement ne s’applique pas.
+Ce règlement peut également déterminer qui assume le paiement de cette rémunération et de ces frais et,
+s’il y a lieu, dans quelle proportion.
+Le gouvernement peut aussi faire tout règlement jugé nécessaire pour donner effet aux dispositions du
+chapitre IV .
+S. R. 1964, c. 141, a. 91; 1977, c. 41, a. 52; 1983, c. 22, a. 86; 1991, c. 76, a. 4; 1994, c. 6, a. 26; 2001, c. 26, a. 57; 2011, c. 16, a. 86.
+104.  Ces règlements n’entrent en vigueur qu’après publication à la Gazette officielle du Québec.
+S. R. 1964, c. 141, a. 92; 1968, c. 23, a. 8.
+CHAPITRE V
+DES GRÈVES ET LOCK-OUT
+105.  Toute grève est interdite en toute circonstance aux policiers et pompiers à l’emploi d’une municipalité
+ou d’une régie intermunicipale.
+Les pompiers à l’emploi d’une entreprise qui assure, par contrat avec une municipalité ou une régie
+intermunicipale, les services de protection contre l’incendie sur le territoire d’une municipalité sont, pour
+l’application du présent article, réputés être à l’emploi de la municipalité ou de la régie intermunicipale, selon
+le cas.
+S. R. 1964, c. 141, a. 93; 1983, c. 22, a. 87; 1985, c. 27, a. 36; 1996, c. 2, a. 220.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 32 sur 64
+106.  La grève est interdite tant qu’une association des salariés en cause n’a pas été accréditée et n’y a pas
+acquis droit suivant l’article 58.
+S. R. 1964, c. 141, a. 94; 1969, c. 47, a. 37.
+107.  La grève est prohibée pendant la durée d’une convention collective, à moins que celle-ci ne renferme
+une clause en permettant la révision par les parties et que les conditions prescrites à l’article 106 n’aient été
+observées.
+S. R. 1964, c. 141, a. 95.
+108.  Nulle association de salariés ou personne agissant dans l’intérêt d’une telle association ou d’un
+groupe de salariés n’ordonnera, n’encouragera ou n’appuiera un ralentissement d’activités destiné à limiter la
+production.
+S. R. 1964, c. 141, a. 96.
+109.  Le lock-out est interdit sauf dans le cas où une association de salariés a acquis droit à la grève.
+S. R. 1964, c. 141, a. 97.
+109.1.  Pendant la durée d’une grève déclarée conformément au présent code ou d’un lock-out, il est
+interdit à un employeur:
+a) d’utiliser les services d’une personne pour remplir les fonctions d’un salarié faisant partie de l’unité de
+négociation en grève ou en lock-out lorsque cette personne a été embauchée entre le jour où la phase des
+négociations commence et la fin de la grève ou du lock-out;
+b) d’utiliser, dans l’établissement où la grève ou le lock-out a été déclaré, les services d’une personne à
+l’emploi d’un autre employeur ou ceux d’un entrepreneur pour remplir les fonctions d’un salarié faisant partie
+de l’unité de négociation en grève ou en lock-out;
+c) d’utiliser, dans l’établissement où la grève ou le lock-out a été déclaré, les services d’un salarié qui fait
+partie de l’unité de négociation alors en grève ou en lock-out à moins:
+i. qu’une entente ne soit intervenue à cet effet entre les parties, dans la mesure où elle y pourvoit, et que,
+dans le cas d’un établissement visé à l’article 111.2, cette entente ait été approuvée par le Tribunal;
+ii. que, dans un service public, une liste n’ait été transmise ou dans le cas d’un établissement visé à
+l’article 111.2, n’ait été approuvée en vertu du chapitre V .1, dans la mesure où elle y pourvoit;
+iii. que, dans un service public, une décision n’ait été rendue en vertu de l’article 111.0.24.
+d) d’utiliser, dans un autre de ses établissements, les services d’un salarié qui fait partie de l’unité de
+négociation alors en grève ou en lock-out;
+e) d’utiliser, dans l’établissement où la grève ou le lock-out a été déclaré, les services d’un salarié qu’il
+emploie dans un autre établissement;
+f) d’utiliser, dans l’établissement où la grève ou le lock-out a été déclaré, les services d’une personne
+autre qu’un salarié qu’il emploie dans un autre établissement sauf lorsque des salariés de ce dernier
+établissement font partie de l’unité de négociation alors en grève ou en lock-out;CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 33 sur 64
+g) d’utiliser, dans l’établissement où la grève ou le lock-out a été déclaré, les services d’un salarié qu’il
+emploie dans cet établissement pour remplir les fonctions d’un salarié faisant partie de l’unité de négociation
+en grève ou en lock-out.
+1977, c. 41, a. 53; 1978, c. 52, a. 2; 1982, c. 37, a. 2; 1983, c. 22, a. 88; 1985, c. 12, a. 83; 2011, c. 16, a. 130; 2015, c. 15, a. 237; 2
+0
+1
+9
+,
+c
+.
+2
+02019, c. 20, a. 1 1.
+109.2.  Au cas de violation par l’association accréditée ou les salariés qu’elle représente, d’une entente,
+d’une liste ou d’un décret visés aux sous-paragraphes i, ii ou iii du paragraphe c de l’article 109.1,
+l’employeur est exempté de l’application de l’article 109.1 dans la mesure où cela est nécessaire pour assurer
+le respect de l’entente, de la liste ou du décret qui a été violé.
+1977, c. 41, a. 53; 1978, c. 52, a. 3; 1982, c. 37, a. 3; 1983, c. 22, a. 89.
+109.3.  L’application de l’article 109.1 ne peut avoir pour effet d’empêcher un employeur de prendre, le
+cas échéant, les moyens nécessaires pour éviter la destruction ou la détérioration grave de ses biens.
+Ces moyens doivent être exclusivement des moyens de conservation et non des moyens visant à permettre
+la continuation de la production de biens ou services que l’article 109.1 ne permettrait pas autrement.
+1977, c. 41, a. 53; 1999, c. 40, a. 59.
+109.4.  Sur demande, le ministre peut dépêcher un enquêteur chargé de vérifier si les articles 109.1, 109.2
+ou 109.3 sont respectés.
+L’enquêteur peut visiter les lieux de travail, à toute heure raisonnable, et se faire accompagner d’une
+personne désignée par l’association accréditée, d’une personne désignée par l’employeur ainsi que de toute
+autre personne dont il juge la présence nécessaire aux fins de son enquête.
+Sur demande, l’enquêteur doit s’identifier et exhiber le certificat, signé par le ministre, attestant sa qualité.
+Sitôt son enquête terminée, l’enquêteur fait rapport au ministre et envoie une copie de ce rapport aux
+parties.
+L’enquêteur est investi, aux fins de son enquête, de tous les pouvoirs, immunité et privilèges d’un
+commissaire nommé en vertu de la Loi sur les commissions d’enquête ( chapitre C ‐37), sauf du pouvoir
+d’imposer une peine d’emprisonnement.
+1977, c. 41, a. 53; 1986, c. 95, a. 80; 1992, c. 61, a. 176.
+109.5.  (Abrogé).
+1987, c. 85, a. 32; 2001, c. 26, a. 173.
+110.  Personne ne cesse d’être un salarié pour l’unique raison qu’il a cessé de travailler par suite de grève
+ou lock-out.
+Rien dans le présent code n’empêche une interruption de travail qui ne constitue pas une grève ou un lock-
+out.
+S. R. 1964, c. 141, a. 98.
+110.1.  À la fin d’une grève ou d’un lock-out, tout salarié qui a fait grève ou a été lock-outé a le droit de
+recouvrer son emploi de préférence à toute autre personne, à moins que l’employeur n’ait une cause juste et
+suffisante, dont la preuve lui incombe, de ne pas rappeler ce salarié.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 34 sur 64
+Une mésentente entre l’employeur et l’association accréditée relative au non-rappel au travail d’un salarié
+qui a fait grève ou qui a été lock-outé doit être déférée à l’arbitre comme s’il s’agissait d’un grief dans les six
+mois de la date où le salarié aurait dû recouvrer son emploi.
+Les articles 47.2 à 47.6 et 100 à 101.10 s’appliquent.
+1977, c. 41, a. 54; 1983, c. 22, a. 90.
+111.  (Abrogé).
+S. R. 1964, c. 141, a. 99; 1965 (1re sess.), c. 50, a. 5; 1982, c. 37, a. 4.
+CHAPITRE V .1
+DISPOSITIONS PARTICULIÈRES APPLICABLES AUX SERVICES PUBLICS ET AUX SECTEURS
+PUBLIC ET PARAPUBLIC
+1978, c. 52, a. 4; 1982, c. 37, a. 5.
+SECTION I
+Abrogée, 2011, c. 16, a. 131.
+1982, c. 37, a. 6; 2011, c. 16, a. 131.
+111.0.1.  (Abrogé).
+1982, c. 37, a. 6; 2011, c. 16, a. 131.
+111.0.2.  (Abrogé).
+1982, c. 37, a. 6; 1984, c. 45, a. 1; 2011, c. 16, a. 131.
+111.0.3.  (Abrogé).
+1982, c. 37, a. 6; 1984, c. 45, a. 2; 1989, c. 53, a. 12; 1995, c. 27, a. 18; 2011, c. 16, a. 131.
+111.0.4.  (Abrogé).
+1982, c. 37, a. 6; 1984, c. 45, a. 3; 2011, c. 16, a. 131.
+111.0.5.  (Abrogé).
+1982, c. 37, a. 6; 1984, c. 45, a. 4; 2011, c. 16, a. 131.
+111.0.6.  (Abrogé).
+1982, c. 37, a. 6; 2011, c. 16, a. 131.
+111.0.7.  (Abrogé).
+1982, c. 37, a. 6; 1984, c. 45, a. 5; 2011, c. 16, a. 131.
+111.0.8.  (Abrogé).
+1982, c. 37, a. 6; 1984, c. 45, a. 6; 1985, c. 12, a. 84; 1998, c. 23, a. 1; 2011, c. 16, a. 131.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 35 sur 64
+111.0.9.  (Abrogé).
+1982, c. 37, a. 6; 2011, c. 16, a. 131.
+111.0.10.  (Abrogé).
+1982, c. 37, a. 6; 1985, c. 12, a. 85; 2011, c. 16, a. 131.
+111.0.10.1.  (Abrogé).
+1993, c. 6, a. 5; 2011, c. 16, a. 131.
+111.0.11.  (Abrogé).
+1982, c. 37, a. 6; 2011, c. 16, a. 131.
+111.0.12.  (Abrogé).
+1982, c. 37, a. 6; 1985, c. 12, a. 86; 1985, c. 40, a. 2; 2011, c. 16, a. 131.
+111.0.13.  (Abrogé).
+1982, c. 37, a. 6; 2000, c. 8, a. 110; 2011, c. 16, a. 131.
+111.0.14.  (Abrogé).
+1982, c. 37, a. 6; 2011, c. 16, a. 131.
+SECTION II
+DES SERVICES PUBLICS
+1982, c. 37, a. 6.
+111.0.15.  Les dispositions du présent code s’appliquent aux relations du travail dans un service public,
+sauf dans la mesure où elles sont inconciliables avec celles de la présente section.
+1982, c. 37, a. 6.
+111.0.16.  Dans la présente section, on entend par «service public»:
+1° une municipalité et une régie intermunicipale;
+1.1° un établissement visé par la Loi sur les services de santé et les services sociaux (chapitre S-4.2) qui
+n’est pas visé au paragraphe 2° de l’article 111.2;
+1.2° (paragraphe abrogé);
+2° un établissement et un conseil régional au sens des paragraphes a et f de l’article 1 de la Loi sur les
+services de santé et les services sociaux pour les autochtones cris (chapitre S-5) qui ne sont pas visés au
+paragraphe 2° de l’article 111.2;
+3° (paragraphe abrogé);
+4° une entreprise de transport terrestre à itinéraire asservi tels un chemin de fer et un métro, et une
+entreprise de transport par autobus ou par bateau;
+5° une entreprise de production, de transport, de distribution ou de vente de gaz ou d’électricité ainsi
+qu’une entreprise d’emmagasinage de gaz;CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 36 sur 64
+5.1° une entreprise qui exploite ou entretient un système d’aqueduc, d’égout, d’assainissement ou de
+traitement des eaux;
+5.2° un organisme de protection de la forêt contre les incendies reconnu en vertu de l’article 181 de la Loi
+sur l’aménagement durable du territoire forestier (chapitre A-18.1);
+6° une entreprise d’incinération de déchets ou d’enlèvement, de transport, d’entreposage, de traitement,
+de transformation ou d’élimination d’ordures ménagères, de déchets biomédicaux, d’animaux morts
+impropres à la consommation humaine ou de résidus d’animaux destinés à l’équarrissage;
+7° une entreprise de services ambulanciers, la Corporation d’urgence-santé et un centre de
+communication santé visés par la Loi sur les services préhospitaliers d’urgence ( chapitre S-6.2 ) et une
+entreprise de cueillette, de transport ou de distribution du sang ou de ses dérivés ou d’organes humains
+destinés à la transplantation; ou
+8° un organisme mandataire de l’État à l’exception de la Société des alcools du Québec et d’un organisme
+dont le personnel est nommé selon la Loi sur la fonction publique (chapitre F-3.1.1).
+1982, c. 37, a. 6 ; 1983, c. 55, a. 161 ; 1988, c. 47, a. 3 ; 1990, c. 69, a. 3 ; 1992, c. 21, a. 128 ; 1994, c. 6, a. 27 ; 1994, c. 23, a. 23 ; 1996,
+c. 2, a. 221 ; 1998, c. 23, a. 2 ; 1999, c. 40, a. 59 ; 2000, c. 8, a. 242 ; 2002, c. 69, a. 125 ; 2005, c. 32, a. 308 ; 2006, c. 58, a. 15 ; 2010, c.
+3, a. 270; 2
+0
+1
+9
+,
+c
+.
+2
+02019, c. 20, a. 2 1.
+111.0.17.  Lorsqu’il est d’avis qu’une grève peut avoir pour effet de mettre en danger la santé ou la
+sécurité publique, le Tribunal peut, de son propre chef ou à la demande d’un employeur ou d’une association
+accréditée dans un service public, ordonner à ceux-ci de maintenir des services essentiels en cas de grève.
+Pour le même motif, le Tribunal peut, de son propre chef ou à la demande d’une entreprise qui n’est pas
+visée à l’article 111.0.16 ou d’une association accréditée de cette entreprise, ordonner à ceux-ci de maintenir
+des services essentiels en cas de grève, si la nature des opérations de cette entreprise la rend assimilable à un
+service public. L’entreprise est alors considérée comme un service public pour l’application du présent code.
+Le Tribunal peut en outre rendre une décision en application du premier ou du deuxième alinéa à la
+demande d’une personne autre qu’une partie, s’il juge qu’elle a un intérêt suffisant.
+À compter de la date de la notification de la décision du Tribunal aux parties, l’exercice du droit de grève
+est suspendu jusqu’à ce que l’association accréditée en cause se conforme aux exigences des articles 111.0.18
+et 111.0.23.
+1982, c. 37, a. 6; 1984, c. 45, a. 7; 1990, c. 69, a. 4; 2011, c. 16, a. 132; 2015, c. 15, a. 237; 2
+0
+1
+9
+,
+c
+.
+2
+02019, c. 20, a. 3 1.
+111.0.17.1.  La décision du Tribunal d’assujettir un service public au maintien des services essentiels en
+cas de grève s’applique à chaque phase des négociations.
+Toutefois, le Tribunal peut, de son propre chef ou à la demande d’une partie, révoquer la décision
+d’ordonner le maintien de services essentiels.
+2
+0
+1
+9
+,
+c
+.
+2
+02019, c. 20, a. 3 1.
+111.0.17.2.  Avant de rendre une décision en application du premier ou du deuxième alinéa de l’article
+111.0.17 ou du deuxième alinéa de l’article 111.0.17.1, le Tribunal fournit aux parties et, le cas échéant, à la
+personne ayant un intérêt suffisant l’occasion de présenter leurs observations.
+2
+0
+1
+9
+,
+c
+.
+2
+02019, c. 20, a. 3 1.
+111.0.18.  Dans un service public visé par une décision rendue en vertu de l’article 111.0.17, les parties
+doivent négocier les services essentiels à maintenir en cas de grève. Les parties transmettent leur entente au
+Tribunal.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 37 sur 64
+Le Tribunal peut, de son propre chef ou à la demande d’une des parties, désigner une personne pour les
+aider à conclure une telle entente.
+À défaut d’une entente, une association accréditée doit transmettre à l’employeur et au Tribunal une liste
+qui détermine quels sont les services essentiels à maintenir dans le service en cause, en cas de grève.
+La liste ne peut être modifiée par la suite, sauf sur demande du Tribunal. Si une entente intervient entre les
+parties postérieurement au dépôt de cette liste, l’entente prévaut.
+1982, c. 37, a. 6; 2011, c. 16, a. 132; 2015, c. 15, a. 237; 2
+0
+1
+9
+,
+c
+.
+2
+02019, c. 20, a. 4 1.
+111.0.19.  Sur réception d’une entente ou d’une liste, le Tribunal évalue la suffisance des services
+essentiels qui y sont prévus.
+Les parties sont tenues d’assister à toute séance à laquelle le Tribunal les convoque.
+Si le Tribunal juge ces services insuffisants, il peut faire aux parties les recommandations qu’il juge
+appropriées afin de modifier l’entente ou la liste. Il peut également ordonner à l’association accréditée de
+surseoir à l’exercice de son droit à la grève jusqu’à ce qu’elle lui ait fait connaître les suites qu’elle entend
+donner à ces recommandations.
+1982, c. 37, a. 6; 1984, c. 45, a. 8; 2001, c. 26, a. 58; 2011, c. 16, a. 132; 2015, c. 15, a. 237; N.I. 2016-12-01; 2
+0
+1
+9
+,
+c
+.
+2
+02019, c. 20, a. 5 1.
+111.0.20.  (Abrogé).
+1982, c. 37, a. 6; 2011, c. 16, a. 132; 2015, c. 15, a. 237; 2
+0
+1
+9
+,
+c
+.
+2
+02019, c. 20, a. 6 1.
+111.0.21.  (Abrogé).
+1982, c. 37, a. 6; 2011, c. 16, a. 132; 2015, c. 15, a. 237; 2
+0
+1
+9
+,
+c
+.
+2
+02019, c. 20, a. 6 1.
+111.0.22.  Nul ne peut déroger aux dispositions d’une entente ou d’une liste.
+Une liste qui prévoit un nombre de salariés supérieur au nombre normalement requis dans le service en
+cause, est nulle de nullité absolue.
+1982, c. 37, a. 6; 1999, c. 40, a. 59.
+111.0.23.  Sous réserve de l’article 111.0.24, une association accréditée d’un service public peut déclarer
+une grève pourvu qu’elle en ait acquis le droit suivant l’article 58 et qu’elle ait donné par écrit au ministre et à
+l’employeur ainsi qu’au Tribunal s’il s’agit d’un service public visé par une décision rendue en vertu de
+l’article 111.0.17, un avis préalable d’au moins sept jours ouvrables francs indiquant le moment où elle entend
+recourir à la grève.
+Cet avis de grève ne peut être renouvelé qu’après le jour indiqué dans l’avis précédent comme moment où
+l’association accréditée entendait recourir à la grève.
+Dans le cas d’un service public visé par une décision rendue en vertu de l’article 111.0.17, la grève ne peut
+être déclarée par une association accréditée à moins qu’une entente n’ait été transmise au Tribunal depuis au
+moins sept jours ouvrables francs ou qu’une liste ne lui ait été transmise ainsi qu’à l’employeur dans le même
+délai.
+Le délai visé au troisième alinéa est calculé sans égard à l’application du quatrième alinéa de
+l’article 111.0.18.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 38 sur 64
+À moins d’entente entre les parties, l’employeur ne doit pas modifier les conditions de travail des salariés
+qui rendent les services essentiels.
+1982, c. 37, a. 6; 1984, c. 45, a. 9; 2011, c. 16, a. 132; 2015, c. 15, a. 237; N.I. 2016-01-01 (NCPC); 2
+0
+1
+9
+,
+c
+.
+2
+02019, c. 20, a. 7.
+111.0.23.1.  L’association accréditée d’un service public doit donner au ministre et à l’employeur ainsi
+qu’au Tribunal s’il s’agit d’un service public visé par une décision rendue en vertu de l’article 111.0.17, un
+avis écrit indiquant son intention de ne pas recourir à la grève au moment indiqué à l’avis transmis en vertu de
+l’article 111.0.23 ou, selon le cas, le moment prévu pour le retour au travail.
+Cet avis doit être donné pendant les heures ouvrables de ce service public.
+Un employeur n’est pas tenu de permettre l’exécution de la prestation de travail après le moment indiqué à
+l’avis de grève ou, selon le cas, à l’avis de retour au travail, avant l’expiration d’une période de quatre heures
+suivant la réception de l’avis donné conformément au deuxième alinéa. Les parties peuvent toutefois convenir
+d’une période plus courte. S’il s’agit d’un service public visé par une décision rendue en vertu de l’article
+111.0.17, les services essentiels doivent être maintenus jusqu’au retour au travail.
+1994, c. 6, a. 28; 2011, c. 16, a. 132; 2015, c. 15, a. 237; 2
+0
+1
+9
+,
+c
+.
+2
+02019, c. 20, a. 8 1.
+111.0.24.  Dans un service public visé par une décision rendue en vertu de l’article 111.0.17, le Tribunal
+peut suspendre l’exercice du droit de grève s’il juge que, lors d’une grève appréhendée ou en cours, les
+services essentiels prévus ou effectivement rendus sont insuffisants et que cela met en danger la santé ou la
+sécurité publique.
+Cette suspension a effet à compter de la date de la notification de la décision aux parties et jusqu’à ce qu’il
+soit démontré, à la satisfaction du Tribunal, qu’en cas d’exercice du droit de grève, les services essentiels
+seront maintenus de façon suffisante dans ce service public.
+1982, c. 37, a. 6; 2
+0
+1
+9
+,
+c
+.
+2
+02019, c. 20, a. 9 1.
+111.0.25.  (Abrogé).
+1982, c. 37, a. 6; 2
+0
+1
+9
+,
+c
+.
+2
+02019, c. 20, a. 10 1.
+111.0.26.  Le lock-out est interdit dans un service public visé par une décision rendue en vertu de l’article
+111.0.17.
+1982, c. 37, a. 6; 2
+0
+1
+9
+,
+c
+.
+2
+02019, c. 20, a. 11 1.
+SECTION III
+DES SECTEURS PUBLIC ET PARAPUBLIC
+1982, c. 37, a. 6.
+111.1.  À l’exception de la section I.1 du chapitre IV et de la possibilité de convenir d’une durée de plus de
+trois ans pour une convention collective, les dispositions du présent code s’appliquent aux relations du travail
+dans les secteurs public et parapublic, sauf dans la mesure où elles sont inconciliables avec celles de la
+présente section.
+1978, c. 52, a. 4; 1982, c. 37, a. 7; 1994, c. 6, a. 29.
+111.2.  Dans la présente section, on entend par:
+1° «secteurs public et parapublic» :CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 39 sur 64
+le gouvernement, ses ministères et les organismes du gouvernement dont le personnel est nommé suivant la
+Loi sur la fonction publique (chapitre F ‐3.1.1 ), ainsi que les collèges, les centres de services scolaires, les
+commissions scolaires et les établissements visés dans la Loi sur le régime de négociation des conventions
+collectives dans les secteurs public et parapublic (chapitre R ‐8.2);
+2° «établissement» :
+un établissement visé par l’article 1 de la Loi sur le régime de négociation des conventions collectives dans
+les secteurs public et parapublic (chapitre R ‐8.2).
+1978, c. 52, a. 4; 1978, c. 15, a. 140; 1983, c. 55, a. 161; 1982, c. 37, a. 7; 1985, c. 12, a. 99; 2000, c. 8, a. 242; 2
+0
+2
+0
+,
+c
+.
+12020, c. 1, a. 309 19.
+111.3.  Malgré le paragraphe d de l’article 22, l’accréditation peut être demandée à l’égard d’un groupe de
+salariés des secteurs public et parapublic entre le deux cent soixante-dixième et le deux cent quarantième jour
+précédant la date d’expiration d’une convention collective ou de ce qui en tient lieu.
+Cette convention ou ce qui en tient lieu lie les parties pour toute sa durée malgré l’accréditation d’une
+nouvelle association de salariés. La nouvelle association est liée par cette convention comme si elle y était
+nommée et devient par le fait même partie à toute procédure s’y rapportant aux lieu et place de l’association
+précédente.
+La décision sur la demande prévue au premier alinéa doit être rendue dans le délai compris entre la fin de
+l’époque d’une demande d’accréditation et la date d’expiration d’une convention collective ou de ce qui en
+tient lieu. Le deuxième alinéa de l’article 39.1 s’applique à cette décision.
+1978, c. 52, a. 4; 2001, c. 26, a. 59; 2015, c. 15, a. 135.
+111.4.  Nulle association accréditée ayant conclu une convention collective, nul groupe de salariés régis par
+une telle convention ou ce qui en tient lieu, ne fera de démarches en vue de devenir membre d’une autre
+association ou de s’y affilier, sauf entre le deux cent soixante-dixième et le cent quatre-vingtième jour
+précédant la date d’expiration de la convention collective ou de ce qui en tient lieu.
+1978, c. 52, a. 4.
+111.5.  (Abrogé).
+1978, c. 52, a. 4; 1982, c. 37, a. 8.
+111.6.  Une convention collective liant un collège, un centre de services scolaire, une commission scolaire
+ou un établissement visé dans la Loi sur le régime de négociation des conventions collectives dans les
+secteurs public et parapublic (chapitre R ‐8.2) est négociée et agréée conformément à cette loi.
+Une telle convention collective expire pour l’application du présent code, à la date d’expiration des
+stipulations négociées et agréées à l’échelle nationale.
+Les stipulations d’une telle convention collective qui sont négociées et agréées à l’échelle locale ou
+régionale continuent d’avoir effet, malgré l’expiration des stipulations négociées et agréées à l’échelle
+nationale, tant qu’elles n’ont pas été modifiées, abrogées ou remplacées par entente entre les parties.
+1978, c. 52, a. 4; 1985, c. 12, a. 87; 2
+0
+2
+0
+,
+c
+.
+12020, c. 1, a. 309 19.
+111.7.  La phase des négociations commence à compter du cent quatre-vingtième jour précédant la date
+d’expiration d’une convention collective ou de ce qui en tient lieu.
+1978, c. 52, a. 4.
+111.8.  1. Une association accréditée des secteurs public et parapublic faisant partie d’un groupement
+d’associations de salariés visé à l’article 1 de la Loi sur le régime de négociation des conventions collectivesCODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 40 sur 64
+dans les secteurs public et parapublic (chapitre R ‐8.2) doit, par l’entremise de son agent négociateur,
+transmettre par écrit à l’autre partie, au plus tard le cent cinquantième jour précédant la date d’expiration
+d’une convention collective ou de ce qui en tient lieu, ses propositions sur l’ensemble des matières qui
+doivent faire l’objet des négociations à l’échelle nationale à l’exclusion des salaires et échelles de salaires.
+2. Une association accréditée des secteurs public et parapublic qui ne fait pas partie d’un groupement
+d’associations de salariés mentionné au premier paragraphe doit, par l’entremise de son agent négociateur,
+transmettre par écrit à l’autre partie, au plus tard le cent cinquantième jour précédant la date d’expiration
+d’une convention collective ou de ce qui en tient lieu, ses propositions sur l’ensemble des matières qui
+doivent faire l’objet des négociations à l’échelle nationale à l’exception des salaires et échelles de salaires.
+3. Les comités patronaux institués par la Loi sur le régime de négociation des conventions collectives
+dans les secteurs public et parapublic doivent, dans les 60 jours qui suivent la réception de ces propositions,
+transmettre par écrit, à l’autre partie, leurs propositions sur l’ensemble des matières qui doivent faire l’objet
+des négociations à l’échelle nationale à l’exception des salaires et échelles de salaires.
+4. Une association de salariés visée dans le paragraphe 1 ou le paragraphe 2 et un comité patronal de
+négociation visé dans le paragraphe 3, doivent transmettre par écrit à l’autre partie leurs propositions sur les
+salaires et échelles de salaires, dans les 30 jours qui suivent la date de publication du rapport de l’Institut de la
+statistique du Québec prévu à l’article 4 de la Loi sur l’Institut de la statistique du Québec (chapitre I ‐13.011).
+5. (Paragraphe remplacé).
+1978, c. 52, a. 4; 1982, c. 37, a. 9; 1985, c. 12, a. 88, a. 99; 1998, c. 44, a. 47; 2005, c. 32, a. 242.
+111.9.  (Abrogé).
+1978, c. 52, a. 4; 1982, c. 37, a. 10.
+111.10.  Lors d’une grève des salariés d’un établissement, les parties sont tenues de maintenir des services
+essentiels. Ces services sont ceux dont l’interruption peut avoir pour effet de mettre en danger la santé ou la
+sécurité publique.
+1978, c. 52, a. 4 ; 1985, c. 12, a. 89; 1985, c. 40, a. 2 ; 1992, c. 21, a. 129 ; 2005, c. 32, a. 243 ; 2011, c. 16, a. 132 ; 2015, c. 15, a. 237 ; 2
+0
+1
+9
+,
+c
+.
+2
+02019, c. 20, a. 12 1.
+111.10.1.  Les services essentiels à maintenir doivent être négociés entre l’association accréditée et
+l’établissement. Cette négociation peut s’effectuer selon les paramètres convenus entre cette association ou un
+groupement d’associations dont elle fait partie et cet établissement ou son représentant.
+Toute entente sur les services essentiels doit respecter les critères suivants:
+1° les services essentiels doivent être répartis par unité de soins et catégories de soins ou de services;
+2° le fonctionnement normal des unités de soins intensifs et des unités d’urgence doit être assuré, le cas
+échéant;
+3° le libre accès d’une personne aux services de l’établissement doit être assuré.
+Toute entente est transmise au Tribunal pour approbation.
+Le Tribunal peut, de son propre chef ou à la demande d’une partie, désigner une personne pour aider les
+parties à conclure une entente.
+1982, c. 37, a. 12 ; 1984, c. 45, a. 33 ; 1985, c. 12, a. 89; 1985, c. 40, a. 2 ; 1992, c. 21, a. 130 ; 2011, c. 16, a. 132 ; 2015, c. 15, a. 237 ; 2
+0
+1
+9
+,
+c
+.
+2
+02019, c. 20, a. 12 1.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 41 sur 64
+111.10.2.  Un établissement doit, à la demande du Tribunal ou d’une association accréditée, communiquer
+à ceux-ci toute information pertinente aux services essentiels à maintenir, dans un délai de 10 jours ouvrables
+de la réception de la demande. Cette demande doit préciser l’information requise.
+1982, c. 37, a. 12; 1985, c. 12, a. 89; 1985, c. 40, a. 2; 2011, c. 16, a. 132; 2015, c. 15, a. 237; 2
+0
+1
+9
+,
+c
+.
+2
+02019, c. 20, a. 13 1.
+111.10.3.  À défaut d’une entente, l’association accréditée doit transmettre au Tribunal pour approbation
+une liste prévoyant les services essentiels à maintenir en cas de grève. Une telle liste doit respecter les critères
+énoncés au deuxième alinéa de l’article 111.10.1.
+Une liste qui prévoit un nombre de salariés supérieur au nombre habituellement requis dans le service en
+cause est nulle de nullité absolue.
+1982, c. 37, a. 12; 1985, c. 12, a. 89; 1985, c. 40, a. 2; 1992, c. 21, a. 131; 1999, c. 40, a. 59; 2011, c. 16, a. 132; 2015, c. 15, a. 237 ;
+2019, c. 20, a. 14.
+111.10.4.  Sur réception d’une entente ou d’une liste, le Tribunal évalue la suffisance des services qui y
+sont prévus à l’aide des critères prévus aux articles 111.10 et 111.10.1 qui sont applicables.
+Les parties sont tenues d’assister à toute séance où le Tribunal les convoque.
+1982, c. 37, a. 12; 1985, c. 12, a. 89; 1985, c. 40, a. 2; 2011, c. 16, a. 132; 2015, c. 15, a. 237; 2
+0
+1
+9
+,
+c
+.
+2
+02019, c. 20, a. 15.
+111.10.5.  Lorsque le Tribunal juge qu’une entente ou une liste n’est pas conforme aux critères prévus aux
+articles 111.10 et 111.10.1, il peut faire aux parties les recommandations qu’il juge appropriées en vue de la
+modification de l’entente ou de la liste ou il peut l’approuver avec modification.
+1982, c. 37, a. 12; 1985, c. 12, a. 89; 1985, c. 40, a. 2; 2011, c. 16, a. 132; 2015, c. 15, a. 237; 2
+0
+1
+9
+,
+c
+.
+2
+02019, c. 20, a. 16 1.
+111.10.6.  Une liste approuvée par le Tribunal ne peut être modifiée par la suite sauf sur la demande de ce
+dernier. Si une entente intervient entre les parties postérieurement au dépôt d’une liste devant le Tribunal,
+l’entente approuvée par le Tribunal prévaut.
+1982, c. 37, a. 12; 1985, c. 12, a. 89; 1985, c. 40, a. 2; 2011, c. 16, a. 132; 2015, c. 15, a. 237.
+111.10.7.  Une liste ou une entente est réputée approuvée telle que déposée si dans les 90 jours de sa
+réception par le Tribunal, ce dernier n’a pas statué sur la suffisance des services qu’elle prévoit.
+Toutefois le Tribunal peut par la suite, modifier le cas échéant une telle liste ou une telle entente afin de la
+rendre conforme aux dispositions des articles 111.10 et 111.10.1 qui lui sont applicables.
+1985, c. 12, a. 89; 1985, c. 40, a. 2; 1999, c. 40, a. 59; 2011, c. 16, a. 132; 2015, c. 15, a. 237; 2
+0
+1
+9
+,
+c
+.
+2
+02019, c. 20, a. 17 1.
+111.10.8.  Nul ne peut déroger aux dispositions d’une entente ou d’une liste approuvée par le Tribunal.
+1985, c. 12, a. 89; 1985, c. 40, a. 2; 2011, c. 16, a. 132; 2015, c. 15, a. 237.
+111.11.  Une partie ne peut déclarer une grève ou un lock-out à moins qu’il ne se soit écoulé au moins 20
+jours depuis la date où le ministre a reçu l’avis prévu à l’article 50 de la Loi sur le régime de négociation des
+conventions collectives dans les secteurs public et parapublic (chapitre R-8.2) et qu’un avis préalable d’au
+moins sept jours ouvrables francs n’ait été donné par écrit au ministre et à l’autre partie ainsi qu’au Tribunal
+dans le cas d’un établissement ou d’un groupe de salariés visé par le deuxième alinéa de l’article 69 de la Loi
+sur la fonction publique ( chapitre F-3.1.1 ), indiquant le moment où elle entend recourir à la grève ou au lock-
+out.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 42 sur 64
+Dans les cas où les parties ont conclu une entente sur l’ensemble des stipulations négociées et agréées à
+l’échelle nationale à l’exception des salaires et échelles de salaires, le délai de 20 jours à l’issue duquel une
+grève ou un lock-out peut être déclaré court à compter de la date de cette entente.
+L’avis de sept jours de grève ou de lock-out ne peut être renouvelé qu’après le jour indiqué dans l’avis
+précédent comme moment où elle entendait recourir à la grève ou au lock-out.
+À moins d’entente entre les parties, l’employeur ne doit pas modifier les conditions de travail des salariés
+qui rendent les services essentiels.
+1978, c. 52, a. 4; 1982, c. 37, a. 13; 1984, c. 45, a. 34; 1985, c. 12, a. 90; 2001, c. 26, a. 60; 2011, c. 16, a. 132; 2015, c. 15, a. 237; N.I.
+2016-01-01 (NCPC).
+111.12.  Dans le cas d’un établissement, la grève ne peut être déclarée par une association accréditée à
+moins qu’une entente ou une liste n’ait été approuvée par le Tribunal ou qu’elle soit réputée approuvée en
+vertu de l’article 111.10.7 et que depuis au moins 90 jours cette liste ou cette entente ait été transmise à
+l’employeur.
+1978, c. 52, a. 4; 1985, c. 12, a. 91; 1985, c. 40, a. 2; 1999, c. 40, a. 59; 2011, c. 16, a. 132; 2015, c. 15, a. 237.
+111.13.  Le lock-out ne peut être décrété par un établissement.
+Malgré une grève appréhendée, un établissement doit dispenser ses services habituels sans modification
+des normes applicables à l’accès aux services et à leur prestation.
+Le Tribunal peut en cas de contravention au présent article, exercer les pouvoirs que lui confère la
+section IV .
+1982, c. 37, a. 15; 1985, c. 12, a. 91; 1985, c. 40, a. 2; 1992, c. 21, a. 132; 2011, c. 16, a. 132; 2015, c. 15, a. 237.
+111.14.  La grève et le lock-out sont interdits à l’égard d’une matière définie comme faisant l’objet de
+stipulations négociées et agréées à l’échelle locale ou régionale ou d’arrangements locaux suivant la Loi sur le
+régime de négociation des conventions collectives dans les secteurs public et parapublic ( chapitre R ‐8.2) ainsi
+qu’à l’égard de la détermination des salaires et échelles de salaires prévue par le deuxième alinéa de l’article
+52 et par les articles 53 à 55 de cette loi.
+1982, c. 37, a. 15; 1985, c. 12, a. 91; 1985, c. 40, a. 2.
+111.15.  (Remplacé).
+1982, c. 37, a. 15; 1985, c. 12, a. 91.
+111.15.1.  À défaut d’une entente visée à l’article 69 de la Loi sur la fonction publique (chapitre F-3.1.1 ),
+une partie peut demander au Tribunal de désigner une personne pour les aider à conclure une telle entente ou
+de déterminer lui-même les services essentiels à maintenir en cas de grève ainsi que la façon de les maintenir.
+La partie demanderesse doit en aviser sans délai l’autre partie.
+Après l’envoi d’une telle demande, les parties doivent transmettre sans délai au Tribunal toute information
+pertinente aux services essentiels à maintenir et assister, le cas échéant, à toute séance à laquelle le Tribunal
+les convoque.
+2001, c. 26, a. 61; 2011, c. 16, a. 132; 2015, c. 15, a. 237.
+111.15.2.  Sur réception d’une demande en vertu de l’article 111.15.1, le Tribunal peut, de sa propre
+initiative ou à la demande d’une des parties, désigner une personne pour les aider à conclure une entente.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 43 sur 64
+Le Tribunal peut aussi, en tout temps après réception d’une telle demande, déterminer les services
+essentiels à maintenir en cas de grève ainsi que la façon de les maintenir. Il peut aussi en tout temps, à la
+demande de l’une des parties, modifier la décision qu’il a ainsi prise.
+2001, c. 26, a. 61; 2011, c. 16, a. 132; 2015, c. 15, a. 237.
+111.15.3.  Nul ne peut déroger aux dispositions d’une entente visée à l’article 69 de la Loi sur la fonction
+publique (chapitre F-3.1.1) ou d’une décision prise par le Tribunal en vertu de l’article 111.15.2 du présent
+code.
+2001, c. 26, a. 61; 2011, c. 16, a. 132; 2015, c. 15, a. 237.
+SECTION IV
+POUVOIRS DE REDRESSEMENT
+1985, c. 12, a. 92.
+111.16.  Dans les services publics et les secteurs public et parapublic, le Tribunal peut, de sa propre
+initiative ou à la demande d’une personne intéressée, faire enquête sur un lock-out, une grève ou un
+ralentissement d’activités qui contrevient à une disposition de la loi ou au cours duquel les services essentiels
+prévus à une liste ou une entente ne s’avèrent pas suffisants ou ne sont pas rendus.
+Le Tribunal peut également tenter d’amener les parties à s’entendre ou charger une personne qu’il désigne
+de tenter de les amener à s’entendre et de faire rapport sur l’état de la situation.
+1985, c. 12, a. 92; 2011, c. 16, a. 132; 2015, c. 15, a. 237; 2
+0
+1
+9
+,
+c
+.
+2
+02019, c. 20, a. 18 1.
+111.17.  S’il estime que le conflit porte préjudice ou est vraisemblablement susceptible de porter préjudice
+à un service auquel le public a droit ou que les services essentiels prévus à une liste ou à une entente ne
+s’avèrent pas suffisants ou ne sont pas rendus lors d’une grève, le Tribunal peut, après avoir fourni aux parties
+l’occasion de présenter leurs observations, rendre une ordonnance pour assurer au public un service auquel il
+a droit, ou exiger le respect de la loi, de la convention collective, d’une entente ou d’une liste sur les services
+essentiels.
+Le Tribunal peut:
+1° enjoindre à toute personne impliquée dans le conflit ou à toute catégorie de ces personnes qu’elle
+détermine de faire ce qui est nécessaire pour se conformer au premier alinéa du présent article ou de s’abstenir
+de faire ce qui y contrevient;
+2° exiger de toute personne impliquée dans le conflit de réparer un acte ou une omission fait en
+contravention de la loi, d’une entente ou d’une liste;
+3° ordonner à une personne ou à un groupe de personnes impliquées dans un conflit, compte tenu du
+comportement des parties, l’application du mode de réparation qu’elle juge le plus approprié, y compris la
+constitution et les modalités d’administration et d’utilisation d’un fonds au bénéfice des utilisateurs du service
+auquel il a été porté préjudice; un tel fonds comprend, le cas échéant, les intérêts accumulés depuis sa
+constitution;
+4° ordonner à toute personne impliquée dans le conflit de faire ou de s’abstenir de faire toute chose qu’il
+lui paraît raisonnable d’ordonner compte tenu des circonstances dans le but d’assurer le maintien de services
+au public;
+5° ordonner le cas échéant que soit accélérée ou modifiée la procédure de grief et d’arbitrage à la
+convention collective;CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 44 sur 64
+6° ordonner à une partie de faire connaître publiquement son intention de se conformer à l’ordonnance du
+Tribunal.
+1985, c. 12, a. 92; 1998, c. 23, a. 3; 2011, c. 16, a. 132; 2015, c. 15, a. 237; 2
+0
+1
+9
+,
+c
+.
+2
+02019, c. 20, a. 19 1.
+111.18.  Le Tribunal peut, de la même manière, exercer les pouvoirs que lui confèrent les articles 111.16 et
+111.17 si, à l’occasion d’un conflit, il estime qu’une action concertée autre qu’une grève ou un ralentissement
+d’activités porte préjudice ou est susceptible de porter préjudice à un service auquel le public a droit.
+1985, c. 12, a. 92; 2011, c. 16, a. 132; 2015, c. 15, a. 237.
+111.19.  Le Tribunal peut, plutôt que de rendre une ordonnance, prendre acte de l’engagement d’une
+personne d’assurer au public le ou les services auxquels il a droit, de respecter la loi, la convention collective,
+une entente ou une liste sur les services essentiels.
+Le non respect de cet engagement est réputé constituer une violation d’une ordonnance du Tribunal.
+1985, c. 12, a. 92; 2011, c. 16, a. 132; 2015, c. 15, a. 237.
+111.20.  Le Tribunal peut déposer ou, à la demande d’une partie intéressée, autoriser le dépôt d’une copie
+conforme d’une ordonnance rendue suivant les articles 111.0.17, 111.0.19, 111.0.24, 111.17 et 111.18 ou, le
+cas échéant, d’un engagement pris en vertu de l’article 111.19 au bureau du greffier de la Cour supérieure du
+district de Montréal, lorsque le service public ou l’organisme en cause est situé dans les districts de
+Beauharnois, Bedford, Drummond, Gatineau, Iberville, Joliette, Labelle, Laval, Longueuil, Mégantic,
+Montréal, Pontiac, Richelieu, Saint-François, Saint-Hyacinthe ou Terrebonne et, lorsqu’il est situé dans un
+autre district, au bureau du greffier de la Cour supérieure du district de Québec.
+Le dépôt de l’ordonnance ou de l’engagement lui confère alors la même force et le même effet que s’il
+s’agissait d’un jugement émanant de la Cour supérieure.
+Toute personne qui transgresse ou refuse d’obéir à une ordonnance ou à un engagement dans lequel elle est
+nommée ou désignée de même que toute personne non désignée qui y contrevient sciemment se rend
+coupable d’outrage au tribunal et peut être condamnée par le tribunal compétent, selon la procédure prévue
+aux articles 59 à 61 du Code de procédure civile (chapitre C-25.01), à une amende n’excédant pas 50 000 $
+avec ou sans emprisonnement pour une durée d’au plus un an. Ces pénalités peuvent être imposées de
+nouveau jusqu’à ce que le contrevenant se soit conformé à l’ordonnance ou à l’engagement.
+1985, c. 12, a. 92; 1998, c. 23, a. 4; 2001, c. 26, a. 62; 2011, c. 16, a. 132, a. 133; 2013, c. 29, a. 6; 2015, c. 15, a. 237; N.I. 2016-01-01
+(NCPC); 2
+0
+1
+9
+,
+c
+.
+2
+02019, c. 20, a. 20 1.
+SECTION V
+DISPOSITIONS DIVERSES
+2011, c. 16, a. 134.
+111.21.  Le Tribunal doit sensibiliser les parties relativement au maintien des services essentiels lors d’une
+grève.
+Le Tribunal peut aussi informer le public sur toute question relative au maintien des services essentiels.
+2011, c. 16, a. 134; 2015, c. 15, a. 237.
+111.21.1.  Toute négociation des services essentiels visés par les dispositions du présent chapitre doit
+commencer et se poursuivre avec diligence et bonne foi.
+2
+0
+1
+9
+,
+c
+.
+2
+02019, c. 20, a. 21 1.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 45 sur 64
+111.22.  Lorsque le Tribunal agit en vertu d’une disposition du présent chapitre, les articles 21 à 23, 35 et
+45, les deuxième et troisième alinéas de l’article 46 et les troisième et quatrième alinéas de l’article 51 de la
+Loi instituant le Tribunal administratif du travail (chapitre T-15.1) ne s’appliquent pas.
+2011, c. 16, a. 134; 2015, c. 15, a. 136.
+CHAPITRE V .2
+DISPOSITIONS PARTICULIÈRES APPLICABLES AUX EXPLOITATIONS FORESTIÈRES
+2013, c. 2, a. 68.
+111.23.  L’exploitant forestier est, pour les fins des chapitres II et III, réputé employeur de tous les salariés
+affectés à l’exploitation forestière des volumes de bois qu’il a achetés sur pied en application de sa garantie
+d’approvisionnement ou, s’il s’agit d’un producteur forestier qui alimente une usine de transformation de bois
+à partir d’une forêt privée, de tous les salariés affectés à l’exploitation forestière de cette forêt privée.
+Malgré le premier alinéa, lorsque plusieurs bénéficiaires d’une garantie d’approvisionnement doivent
+conclure une convention d’intégration en vertu des dispositions de l’article 103.7 de la Loi sur l’aménagement
+durable du territoire forestier (chapitre A-18.1), ils doivent déterminer, par entente et dans le délai que fixe le
+ministre des Ressources naturelles et de la Faune pour faire la preuve de l’existence de cette convention
+d’intégration, le ou les employeurs réputés, pour les fins des chapitres II et III, des salariés affectés à
+l’exploitation forestière des volumes de bois qu’ils ont achetés sur pied en application de leurs garanties
+respectives pour les secteurs d’intervention visés par cette convention d’intégration. Ils peuvent, à cette fin,
+faire une répartition des responsabilités en fonction de secteurs d’intervention particuliers ou des activités
+d’exploitation forestière dont ils assument la responsabilité, pourvu que tout salarié puisse identifier son
+employeur réputé. Dans tous les cas, l’employeur réputé peut être l’un des bénéficiaires désignés pour réaliser
+la récolte, un regroupement de certains ou l’ensemble des bénéficiaires concernés ou une association
+d’employeurs.
+L’entente visée au deuxième alinéa est transmise dans le même délai au ministre des Ressources naturelles
+et de la Faune, au ministre du Travail et au Tribunal. En cas de défaut par les bénéficiaires de conclure une
+telle entente et d’en transmettre copie dans les délais prévus, le ministre des Ressources naturelles et de la
+Faune en avise le ministre du Travail qui soumet alors la question au Tribunal, afin qu’il désigne l’employeur
+réputé après avoir permis aux bénéficiaires concernés de faire valoir leurs observations selon la procédure
+qu’il indique.
+Le présent article ne s’applique pas lorsque l’exploitant forestier ne réalise pas lui-même la récolte du bois
+acheté sur pied, en application des dispositions de l’article 103.5 ou du paragraphe 2° du troisième alinéa de
+l’article 103.7 de la Loi sur l’aménagement durable du territoire forestier. Il ne s’applique pas non plus aux
+salariés membres d’une coopérative faisant des travaux d’exploitation forestière.
+2013, c. 2, a. 68; 2015, c. 15, a. 237.
+111.24.  Le changement d’employeur réputé par effet d’une entente ou d’une décision du Tribunal prévues
+par l’article 111.23 constitue une concession partielle d’entreprise et emporte application des deux premiers
+alinéas de l’article 45.
+L’article 45.2 ne s’applique pas à une telle concession. Toutefois, la convention qui n’est pas expirée lors
+de la prise d’effet de la concession en application du premier alinéa expire, selon la première échéance, à la
+date prévue pour son expiration ou 24 mois après la date de la concession.
+Les dispositions de l’article 46 s’appliquent, compte tenu des adaptations nécessaires, en cas de difficulté
+découlant de l’application du présent article.
+2013, c. 2, a. 68; 2015, c. 15, a. 237.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 46 sur 64
+111.25.  Dans une exploitation forestière, les lieux affectés aux repas des salariés ne sont pas considérés
+comme lieux de travail et aucune réunion ne peut être tenue dans les lieux affectés au logement des salariés.
+2013, c. 2, a. 68.
+111.26.  Sous réserve de la Loi sur l’aménagement durable du territoire forestier (chapitre A-18.1 ),
+l’exploitant forestier ou le propriétaire du territoire où se fait une exploitation forestière est tenu de permettre
+le passage et de donner accès au campement des salariés à tout représentant d’une association de salariés muni
+d’un permis délivré par le Tribunal conformément aux règlements adoptés à cette fin en vertu de l’article 138.
+L’exploitant est tenu de fournir à ce représentant le gîte et le couvert au prix fixé pour les salariés par
+règlement suivant la Loi sur les normes du travail (chapitre N-1.1).
+Il doit sur demande écrite d’un salarié lui avancer la somme requise à titre de première cotisation à une
+association de salariés pourvu que ce salarié ait cette somme à son crédit.
+L’autorisation écrite donnée par tout salarié de précompter sur son salaire la somme ci-dessus constitue un
+paiement au sens du paragraphe c du premier alinéa de l’article 36.1; l’employeur est tenu de remettre dans le
+mois qui suit à l’association indiquée les montants ainsi précomptés avec un bordereau nominatif.
+Le présent article ne s’applique pas à l’exploitation forestière effectuée sur sa propriété par un producteur
+agricole.
+2013, c. 2, a. 68; 2015, c. 15, a. 237.
+CHAPITRE V .3
+DISPOSITIONS PARTICULIÈRES APPLICABLES AUX EXPLOITATIONS AGRICOLES
+2014, c. 9, a. 2.
+111.27.  Le présent chapitre s’applique aux salariés d’un employeur qui sont affectés à l’exploitation
+agricole, à moins qu’ils n’y soient ordinairement et continuellement employés au nombre minimal de trois.
+Les dispositions des sections II et III du chapitre II, de même que celles des chapitres III à V , ne
+s’appliquent pas aux salariés visés au premier alinéa.
+2014, c. 9, a. 2.
+111.28.  L’employeur doit donner à une association de salariés de l’exploitation agricole une occasion
+raisonnable de présenter des observations au sujet des conditions d’emploi de ses membres.
+2014, c. 9, a. 2.
+111.29.  Lorsqu’il s’agit d’établir si une occasion raisonnable a été donnée, sont notamment pertinents les
+éléments suivants:
+1° le moment où les observations sont présentées par rapport aux préoccupations qui peuvent survenir
+pendant la gestion d’une exploitation agricole, notamment les dates de plantation et de récolte, les conditions
+atmosphériques, la santé et la sécurité des animaux ainsi que la santé des végétaux;
+2° la fréquence et la répétitivité des observations.
+2014, c. 9, a. 2.
+111.30.  L’association peut présenter ses observations verbalement ou par écrit. L’employeur est tenu de les
+examiner et d’échanger avec les représentants de l’association.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 47 sur 64
+Lorsque les observations lui sont présentées par écrit, l’employeur informe l’association de salariés par
+écrit qu’il les a lues.
+La diligence et la bonne foi doivent gouverner la conduite des parties en tout temps.
+2014, c. 9, a. 2.
+111.31.  L’employeur ou le propriétaire d’une exploitation agricole est tenu de permettre le passage et de
+donner accès au lieu où sont logés des salariés et auquel il est en mesure d’interdire l’accès à tout représentant
+d’une association de salariés muni d’un permis délivré par le Tribunal conformément au règlement adopté à
+cette fin en vertu de l’article 138.
+2014, c. 9, a. 2; 2015, c. 15, a. 237.
+111.32.  Une association de salariés, un employeur ou une association d’employeurs qui estime qu’un droit
+prévu au présent chapitre n’a pas été respecté peut déposer une plainte auprès du Tribunal.
+2014, c. 9, a. 2; 2015, c. 15, a. 237.
+CHAPITRE V .4
+POUVOIRS GÉNÉRAUX DU TRIBUNAL
+2015, c. 15, a. 137.
+111.33.  Outre les pouvoirs que lui attribuent le présent code et la Loi instituant le Tribunal administratif
+du travail (chapitre T-15.1), le Tribunal peut aussi aux fins du présent code:
+1° ordonner à une personne, à un groupe de personnes, à une association ou à un groupe d’associations de
+cesser de faire, de ne pas faire ou d’accomplir un acte pour se conformer au présent code;
+2° exiger de toute personne de réparer un acte ou une omission fait en contravention d’une disposition du
+présent code;
+3° ordonner à une personne ou à un groupe de personnes, compte tenu du comportement des parties,
+l’application du mode de réparation qu’il juge le plus approprié;
+4° ordonner de ne pas autoriser ou participer ou de cesser d’autoriser ou de participer à une grève, à un
+ralentissement d’activités au sens de l’article 108 ou à un lock-out qui contrevient ou contreviendrait au
+présent code ou de prendre des mesures qu’il juge appropriées pour amener les personnes que représente une
+association à ne pas y participer ou à cesser d’y participer;
+5° ordonner, le cas échéant, que soit accélérée ou modifiée la procédure de grief et d’arbitrage prévue à la
+convention collective.
+Ces pouvoirs ne s’appliquent cependant pas au regard d’une grève, d’un ralentissement d’activités, d’une
+action concertée autre qu’une grève ou un ralentissement d’activités ou encore d’un lock-out, réels ou
+appréhendés, dans un service public ou dans les secteurs public et parapublic au sens du chapitre V .1.
+2015, c. 15, a. 137.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 48 sur 64
+CHAPITRE VI
+Abrogé, 2015, c. 15, a. 138.
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+SECTION I
+Abrogée, 2015, c. 15, a. 138.
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+112.  (Abrogé).
+S. R. 1964, c. 141, a. 100; 1969, c. 47, a. 38; 1999, c. 40, a. 59; 2001, c. 26, a. 63; 2015, c. 15, a. 138.
+113.  (Abrogé).
+S. R. 1964, c. 141, a. 101; 1969, c. 47, a. 38; 1969, c. 48, a. 29 ; 1980, c. 11, a. 48 ; 1988, c. 21, a. 66 ; 2001, c. 26, a. 63 ; 2015, c. 15, a.
+138.
+114.  (Abrogé).
+S. R. 1964, c. 141, a. 102; 1969, c. 47, a. 38; 1969, c. 48, a. 29 ; 1978, c. 15, a. 140 ; 1983, c. 55, a. 161 ; 2000, c. 8, a. 242 ; 2001, c. 26,
+a. 63; 2011, c. 16, a. 135; 2015, c. 15, a. 138.
+115.  (Abrogé).
+1969, c. 48, a. 29; 2001, c. 26, a. 63; 2015, c. 15, a. 138.
+115.1.  (Abrogé).
+2006, c. 58, a. 16; 2011, c. 16, a. 136; 2015, c. 15, a. 138.
+115.2.  (Abrogé).
+2006, c. 58, a. 16; 2015, c. 15, a. 138.
+115.2.1.  (Abrogé).
+2011, c. 16, a. 137; 2011, c. 31, a. 15; 2015, c. 15, a. 138.
+115.3.  (Abrogé).
+2006, c. 58, a. 16; 2011, c. 16, a. 138; 2015, c. 15, a. 138.
+115.4.  (Abrogé).
+2011, c. 16, a. 139; 2015, c. 15, a. 138.
+116.  (Abrogé).
+1969, c. 48, a. 29; 1999, c. 40, a. 59; 2001, c. 26, a. 63; 2015, c. 15, a. 138.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 49 sur 64
+SECTION II
+Abrogée, 2015, c. 15, a. 138.
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+117.  (Abrogé).
+1969, c. 48, a. 29; 1970, c. 9, a. 3; 2001, c. 26, a. 63; 2015, c. 15, a. 138.
+118.  (Abrogé).
+S. R. 1964, c. 141, a. 103; 1969, c. 47, a. 38; 1969, c. 48, a. 30 ; 1977, c. 41, a. 1 ; 1985, c. 6, a. 493 ; 1990, c. 4, a. 229 ; 1999, c. 40, a.
+59; 2001, c. 26, a. 63; 2006, c. 58, a. 17; 2015, c. 15, a. 138.
+119.  (Abrogé).
+S. R. 1964, c. 141, a. 104; 1969, c. 47, a. 38; 1969, c. 48, a. 30; 2001, c. 26, a. 63; 2015, c. 15, a. 138.
+120.  (Abrogé).
+1969, c. 48, a. 30; 1982, c. 16, a. 4; 2001, c. 26, a. 63; 2015, c. 15, a. 138.
+SECTION III
+Abrogée, 2015, c. 15, a. 138.
+2001, c. 26, a. 63; 2006, c. 58, a. 18; 2015, c. 15, a. 138.
+121.  (Abrogé).
+1969, c. 48, a. 30; 2001, c. 26, a. 63; 2006, c. 58, a. 19; 2015, c. 15, a. 138.
+122.  (Abrogé).
+1969, c. 48, a. 30; 1977, c. 41, a. 1; 1992, c. 61, a. 177; 2001, c. 26, a. 63; 2015, c. 15, a. 138.
+123.  (Abrogé).
+1969, c. 48, a. 30; 1990, c. 4, a. 230; 2001, c. 26, a. 63; 2006, c. 58, a. 20; 2015, c. 15, a. 138.
+SECTION IV
+Abrogée, 2015, c. 15, a. 138.
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+124.  (Abrogé).
+1969, c. 48, a. 30; 1994, c. 6, a. 30; 1999, c. 40, a. 59; 2001, c. 26, a. 63; 2011, c. 16, a. 140; 2015, c. 15, a. 138.
+125.  (Abrogé).
+1969, c. 48, a. 30; 1992, c. 61, a. 178; 2001, c. 26, a. 63; 2015, c. 15, a. 138.
+126.  (Abrogé).
+1969, c. 48, a. 30; 1992, c. 61, a. 179; 1999, c. 40, a. 59; 2001, c. 26, a. 63; 2015, c. 15, a. 138.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 50 sur 64
+127.  (Abrogé).
+1969, c. 48, a. 30; 2001, c. 26, a. 63; 2015, c. 15, a. 138.
+128.  (Abrogé).
+S. R. 1964, c. 141, a. 105; 1969, c. 47, a. 38; 1969, c. 48, a. 31 ; 1990, c. 4, a. 231; 1992, c. 61, a. 180; 2001, c. 26, a. 63; 2006, c. 58, a.
+21; 2011, c. 16, a. 141; 2015, c. 15, a. 138.
+129.  (Abrogé).
+S. R. 1964, c. 141, a. 106; 1969, c. 47, a. 38; 1969, c. 48, a. 32 ; 1977, c. 41, a. 1 ; 2001, c. 26, a. 63 ; 2006, c. 58, a. 22 ; 2015, c. 15, a.
+138.
+SECTION V
+Abrogée, 2015, c. 15, a. 138.
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+§ 1. — 
+Abrogée, 2015, c. 15, a. 138.
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+130.  (Abrogé).
+S. R. 1964, c. 141, a. 107; 1969, c. 47, a. 38; 1969, c. 48, a. 33 ; 1977, c. 41, a. 55 ; 1983, c. 22, a. 91 ; 1994, c. 6, a. 31 ; 2001, c. 26, a.
+63; 2015, c. 15, a. 138.
+130.1.  (Remplacé).
+1994, c. 6, a. 32; 2001, c. 26, a. 63.
+131.  (Abrogé).
+S. R. 1964, c. 141, a. 108; 1969, c. 47, a. 38; 1977, c. 41, a. 1; 1994, c. 6, a. 33; 2001, c. 26, a. 63; 2015, c. 15, a. 138.
+132.  (Abrogé).
+S. R. 1964, c. 141, a. 109; 1969, c. 47, a. 38; 1969, c. 48, a. 34; 2001, c. 26, a. 63; 2006, c. 58, a. 23; 2015, c. 15, a. 138.
+133.  (Abrogé).
+S. R. 1964, c. 141, a. 110; 1969, c. 47, a. 38; 1969, c. 48, a. 34; 2001, c. 26, a. 63; 2003, c. 26, a. 9; 2015, c. 15, a. 138.
+134.  (Abrogé).
+S. R. 1964, c. 141, a. 111; 1969, c. 47, a. 38; 1969, c. 48, a. 34; 1994, c. 6, a. 34; 2001, c. 26, a. 63; 2015, c. 15, a. 138.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 51 sur 64
+§ 2. — 
+Abrogée, 2015, c. 15, a. 138.
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+135.  (Abrogé).
+S. R. 1964, c. 141, a. 112; 1969, c. 47, a. 38; 1969, c. 48, a. 34; 2001, c. 26, a. 63; 2006, c. 58, a. 24; 2015, c. 15, a. 138.
+135.1.  (Remplacé).
+1994, c. 6, a. 35; 2001, c. 26, a. 63.
+135.2.  (Remplacé).
+1994, c. 6, a. 35; 2001, c. 26, a. 63.
+136.  (Abrogé).
+S. R. 1964, c. 141, a. 113; 1969, c. 47, a. 38; 1969, c. 48, a. 34; 2001, c. 26, a. 63; 2006, c. 58, a. 25; 2015, c. 15, a. 138.
+137.  (Abrogé).
+S. R. 1964, c. 141, a. 114; 1969, c. 47, a. 38; 1969, c. 48, a. 34; 2001, c. 26, a. 63; 2006, c. 58, a. 26; 2015, c. 15, a. 138.
+137.1.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.2.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.3.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.4.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.5.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.6.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.7.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.8.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 52 sur 64
+137.9.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.10.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+SECTION VI
+Abrogée, 2015, c. 15, a. 138.
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+§ 1. — 
+Abrogée, 2015, c. 15, a. 138.
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.11.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.11.1.  (Abrogé).
+2006, c. 58, a. 27; 2011, c. 16, a. 142.
+137.12.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.13.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.14.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.15.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.16.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+§ 2. — 
+Abrogée, 2015, c. 15, a. 138.
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.17.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 53 sur 64
+137.18.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.19.  (Abrogé).
+2001, c. 26, a. 63; 2002, c. 22, a. 32; 2015, c. 15, a. 138.
+137.20.  (Abrogé).
+2001, c. 26, a. 63; 2002, c. 22, a. 32; 2015, c. 15, a. 138.
+137.21.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.22.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.23.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.24.  (Abrogé).
+2001, c. 26, a. 63; 2002, c. 22, a. 33; 2015, c. 15, a. 138.
+137.25.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.26.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+§ 3. — 
+Abrogée, 2015, c. 15, a. 138.
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.27.  (Abrogé).
+2001, c. 26, a. 63; 2002, c. 22, a. 34; 2015, c. 15, a. 138.
+137.28.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.29.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.30.  (Abrogé).
+2001, c. 26, a. 63; 2001, c. 49, a. 2; 2015, c. 15, a. 138.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 54 sur 64
+137.31.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+§ 4. — 
+Abrogée, 2015, c. 15, a. 138.
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.32.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.33.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.34.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.35.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.36.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.37.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+SECTION VII
+Abrogée, 2015, c. 15, a. 138.
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+§ 1. — 
+Abrogée, 2015, c. 15, a. 138.
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.38.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.39.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 55 sur 64
+§ 2. — 
+Abrogée, 2015, c. 15, a. 138.
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.40.  (Abrogé).
+2001, c. 26, a. 63; 2006, c. 58, a. 28; 2011, c. 16, a. 143; 2015, c. 15, a. 138.
+137.41.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.42.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.43.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.44.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.45.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.46.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+§ 3. — 
+Abrogée, 2015, c. 15, a. 138.
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.47.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.48.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.48.1.  (Abrogé).
+2011, c. 16, a. 144; 2015, c. 15, a. 138.
+137.49.  (Abrogé).
+2001, c. 26, a. 63; 2006, c. 58, a. 29; 2011, c. 16, a. 145; 2015, c. 15, a. 138.
+137.50.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 56 sur 64
+137.51.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+§ 4. — 
+Abrogée, 2015, c. 15, a. 138.
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.52.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.53.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+§ 5. — 
+Abrogée, 2015, c. 15, a. 138.
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.54.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.55.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.56.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.57.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.58.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.59.  (Abrogé).
+2001, c. 26, a. 63; 2011, c. 18, a. 117; 2015, c. 15, a. 138.
+137.60.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.61.  (Abrogé).
+2001, c. 26, a. 63; 2015, c. 15, a. 138.
+137.62.  (Abrogé).
+2001, c. 26, a. 63; 2005, c. 42, a. 19; 2006, c. 58, a. 30; 2011, c. 18, a. 118; 2015, c. 15, a. 138.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 57 sur 64
+137.63.  (Abrogé).
+2001, c. 26, a. 63; 2011, c. 18, a. 119; 2015, c. 15, a. 138.
+CHAPITRE VII
+DE LA RÉGLEMENTATION
+138.  Le gouvernement peut faire tout règlement qu’il juge approprié pour donner effet aux dispositions du
+présent code, et en particulier pour:
+a) la délivrance des permis prévus aux articles 9, 111.26 et 111.31;
+b) pourvoir à un régime d’accréditation approprié au caractère temporaire et saisonnier des exploitations
+forestières et des industries de la pêche et de la préparation du poisson et en particulier décider qu’une période
+de 30 jours visée au paragraphe d ou e de l’article 22 se situe à un autre moment;
+c) modifier le nombre d’exemplaires ou de copies conformes à déposer suivant l’article 72 et établir la
+procédure à suivre pour ce dépôt et les renseignements que les parties doivent lui fournir à cette occasion;
+d) établir des modalités particulières pour le dépôt d’une convention collective applicable à plusieurs
+employeurs ou à plusieurs associations accréditées;
+e) établir la procédure à suivre pour le dépôt d’une sentence arbitrale et les renseignements que l’arbitre
+de grief doit fournir sur la durée des étapes de la procédure suivie pour l’arbitrage;
+f) (paragraphe abrogé);
+i. (sous-paragraphe abrogé);
+ii. (sous-paragraphe abrogé);
+iii. (sous-paragraphe abrogé);
+g) (paragraphe abrogé);
+h) (paragraphe abrogé).
+S. R. 1964, c. 141, a. 115; 1969, c. 47, a. 38; 1969, c. 48, a. 34; 1977, c. 41, a. 56; 1983, c. 22, a. 92; 1994, c. 6, a. 36; 2001, c. 26, a.
+64; 2006, c. 58, a. 31; 2011, c. 16, a. 146; 2014, c. 9, a. 3; 2015, c. 15, a. 139.
+CHAPITRE VIII
+DES RECOURS
+2001, c. 26, a. 65.
+139.  Sauf sur une question de compétence, aucun pourvoi en contrôle judiciaire prévu au Code de
+procédure civile (chapitre C-25.01) ne peut être exercé ni aucune injonction accordée contre un arbitre
+agissant en sa qualité officielle.
+S. R. 1964, c. 141, a. 121; 1969, c. 47, a. 39 ; 1977, c. 41, a. 1, a. 57 ; 1982, c. 16, a. 5 ; 1983, c. 22, a. 93 ; 1985, c. 12, a. 93 ; 1990, c. 4,
+a. 232; 1998, c. 46, a. 59; 2001, c. 26, a. 66; 2011, c. 16, a. 147; 2015, c. 15, a. 140; N.I. 2016-01-01 (NCPC).
+139.1.  (Inopérant).
+1982, c. 16, a. 6; 2015, c. 15, a. 141; N.I. 2016-01-01 (NCPC).CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 58 sur 64
+140.  Un juge de la Cour d’appel peut, sur demande, annuler sommairement une décision, une ordonnance
+ou une injonction rendue ou prononcée à l’encontre des articles 139 et 139.1.
+S. R. 1964, c. 141, a. 122; 1974, c. 11, a. 2; 1979, c. 37, a. 43; 1982, c. 16, a. 7; N.I. 2016-01-01 (NCPC).
+140.1.  (Abrogé).
+1982, c. 37, a. 16; 1985, c. 12, a. 94; 2011, c. 16, a. 148; 2015, c. 15, a. 142.
+CHAPITRE IX
+DISPOSITIONS PÉNALES
+1990, c. 4, a. 234.
+141.  Tout employeur qui, ayant reçu l’avis prescrit, fait défaut de reconnaître comme représentants de
+salariés à son emploi les représentants d’une association de salariés accréditée ou de négocier de bonne foi
+avec eux une convention collective de travail, commet une infraction et est passible d’une amende de 100 $ à
+1 000 $ pour chaque jour ou fraction de jour que dure l’infraction.
+Commet l’infraction visée au premier alinéa et est passible de l’amende qui y est prévue tout employeur
+qui fait défaut de reconnaître comme représentants de salariés à son emploi les représentants d’une association
+visée au chapitre V .3 ou d’échanger avec eux de bonne foi selon le processus prévu aux dispositions de ce
+chapitre.
+S. R. 1964, c. 141, a. 123; 2014, c. 9, a. 4.
+142.  Quiconque déclare ou provoque une grève ou un lock-out contrairement aux dispositions du présent
+code, ou y participe, est passible pour chaque jour ou partie de jour pendant lequel cette grève ou ce lock-out
+existe, d’une amende:
+1° de 25 $ à 100 $, s’il s’agit d’un salarié;
+2° de 1 000 $ à 10 000 $, s’il s’agit d’un dirigeant ou employé d’une association de salariés, ou d’un
+administrateur, agent ou conseiller d’une association de salariés ou d’un employeur;
+3° de 5 000 $ à 50 000 $, s’il s’agit d’un employeur, d’une association de salariés ou d’une union,
+fédération ou confédération à laquelle est affiliée ou appartient une association de salariés.
+S. R. 1964, c. 141, a. 124; 1982, c. 37, a. 17.
+142.1.  Quiconque contrevient à l’article 109.1 commet une infraction et est passible d’une amende d’au
+plus 1 000 $ pour chaque jour ou partie de jour pendant lequel dure l’infraction.
+1977, c. 41, a. 58.
+143.  Quiconque enfreint une disposition des articles 12, 13 ou 14, commet une infraction et est passible
+d’une amende de 100 $ à 1 000 $ pour chaque jour ou fraction de jour que dure l’infraction.
+S. R. 1964, c. 141, a. 125.
+143.1.  Quiconque entrave ou fait obstacle à l’action du Tribunal ou d’une personne nommée par lui, dans
+l’application du chapitre V .1 ou quiconque les trompe par réticence ou fausse déclaration commet une
+infraction et est passible, pour chaque jour ou partie de jour pendant lequel dure l’infraction, d’une amende:
+1° de 25 $ à 100 $, s’il s’agit d’un salarié;CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 59 sur 64
+2° de 100 $ à 500 $, s’il s’agit d’un dirigeant ou employé d’une association de salariés, ou d’un
+administrateur, agent ou conseiller d’une association de salariés ou d’un employeur;
+3° de 500 $ à 1 000 $, s’il s’agit d’un employeur, d’une association de salariés, ou d’une union, fédération
+ou confédération à laquelle est affiliée ou appartient une association de salariés.
+1982, c. 37, a. 18; 2011, c. 16, a. 149; 2015, c. 15, a. 237.
+144.  Quiconque fait défaut de se conformer à une obligation ou à une prohibition imposée par le présent
+code, ou par un règlement du gouvernement, ou par un règlement ou une décision du Tribunal rendue en vertu
+du présent code, commet une infraction et est passible, à moins qu’une autre peine ne soit applicable, d’une
+amende de 100 $ à 500 $ et de 1 000 $ à 5 000 $ pour chaque récidive.
+S. R. 1964, c. 141, a. 126; 1969, c. 47, a. 40; 1977, c. 41, a. 1, a. 59; 1990, c. 4, a. 233; 2001, c. 26, a. 67; 2015, c. 15, a. 143.
+145.  Est partie à toute infraction et passible de la peine prévue au même titre qu’une personne qui la
+commet toute personne qui aide à la commettre ou conseille de la commettre, et dans le cas où l’infraction est
+commise par une personne morale ou par une association, est coupable de l’infraction tout administrateur,
+dirigeant ou gérant qui, de quelque manière, approuve l’acte qui constitue l’infraction ou y acquiesce.
+S. R. 1964, c. 141, a. 128; 1999, c. 40, a. 59.
+146.  Si plusieurs personnes forment l’intention commune de commettre une infraction, chacune d’elles est
+coupable de chaque infraction commise par l’une d’elles dans la poursuite de la commune intention.
+S. R. 1964, c. 141, a. 129.
+146.1.  L’employeur qui n’exécute pas l’ordonnance de réintégration et, le cas échéant, de paiement d’une
+indemnité rendue en vertu de l’article 15 ou par application de l’article 110.1 commet une infraction et est
+passible d’une amende de 500 $ par jour de retard.
+1977, c. 41, a. 60.
+146.2.  Une association de salariés ou un employeur qui contrevient à une entente ou à une liste visées aux
+articles 111.0.18, 111.10.1, 111.10.3, 111.10.5, 111.10.7 ou encore à une entente ou à une décision visée à
+l’article 111.15.3, ou une association de salariés qui ne prend pas les moyens appropriés pour amener les
+salariés qu’elle représente à se conformer à cette entente ou à cette liste ou encore à cette entente ou à cette
+décision commet une infraction et est passible d’une amende de 1 000 $ à 10 000 $ pour chaque jour ou partie
+de jour pendant lequel dure l’infraction.
+1982, c. 37, a. 19; 1985, c. 12, a. 95; 2001, c. 26, a. 68; 2
+0
+1
+9
+,
+c
+.
+2
+02019, c. 20, a. 22 1.
+147.  (Abrogé).
+S. R. 1964, c. 141, a. 130; 1990, c. 4, a. 235.
+148.  Une poursuite pénale pour une infraction à une disposition des articles 20.2 ou 20.3, intentée
+conformément à l’article 10 du Code de procédure pénale ( chapitre C ‐25.1), ne peut l’être que par un membre
+de l’association accréditée compris dans l’unité de négociation.
+S. R. 1964, c. 141, a. 131; 1969, c. 47, a. 42; 1969, c. 48, a. 35; 1977, c. 41, a. 61; 1990, c. 4, a. 236; 1992, c. 61, a. 181.
+149.  (Abrogé).
+S. R. 1964, c. 141, a. 132; 1969, c. 26, a. 20; 1969, c. 47, a. 43 ; 1975, c. 76, a. 11 ; 1981, c. 9, a. 24 ; 1982, c. 52, a. 115 ; 2002, c. 45, a.
+269; 2006, c. 58, a. 32.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 60 sur 64
+CHAPITRE X
+DE LA PROCÉDURE
+150.  (Abrogé).
+S. R. 1964, c. 141, a. 133; 2015, c. 15, a. 144.
+151.  (Abrogé).
+S. R. 1964, c. 141, a. 134; 1969, c. 48, a. 36 ; 1977, c. 41, a. 1, a. 62; 1981, c. 9, a. 34; 1982, c. 53, a. 56; 1994, c. 12, a. 66; 1996, c. 29,
+a. 43; 1999, c. 40, a. 59; 2001, c. 26, a. 69; 2015, c. 15, a. 144.
+151.1.  Aux fins du présent code, sont jours fériés:
+a) les dimanches;
+b) les 1er et 2 janvier;
+c) le vendredi saint;
+d) le lundi de Pâques;
+e) le 24 juin, jour de la fête nationale;
+f) le 1er juillet, anniversaire de la Confédération, ou le 2 juillet si le 1er tombe un dimanche;
+g) le premier lundi de septembre, fête du travail;
+g.1) le deuxième lundi d’octobre;
+h) les 25 et 26 décembre;
+i) le jour fixé par proclamation du gouverneur-général pour marquer l’anniversaire de naissance du
+Souverain;
+j) tout autre jour fixé par proclamation ou décret du gouvernement comme jour de fête publique ou
+d’action de grâces.
+1977, c. 41, a. 63; 1978, c. 5, a. 14; 1979, c. 37, a. 41; 1984, c. 46, a. 17; N.I. 2016-01-01 (NCPC).
+151.2.  Si la date fixée pour faire une chose tombe un jour férié, la chose peut être valablement faite le
+premier jour ouvrable qui suit.
+1977, c. 41, a. 63; N.I. 2016-01-01 (NCPC).
+151.3.  Dans la computation de tout délai fixé par le présent code, ou imparti en vertu de quelqu’une de ses
+dispositions:
+1. le jour qui marque le point de départ n’est pas compté, mais celui de l’échéance l’est;
+2. les jours fériés sont comptés; mais lorsque le dernier jour est férié, le délai est prorogé au premier jour
+ouvrable suivant;
+3. le samedi est assimilé à un jour férié, de même que le 2 janvier et le 26 décembre.
+1977, c. 41, a. 63; 2006, c. 58, a. 33; N.I. 2016-01-01 (NCPC).CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 61 sur 64
+151.4.  Les jours fériés ne sont pas comptés dans la computation de tout délai fixé par le présent code pour
+faire une chose, lorsque ce délai n’excède pas dix jours.
+1977, c. 41, a. 63; N.I. 2016-01-01 (NCPC).
+152.  Aucune preuve n’est permise pour établir qu’une enquête ou poursuite prévue par le présent code a
+été intentée à la suite d’une information d’un dénonciateur ou pour découvrir l’identité de ce dernier.
+S. R. 1964, c. 141, a. 135; 1990, c. 4, a. 237.
+CHAPITRE X.1
+RESPONSABILITÉ
+2009, c. 32, a. 25.
+152.1.  Le ministre du Travail est responsable de l’application du présent code.
+2009, c. 32, a. 25; 2015, c. 15, a. 145.
+CHAPITRE XI
+Ce chapitre a cessé d’avoir effet le 17 avril 1987.
+153.  (Cet article a cessé d’avoir effet le 17 avril 1987).
+1982, c. 21, a. 1; R.-U., 1982, c. 11, ann. B, ptie I, a. 33.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 62 sur 64
+ANNEXE I
+(Abrogée).
+2001, c. 26, a. 70; 2002, c. 28, a. 36; 2002, c. 68, a. 9; 2002, c. 69, a. 126; 2002, c. 80, a. 78; 2004, c. 22, a. 15; 2005, c. 42, a. 20 ;
+2006, c. 58, a. 34; 2005, c. 34, a. 52; 2006, c. 58, a. 34; 2009, c. 24, a. 89; 2009, c. 32, a. 26; 2009, c. 36, a. 71; 2011, c. 17, a. 42 ;
+2011, c. 16, a. 150; 2011, c. 30, a. 72; 2011, c. 31, a. 16; 2010, c. 3, a. 271; 2013, c. 2, a. 69; N.I. 2014-05-01; 2015, c. 15, a. 146.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 63 sur 64
+ANNEXE ABROGATIVE
+Conformément à l’article 17 de la Loi sur la refonte des lois (chapitre R ‐3), le chapitre 141 des Statuts
+refondus, 1964, tel qu’en vigueur au 31 décembre 1977, à l’exception des articles 136 a à 140 c, est abrogé à
+compter de l’entrée en vigueur du chapitre C-27 des Lois refondues.CODE DU TRA V AIL
+À jour au 0
+11er 0
+9septembre 2020
+© Éditeur officiel du Québec C-27 / 64 sur 64

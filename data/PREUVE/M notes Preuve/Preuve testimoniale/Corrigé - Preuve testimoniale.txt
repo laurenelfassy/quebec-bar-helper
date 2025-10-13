@@ -1,0 +1,123 @@
+PREUVE CIVILE  CORRIGÉS  
+ 
+La preuve testimoniale  | Corrigés  1  
+ 
+LA PREUVE TESTIMONIALE  
+ 
+EXERCICE 1  
+ 
+EXERCICE  PRATIQUE  : PREUVE PAR TÉMOIGNAGE  
+ CORRIGÉ  
+ 
+ 
+1. Les héritiers de Roméo Rouleau peuvent -ils, par témoignage, expliquer que Roméo Rouleau  
+n’a jamais déclaré que les appareils avaient fait l’objet d’une inspection municipale? Motivez votre réponse.  
+ 
+Oui, même si l’acte sous seing privé fait preuve, à l’égard de ceux contre qui il est prouvé, de l’acte juridique qu’il renferme et des déclarations des parties qui s’y rapportent directement 
+(art.  2828, al.  2 et 2829 C.c.Q.) et que les héritiers de Roméo Rouleau conti nuent la personne 
+du défunt, la prohibition de l’art.  2863  C.c.Q. limite la prohibition de la preuve testimoniale à 
+l’acte juridique comme tel mais non aux déclarations ou faits matériels contenus dans l’écrit.   
+Ainsi, bien que Roméo  soit partie au contrat , le contrat  peut être contredit par témoignage 
+des héritiers de Roméo parce que leur témoignage ne vise pas à contredire l’acte juridique 
+qui y est contenu, mais bien un fait matériel, une représentation faite lors de la transaction. Le fait matériel cont enu dans l’écrit peut être contredit par tous moyens dont le témoignage. 
+Si par témoignage, on tentait de contredire un aspect de l’acte juridique comme tel, il aurait fallu qu’il y ait  un commencement de preuve  pour que le témoignage soit admissible.  
+ 
+ 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::::::::::  
+ Dans l a situation suivante, déterminez si le témoignage proposé est recevable et, dans 
+l’affirmative, déterminez sa valeur probante. Motivez votre réponse.  
+ 
+2. Le témoignage d’un ex -employé de Papeterie inc. pour contredire une facture d’achat de 
+papier produite par Papeterie  inc. dans une demande en réclamation d’une indemnité 
+d’assurance intentée par Papeterie  inc. contre Assurances Providence  inc. 
+ 
+Oui, le témoignage est recevable mais il faut, au préalable, considérer la nature de cet écrit, 
+qu’est la facture. Il s’agit d’un écrit non signé, habituellement utilisé dans le cours des activités 
+d’une entreprise pour constater un acte juridique. Ce document fait preuve de son contenu 
+
+ CORRIGÉS  
+ 
+La preuve testimoniale  | Corrigés  2 pour autant que celui qui l’invoque prouve que l’écrit émane de celui qu’il prétend en être 
+l’auteur (art.  2831 et 2835 C.c.Q.).  
+ Comme c et écrit peut néanmoins être contredit par tout moy en (art.  2836 C.c.Q.), le 
+témoignage de l’ex -employé peut donc être admissible et l’appréciation de sa valeur 
+probante est laissée au tribunal (art.  2845 C.c.Q.).  
+  
+ CORRIGÉS  
+ 
+La preuve testimoniale  | Corrigés  3 EXERCICE 2  
+ 
+DOSSIER VILLE DE SAINT -GILLES  : CORRIGÉ  
+ 
+ 
+1. Au début de l’audience, l’avocat de la défenderesse, Luce Desautels, demande l’exclusion des témoins, ce que le tribunal lui accorde.  
+ 
+L’inspecteur municipal Pierre Lasalle est -il tenu de quitter la salle? Motivez votre réponse.  
+ 
+Non, l’exclusion des témoi ns ne s’applique ni aux parties (art.  279, al.  1 C.p.c.)  ni aux experts  
+(art. 279 al. 2 C.p.c.) . Or, la municipalité, personne morale, peut être représentée par une 
+personne physique, en l’instance l’inspecteur municipal Pierre Lasalle.  
+ 
+ 
+2. Dans son témoi gnage, Pierre Lasalle déclare que, selon lui, les arbres abattus par Luce 
+Desautels étaient tous des arbres sains et d’une essence rare.  
+ 
+L’avocat de Luce Desautels formule une objection. Énoncez le motif de cette objection.  
+ Le témoin Pierre Lasalle doit témoigner sur des faits, et non donner son avis, puisqu’il s’agit 
+d’un témoin ordinaire et non pas d’un témoin expert (art.  2843 C.c.Q.).  
+  
+3. Après le témoignage de Pierre Lasalle, vous faites témoigner votre expert e, Nicole Brunet, 
+afin d’obtenir des pré cisions sur son rapport.  
+ 
+En réponse à une question sur le fait que les arbres coupés par Luce Desautels étaient situés 
+à moins de dix  mètres de la Petite Rivière Saint -Jean, Nicole Brunet précise que ce n’est pas 
+elle qui a pris ces mesures, mais son assi stant, Luc Audet, ce qui est de toute façon 
+mentionné dans son rapport. Elle ajoute qu’elle n’a pas personnellement constaté la distance entre les arbres et la rivière.  
+ L’avocat de la défenderesse formule alors une objection à la réponse donnée relativement 
+au fait que les arbres coupés sont à moins de dix  mètres de la Petite Rivière Saint -Jean, au 
+motif que ce fait n’est pas à la connaissance personnelle de Nicole Brunet. 
+ 
+Cette objection est- elle fondée? Motivez votre réponse.  
+ CORRIGÉS  
+ 
+La preuve testimoniale  | Corrigés  4  
+Oui, cette objection est b ien fondée. Il s’agit d’un fait que l’experte n’a pas constaté elle -
+même. C’est donc du ouï -dire puisqu’elle rapporte les paroles de quelqu’un qui ne témoigne 
+pas. Par ailleurs, le fait de rapporter les paroles de quelqu’un qui est présent pour témoigner 
+ou celles d’une partie au l itige constituera certes du  ouï-dire, mais qui sera permis en raison 
+notamment du fait que la personne présente pourra, le cas échéant, rectifier ou contredire les paroles rapportées.  
+ En conséquence, le témoignage de l’expert e Nicole Brunet ne peut être reçu au sujet de la 
+distance qui sépare les arbres coupés de la rivière. Seul le témoignage de Luc Audet serait 
+recevable à ce sujet. Or, il ne semble pas qu’il soit présent comme témoin, cette preuve ne 
+peut donc être faite.  Il pourrait même être possible de demander le rejet d u rapport en vertu 
+de l’article  294, al.  2 C.p.c. Toutefois, il est loin d’être certain  que le tribunal conclurait au 
+rejet du rapport pour ce seul motif.  
+ 
+NOTA  : il en aurait été autrement si les constata tions de Luc Audet avaient fait l’objet 
+d’un témoignage joint au rapport d’expertise, art. 238, al. 2 C.p.c.  
+  
+4. Après que la preuve de la demanderesse a été déclarée close, l’avocat de Luce Desautels 
+commence sa preuve.  
+ 
+À la question de son avocat quant  aux circonstances de l’admission de la conseillère 
+municipale, Marie -Anne Dumont, sur la légalité de l’adoption du règlement R -1214, Luce 
+Desautels répond que cette déclaration a été faite par Marie -Anne Dumont à l’entre -
+preneur en construction Philippe A rbour, lors d’une rencontre sociale au début de 
+l’été 0014. Philippe Arbour lui a fait part de cette déclaration lorsqu’il a su que la Ville avait 
+entrepris une procédure en démolition contre Luce Desautels.  
+ 
+Vous formulez une objection à cette réponse en alléguant qu’elle constitue du ouï -dire. 
+L’avocat de la défenderesse répond que la réponse du témoin tend à faire la preuve d’un 
+aveu extrajudiciaire verbal opposable à la demanderesse, soit une exception bien connue 
+à la prohibition du ouï -dire. 
+ Énoncez deux motifs au soutien de votre réplique à cette réponse.  
+ 
+Premièrement, il ne peut s’agir ici d’un aveu, puisque la déclaration que tente de rapporter 
+Luce Desautels ne comporte pas une reconnaissance de faits mais plutôt une question de droit, ce qui ne peut constituer un aveu (art.  2850 C.c.Q.).  
+ CORRIGÉS  
+ 
+La preuve testimoniale  | Corrigés  5  
+Deuxièmement, cette déclaration doit être rapportée par la personne qui en a eu 
+personnellement connaissance, soit l’entrepreneur en construction Philippe Arbour (art.  2843 
+C.c.Q.).  
+ 

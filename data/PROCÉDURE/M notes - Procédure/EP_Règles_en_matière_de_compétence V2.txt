@@ -1,0 +1,74 @@
+PRINCIPALES RÈGLES EN MATIÈRE DE COMPÉTENCE
+NOTA : 	Le texte tient compte, s’il y a lieu, des modifications apportées au Code de procédure civile en vigueur à compter du 30 juin 2023 à la suite de l’adoption de la Loi visant à améliorer l’efficacité et l’accessibilité de la justice, notamment en favorisant la médiation et l’arbitrage et en simplifiant la procédure civile à la Cour du Québec.
+Il peut être difficile de déterminer la compétence du greffier, celle du greffier spécial et celle du juge. Nous dégageons ci-dessous les principales règles en la matière.
+1-	LE GREFFIER ET LE GREFFIER ADJOINT 
+A-	Dispositions générales
+-	Art. 67 :	Fonctionnaire qui a la responsabilité d’un greffe. Il a un rôle plus « technique ».
+-	Art. 70 :	Il a la compétence du juge lorsque la loi, par exemple un article du Code de procédure civile, lui attribue expressément.
+-	Art. 71, al. 1 :	Dans les cas où le juge est absent ou empêché d’agir et qu’un retard risque d’entraîner la perte d’un droit ou de causer un préjudice sérieux, il peut exercer la compétence du juge.
+-	Art. 74, al. 1 :	Les décisions du greffier autres qu’administratives peuvent être révisées par un juge ou par le tribunal.
+B-	Exemples de cas où le Code de procédure civile se réfère
+	uniquement au greffier
+-	Art. 107 :	Ouvre le dossier de la demande introductive d’instance.
+-	Art. 108, al. 2 :	Détruit les pièces un an après la date du jugement ou de l’acte mettant fin à l’instance.
+-	Art. 112, al. 3 :	Exerce les pouvoirs conférés au tribunal relativement à la notification.
+-	Art. 344 :	Vérifie et homologue l’état des frais de justice.
+-	Art. 535.13 :	Inscrit la cause pour instruction et jugement dans les cas visés à l’article 535.1 C.p.c.
+-	Art. 539.2 :	Avise les autres parties d’une demande en cours d’instance dans les dossiers de la compétence de la division des petites créances.
+-	Art. 704 :	Autorise une saisie hors des heures et des jours prescrits.
+C-	Exemples de cas où le Code de procédure
+	civile se réfère au « juge ou au greffier »
+-	Art. 269, al. 1 et 2 :	Délivrent une citation à comparaître et en abrègent le délai de notification en cas d’urgence.
+-	Art. 269, al. 3 :	Autorise la convocation d’un témoin incarcéré.
+2-	LE GREFFIER SPÉCIAL
+A-	Dispositions générales
+-	Art. 67, al. 2 :	C’est un greffier qui a des fonctions juridictionnelles que la loi lui attribue. Il peut d’office exercer les pouvoirs du greffier.
+B-	Fonctions relatives à l’audition des demandes en cours d’instance ou d’exécution
+i)	Art. 72, al. 1 :	Le greffier spécial statue sur les demandes suivantes, contestées ou non :
+-	renvoi devant le tribunal territorial compétent dans les cas visés à l’article 43 C.p.c. (contrat de travail, de consommation ou d’assurance, exercice d’un droit hypothécaire);
+-	sûreté pour frais;
+-	convocation d’un témoin;
+-	communication, production ou rejet de pièces;
+-	consultation ou copie d’un document auquel l’accès est restreint;
+-	examen sur état physique, mental ou psychosocial d’une personne;
+-	jonction de demandes;
+-	précisions ou modifications à un acte de procédure;
+-	substitution d’avocat;
+-	pour être relevé du défaut;
+-	pour cesser d’occuper.
+ii)	Art. 72, al. 1 in fine :	Il statue aussi sur tout acte de procédure en cours d’instance ou d’exécution, non contesté ou contesté mais, dans ce dernier cas, avec l’accord des parties.
+iii)	Art. 72, al. 2 :	Il homologue toute entente entre les parties qui règle complètement les questions en matière de garde d’enfants ou d’obligations alimentaires.
+iv)	Art. 73 :	Il exerce la compétence du tribunal dans une procédure non contentieuse (visée aux articles 302 et suivants C.p.c.).
+C-	Autres fonctions du greffier spécial
+-	Art. 181 :	Rend jugement par défaut, dans les cas prévus par cet article.
+-	Art. 182 :	Exerce des pouvoirs d’enquête dans le traitement des affaires inscrites par suite du défaut du défendeur.
+-	Art. 552 et 556 :	Rend certains jugements en matière de petites créances.
+-	Procède à l’appel du rôle en Chambre (division) de pratique.
+3-	LE JUGE / TRIBUNAL
+Le Code de procédure civile utilise le mot « juge » pour désigner tant le juge exerçant en son cabinet ou dans un endroit qui en tient lieu (art. 69, al. 2 C.p.c.) que le juge siégeant en audience pour entendre et instruire une demande (art. 69, al. 1 C.p.c.).
+Les praticiens réfèrent souvent au juge siégeant en salle d’audience comme étant le juge en « Chambre de pratique » ou le juge en « division de pratique ». Il ne faut pas confondre ces qualifications avec celle du « juge exerçant en son cabinet » ni avec celle du « juge chargé de l’instruction » (terme utilisé notamment à l’article 179 C.p.c.).
+En effet, comme l’expression « juge exerçant en son cabinet » l’exprime bien, le juge sera physiquement dans son bureau personnel, dans la zone restreinte du palais de justice, lorsque vous lui présenterez votre demande.
+Quant au « juge chargé de l’instruction », il s’agit du juge qui entendra la cause dans une salle du palais de justice, une fois le dossier en état, donc presque à la toute fin du processus judiciaire. Au titre IV du Livre II portant sur l’instruction (art. 265 et s. C.p.c.), le Code de procédure civile utilise le terme « tribunal » pour désigner le « juge chargé de l’instruction ».
+Pour ce qui est de la majeure partie des demandes qui pourront être présentées en cours d’instance, soit entre la demande introductive d’instance et le jugement, elles seront présentées au tribunal, soit un juge siégeant dans une salle d’audience du palais de justice, dans le cours normal des activités de la Chambre (division) de pratique. Un juge exerçant en son cabinet peut d’ailleurs déférer au tribunal toute affaire qui lui est soumise (art. 69, al. 3 C.p.c.).
+A-	Dispositions générales
+-	Art. 68, al. 2 :	Les tribunaux de première instance et les juges qui y sont nommés n’ont compétence que dans les matières qui sont déclarées l’être par la loi, par exemple dans le Code de procédure civile ou par les règlements de procédure.
+-	Art. 101, al. 1 :	Une demande en cours d’instance se fait par demande au tribunal.
+Cette disposition de l’article 101 C.p.c. est primordiale dans l’analyse des différents articles du code qui renvoient à la compétence du juge pour entendre une demande en cours d’instance.
+Il faut avant tout déterminer si le « tribunal », c’est-à-dire la Chambre de pratique de la Cour supérieure ou la Chambre de pratique de la Cour du Québec, est en session.
+Pour prendre l’exemple du district de Montréal, la compétence du juge exerçant en son cabinet est beaucoup moins étendue que dans bien d’autres districts, puisqu’à Montréal, les juges siègent en Chambre de pratique tous les jours.
+En conséquence, c’est le degré d’urgence qui déterminera si le juge exerçant en son cabinet entendra ou non une demande : si la demande peut être présentée en temps utile en Chambre de pratique, le juge siégeant en son cabinet ou dans un endroit qui y tient lieu, bien souvent, y renverra la demande, en invoquant implicitement ou expressément l’article 69, al. 3 C.p.c., qui lui permet de déférer au « tribunal » toute affaire qui lui est soumise.
+Par ailleurs, les demandes en matière de saisie avant jugement ou d’exécution et les demandes en matière d’injonction provisoire sont adressées à un juge siégeant en son cabinet ou dans un endroit qui y tient lieu, vu le caractère d’urgence de ces procédures (art. 69, al. 2 C.p.c.).
+B-	Cas d’application
+1.	Compétence conjointe du juge en son cabinet et du tribunal
+Précisons d’abord que dans toutes les demandes où le juge a compétence conjointement avec le greffier, le greffier spécial ou le tribunal, le juge renverra bien souvent la demande à ces derniers, sauf les cas d’urgence.
+Pour un exemple de compétence conjointe du juge en son cabinet et du tribunal, voir :
+-	Art. 74 :	Révision d’une décision du greffier ou du greffier spécial.
+2.	Compétence du juge siégeant en son cabinet
+-	Art. 69 :	Prendre des mesures sur la gestion de l’instance, instruire et décider des demandes qui nécessitent une intervention immédiate ou qui ne requièrent pas d’enquête, telles les demandes incidentes, les demandes par défaut, les demandes non contentieuses, ou encore celles en matière d’injonction provisoire, de saisie avant jugement ou d’exécution.
+-	Art. 161 :	Présider une conférence de règlement à l’amiable.
+-	Art. 179 :	Convocation d’une conférence préparatoire avant l’instruction d’une cause.
+-	Art. 228, al. 1 :	Adjudication sur les objections anticipées avant la tenue de l’interrogatoire préalable à l’instruction.
+3.	Compétence du juge siégeant en Chambre (division) de pratique
+Répétons-le, en principe, toute demande en cours d’instance est présentée au tribunal (art. 101, al. 1 C.p.c.).
+Quand le Code de procédure civile renvoie ainsi au « tribunal », la demande doit être présentée à la Chambre ou à la division de pratique à moins, encore une fois, qu’elle ne soit pas en session et qu’il y ait urgence.
+Par exemple, l’article 227, al. 2 C.p.c. mentionne que « Une autre partie peut demander au tribunal d’ordonner la production de tout autre extrait qui ne peut être dissocié d’un extrait déjà produit ». Il s’agit évidemment dans ce cas du juge siégeant en Chambre de pratique, puisqu’il n’y a pas d’urgence dans un tel contexte.

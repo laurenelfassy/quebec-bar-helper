@@ -1,0 +1,207 @@
+ANNEXE I
+(a. 3)
+CANADA	FORMULAIRE DE FIXATION DES
+Province de Québec	PENSIONS ALIMENTAIRES POUR ENFANTS
+District de  	
+N0 du dossier  	
+FORMULAIRE :	du père
+de la mère produit conjointement établi par le juge
+préparé le  	  	  	
+Année	Mois	Jour
+ Partie 1 – Identification	
+Nom   	
+(Identification du père)
+Nom   	
+(Identification de la mère)
+Prénom(s)	 Prénom(s)  	
+Indiquer la date de naissance de chacun des enfants communs aux parents concernés par la demande
+102	 	  	  	
+104	 	  	  	
+106	 	  	  	
+Année	Mois	Jour	Année	Mois	Jour	Année	Mois	Jour
+103	 	  	  	
+105	 	  	  	
+107	 	  	  	
+Année	Mois	Jour	Année	Mois	Jour	Année	Mois	Jour
+ Partie 2 – État des revenus des parents	
+Indiquer les revenus pour l'année courante ou, s'il y a lieu, les revenus prévisibles pour les 12 prochains mois. Vous devez fournir une copie de la déclaration fiscale provinciale produite conformément à la Loi sur les impôts (chapitre I-3) et l’avis de cotisation provincial transmis par le ministre du Revenu pour la dernière année fiscale	ou, si cette déclaration n’a pas été produite ou, cet avis n’a pas été transmis, fournir une copie de la déclaration de revenus fédérale produite conformément à la Loi de l’impôt sur le revenu (L.R.C. 1985, c. 1 (5e suppl.)) et l’avis de cotisation fédéral transmis par le ministre du Revenu national pour la dernière année fiscale		. Vous devez également fournir les documents demandés et, le cas échéant, tout autre document servant à établir le revenu.
+ Partie 3 – Calcul du revenu disponible des parents aux fins du calcul de la contribution	
+ Partie 4 – Calcul de la contribution alimentaire annuelle des parents	
+Note 1 : Cette contribution couvre la totalité des besoins des enfants sauf les frais prévus à la ligne 406.
+Nombre d’enfants communs aux parents concernés par la demande	 	
+Contribution alimentaire parentale de base selon le revenu disponible des deux parents (ligne 306) et selon le nombre d'enfants (ligne 400)	(Voir note 1)
+(Voir table)
+Contribution alimentaire parentale de base de chacun des parents
+(ligne 401 x ligne 307)
+Frais de garde nets
+Frais d'études postsecondaires nets
+Frais particuliers nets
+(préciser :	)
+Total des frais	(Voir note 2)
+(additionner les lignes 403 à 405)
+Contribution de chacun des parents aux frais	 		 	
+(ligne 406 x ligne 307)
+ Partie 5 – Calcul de la pension alimentaire annuelle selon le temps de garde	
+(Ne remplir que la section correspondant à votre situation.)
+Note 2 : La pension alimentaire à payer calculée conformément à la présente partie présume que le total des frais (ligne 406) est payé par le parent qui reçoit la pension. Dans le cas contraire, effectuer les ajustements requis à la ligne 512.1, 518.1, 526.1, 534.1 ou 564.1, selon votre situation et en donner les motifs.
+Note 3 : La pension alimentaire établie à la ligne 533 ou 559 présume que la contribution alimentaire parentale de base sera assumée par chacun des parents en proportion du facteur de répartition de la garde. Dans le cas contraire, effectuer les ajustements requis à la ligne 534.1 ou 564.1, selon votre situation et en donner les motifs.
+Section 1 Garde exclusive	PÈRE	MÈRE
+(Remplir cette section si le parent non gardien assume un droit de visite et de sortie de 20 % et moins.)
+Section 1.1 Ajustement pour droit de visite et de sortie prolongé (Remplir cette section si le parent non gardien assume un droit de visite et de sortie se situant entre 20 % et 40 % du temps de garde)
+Identifier le parent non gardien (« X »)	 		 	
+514	Contribution alimentaire annuelle des deux parents
+(ligne 401 + ligne 406)
+Pourcentage du temps de garde pour l'exercice du droit de visite et de sortie prolongé
+(nombre de jours  	
+365 x 100)	 	%
+Compensation pour droit de visite et de sortie prolongé
+(pourcentage de la ligne 515	- 20 % =	% x ligne 401)	 	
+Contribution alimentaire annuelle ajustée des deux parents
+(ligne 514 - ligne 516)
+Pension alimentaire annuelle à payer par le parent non gardien (Voir note 2)
+(ligne 517 x ligne 307)
+518.1	Pension alimentaire annuelle à payer ajustée
+Motif :  		 		 	
+Section 2 Garde exclusive attribuée à chacun des parents
+(Remplir cette section si chacun des parents assume la garde exclusive d'au moins un des enfants)
+Indiquer le nombre d'enfants sous la garde du père
+521	Indiquer le nombre d'enfants sous la garde de la mère Contribution alimentaire parentale de base de chacun des parents
+(ligne 402)
+Coût moyen par enfant
+(ligne 401 ligne 400)
+Coût de la garde pour chaque parent
+(père : ligne 523 x ligne 520) (mère : ligne 523 x ligne 521)
+Pension alimentaire annuelle de base
+(ligne 522 - ligne 524) Inscrire 0 si négatif	 		 	
+Pension alimentaire annuelle à payer (Voir note 2)
+(ligne 525 + ligne 407) Inscrire 0 si ligne 525 égale 0	 		 	
+526.1	Pension alimentaire annuelle à payer ajustée
+Motif :  		 		 	
+ Partie 5 – Calcul de la pension alimentaire annuelle selon le temps de garde (suite)	
+Section 3 Garde partagée	PÈRE	MÈRE
+(Remplir cette section si chacun des parents assume au moins 40 % du temps de garde à l'égard de tous les enfants)
+Facteur (%) de répartition de la garde
+(père : nombre de jours de garde	 	 (mère : nombre de jours de garde	 	
+365 x 100)	 	%
+365 x 100)	%
+Contribution alimentaire parentale de base de chacun des parents
+(ligne 402)
+Coût de la garde pour chaque parent
+(ligne 401 x ligne 530)
+Pension alimentaire annuelle de base (Voir note 3)
+(ligne 531 - ligne 532) Inscrire 0 si négatif
+Pension alimentaire annuelle à payer (Voir note 2)
+(ligne 533 + ligne 407) Inscrire 0 si ligne 533 égale 0
+534.1	Pension alimentaire annuelle à payer ajustée
+Motif :  	
+Section 4 Garde exclusive et/ou garde avec droit de visite et de sortie prolongé et/ou garde partagée simultanées
+(Remplir cette section si plus d’un type de garde s’applique : garde exclusive et/ou la garde d’un enfant avec un droit de visite et de sortie entre 20 % et 40 % et/ou la garde partagée.)
+PÈRE	MÈRE
+Coût moyen par enfant
+(ligne 401 ligne 400)
+Nombre d'enfants concernés par la garde exclusive
+Coût de la garde des enfants concernés par la garde exclusive
+(ligne 540 x ligne 541)
+Contribution alimentaire de base du parent gardien
+(ligne 542 x ligne 307)
+Écart entre le coût de la garde et la contribution alimentaire de base du parent gardien
+(ligne 542 - ligne 543)
+Pension alimentaire annuelle de base pour les enfants en garde exclusive
+(père : ligne 544 de la mère - ligne 544 du père) Inscrire 0 si le résultat est négatif (mère : ligne 544 du père - ligne 544 de la mère) Inscrire 0 si le résultat est négatif
+Nombre d'enfants concernés par la garde avec droit de visite et de sortie prolongé
+Coût de la garde des enfants concernés par la garde prolongée
+(ligne 540 x ligne 546)
+548 (p) Pourcentage du temps de garde pour l’exercice du droit de visite et de sortie prolongé (père)
+(nombre de jours de garde
+ 	   365 x 100)	 	%
+548 (m) Pourcentage du temps de garde pour l’exercice du droit de visite et de sortie prolongé (mère)
+(nombre de jours de garde
+ 	   365 x 100)	%
+ Partie 5 – Calcul de la pension alimentaire annuelle selon le temps de garde (suite)	
+Section 4 (suite)
+549 (p) Compensation pour droit de visite et de sortie prolongé du père
+(pourcentage de la ligne 548(p)	- 20 % =	% X ligne 547 (mère)	 	
+549 (m) Compensation pour droit de visite et de sortie prolongé de la mère
+(pourcentage de la ligne 548(m)	- 20 % =	% X ligne 547 (père)	 	
+Coût de la garde des enfants concernés par la garde prolongée ajustée
+(ligne 547 – ligne 549)
+Contribution alimentaire annuelle de base du parent gardien
+(ligne 550 x ligne 307)
+Écart entre le coût de la garde et la contribution alimentaire de base
+(ligne 550 - ligne 551)
+Pension alimentaire annuelle à payer pour la garde avec droit de visite et de sortie prolongé
+(père : ligne 552 de la mère – ligne 552 du père) Inscrire 0 si le résultat est négatif	 	
+(mère : ligne 552 du père – ligne 552 de la mère) Inscrire 0 si le résultat est négatif	 	
+Nombre d'enfants concernés par la garde partagée
+Coût de la garde des enfants concernés par la garde partagée
+(ligne 540 x ligne 554)
+Facteur (%) de répartition de la garde partagée
+(père : nombre de jours de garde
+ 	   365 x 100)	 	%
+(mère : nombre de jours de garde
+ 	   365 x 100)	 	%
+Contribution alimentaire parentale de base de chacun des parents pour les enfants en garde partagée
+(ligne 555 x ligne 307)
+Coût de la garde partagée pour chaque parent
+(ligne 555 x ligne 556)
+Pension alimentaire annuelle de base pour les enfants
+en garde partagée (Voir note 3)	 		 	
+(ligne 557 - ligne 558) Inscrire 0 si négatif
+Sommaire de la section 4 :
+Pension alimentaire annuelle de base pour les enfants en garde exclusive
+(ligne 545)
+Pension alimentaire annuelle à payer pour la garde avec droit de visite et de sortie prolongé
+(ligne 553)
+Pension alimentaire annuelle de base pour les enfants en garde partagée
+(ligne 559)
+Pension alimentaire annuelle de base totale (Voir note 3)
+(père : (lignes 560 + 561 + 562 du père) – (lignes 560 + 561 + 562 de la mère)) Inscrire 0 si négatif (mère : (lignes 560 + 561 + 562 de la mère) – (lignes 560 + 561 + 562 du père)) Inscrire 0 si négatif
+Pension alimentaire à payer (Voir note 2)
+(ligne 563 + ligne 407) Inscrire 0 si ligne 563 égale 0	 		 	
+564.1	Pension alimentaire annuelle à payer ajustée
+Motif :  		 		 	
+600	Revenu disponible du parent devant payer la pension alimentaire
+(ligne 305)
+601	Multipliez la ligne 600 par 50 %
+602	Pension alimentaire annuelle à payer selon les calculs d'une des sections de la partie 5
+603	Pension alimentaire annuelle à payer
+(inscrire le montant le moins élevé des lignes 601 et 602)
+ Partie 7 – Entente entre les parents soumise à la vérification du tribunal	
+(Remplir cette partie si les parents conviennent, conformément à l'article 587.3 du Code civil, d'un montant de pension alimentaire à payer différent du montant calculé selon l'une des sections de la partie 5 ou la partie 6 du présent formulaire)
+700	Pension alimentaire annuelle à payer
+701	Pension alimentaire annuelle à payer selon l'entente convenue entre les parents	 	
+702	Indiquer l'écart entre les deux montants
+(ligne 701	- ligne 700	)
+703	Énoncer avec précision les motifs de cet écart:
+ Partie 8 – Fréquence des versements de la pension alimentaire	
+800	Indiquer la fréquence des versements ainsi que le montant de la pension alimentaire à payer (Voir note 4) : Mensuelle (   12)	 	$	2 fois par mois (   24)	$
+Aux 2 semaines (   26)	$	Hebdomadaire ( 52)	$
+Autres (préciser :	)	 	$
+Cette fréquence est :
+offerte	demandée	convenue	décidée par le tribunal
+801	Date du 1er versement :    	  	  	
+Année	Mois	Jour
+Note 4 : Si le versement de la pension se fait par l’intermédiaire du ministre du Revenu conformément à la Loi facilitant le paiement des pensions alimentaires, la fréquence des versements de la pension pourra être ajustée selon les modalités prévues par cette loi.
+ Partie 9 – État de l'actif et du passif de chaque parent	
+ACTIF : Indiquer l'argent comptant, les sommes en dépôt dans des comptes de banque ou d'autres institutions financières et la valeur marchande des biens par catégorie (sans tenir compte des dettes qui y sont rattachées) : immeubles, meubles, automobiles, oeuvres d'art, bijoux, actions, obligations, intérêts dans une entreprise, autres placements, régimes de retraite, régimes d'épargne-retraite, créances, etc.
+PASSIF : Indiquer les dettes ou engagements financiers de toute nature contractés sous forme de prêt ou d'ouverture de crédit (prêt hypothécaire, prêt personnel, marge de crédit, cartes de crédit, ventes à tempérament, cautionnements, etc.) ou que vous devez payer en application d'une loi (dettes fiscales, cotisations, redevances et autres droits impayés, etc.) ou d'une décision d'un tribunal (dommages- intérêts, pensions alimentaires, trop perçu d'assurance-emploi ou de sécurité du revenu, amendes, etc.)
+ACTIF DU PÈRE	VALEUR	PASSIF DU PÈRE	VALEUR
+Autres (fournir les détails)	 	
+TOTAL	 	
+Autres (fournir les détails)
+TOTAL	 	
+SOMMAIRE (actif - passif)	 	
+ACTIF DE LA MÈRE	VALEUR	PASSIF DE LA MÈRE	VALEUR
+Autres (fournir les détails)	 		Autres (fournir les détails)
+TOTAL	 	
+TOTAL	 	
+SOMMAIRE (actif - passif)	 	
+ Partie 10 – Déclaration sous serment	
+Je déclare que les renseignements donnés ci-dessus sont	Je déclare que les renseignements donnés ci-dessus sont exacts et complets, en ce qui me concerne, et je signe :	exacts et complets, en ce qui me concerne, et je signe :
+à	à
+le	ième jour de	le	ième jour de
+Signature du père	Signature de la mère
+Déclaration faite sous serment devant moi	Déclaration faite sous serment devant moi
+à	à
+le	ième jour de	le	ième jour de
+Signature de la personne habilitée à recevoir le serment	Signature de la personne habilitée à recevoir le serment

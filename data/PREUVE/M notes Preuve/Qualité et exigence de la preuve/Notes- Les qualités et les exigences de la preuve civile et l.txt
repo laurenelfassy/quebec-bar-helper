@@ -1,0 +1,205 @@
+LES QUALITÉS ET LES EXIGENCES DE LA PREUVE CIVILE ET L'ÉCRIT COMME MOYEN DE PREUVE
+La preuve se définit comme l’ensemble des règles qui permettent la démonstration de l’existence d’un fait devant un tribunal.
+Après avoir identifié les faits à prouver dans le cadre d’un litige, l’avocat doit déterminer les moyens de preuve qui en permettront la vérification et la présentation. Et, comme le droit pertinent à la question en litige découle des faits présentés, la maîtrise des règles de preuve s’avère donc essentielle à tout plaideur appelé à représenter un client devant les tribunaux. L’avocat doit non seulement savoir comment procéder à la cueillette des éléments de preuve, mais il doit aussi être en mesure d’en apprécier leur force probante et d’identifier le moyen de les mettre en preuve.
+Section 1 : L’objet de la preuve civile
+Compte tenu que le client qui a un droit, mais qui est dans l’impossibilité de le prouver, se retrouve dans la même situation que celui qui n’en a aucun, il est essentiel de comprendre le rôle important de la preuve en droit civil avant d’en aborder les règles particulières.
+Les principes généraux 
+Ensemble des données qui permet au juge de rendre une décision 
+La preuve se définit notamment par l’ensemble des moyens légaux qui démontrent la véracité d’un fait/d’une situation (Art. 2811 C.c.Q.)
+Qui crée, modifie, transfère ou éteint un droit/une obligation
+La preuve sert donc dans les contextes contractuels et extracontractuels (Art. 1372 C.c.Q.). 
+Une fois la preuve analysée, chaque objet devra être prouvé et ainsi on doit identifier comment on va les prouver. C’est ce qu’on appelle les moyens de preuve (Art. 2811 C.c.Q.) :
+Écrit
+Témoignage
+Présomption
+Aveu
+Présentation d’un élément matériel
+On s’intéresse ici à la preuve (1) avant l‘instruction, celle qui découle de l’acte introductif d’instance qui permet au demandeur de limiter les éléments qu’il entend faire la preuve, de l’exposé sommaire de la défense qui à son tour limite les éléments qu’il entend présenter en preuve et leurs accessoires : l’interrogatoire préalable, les moyens préliminaires ou autres moyens à la disposition des parties pour découvrir de la preuve.
+Le second moment qui nous intéresse est celui (2) lors de l’instruction. Elle prévoit la présentation de la preuve par le demandeur et le fardeau y afférent, de même que celui de la défense. 
+Section 2 : Les notions générales de la preuve civile
+Toute preuve doit répondre à certaines conditions qui en détermineront sa force probante. Elle est soumise à certaines exigences et devra être communiquée et mise en preuve devant un tribunal judiciaire, le cas échéant.
+Les exigences de la preuve 
+La preuve doit notamment respecter les règles de la recevabilité
+Règle de la meilleure preuve (Art. 2860 C.c.Q.):
+(Art. 2860 C.c.Q.) :
+L’acte juridique constaté dans un écrit ou le contenu d’un écrit doit être prouvé par la production de l’original ou d’une copie qui légalement en tient lieu.
+Toutefois, lorsqu’une partie ne peut, malgré sa bonne foi et sa diligence, produire l’original de l’écrit ou la copie qui légalement en tient lieu, la preuve peut être faite par tous moyens.
+À l’égard d’un document technologique, la fonction d’original est remplie par un document qui répond aux exigences de l’article 12 de la Loi concernant le cadre juridique des technologies de l’information (chapitre C-1.1) et celle de copie qui en tient lieu, par la copie d’un document certifiée qui satisfait aux exigences de l’article 16 de cette loi.
+Si la preuve est un écrit, la production de cet écrit devra être faite et l’original de celui-ci 
+(Al.2) par tous moyens : à l’aide d’un témoin qui aurait vu l’écrit et qui pourrait en relater le contenu précis. 
+Exemple : contrat qui aurait péri dans un incendie et personne n’a de copie. Un témoin pourrait venir en témoigner de son contenu qu’il aurait lu avant qu’il périsse. 
+Fardeau de preuve 
+(Art. 2803, al.1 C.c.Q.) : Celui qui veut faire valoir un droit doit prouver les faits qui soutiennent sa prétention.
+Fardeau qui appartient dans un premier temps au défendeur. 
+(Art. 2803, al.2 C.c.Q.) Celui qui prétend qu’un droit est nul, a été modifié ou est éteint doit prouver les faits sur lesquels sa prétention est fondée.
+Ce fardeau dans un second temps appartiendra au défendeur.
+Le terme fait à l’art. 2803 C.c.Q. englobe les actes juridiques, c’est-à-dire la manifestation de la volonté dans le but de créer, modifier, transférer ou éteindre un droit. 
+La preuve doit être prépondérante (Art. 2804 C.c.Q.)
+(Art. 2804 C.c.Q.) :
+La preuve qui rend l’existence d’un fait plus probable que son inexistence est suffisante, à moins que la loi n’exige une preuve plus convaincante.
+Rendre probable le fait qu’on entend faire la preuve (50%+1)
+La preuve doit être pertinente
+(Art. 2857 C.c.Q.) :
+La preuve de tout fait pertinent au litige est recevable et peut être faite par tous moyens. 
+Pertinent lorsqu’il exercera une influence sur la décision à être rendue par le tribunal
+La pertinence peut être (1) en lien avec les faits générateurs du droit réclamé et (2) avec l’appréciation que le juge doit faire du preuve avec sa preuve probante. 
+Aussi, un élément de preuve non-pertinent sera irrecevable.
+Le moyen utilisé pour prouver le fait doit légalement être permis pour faire partie du dossier 
+(Art. 2811 C.c.Q.) :
+La preuve d’un acte juridique ou d’un fait peut être établie par écrit, par témoignage, par présomption, par aveu ou par la présentation d’un élément matériel, conformément aux règles énoncées dans le présent livre et de la manière indiquée par le Code de procédure civile (chapitre C-25.01) ou par quelque autre loi.
+Habituellement, pour prouver un fait, on utilise le témoignage
+L’acte juridique en principe est prouvé par écrit, mais il existe un certains nombres d’exceptions et d’interdiction à l’utilisation de l’écrit
+La recevabilité : la faculté pour une preuve de faire partie du dossier et d’être considérée par le tribunal
+La force probante : c’est la valeur que le tribunal portera à cette preuve
+Vrai/Faux
+Pierre Lemelin a prêté la somme de 20 000 $ à Jean-Luc Auclair.
+Ce dernier a signé en sa faveur un billet promissoire, que Pierre Lemelin avait rangé dans un classeur, dans le bureau qu’il avait aménagé à son domicile. Mercredi dernier, un incendie a complètement détruit sa résidence. Comme Jean-Luc Auclair a fait défaut de lui rembourser le montant de 20 000 $ à échéance, il doit exercer un recours pour lui réclamer cette somme. Il ne pourra faire la preuve testimoniale de ce prêt, puisque la valeur du litige est de 20 000 $.
+Faux, l’art. 2860, al. 2 C.c.Q. permet la preuve par tous moyens, lorsqu’une partie ne peut malgré sa bonne foi et sa diligence produire l’original de l’écrit quand cet écrit a existé. Cette règle s’applique, quel que soit le montant en litige (la prohibition de l’art. 2862 C.c.Q. ne s’applique pas ici et ne peut être invoquée par Jean-Luc Auclair).
+La mise en preuve des pièces et autres éléments de preuve 
+Si j’ai en ma possession une pièce que je désire invoquer lors de l’audience, j’ai l’obligation de la communiquer et de la produire au greffe. 
+La communication de la pièce
+Deux types de pièces :
+Pièces ou élément de preuve au soutien : sans laquelle il ne pourrait pas avoir de recours
+Exemple : recours pour vice caché, ce sera l’acte d’acquisition de l’immeuble. Pas de tel pièce en matière extracontractuelle puisqu’il s’agit de la faute. 
+Si je désire utiliser une pièce ou un élément de preuve au soutien de la demande introductive d’instance :
+Indiquer dans l’avis d’assignation accompagnant la demande 
+OU joindre à la DID une copie de cette pièce (Art. 247 C.p.c.) 
+Les autres pièces et éléments de preuve
+Elles seront communiquées suivant ce qui est prévu au protocole de l’instance (Art. 246 C.p.c.) ou plus tard à l’occasion de la déclaration commune en vue de l’inscription pour instruction et jugement (Art. 248 C.p.c.).
+Pour celles accompagnant un acte autre qu’une demande introductive d’instance, comme c’est le cas par exemple d’une défense écrite. La pièce au soutien de la défense écrite devra être communiquées de l’une des manières suivantes :
+Elle sera identifiée dans la défense, soit dans l’acte 
+Dans l’avis de présentation joint à la défense
+Jointe à la défense comme telle 
+Lorsqu’il s’agit d’une demande en cours d’instance, l’art. 252 C.p.c. prévoit qu’elle devra être communiquée dans les plus brefs délais. 
+La production 
+Une fois la communication réalisée, nous devons produire la preuve au greffe du tribunal, le tout conformément à l’Art. 250 C.p.c.
+À moins que ces pièces ou éléments aient été produits préalablement lors d’une conférence préparatoire, ils devront être produits au moins 15 jours avant la date fixée pour l’instruction ou si la date est fixée à moins de 15 jours, au moins 3 jours avant la date d’instruction (Art. 250, al.1 C.c.Q.). 
+Attention, dans le cadre d’un recours par défaut, il y a des exceptions. Les pièces et éléments sont produits avec la demande d’inscription pour jugement (Art. 250, al.2 C.p.c.).
+L’introduction en preuve
+Ensuite, elles doivent être introduites en preuve lors de l’instruction pour que le juge puisse valablement les considérer. 
+Pour certaines preuves, il est nécessaire de faire une preuve distincte de leur authenticité, l’avocat doit donc se questionner s’il doit faire cette démonstration. Il existe une façon simple de raccourcir cette procédure en transmettant à la partie adverse une mise en demeure de reconnaitre l’origine et l’intégrité d’un élément de preuve. Cela permet de faire reconnaitre à l’avance par la partie adverse que la preuve est vraie et véritable et évite la présentation de témoignages lors de l’instruction. 
+Exemple : reçu de taxi. Recours civil en matière extracontractuelle. Réclamation des dépenses afférentes et justifié par les reçus. Théoriquement ce que j’ai de besoin c’est de communiquer ces reçus, les produire au greffe du tribunal et ensuite de les produire à l’audience. À l’instruction, je devrais assigner le conducteur de taxi pour qu’il témoigne et atteste de la véracité du reçu. En transmettant à l’autre partie la mise en demeure de reconnaitre le reçu, lequel est joint à celle-ci et qu’elle ne répond pas dans les 10 jours de la réception, le reçu est présumé reconnu. La preuve spécifique distincte ne sera pas nécessaire lors de l’instruction. 
+Cette obligation incombe à la personne en possession de l’objet, si je ne suis pas en possession du reçu, je ne pourrais ainsi pas procéder de la sorte et je devrais citer à comparaitre la personne et lui demander d’apporter la pièce ou l’élément en question. La preuve sera produite par celle-ci.  
+Section 3 : L’écrit comme moyen de preuve (Arts. 2812-2842 C.c.Q.) 
+L’écrit est la meilleure façon de prouver la volonté d’une personne ou d’établir une entente dans laquelle une ou plusieurs personnes s’obligent envers d’autres afin d’exécuter une prestation.
+L’écrit est soit instrumentaire ou soit non-instrumentaire.
+Instrumentaire : qui constate un acte juridique, une manifestation de la volonté. 
+Acte authentique : un contrat notarié 
+Acte semi-authentique : officier public étranger
+Acte sous seing privé : constate un acte juridique
+Acte écrit non signé : dans le cours des activités d’une entreprise (Art. 2831 C.c.Q.) 
+Non-instrumentaire : qui rapporte un fait, un écrit qui relate une situation strictement factuelle.
+Acte authentique : un certificat de naissance au Québec
+Acte semi-authentique : officier public étranger
+Les écrits purs et simples 
+L’écrit est pratiquement toujours admissible en preuve sauf dans certains cas où l’écrit s’apparente à un témoignage, des conditions particulières s’appliqueront. 
+L’acte authentique (Arts. 2813-2821 C.c.Q.) 
+Les caractérisques :
+Reçu ou attesté par un officier public compétent selon les lois du Québec (Art. 2813, al.1 C.c.Q.) 
+Constate un acte instrumentaire ou non-instrumentaire
+Les catégories (Art. 2814 C.c.Q.) :
+1°	Les documents officiels du Parlement du Canada et du Parlement du Québec;
+2°	Les documents officiels émanant du gouvernement du Canada ou du Québec, tels les lettres patentes, les décrets et les proclamations;
+3°	Les registres des tribunaux judiciaires ayant compétence au Québec;
+4°	Les registres et les documents officiels émanant des municipalités et des autres personnes morales de droit public constituées par une loi du Québec;
+5°	Les registres à caractère public dont la loi requiert la tenue par des officiers publics;
+6°	L’acte notarié 
+7°	Le procès-verbal d’abornement
+La force probante :
+Force probante à l’égard de tous alors que l’on utilise l’acte authentique entre les parties ou à l’égard d’un tiers, il fait preuve de sa confection (art. 2813 C.c.Q.), de son contenu (Art. 2818 C.c.Q.) et s’il s’agit d’un acte notarié, l’Art. 2819, al.1 C.c.Q. ajoute qu’il fait alors preuve, à l’égard de tous, de l’acte juridique qu’il renferme et des déclarations des parties qui s’y rapportent directement.
+(Art. 2820 C.c.Q.):
+La copie authentique d’un document fait preuve, à l’égard de tous, de sa conformité à l’original et supplée à ce dernier.
+L’extrait authentique fait preuve de sa conformité avec la partie du document qu’il reproduit.
+La mise en preuve de l’acte authentique :
+La communication de l’acte et sa production (Art. 250 C.p.c.). Compte tenu de la présomption prévue à l’Art. 2813, al.2 C.c.Q., il ne sera pas nécessaire de faire une preuve distincte d’authenticité puisqu’il est présumé authentique. 
+La contestation
+On doit se demander s’il s’agissait d’un fait devant être constaté par le notaire ou d’un fait que le notaire avait pour mission d’inscrire. La différente est forte importante (1) date, du lieu, que la partie ait voulu vendre un bien et non le donner ou encore une information aurait été altérée depuis sa confection. À ce moment-là, on doit procéder par une demande pour faire déclarer faux cet acte (Art. 2821, al.1 C.c.Q et Art. 258 C.p.c.) 
+S’il s’agit d’un fait que le notaire (2) avait pour mission d’inscrire, soit un fait que l’on demande au notaire de consigner dans l’acte sans qu’il n’ait l’obligation de vérifier le bien-fondé. Si le notaire a bien écrit ce fait tel que demandé, nous pouvons contester ce faux fait par tous moyens sans nécessité d’attaquer tout l’acte. Toutefois, si vous avez demandé au notaire d’inscrire un fait et qu’il a mal exécuté son travail, soit en inscrivant une mention erronée, on doit remettre en question le travail du notaire par une demande pour faire déclarer faux son acte avec les arts. 2821, al.1 C.c.Q et Art. 258 C.p.c.
+L’acte semi-authentique (Arts. 2822-2825 C.c.Q.)
+Les caractéristiques : 
+Il peut constater un acte instrumentaire ou un écrit non-instrumentaire 
+Émane apparemment d’un officier public étranger compétent (Art. 2822, al.1 C.c.Q.)
+Catégories : 2
+(Art. 2822, al.1 C.c.Q.): L’acte qui émane apparemment d’un officier public étranger compétent fait preuve, à l’égard de tous, de son contenu, sans qu’il soit nécessaire de prouver la qualité ni la signature de cet officier.
+(Art. 2823 C.c.Q.): Fait également preuve, à l’égard de tous, la procuration sous seing privé faite hors du Québec lorsqu’elle est certifiée par un officier public compétent qui a vérifié l’identité et la signature du mandant.
+La force probante :
+(Art. 2824 C.c.Q.): Les actes, copies et procurations mentionnés dans la présente section peuvent être déposés chez un notaire pour qu’il en délivre copie.
+La copie fait preuve de sa conformité au document déposé et supplée à ce dernier.
+La mise en preuve :
+Lorsque je suis en possession d’un acte semi-authentique et que je désire le mettre en preuve, je dois le communiquer et le produire au greffe selon l’Art. 250 C.p.c. et selon les Arts. 2822 et 2824 C.c.Q., je n’aurais pas à faire la preuve distincte d’authenticité. Je devrais montrer au juge qu’elle a bien été communiqué, produit et la mettre en preuve avec sa cote à l’instruction. 
+La contestation :
+Elle peut porter sur les conditions encadrant sa validité qui n’auraient pas été accomplies. Elle peut notamment englober la dénégation de l’acte, son origine ou l’intégrité de l’information. Dans tous les cas, celui qui conteste l’acte devra procéder par l’art. 262, al.2 C.p.c. et compléter une déclaration sous serment visant à contester l’origine et l’intégralité du jugement. 
+Vrai/Faux
+Une copie de l’acte de naissance de Sonia Valerian, initialement rédigé en Pologne, mais inséré au registre de l’état civil du Québec au moment de son arrivée et de l’établissement de son domicile au Québec, est un acte authentique. Cette copie a été délivrée par le directeur de l’état civil pour prouver la date de naissance de Sonia Valerian et démontrer sa qualité d’héritière dans une demande en justice.
+Faux, malgré leur insertion au registre de l’état civil du Québec, les actes juridiques faits hors du Québec, y compris les actes de l’état civil, conservent leur caractère d’actes semi-authentiques (art. 2822 C.c.Q.). Le directeur doit mentionner ce fait lorsqu’il délivre des copies, certificats ou attestations qui concernent ces actes (art. 137, al. 3 C.c.Q.). Dès lors, ils peuvent être contestés en vertu des arts. 262 et 263 C.p.c. 
+L’acte sous seing privé (Arts. 2826-2830 C.c.Q.)
+Caractéristique :
+Pas reçu devant un officier public compétent. 
+Caractère privé : constate un acte juridique 
+Signé par les parties (Art. 2826 C.c.Q.)
+Aucune autre formalité
+Catégories :
+Bilatéral/synallagmatique ou unilatéral (testament, créancier signe une quittance en faveur de son débiteur)
+Complet s’il porte la signature de tout ceux dont le consentement est requis au fin de l’acte
+La force probante :quant aux parties
+(Art. 2828, al.1 C.c.Q.): Celui qui invoque un acte sous seing privé doit en faire la preuve.
+Doit faire la preuve de la confection
+*EXCEPTION (Art. 2828, al.2 C.c.Q.)*: force probante quant aux parties. Il y a une présomption d’authenticité de l’acte sous seing privé lorsqu’on l’utilise contre celui qui parait l’avoir signé. Ainsi, à défaut par celui à qui l’on oppose et qui parait l’avoir signé de contester en suivant les exigences du C.p.c. 
+Reconnaissance de son authenticité, de son contenu 
+(Art. 2829 C.c.Q.) : L’acte sous seing privé fait preuve, à l’égard de ceux contre qui il est prouvé, de l’acte juridique qu’il renferme et des déclarations des parties qui s’y rapportent directement.
+La force probante : quant aux tiers de l’acte
+(Art. 2828, al.1 C.c.Q.): aucune présomption ne s’applique 
+Il devra voir à ce qu’un témoin soit présent afin de mettre en preuve valablement cet acte sous seing privé. 
+Il serait sage d’utiliser la mise en demeure de l’Art. 264 C.p.c. par laquelle on demande au tiers de reconnaitre l’intégrité et l’origine de l’écrit pour éviter de devoir à faire venir un témoin à l’instruction pour strictement prouver son authenticité. 
+S’il n’est pas fait suite à la mise en demeure dans les 10 jours de son envoi, la confection est établie (Art. 264, al.3 C.p.c.). 
+(Art. 2830 C.c.Q.): 
+L’acte sous seing privé n’a point de date contre les tiers, mais celle-ci peut être établie contre eux par tous moyens.
+Néanmoins, les actes passés dans le cours des activités d’une entreprise sont présumés l’avoir été à la date qui y est inscrite.
+La mise en preuve :
+D’abord, la communication de l’acte aux autres parties, puis la produire au greffe du tribunal (art. 250 C.p.c.). Si l’autre partie n’a pas contestée l’acte, la présomption de l’art. 2828, al.2 C.c.Q. prend effet. Toutefois, si la partie a contesté l’acte, on devra avoir lors de l’instruction un témoin compétent quant à l’origine et la confession de l’acte. 
+Si l’acte est contre un tiers, on doit bien-sûr le communiquer et le produire et ensuite établir la confection de l’acte par témoin puisque la présomption ne s’applique pas. Si nous avons eu la bonne idée de transmettre une mise en demeure en reconnaissance au sens de l’Art. 264 C.p.c. et que la personne ne l’a pas contesté, sa confection sera établie. Si toutefois le tiers conteste cet acte en la manière du C.p.c., on doit avoir lors de l’instruction un témoin. 
+La contestation :
+Formalités requises non-remplis/dénégation/origine/intégrité de l’infraction : la partie à l’acte doit conformément à l’Art. 262, al.2 C.p.c. contester à l’aide d’une déclaration sous serment. 
+Le tiers ayant reçu la mise en demeure sous l’art. 264 C.p.c.) devra produire aussi une déclaration sous serment (Art. 264, al.2 C.c.Q.) afin de contester cet acte. 
+Celui qui entend utiliser l’acte devra en faire la preuve par témoin. 
+Vrai/Faux
+On vous remet un contrat d’achat de papier par Papeterie inc. chez Grossistes de Papier inc., signé par les représentants autorisés des deux sociétés, dans le cadre d’un recours en réclamation d’une indemnité d’assurance intenté par Papeterie inc. contre les Assurances Providence inc.
+Pour que cet acte fasse preuve, contre l’assureur, de l’acte juridique qu’il contient, des déclarations qui s’y rapportent et de la date, il faut que sa confection soit établie.
+Vrai, il s’agit ici de faire valoir un acte sous seing privé (art. 2826 C.c.Q.; contrat d’achat) à l’égard d’un tiers (assureur), non partie à cet acte. Pour que cet acte fasse preuve, contre l’assureur, de l’acte juridique qu’il contient, des déclarations qui s’y rapportent et de la date, il faut que sa confection soit établie (art. 2828, al. 1 C.c.Q.). Dès que la confection aura été établie, cet acte sous seing privé prouvera l’acte juridique qu’il renferme contre le tiers qu’est l’assureur à l’égard de cet acte juridique (art. 2829 C.c.Q.) et la date sera présumée (art. 2830, al. 2 C.c.Q.) car l’acte a été passé dans le cadre des activités d’entreprise.
+L’écrit d’entreprise (Arts. 2831 et 2836 C.c.Q.)
+Non signé
+Utilisé habituellement dans le cours normal d’une entreprise  
+Sert à constater un acte juridique 
+Exemples: Billet d’autobus, coupon de caisse
+Force probante :
+(Art. 2835 C.c.Q.):
+Celui qui invoque un écrit non signé doit prouver que cet écrit émane de celui qu’il prétend en être l’auteur.
+Témoignage fait par le témoin compétent 
+Transmettre à la partie adverse une mise en demeure de reconnaitre l’écrit (Art. 264 C.p.c.)
+La mise en preuve :
+Communication, production et ensuite produire la preuve lors de l’audience par l’entremise d’un témoin et si la mise en demeure a été transmise et qu’il n’a pas eu de contestation, la preuve sera établie. 
+La contestation :
+Par tous moyens, incluant le témoignage pour contredire l’acte juridique qu’il contient (Art. 2836 C.c.Q.).
+L’écrit pur et simple (Arts. 2832-2834 C.c.Q.)
+Caractéristiques :
+Ni authentique
+Ni semi-authentique
+Constate un fait : agenda, liste d’épicerie, carte d’affaires
+La force probante :
+Ne peuvent pas tenir lieu de témoignage. Lorsqu’on l’utilise, il pourra valoir comme aveu extrajudiciaire ou encore comme commencement de preuve. Lorsque c’est la partie qui a elle-même confectionnée cette preuve et qui désire l’utiliser alors, il n’y a aucune force probante évidement (Self serving evidence). 
+L’écrit pourra toutefois être considéré comme un témoignage dans certaines circonstances : 
+(Art. 292 et 293 C.p.c. et aux conditions Arts. 2833, 2834, 2843, 2869-2873 C.c.Q.)
+La mise en preuve :
+Communication (Art. 246 et ss C.p.c.)
+Production (Art. 250 C.p.c.)
+Produire un témoin compétent pour montrer de qui il émane sauf si nous avons eu la sagesse d’envoyer une mise en demeure (Art. 264 C.p.c.) et que celle-ci soit resté sans réponse.
+Contestation :
+Par tout moyen (Art. 2836 C.c.Q.) ou s’il sera possible d’établir le contraire de ce que l’écrit contient par un simple témoignage. 
+Vrai/Faux
+L’entreprise Les Velours Pamela inc. a vendu des lots de tissus à Confection Chaton ltée. Confection Chaton ltée poursuit Les Velours Pamela inc. devant la Cour supérieure parce que le tissu en question était défectueux. De nombreux articles lui ont été rendus par des acheteurs insatisfaits.
+Confection Chaton ltée a, en sa possession, 23 lettres de clients qui attribuent les retours de marchandises au manque d’uniformité dans la couleur du tissu. Elle entend mettre en preuve ces lettres pour prouver que le tissu était défectueux, et ce, pour éviter de faire déplacer chacun des auteurs des lettres qui ont des activités d’entreprise un peu partout au Canada. Les personnes qui ont écrit ces lettres ne feraient que répéter ce qui est contenu dans l’écrit.
+Les lettres des clients de Confection Chaton ltée peuvent être utilisées comme moyen de preuve.
+Vrai, les lettres des clients sont des écrits ni authentiques ni semi-authentiques qui rapportent des faits (art. 2832 C.c.Q.). Ce qui y est contenu est de la nature d’un témoignage, car chaque client y explique qu’il retourne la marchandise en raison du manque d’uniformité dans la couleur du tissu. Ce sont des déclarations extrajudiciaires écrites qui constitueraient a priori de l’ouï-dire.
+Cependant, elles constitueront une exception à l’ouï-dire dans la mesure où elles auront été communiquées en vertu de l’art. 292 C.p.c (qui vaudra communication de 246 et suivants C.p.c.) et qu’elles auront été ensuite produites au greffe du tribunal conformément à l’art. 250 C.p.c.
+Si la partie adverse n’exige pas la présence de ces clients à l’enquête ou ne requiert pas d’autorisation du tribunal pour interroger ces clients hors la présence du tribunal, les lettres des clients vaudront alors leur témoignage et constitueront un moyen de preuve approprié pour établir le fait que le tissu était défectueux. Si la présence à l’enquête est exigée, la présence des clients sera alors requise et ceux-ci devront être cités à comparaître pour témoigner du fait du manque d’uniformité du tissu.
+Par ailleurs, les lettres ne constituent pas un commencement de preuve pour plusieurs raisons : le commencement de preuve doit émaner de la partie adverse (art. 2865 C.c.Q.). Il aurait donc fallu que l’auteur de ces lettres soit Les Velours Pamela inc. Qui plus est, le commencement de preuve n’est pas en soi un moyen de preuve : le commencement de preuve est une manière de rendre recevable la preuve testimoniale dans des situations où elle est normalement interdite, comme à l’art. 2862 ou 2863 C.c.Q.

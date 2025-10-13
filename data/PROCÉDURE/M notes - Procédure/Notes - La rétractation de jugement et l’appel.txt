@@ -1,0 +1,263 @@
+La rétractation de jugement et l’appel
+Section 1 : Le pourvoi en rétractation de jugement (Arts. 345 et ss C.p.c.)
+En principe, un jugement est irrévocable et constitue chose jugée, et ce, afin d’assurer la stabilité des rapports juridiques. Le recours en rétractation constitue une entorse au principe de l’irrévocabilité des jugements et sera donc appliqué de façon restrictive tout en respectant le droit d’une partie à une défense pleine et entière. 
+À la demande d’une partie
+(Art. 345, al.1 C.p.c.) : elle peut être demandée par une partie et le tribunal y adhèrera si son maintien est susceptible de déconsidérer l’administration de la justice tel est le cas en matière (de dol d’une autre partie ou sur des pièces fausses ou si la production de pièces décisives avait été empêchée par force majeure ou par le fait d’une autre partie). 
+Aussi (al.2) :
+1°	Le jugement a prononcé au-delà des conclusions ou a omis de statuer sur une des conclusions de la demande = (Art. 10, al.2 C.p.c.)
+2°	Aucune défense valable n’a été produite au soutien des droits d’un mineur ou d’un majeur en tutelle ou en curatelle ou d’une personne dont le mandat de protection a été homologué;
+3°	il a été statué sur la foi d’un consentement invalide ou à la suite d’offres non autorisées et ultérieurement désavouées = (Art. 191 C.p.c.)
+4°	il a été découvert après le jugement une preuve qui aurait probablement entraîné un jugement différent, si elle avait pu être connue en temps utile par la partie concernée ou par son avocat alors même que ceux-ci ont agi avec toute la diligence raisonnable.
+Nous pouvons notamment nous référer à la notion de l’art. 2858 C.c.Q. :
+Le tribunal doit, même d’office, rejeter tout élément de preuve obtenu dans des conditions qui portent atteinte aux droits et libertés fondamentaux et dont l’utilisation est susceptible de déconsidérer l’administration de la justice.
+Il n’est pas tenu compte de ce dernier critère lorsqu’il s’agit d’une violation du droit au respect du secret professionnel.
+(Art. 346, al.1 C.p.c.) : une personne ayant été condamnée par défaut pour faute de répondre à l’assignation, de participer à la conférence de gestion ou de contester au fond peut, si elle a été empêchée de se défendre par fraude, par surprise ou par une autre cause jugée suffisante, s’adresser au tribunal qui a rendu le jugement pour demander que celui-ci soit rétracté et la demande originaire rejetée.
+Autre cause jugée suffisante : peut être l’erreur ou la négligence de l’avocat, son manque d’expérience, un malentendue, la signification illégale d’un acte de procédure. 
+Le pourvoi en rétractation doit contenir (Art. 346, al.2 C.p.c.) : 
+Les motifs de la rétractation
+Les moyens de défense à la demande originaire
+Il s’agit d’une demande en cours d’instance alors, elle devra être accompagnée d’une déclaration sous serment et d’un avis de présentation (Arts. 101, al.1 et al.3 C.p.c.). 
+(Art. 347, al. 3 C.p.c.) : il s’agit de délais de rigueur. 
+Bien qu’ils soient de rigueur, il est possible d’y déroger si la partie fait la preuve de l’impossibilité d’agir (Art. 84 C.p.c.). 
+Quant aux effets, ils sont prévus à l’art. 348 C.p.c. : lors de la présentation du pourvoi, si le tribunal juge les motifs invoqués suffisants, il suspend l’exécution du jugement et les parties sont remises en état. Il poursuit l’instance originaire lorsqu’un nouveau protocole d’instance est convenu avec les parties. Une nouvelle instruction est donc convenue.
+À la demande d’un tiers
+(Art. 349, al.1 C.p.c.) : ni la personne ou son représentant n’a été partie au litige
+Exemple : Un recours avait été entrepris à l’égard d’un détenteur d’une servitude et un jugement a été rendu quant à l’utilisation de la servitude. Ceux qui pouvaient utiliser la servitude, mais qui n’ont pas été partie au litige seront affectés par le jugement et si leurs droits sont affectés, ils pourrons déposer un pourvoi en rétractation de jugement. 
+La demande devra être introduite telle une demande introductive d’instance au sens de l’art. 100 C.p.c.
+Les délais sont prévus à l’art. 349, al.2 C.p.c. :
+(Art. 350, al.1 C.p.c.) : le pourvoi ne suspend pas l’exécution du jugement, mais le tribunal pourra les suspendre.
+(Art. 350, al.2 C.p.c.) : l’huissier ayant été notifié au sens de l’art. 349, al.2 C.p.c. recevra un ordre de surseoir, soit d’arrêter immédiatement la procédure d’exécution sauf les mesures conservatoires. 
+Vrai/Faux
+Le pourvoi en rétractation de jugement à la demande d’une partie doit être signifié et présenté à l’intérieur d’un délai de 6 mois du jugement.
+Vrai, c’est un délai de rigueur au sens de l’art.347, al.3 C.p.c. Toutefois, si les conditions de l’art. 84 C.p.c. sont réunies, une partie pourra être relevée de son défaut d’avoir demandé la rétractation dans le délai de rigueur.
+Section 2 : L’appel (Art. 351 et ss C.p.c.)
+Dans la mesure où un texte de loi prévoit un droit d'appel, la Cour d'appel joue son rôle de première juridiction d'appel à l'égard des dossiers déjà constitués, plaidés et décidés en première instance, et ce, dans toutes les matières. Elle intervient pour examiner et, le cas échéant, pour réformer les décisions des tribunaux de première instance.
+* Le 3 octobre 2022 un nouveau Règlement de la Cour d’appel en matière civile est entré en vigueur, lequel modifie la numérisation des articles qui existaient auparavant, précise certains éléments et intègre des dispositions en lien avec l’utilisation des moyens technologiques et les auditions virtuelles ; les grands principes demeures inchangés ! *
+La compétence de la Cour d’appel du Québec (Arts. 29-32 C.p.c.) 
+(Art. 29 C.p.c.) : La Cour d’appel est le tribunal général d’appel chargé d’entendre les pourvois portés contre les jugements des autres juridictions qui peuvent faire l’objet d’un appel à moins d’une disposition confiant l’appel à une autre juridiction.
+(Art. 30, al.1 C.p.c.) : APPEL DE DROIT D’UN JUGEMENT FINAL 
+À la suite de l’instruction de l’affaire au fond
+Peut aussi être un jugement rendu sur une demande en cours d’instance : par exemple, une demande en cours d’instance instruite pour faire déclarer une procédure abusive et que la demande est accueillie et que la demande introductive d’instance est rejetée, le jugement aura un caractère final et son appel sera régit par les règles de l’art. 30 C.p.c.
+(al.1) : Peuvent faire l’objet d’un appel de plein droit les jugements de la Cour supérieure et de la Cour du Québec qui mettent fin à une instance, de même que les jugements et ordonnances qui portent sur l’intégrité, l’état ou la capacité de la personne, sur les droits particuliers de l’État ou sur un outrage au tribunal.
+(al.2) : DEVRA FAIRE L’OBJET D’UNE PERMISSION POUR FAIRE L’OBJET D’UN APPEL
+1°	les jugements où la valeur de l’objet du litige en appel est inférieure à 60 000 $;
+2°	les jugements rendus suivant la procédure non contentieuse qui ne font pas l’objet d’un appel de plein droit;
+3°	les jugements qui rejettent une demande en justice en raison de son caractère abusif;
+4°	les jugements qui rejettent une demande d’intervention volontaire ou forcée d’un tiers;
+5°	les jugements de la Cour supérieure rendus sur un pourvoi en contrôle judiciaire portant sur l’évocation d’une affaire pendante devant une juridiction ou la révision d’une décision prise par une personne ou un organisme ou d’un jugement rendu par une juridiction assujetti à ce pouvoir de contrôle ou sur un pourvoi enjoignant à une personne d’accomplir un acte;
+6°	les jugements rendus sur les frais de justice octroyés pour sanctionner des manquements importants = (Art. 342 C.p.c.)
+7°	les jugements qui confirment ou annulent une saisie avant jugement;
+8°	les jugements rendus en matière d’exécution.
+(al.4) : s’il y a lieu d’évaluer la valeur du litige en appel, il est tenu compte des intérêts couru à la date du jugement, de même que l’indemnité additionnelle qui aurait pu être attribué au sens de l’art. 1619 C.c.Q.
+Toutefois, les frais de justice ne sont pas considérés
+In fine : Si l’appel porte sur le droit à des dommages-intérêts additionnels en réparation d’un préjudice corporel, il n’est tenu compte que de la valeur de ces dommages-intérêts (art. 1615 C.c.Q.)
+La permission sera accordée suivant les critères de l’art. 30, al.3 C.p.c. : 
+La question en jeu en est une qui doit être soumise à la cour, 
+Une question de principe
+Une question nouvelle
+Une question de droit faisant l’objet d’une jurisprudence contradictoire
+D’autres raison peuvent notamment être bonne d’en appeler d’un jugement, mais on devra en convaincre le jugement
+L’appel d’un jugement rendu en cours d’instance
+En principe, un jugement rendu en cours d’instance ne sera pas appelable immédiatement, il le sera qu’avec le jugement final. 
+Un jugement en cours d’instance est tout jugement rendu entre le dépôt de la demande introductive d’instance accompagnée de l’avis et le jugement final. L’instance couvre notamment l’instruction du procès alors, une demande en cours d’instance pourra être faite dans l’instruction (art. 31, al.1 C.p.c.)
+Toutefois, l’art. 31, al.1 C.p.c. prévoit qu’il est possible d’aller en appel de plein droit lorsque le jugement rendu en cours d’instance ou lors de l’instruction concerne :
+Rejette une objection à la preuve fondée sur le devoir de discrétion du fonctionnaire de l’État
+Rejette une objection à la preuve fondée sur le respect du secret professionnel
+Rejette une objection à la preuve fondée sur la protection de la confidentialité d’une source journalistique
+L’appel sera également possible, mais cette fois sur permission lorsqu’un juge de la Cour d’appel estime que (art. 31, al.2 C.p.c.) :
+Ce jugement décide en partie du litige 
+Ce jugement cause un préjudice irrémédiable à une partie
+Y compris s’il accueille une objection à la preuve (ou maintient même chose)
+Art. 31, al.3 C.p.c. : L’appel est porté sans délai et ne suspend pas l’instance à moins que le juge de la cour d’appel ne l’ordonne. Si le jugement est rendu en cours d’instruction, l’appel ne suspend pas celle-ci; le jugement au fond ne peut toutefois être rendu ou, le cas échéant, la preuve concernée entendue avant la décision de la cour.
+Donc appel sans délai
+Art. 31, al.4 C.p.c. : Toute autre jugement rendue en cours d’instruction à l’exception de celui qui accueillerait une objection à la preuve ne pourra être remis en question que sur appel du jugement final. 
+On veut qu’avant que le jugement final ne soit rendu, une décision de la Cour d’appel soit rendue sur l’admissibilité ou non de cette preuve. On ne souhaite pas que le juge de première instance se retire pour délibérer, ne rende jugement sans connaitre le sort d’une pareil objection. 
+Décision en cours d’instance concernant : les mesures de gestion (art. 32 C.p.c.)
+(Art. 32 C.p.c.) : appel des mesures de gestions et des autres mesures 
+Ne peuvent faire l’objet d’un appel les mesures de gestion relatives :
+Au déroulement de l’instance
+les décisions sur les incidents concernant la reprise d’instance
+la jonction
+a disjonction des instances
+la suspension de l’instruction
+la scission d’une instance
+la constitution préalable de la preuve
+Toutefois, si la mesure ou la décision paraît déraisonnable au regard des principes directeurs de la procédure, un juge de la Cour d’appel peut accorder la permission d’en appeler.
+Le titulaire du droit d’appel et les pouvoirs de la Cour d’appel
+Le titulaire du droit d’appel
+(Art. 351 C.p.c.) : Le droit d’appel appartient à toute partie au jugement de première instance qui y a intérêt, si elle n’y a pas renoncé. Dans une affaire non contentieuse, la voie de l’appel est également ouverte aux tiers auxquels le jugement a été notifié.
+Le procureur général peut intervenir d’office dans une instance mettant en cause l’intérêt public (art. 79, al.2 C.p.c.)
+Les pouvoirs de la Cour d’appel
+(Art. 379 C.p.c.) : Dans une affaire dont la Cour d’appel est saisie, un juge d’appel peut rendre une ordonnance de sauvegarde ou autoriser la correction, dans le délai et les conditions qu’il détermine, de toute irrégularité dans la procédure d’appel, pourvu que la déclaration d’appel ait été dûment déposée et notifiée.
+(Art. 49 C.p.c.) : Les tribunaux et les juges, tant en première instance qu’en appel, ont tous les pouvoirs nécessaires à l’exercice de leur compétence.
+Ils peuvent, à tout moment et en toutes matières, prononcer, même d’office, des injonctions, des ordonnances de protection ou des ordonnances de sauvegarde des droits des parties, pour le temps et aux conditions qu’ils déterminent. De plus, ils peuvent rendre les ordonnances appropriées pour pourvoir aux cas où la loi n’a pas prévu de solution.
+La Cour d’appel possède des pouvoirs de gestion à l’art. 367, al.1 C.p.c. et elle peut tenir une conférence de gestion à l’amiable selon l’art. 381 C.p.c.
+Le cas du décès d’une partie est prévue à l’art. 362 C.p.c. 
+Section 3 : L’introduction de l'instance d'appel
+Afin de se prévaloir de son droit d’appel, il y a lieu de savoir distinguer la procédure introductive de l’appel de plein droit de celle de l’appel sur permission.
+Les délais de procédure de l’appel de plein droit (arts. 351-363 C.p.c.)
+(Art. 139, al.2 (5) C.p.c.) : la déclaration d’appel et la demande pour obtenir permission d’appeler sont signifiées par huissier.
+Ces délais sont de rigueur et emporte déchéance du droit d’appel (art. 363, al.1 C.p.c.). 
+Néanmoins, l’al.2 de l’art. 363 C.c.Q. prévoit que le tribunal pourrait autoriser l’appel s’il ne s’est pas écoulé 6 mois depuis le jugement + bonne chance de succès + impossibilité d’agir plus tôt. 
+Un cas d’exception est celui de la demande incidente, pouvant tout de même être autorisée après les délais si le tribunal la juge appropriée (al.2). 
+Sur demande d’une partie, le juge peut suspendre les délais d’appel (al.3) : 
+Dans le cas où le jugement porté en appel a réservé au demandeur le droit de réclamer des dommages-intérêts additionnels en réparation d’un préjudice corporel. Il le fait si des motifs impérieux commandent de réunir l’appel de ce jugement et celui portant sur la demande de dommages-intérêts additionnels; il détermine alors le temps et les conditions de la suspension.
+L’appel est formé par le déclaration d’appel qui sera déposée au greffe avec la preuve de sa signification (Art. 352 C.p.c.). 
+La déclaration d’appel doit contenir (Art. 353 C.p.c.) :
+contient la désignation des parties (al.1)
+l’indication du tribunal qui a rendu le jugement ainsi que la date de celui-ci (al.1)
+la durée de l’instruction en première instance (al.1)
+Elle est accompagnée d’une copie du jugement de première instance (al.1)
+La déclaration énonce les moyens de droit ou de fait que l’appelant entend utiliser : maximum de 10 pages (al.2 et art. 27 R)
+les conclusions qu’il recherche (al.2)
+le cas échéant, la valeur de l’objet du litige (al.2)
+Une déclaration relative à la confidentialité (al.3)
+L’obligation de produire un acte de représentation (art. 358?)
+Les Arts. 21-31 du Règlement de procédure de la Cour d’appel contient notamment des éléments devant être contenus à la déclaration d’appel. 
+La déclaration d’appel sera signifiée à l’intimée, notifiée à son avocat de première instance, notifiée aux intervenants et mises en cause de première instance et notifiée au greffe du tribunal de première instance (Arts. 354 et 358 C.p.c.). 
+Quiz 
+Vous désirez interroger un tiers, préalablement à l’instruction, et ce, en vertu de l’art. 221, al. 3 C.p.c. Vous présentez une demande à cet effet basée sur cet article puisque vous n’avez pas les consentements requis. Le juge rejette votre demande. Ce jugement est-il sujet à appel sans délai et pourquoi? Choisissez l’une des réponses suivantes.
+Non, car vous pourrez toujours citer ce tiers à comparaître au procès
+Oui, car c’est un jugement rendu en cours d’instance qui décide en partie du litige
+Oui, car c’est un jugement rendu en cours d’instance qui cause un préjudice irrémédiable à la partie voulant procéder à l’interrogatoire
+Non, car ce n’est pas un jugement rendu en cours d’instance
+Non, car c’est une mesure de gestion
+e) , Ee vertu de l’art. 158 (3) C.p.c., les mesures de gestion relatives au déroulement de l’instance ne sont appelables sur permission que si la mesure paraît déraisonnable au regard des principes directeurs de la procédure (art. 32 C.p.c.), et s’il en va du meilleur intérêt de la justice (art. 9, al. 3 C.p.c.).
+La demande pour permission d’appeler (arts. 357 C.p.c.)
+(Art. 357, a.1 C.p.c.) : La demande pour permission d’appeler, lorsqu’elle est requise (Art. 30, al.2 C.p.c.), est :
+Jointe à la déclaration d’appel
+Appuyée du jugement
+Des pièces et des éléments de preuve nécessaires à l’obtention de la permission
+Son contenu est complété par l’art. 353 C.p.c. et par les arts. du R-des procédure de la Cour d’appel
+Déclaration sous serment de l’appelant (art. 101, al.3 C.p.c.)
+Avis de présentation 
+(Art. 357, a.1 C.p.c.) : Elle est présentée sans délai et contestée oralement devant un juge d’appel qui en décide. Le greffier transmet sans délai le jugement au greffe de première instance, de même qu’aux parties.
+Il faut se référer au R-des procédure de la Cour d’appel pour connaitre comment une telle procédure peut être présentée, de même que la manière dont o fixe la date d’audition. 
+(Art. 357, a.2 C.p.c.) : Si la permission d’appeler est accordée, la déclaration est réputée faite au jour du jugement qui l’autorise. Si elle est refusée, le jugement doit être motivé sommairement et la Cour d’appel est dessaisie.
+Vrai/Faux
+Il n’est pas nécessaire de signifier à la partie intimée la déclaration d’appel et la demande pour permission d’appeler. L’appelant peut se contenter de notifier les procédures par télécopieur à l’avocat qui représentait l’intimé en première instance.
+Faux, l’art. 358, al.1 C.p.c. indique que la signification de la déclaration d’appel et de la demande pour permission d’appeler à la partie intimée est une condition essentielle à l’introduction du recours.
+Les conditions particulières et les effets de l’appel
+Les conditions particulières
+Lorsqu’il s’agit d’un appel de plein droit, l’appelant devra, dans les 45 jours suivant la date du jugement qui fait l’objet de l’appel, joindre à sa déclaration une attestation certifiant qu’aucune transcription d’une déposition n’est nécessaire aux fins du pourvoi ou indiquant qu’elle a donné instruction à un sténographe officiel de procéder à la transcription des dépositions qu’elle entend utiliser (Art. 353, al.3 C.p.c.).
+Pour l’appel sur permission, l’appelant pour sa part dispose d’un délai de 15 jours depuis le jugement qui accueille la demande pour permission d’appeler ou de la date où le juge prend acte du dépôt de la déclaration d’appel pour déposer l’attestation concernant la transcription des dépositions au greffe du tribunal et en notifier l’autre partie. (Art. 357, al.4 C.p.c.)(Art. C.p.c.)(Art. C.p.c.)(Art. C.p.c.)
+Les effets de l’appel 
+(Arts. 355 C.p.c.) : l’appel formé aura pour effet de suspendre l’exécution du jugement SAUF les cas où l’exécution provisoire est ordonnée et ceux que la loi prévoit l’exécution provisoire (Arts. 660 et 661 C.p.c.).
+Les cas où il y a exécution provisoire selon la loi (art. 660 C.p.c.) :
+1°	concerne une pension ou une provision alimentaire, détermine les modalités de la garde d’enfants ou prononce en matière d’autorité parentale;
+2°	ordonne le retour d’un enfant en vertu de la Loi sur les aspects civils de l’enlèvement international et interprovincial d’enfants (chapitre A-23.01);
+3°	nomme, destitue ou remplace le tuteur, le curateur ou un autre administrateur du bien d’autrui, ou encore homologue ou révoque le mandat de protection;
+4°	ordonne des réparations urgentes;
+5°	ordonne l’expulsion des lieux en l’absence de bail ou si le bail est expiré, résilié ou annulé;
+6°	ordonne une reddition de compte ou la confection d’un inventaire;
+7°	ordonne une mesure pour assurer la liquidation d’une succession;
+8°	se prononce sur la possession d’un bien (art. 929 C.c.Q.);
+9°	se prononce sur la mise sous séquestre d’un bien;
+10°	se prononce sur un abus de procédure;
+11°	ordonne une provision pour frais;
+12°	se prononce sur les frais de justice, mais seulement pour la partie qui n’excède pas 15 000 $.
+Le juge peut, par décision motivée, suspendre l’exécution provisoire; un juge de la Cour d’appel peut aussi le faire ou lever la suspension ordonnée par le juge de première instance.
+Art. 661 C.p.c. : Lorsque le fait de porter une affaire en appel risque de causer un préjudice sérieux ou irréparable à une partie, le juge peut, sur demande, ordonner l’exécution provisoire, même partielle; il peut aussi subordonner l’exécution provisoire à la constitution d’une caution.
+Si l’exécution provisoire n’est pas ordonnée par le jugement lui-même, elle ne peut plus l’être qu’en appel, avec ou sans caution. Un juge de la Cour d’appel peut aussi la suspendre ou la lever lorsqu’elle a été ordonnée, ou encore assujettir la partie qui en a été dispensée par le tribunal de première instance à fournir un cautionnement.
+Art. 514 C.p.c. : en matière d’injonction, il y aura exécution provisoire en appel sauf si un juge de la Cour d’appel en suspendant l’exécution pour un temps. 
+Art. 355, al.2 C.p.c. : lorsque l’appel ne vise qu’à augmenter ou réduire le montant accordé, le juge peut sur demande ordonné l’exécution partielle. 
+Art. 364, al.1 C.p.c. : La Cour d’appel peut d’office ou sur demande assujettir un appel à un cautionnement afin de garantir le paiement des frais de l’appel et du montant de la condamnation si le jugement est confirmé.
+Art. 364, al.2 C.p.c. : la cour ou le juge fixe le délai de paiement et le prix du cautionnement.
+La Cour d’appel possède des pouvoirs de gestion qu’elle peut utiliser en tout état de cause (Art. 367 C.p.c.) ou à la demande d’une partie (Art. 369 C.p.c.) et prévoir des modalités différentes ou plus particulière en matière d’exécution ou de suspension provisoires.
+L’acte de représentation (art. 358 C.p.c.)
+Art. 358, al.2 C.p.c. : 
+L’intimé, les intervenants et les mis en cause doivent, dans les 10 jours de la notification de la déclaration d’appel, déposer un acte de représentation indiquant le nom et les coordonnées de l’avocat qui les représente ou, dans le cas d’absence de représentation, un acte indiquant ce fait. Cependant, s’il est joint à la déclaration d’appel une demande pour obtenir la permission d’appeler, les intervenants et les mis en cause ne sont tenus de le faire que dans les 10 jours du jugement qui accueille cette demande ou, le cas échéant, de la date à laquelle le juge a pris acte du dépôt de la déclaration.
+(al.3) : L’avocat qui représentait l’intimé en première instance est tenu, s’il n’agit plus pour l’intimé, de le dénoncer sans délai à l’appelant, à l’intimé et au greffe.
+(Art. 30 R- Procédure de la Cour d’appel) 
+L’appel incident (Arts. 358-360 C.p.c.)
+Lorsqu’une partie a déposé une permission d’appeler un jugement ou qu’elle est allée en appel de plein et qu’une autre partie possède également des motifs sous ce même jugement, cette dernière peut se porter appelante incidente (Art. 359 C.p.c.). 
+L’appel incident est formé par le dépôt au greffe d’une déclaration d’appel incident. L’incident subsiste même si l’appel principal est rejeté (Art. 359 C.p.c.).
+(Art. 360, al.2 C.p.c.): Le dépôt et la signification d’un appel incident ont lieu dans les 10 jours de la signification de la déclaration d’appel ou de la date que porte le jugement autorisant l’appel. 
+Le contenu de la déclaration d’appel incident est prévu à l’art. 353 C.p.c. ainsi qu’au Règlement.
+Art. 35 R- Procédure de la Cour d’appel : prévoit l’obligation pour celui se porte appelant incident de fournir la preuve qu’il a demandé la transmission ou la transcription des dépositions et ce dans les 15 jours de la formation de son incident. 
+Section 4 : Le mémoire et l’exposé
+Les prétentions des parties sont énoncées dans un mémoire ou un exposé, selon la nature du dossier porté en appel. L’exposé sera nécessaire dans les matières spécifiquement prévues par la loi, incluant en matière familiale, tandis que dans les autres cas, les parties devront confectionner un mémoire.
+Le mémoire de l’appelant 
+Dans les 3 mois de la déclaration d’appel pour l’appelant et dans les 2 mois qui suivent pour l’intimé, ils doivent déposer au greffe et notifier aux autres parties leur mémoire (art. 373, al.1 C.p.c.). Toutefois, ce délai pourrait être différent s’il a fait l’objet d’une suspension en raison d’une éventuelle demande de rejet d’appel ou encore si en gestion la Cour a disposé d’un autre délai ou peut-être que le délai de 3 mois est trop court pour l’appelant et sera prolongé par le tribunal. Toutes autres parties doivent produire son mémoire dans les quatre mois qui suivent la notification du mémoire de l’appelant (art. 373, al.1 C.p.c.).
+Le contenu du mémoire est prévu à l’Art. 370 C.p.c. :
+Les prétentions des parties à un appel sont énoncées soit dans le mémoire de chacune d’elles, soit dans leur exposé, lesquels sont régis, quant à leur contenu et à leur confection matérielle, par les règlements de la Cour d’appel (al.1 et arts. 41 et ss R-Procédure (cour d’appel))
+Outre les extraits pertinents de la preuve joints au mémoire ou à l’exposé et transcrits sur support papier, l’ensemble des dépositions et de la preuve n’est déposé que s’il est disponible sur support technologique (al.2).
+(Art. 376, al.1 C.p.c.) : le non-respect du délai par l’appelant quant au dépôt du mémoire emporte caducité. Le greffier délivre un constat de caducité, à moins qu’un juge d’appel ne soit saisi d’une demande de prolongation.
+Pour l’intimé ou toutes autres parties, ils disposent d’un délai de 2 mois suivant le dépôt du mémoire par l’appelant pour soumettre le leur à moins que le tribunal fixe un autre délai. En cas de non-respect du délai, l’art. 376, al.2 C.p.c. prévoit qu’ils sont forclos de le faire et qu’ils ne pourront être entendu à l’audience que sur autorisation de la Cour d’appel.
+Tant pour l’intimé et pour l’appelant, la Cour pourrait décider de relaver la partie de son défaut d’avoir respecté le délai (Art. 84 C.p.c. ainsi que le R-procédure de la Cour d’appel).
+(Art. 367, al.2 C.p.c.) : possible en gestion de modifier le délai. 
+S’il y a eu appel incident, l’Art. 371 C.p.c. prévoit que l’intimé devra inclure dans son mémoire ce qui concerne l’appel. 
+(Art. 373, al.2 C.p.c.) : L’intimé incident peut déposer et notifier un mémoire en réponse à l’appel incident dans les deux mois qui suivent la notification du mémoire de l’appelant incident. 
+Ce délai peut notamment être différent si un juge de gestion prévoyait autre chose. 
+Quiz - Trouvez l'intrus
+L’exposé est la procédure appropriée dans les appels de jugements rendus en matière :
+d’intégrité, d’état ou de capacité de la personne
+d'habeas corpus
+familiale
+d’enlèvement international d’enfants
+d’outrage au tribunal
+e) , l’exposé remplace le mémoire dans les cas prévus à l’art. 374 C.p.c. L’outrage au tribunal n’y est pas spécifié.
+L’exposé d’appel
+Un exposé n’est produit que dans les cas de l’art 374, al.1 C.p.c. :
+Les appels portés à l’encontre d’un jugement rendu en matière d’intégrité, d’état ou de capacité de la personne
+d’habeas corpus
+en matière familiale
+d’enlèvement international d’enfants ou de saisie
+à l’encontre d’un jugement rendu suivant une procédure non contentieuse ou en cours d’instance.
+Il l’est également sur décision de gestion d’un juge d’appel
+(al.2) :  L’exposé présente sommairement les faits, les questions en litige, les prétentions et les conclusions, de même que les principaux arguments. 
+Renvoi à l’art. 370 C.p.c. et au R. 
+(al.3) : Il est déposé au greffe et notifié aux autres parties dans les délais fixés par la décision de gestion du greffier ou d’un juge d’appel.
+Renvoi quant à la gestion à l’art. 367, al.2 C.p.c.
+La procédure par exposé est plus souple et courte
+Si toujours, il devait avoir un appel incident on renvoi encore à l’Art 371 C.p.c.
+Section 5 : Le déroulement de l’appel
+Tout comme en première instance, les parties peuvent présenter des demandes en cours d’instance et des moyens préliminaires. Les parties peuvent requérir une conférence de règlement à l’amiable et, à défaut d’entente, une audience sera fixée et jugement sera rendu.
+Les demandes en cours d’instance
+(Art. 377 C.p.c.) : toute demande en cours d’instance est faite par écrit et est accompagnée d’un avis de la date de sa présentation et au besoin d’une déclaration sous serment. La demande doit être notifiée aux autres parties au moins 5 jours avant cette date si elle est présentée à la Cour ou au moins 2 jours si elle doit être présentée à un juge d’appel ou au greffier. 
+La Cour peut corriger toute irrégularité d’une procédure d’appel tant que la procédure a été dûment déposée et notifiée (Art. 379 C.p.c.). 
+Pour toute demande en cours d’instance devant être faite à la cour d’appel, à un juge d’appel ou à un greffier, il va falloir également se référer aux arts. 32-34, 59-67 du Règlementrt. 
+Les demandes pour rejet d’appel 
+Art. 365, al.1 C.p.c. : 
+Il n’existe pas de droit d’appel
+Il y a déchéance de ce droit
+L’appel a un caractère abusif
+Il est irrégulièrement formé. 
+Elle le peut également à la demande de l’intimé, si la caution n’a pas été fournie dans le délai fixé
+S’il y a eu acquiescement au jugement qui fait l’objet de l’appel
+Renonciation par une partie aux droits résultant d’un jugement rendu en sa faveur
+Si l’appel ne présente aucune chance raisonnable de succès
+Art. 365, al.2 C.p.c. :
+La demande de rejet de l’appel doit être déposée au greffe dans les 20 jours de la signification de la déclaration d’appel et ne peut être présentée dans un délai de moins de 30 jours depuis ce dépôt.
+Demande à la Cour appuyé d’une déclaration sous serment le cas échéant et d’un avis de présentation. 
+Art. 366 C.p.c. : La Cour d’appel peut, sur le vu du dossier, refuser la demande en rejet de l’appel en raison de l’absence de chance raisonnable de succès ou de son caractère abusif.
+D’où le délai minimal de 30 jours 
+Les incidents des arts. 184-220 C.p.c.
+Les incidents des arts. 184-220 C.p.c. peuvent se poser en appel en faisant les adaptations nécessaires (art. 378, al.1 C.p.c.).
+La Cour d’appel pourrait aussi permettre qu’une preuve nouvelle soit faite devant elle. (Art. 380 C.p.c.) : 
+Tout incident devra être soumis par écrit en respectant les arts. 59-67 du Règlement. 
+Les incidents sont soumis à un juge seul ou par le greffier (art. 378, al. 3 C.p.c.) dans ces cas : 
+Pour substitution d’avocat
+Pour joindre
+Disjoindre des appels
+Les demandes de gestion d’instance pour fixer ou prolonger des délais ou pour autoriser le dépôt d’un énoncé supplémentaire
+Dans tous les cas un juge et un greffier pourront déférer la demande soit à un juge de la cour d’appel ou pour le greffier à un juge. Ces demandes sont présentées par lettre et notifiées aux autres parties. 
+Les demandes décidées par un greffier pourra faire l’objet d’une vérification par un juge de la Cour d’appel (Art. 74 C.p.c.). 
+Vrai/Faux : une preuve nouvelle
+Dans l’exercice de sa discrétion judiciaire, la Cour d’appel évaluera si la preuve nouvelle qu’une partie désire présenter est indispensable et requise aux fins de la justice et si elle est susceptible d’entraîner un jugement différent.
+la Cour d’appel peut autoriser la présentation par une partie d’une preuve nouvelle si celle-ci est jugée indispensable après avoir donné l’occasion aux parties de soumettre leurs observations (Art. 380 C.p.c.). 
+La conférence de règlement à l’amiable
+Art. 381, al.1 C.p.c. : La cour d’appel peut comme les cours de premières instance tenir une conférence de règlement à l’amiable. Ce sera à la demande des partie et c’est possible en tout temps. 
+Art. 381, al.2 C.p.c. : Les délais de l’instance d’appel sont suspendus et les parties remettent un avis de conférence au greffier. 
+Art. 382, al.1 C.p.c.: la conférence est tenue à huis clos, les parties et leurs avocats sont présents, sans frais, sans formalité, ni écrit préalable et confidentiel. 
+Art. 382, al.2 C.p.c.: permet au greffier d’homologuer et de rendre la transaction exécutoire. 
+*Art. 68 et 69 R- Procédure (cour d’appel) )*
+L’audience et l’arrêt
+Le greffier inscrit l’affaire lorsque (Art. 383, al.1 C.p.c.) :
+Le dossier de l’appel a été complété par le dépôt de tous les mémoires
+Le dossier de l’appel a été complété par le dépôt de tous les exposés
+La Cour d’appel l’ordonne
+Les parties son avisé par le greffier de la date d’audience ainsi que du temps alloué par chacune à leur plaidoirie (Art. 385 C.p.c.). Un banc de trois juges entendra par la suite les parties (Art. 386, al.1 C.p.c.). 
+Une fois que l’audition aura lieu, un jugement sera rendu à la majorité des trois juges (Art. 387, al.1 C.p.c.). L’arrêt peut être rendu à l’audience ou déposé au greffe ultérieurement (Art.387, al.1 C.p.c.). 
+L’art. 390, al.1C.p.c. prévoit que l’arrêt est exécutoire immédiatement et il porte intérêt à partir de sa date sauf mention contraire. Cependant, à la demande d’une partie, la Cour d’appel ou l’un de ses juges peut suspendre l’exécution lorsque la partie démontre son intention de présenter une demande d’autorisation d’Appel à la CSC (Art. 390, al.2 C.p.c.). 
+*Art. 70-79 R- Procédure (cour d’appel) *

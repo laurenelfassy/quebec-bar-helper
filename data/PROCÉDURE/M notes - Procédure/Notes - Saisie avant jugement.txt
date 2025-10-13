@@ -1,0 +1,389 @@
+SAISIE AVANT JUGEMENT ET L’EXÉCUTION
+Section 1 : Les saisies avant jugement
+Dans certains cas, les gestes et les actions de l’une des parties peuvent occasionner pour l’autre un préjudice auquel le jugement mettant fin au litige ne pourra remédier. Les saisies avant jugement permettent donc à la partie qui pourrait être lésée de sauvegarder ses intérêts jusqu’au jugement mettant fin à l’instance.
+Les principes de la saisie avant jugement (Art. 516-523 C.p.c.) 
+Elle a pour but de mettre les biens sous la main de la justice pendant l’instance jusqu’au jugement (Art. 516, al.1 et 321 C.p.c.). 
+Elle est pratiquée de la même manière et obéit aux mêmes règles que la saisie après jugement, sauf les règles du présent chapitre (Art. 516, al.1 C.p.c.).
+Elle peut être pratiquée avant l’introduction de l’instance ou en cours d’instance; elle peut aussi l’être lorsque l’affaire a été portée en appel, mais en ce cas avec l’autorisation du tribunal de première instance (Art. 516, al.2 C.p.c.).
+De plein droit 
+(Art. 517, al.1 C.p.c.) :
+le bien meuble qu’il est en droit de revendiquer;
+le bien meuble sur le prix duquel il est fondé à être colloqué par préférence et dont on use de manière à mettre en péril la réalisation de sa créance prioritaire;
+le bien meuble qu’une disposition de la loi lui permet de faire saisir pour assurer l’exercice de ses droits sur celui-ci
+(Art. 519 C.p.c.) :
+Dans une instance en nullité de mariage ou d’union civile, en séparation de corps ou de biens, en divorce ou en dissolution d’une union civile ou en paiement d’une prestation compensatoire, chaque conjoint peut, de plein droit, faire saisir avant jugement les biens meubles qui lui appartiennent, qu’ils soient entre les mains de son conjoint ou d’un tiers;
+La saisie avant jugement sur permission
+(Art. 517, al.2 C.p.c.) :
+L’autorisation du tribunal est cependant nécessaire si la saisie porte sur un support technologique ou sur un document contenu sur un tel support.
+s’il est à craindre que sans cette mesure le recouvrement de sa créance ne soit mis en péril (Art. 518 C.p.c.) 
+il peut en outre, avec l’autorisation du tribunal, faire saisir les biens de son conjoint pour la part à laquelle il aurait droit en cas de dissolution du régime matrimonial ou d’union civile et, en ce cas, le tribunal détermine qui en est le gardien (Art. 519 in fine C.p.c.).
+La saisie avant jugement se fait au moyen (Art. 520, al.1 C.p.c.) :
+d’un avis d’exécution sur la base des instructions du saisissant
+sa déclaration sous serment dans laquelle il affirme l’existence de la créance et les faits qui donnent ouverture à la saisie; le cas échéant, il y indique ses sources d’information.
+Si l’autorisation du tribunal est nécessaire, elle doit figurer sur la déclaration du saisissant.
+(Art. 520, al.2 C.p.c.) : Les instructions enjoignent à l’huissier qui en est chargé de saisir tous les biens meubles du défendeur ou les seuls meubles ou immeubles qui y sont spécialement désignés. L’huissier signifie au défendeur l’avis d’exécution et la déclaration du saisissant.
+Parfois, en raison de l’urgence de la situation, il est possible qu’on n’est pas le temps de préparer la demande introductive d’instance, mais que près de faire une saisie avec jugement. Dans ce cas de figure, l’Art. 521 C.p.c. prévoit que la DID devra être transmise après au défendeur dans les 5 jours suivant le signification au défendeur de l’avis d’exécution. 
+Les moyens de contestation de la saisie avant jugement (Arts. 522 et 523 C.p.c.) 
+Il peut l’annulation de la saisie (Art. 522 C.p.c.) : 
+Dans les cinq jours de la signification de l’avis d’exécution, le défendeur peut demander l’annulation de la saisie en raison de l’insuffisance ou de la fausseté des allégations de la déclaration du saisissant. Si cela s’avère, le tribunal annule la saisie; dans le cas contraire, il la confirme et peut en réviser l’étendue.
+Il peut s’opposer à la saisie ou obtenir la remise de ses biens en fournissant une garantie suffisante (Art. 523 C.p.c.) : 
+Le défendeur peut éviter l’enlèvement, obtenir mainlevée ou obtenir la remise des biens saisis en fournissant à l’huissier une garantie suffisante. Si l’huissier refuse la garantie, le défendeur peut s’adresser au tribunal qui en décide.
+Le dépôt d’une somme d’argent, d’une garantie émise par un établissement financier exerçant ses activités au Québec ou d’une police d’assurance garantissant l’exécution des obligations du défendeur constitue une garantie suffisante. Le montant de cette garantie est déterminé par la somme réclamée ou par la valeur des biens saisis.
+Quiz
+Quel est le délai pour demander l’annulation de la saisie avant jugement?
+5 jours
+7 jours
+10 jours
+12 jours  
+Toutes ces réponses
+a) , le défendeur peut demander l’annulation de la saisie avant jugement dans les 5 jours suivant la signification de l’avis d’exécution (art. 522 C.p.c.). Cependant, ce délai n’est pas de rigueur et le tribunal peut le proroger pour des raisons valables (art. 84 C.p.c.).
+Section 2 : Les règles de l’exécution des jugements
+Une fois le jugement rendu, encore faut-il être en mesure de l’exécuter ! L’art 656 C.p.c. prévoit que l’exécution peut être volontaire ou forcée. Cet article donne aux tribunaux les pouvoirs nécessaires pour rendre toute ordonnance afin de faciliter l’exécution des jugements entre les parties.
+Le jugement peut d’exécuter volontairement (Art. 656, al.1 C.p.c.) :
+Le paiement
+Le délaissement d’un bien
+L’accomplissement de ce qui est ordonné 
+soit avant l’expiration des délais prévus par la loi, soit dans les délais prévus par le jugement ou ceux convenus entre les parties.
+L’exécution peut être forcée (Art. 656, al.2 C.p.c.) :
+Si le débiteur refuse de s’exécuter volontairement et que le jugement est passé en force de chose jugée = plus susceptible d’appel au sens de l’art. 360 et 361 C.p.c.
+(Art. 656, al.3 C.p.c.) : Le jugement peut être exécuté même s’il n’est pas passé en force de chose jugée lorsque la loi permet l’exécution provisoire ou qu’un tribunal l’ordonne.
+Peut l’être aussi 30 jours après qu’un jugement soit rendu en vertu du titre II du livre VI (petites créances)
+Après 10 jours de tout jugement rendu par suite du défaut de répondre à l’assignation, de participer à une conférence de gestion ou de contester au fond
+Art. 657 C.p.c. : tribunal peut, après le jugement, rendre toute ordonnance propre à faciliter l’exécution, volontaire ou force. 
+Vendre un bloc, différents biens pour e obtenir un prix plus avantageux. 
+Tous les actes seront réalisés par l’huissier agissant à titre d’officier de justice, sous l’autorité du tribunal (Art. 658, al.1 C.p.c.). L’huissier pourra s’adresser au tribunal pour obtenir des instructions (al.2). 
+(Art. 659 C.p.c.) : toute contestation devra être formulé comme une demande en cours d’instance conformément à l’Art. 101 C.p.c. 
+L’exécution provisoire 
+(Art. 355 C.p.c.) : appel suspend l’exécution 
+Par contre, les arts. 660 et 661 C.p.c. prévoit des cas d’exécution malgré qu’ils soient portés en appel. 
+(Art. 660 C.p.c.) : exécution provision
+(Art. 661, al.2 C.p.c.) : possible que la Cour d’appel lève la suspension. 
+L’exécution volontaire (Arts. 662-671 C.p.c.) 
+Peut être exécuter par le paiement de la somme dû dans le délai et suivant les modalités prévues au jugement ou convenus entre les parties (Art. 662 C.p.c.). 
+Paiement échelonné (Art. 663 C.p.c.) 
+(Art. 663, al.1 C.p.c.) : débiteur s’engage auprès de l’huissier chargé de l’exécution à lui verser régulièrement, au bénéfice du créancier, une somme d’argent en exécution du jugement.
+(al.2) : L’échelonnement des paiements ne doit pas excéder une année.
+L’entente sera déposée au greffe (Art. 663, al.3 C.p.c.). Tant que l’entente est respectée, le débiteur est sauvé d’une saisie et d’une vente de ses biens. 
+Le dépôt volontaire (Art. 664 et ss C.p.c.) 
+Le débiteur fait une déclaration greffe dans laquelle il mentionne ses revenus, son emploi, ses créanciers, ses charges familiales et la partie saisissable de son salaire. Si cette dernière somme est régulièrement déposée au tribunal de la cour, il est à l’abris de mesures d’exécution subséquentes et il jouit du bénéficie d’insaisissabilité. Ainsi, aucune autre procédure ne pourra être entreprise contre le débiteur alors qu’il se prévaut d dépôt volontaire. 
+Toutefois, s’il fait défaut à son engagement, il bénéficient d’un délai de 30 jours suivant la réception de l’avis du greffe pour remédier à celui-ci (Art. 665, al.2 .p.c.). 
+À partir du moment où le débiteur fait une telle déclaration, il incombe au greffier d’aviser les créanciers déclarés par le débiteur à même sa déclaration initiale et les créanciers peuvent déposer leurs réclamations (Art. 665, al.3 et 666, al.1 C.p.c.). 
+Le créancier devra préparer et déposer sa réclamation dans les 30 jours de la notification par le greffe (Art. 666, al.2 C.p.c.). 
+Les sommes sont distribuées au sens de l’Art. 668 C.p.c. renvoyant aux Arts. 772-777 C.p.c.
+Bien que le dépôt volontaire existe à la seule volonté du débiteur, sa seule déclaration de dépôt volontaire peut faire l’objet d’une contestation par un créancier ou tout autre intéressé dans les 15 jours où il a connaissance de la déclaration (Art. 667 C.p.c.). Celle-ci est notifié au débiteur, au greffier et à l’huissier. 
+Le délaissement volontaire (Art. 671 C.p.c.) 
+(Art. 671 C.p.c.) : jugement de livrer le bien volontaire ou de l’abandonner pour que la partie puisse en prendre possession ou s’en saisir. 
+Quiz
+À quel moment l’exécution forcée d’un jugement peut-elle être effectuée?
+10 jours après tout jugement rendu par suite du défaut de répondre à l’assignation  
+Lorsque le défendeur refuse de s’exécuter volontairement
+Lorsque la loi permet l’exécution provisoire  
+Lorsque le tribunal l’ordonne
+30 jours après tout jugement rendu en vertu du titre II du livre VI 
+Toutes ces réponses
+f) , toutes ces réponses sont prévues à l’art. 656, al.2 et 3 C.p.c. qui énonce les modalités d’exécution des jugements. 
+Section 3 : L’exécution forcée des jugements (Arts. 679-682 C.p.c.) 
+Dans cette section, nous examinerons les règles applicables à l’exécution forcée des jugements, les droits et les obligations des différents intervenants ainsi que le bénéfice d’insaisissabilité de certains biens. 
+(Art. 679 C.p.c.) : lorsque le débiteur ne l’exécute pas volontairement le jugement. 
+Le créancier qui entend procéder à l’exécution forcée donne des instructions au huissier (Art. 680, al.1 C.p.c.). 
+Les instructions sont (Art. 680, al.2 C.p.c.):
+Saisir les biens du débiteur, y compris ses revenus, et d’en disposer pour satisfaire la créance
+Elles peuvent aussi lui enjoindre de mettre le créancier saisissant en possession d’un bien ou d’expulser celui contre qui le jugement a été rendu. 
+Elles doivent contenir l’information utile pour que l’huissier puisse exécuter le jugement.
+Le créancier transmet à l’huissier, avec les instructions, les sommes nécessaires à l’exécution (al.3). 
+L’exécution débute par le dépôt au greffe de l’avis d’exécution (Art. 681, al.1 C.p.c.) et l’avis sera complété par l’huissier (Art. 681, al.2 C.p.c.). L’huissier signifiera au débiteur l’avis d’exécution et notifiera le créancier (al.3). 
+Si l’huissier reçoit de nouvelles instructions ou si un autre créancier entreprend une mesure d’exécution contre le même débiteur, l’avis pourra ensuite être modifié (Art. 682, al.1 C.p.c.) et celui-ci sera déposé au greffe et le débiteur et les créanciers seront notifiés (al.2). 
+Les droits et obligations (Arts. 683-687 C.p.c.) 
+Toutes les personnes qui participent au processus d’exécution sont tenues (Art. 683 C.p.c.) :
+De respecter l’obligation d’agir selon les exigences de la bonne foi
+De collaborer à la bonne exécution du jugement
+De s’abstenir de poser tout geste susceptible de nuire à cette exécution. (Art. C.p.c.) 
+Et ce, à partir de la notification de l’avis d’exécution. 
+Les devoirs du débiteur (Art. 684, al.1  C.p.c.) :
+Fournir à l’huissier tous les renseignements nécessaires permettant de l’identifier, 
+Incluant sa date de naissance
+De l’informer de sa situation patrimoniale
+Fournir la liste de tous les créanciers qui sont susceptibles de se joindre à l’exécution dans l’année, ou qui détiennent une hypothèque sur les biens saisis ou ont un droit de revendication sur ces biens.
+Malgré les règles spéciales en lien avec la confidentialité ou la non-divulgation, le tribunal peut ordonner à un tiers de fournir au huissier les coordonnés de la personne (Art. 684, al.2 et al.3 C.p.c.).
+Les devoirs du huissier (Arts. 685-687 C.p.c.) :
+Devoir d’impartialité envers toutes les personnes qui participent au processus d’exécution (Art. 685, al.1 C.p.c.) 
+Devoir d’information envers toutes les personnes qui participent au processus d’exécution (Art. 685, al.1 C.p.c.)
+Peut accomplir tout acte nécessaire à l’exécution de sa mission (Art. 685, al.1 C.p.c.)
+D’informer le débiteur et tout tiers saisi du contenu de l’avis d’exécution et de leurs droits (al.2)
+Leur expliquer la procédure en cours et les règles de calcul de la partie saisissable des revenus (al.2)
+D’exécuter les instructions des créanciers de la manière la plus avantageuse non seulement pour eux, mais pour toutes les parties (al.2)
+Informe les créanciers inscrits sur la liste fournie par le débiteur du dépôt de l’avis d’exécution (al.2)
+Il invite les créanciers à l’aviser de la nature et du montant de leur créance (al.2)
+À moins qu’il agisse de mauvaise foi ou qu’il commette une faute lourde, l’huissier ne peut pas être poursuivi pour un acte posé dans l’exercice de ses fonctions (Art. 685, al.3 C.p.c.). 
+L’huissier qui a besoin de pénétrer dans un lieu pour exécuter ses fonctions doit obtenir l’autorisation d’un greffier spécial (Art. 686, al.1 C.p.c.). L’autorisation lui permettra d’accéder à toutes les pièces, à tous les bâtiments et à tous les biens qui s’y trouvent.
+Si l’huissier appréhende des difficultés, il peut demander l’assistance d’un agent de la paix (Art. 686, al.2 C.p.c.). 
+L’huissier a sur les biens les pouvoirs liés à la simple administration des biens d’autrui (Art. 687,al.1 C.p.c.).
+Les sommes saisies sont déposées dans un compte en fidéicommis jusqu’à la distribution (Art. 687, al.2 C.p.c.). 
+Lorsque le jugement est devenu exécutoire, le créancier du jugement ou l’huissier peut interroger le débiteur sur (art. 688, al.1 C.p.c.) :
+ses revenus
+sur les sommes qui lui sont dues
+sur ses obligations et ses dettes
+sur tous les biens qu’il possède ou qu’il a possédés depuis la naissance de la créance qui a donné lieu au jugement
+sur les biens visés par le jugement. 
+Lors de l’interrogatoire, le débiteur peut également être requis de communiquer un document.
+Le créancier ou l’huissier peut également interroger toute autre personne (art. 688, al.2 C.p.c.) et, si la personne ne consent pas à l’interrogatoire, il devra obtenir l’autorisation du tribunal. 
+Vrai/Faux
+Les parties peuvent s’engager contractuellement à renoncer au bénéfice d’insaisissabilité.
+Faux, en vertu de l’art. 694, al. 5 C.p.c., la renonciation au bénéfice d’insaisissabilité est nulle. 
+Les règles particulières de l’exécution 
+(Art. 692 C.p.c.) :
+Lorsque la partie condamnée à livrer ou à délaisser un bien ne s’exécute pas dans le délai imparti par le jugement ou par une convention subséquente entre les parties, le créancier du jugement ordonnant l’expulsion du débiteur ou l’enlèvement des biens peut être mis en possession par l’avis d’exécution.
+Cet avis, lorsqu’il vise l’expulsion, est signifié au moins cinq jours avant son exécution. Il ordonne au débiteur de retirer ses meubles dans le délai qu’il indique ou de payer les frais engagés pour ce faire et l’avise que s’il fait défaut d’obtempérer, les meubles seront réputés abandonnés.
+Aucune expulsion n’a lieu un jour férié ni pendant la période du 24 décembre au 2 janvier.
+(Art. 693 C.p.c.) :
+Lors de l’expulsion, si le débiteur laisse des meubles dans l’immeuble, il est réputé les avoir abandonnés et l’huissier peut les vendre au bénéfice du créancier, les donner à un organisme de bienfaisance s’ils ne sont pas susceptibles d’être vendus ou, s’ils ne peuvent être donnés, en disposer autrement à son gré.
+Le bénéfice d’insaisissabilité – Les insaisissabilités relatives (Arts. 694 et C.p.c.)
+Certaines biens ne sont pas saisissables. 
+Certaines biens meubles : jusqu’à concurrence d’une valeur marchande de 7 000 $ établie par l’huissier, les meubles du débiteur qui garnissent ou ornent sa résidence principale, servent à l’usage de la famille et sont nécessaires à la vie de celle ci et, le cas échéant, pour atteindre ce montant, les objets personnels que le débiteur choisit de conserver (Art. 694, al.1 C.p.c.) 
+les instruments de travail nécessaires à l’exercice personnel de l’activité professionnelle du débiteur (Art. 694, al.2 C.p.c.) : sauf par un créancier détenant une hypothèque (al.3) 
+Les animaux de compagnies (al.4)
+La nourriture, les combustibles, le linge et les vêtements nécessaires à la vie du débiteur et de sa famille (al.4 (1))
+Les biens nécessaires pour pallier un handicap ou soigner la maladie du débiteur ou d’un membre de sa famille (al.4 (2))
+Les papiers, portraits et autres documents de famille, les médailles et les autres décorations (al.4 (4))
+Il est spécifiquement prévu qu’il ne serait avoir de renonciation à ce bénéfice de renonciation (al.5).
+Le véhicule de promenade du débiteur (Art. 695 C.p.c.) : s’il est nécessaire au maintien du revenu de travail ou à une démarche active d’occuper un emploi ou nécessaire pour subvenir aux besoins du débiteur en raison de son état de santé ou pour l’éducation du débiteur, des membres de sa famille ou de ses personnes à charge. TOUTEFOIS, si le débiteur réside dans une région desservi par un service de transport en commun ou dispose d’un autre véhicule de promenade, l’huissier pourra saisir l’un ou l’autre des véhicules. 
+(Art. 2648 C.c.Q.) : Ne peuvent être saisis les biens que le Code de procédure civile (chapitre C-25.01), dans les limites qu’il fixe, permet de soustraire à une saisie ou déclare insaisissables.
+Le bénéfice d’insaisissabilité – Les insaisissabilité absolues
+Art. 696 C.p.c. Sont insaisissables :
+1°	les vases sacrés et autres objets servant au culte religieux;
+2°	les livres de compte, titres de créance et autres documents, à l’exception des obligations, billets à ordre ou autres effets payables à ordre ou au porteur, s’ils sont en possession d’un débiteur qui n’exploite pas une entreprise;
+3°	le remboursement des frais engagés par le débiteur en raison d’une maladie, d’un handicap ou d’un accident;
+4°	toutes choses déclarées telles par la loi.
+Sont aussi insaisissables :
+1°	les montants forfaitaires et les indemnités, autres que de remplacement de revenu, versés en exécution d’un jugement ou dans le cadre d’un régime public d’indemnisation pour compenser les frais et les pertes liés au décès ou à un préjudice corporel ou moral;
+2°	les biens donnés ou légués sous condition d’insaisissabilité, lorsque la stipulation est faite dans un acte à titre gratuit et qu’elle est temporaire et justifiée par un intérêt sérieux et légitime. Ces biens peuvent cependant être saisis à la demande des créanciers postérieurs à la donation ou à l’ouverture du legs, avec la permission du tribunal et pour la portion qu’il détermine;
+3°	les cotisations qui sont ou doivent être versées à un régime complémentaire de retraite auquel cotise un employeur pour le compte de ses employés ou dans un autre régime de retraite établi ou régi par la loi;
+4°	le capital accumulé pour le service d’une rente ou dans un instrument d’épargne-retraite s’il y a eu aliénation du capital ou si celui-ci est sous la maîtrise d’un tiers et obéit aux autres prescriptions de la loi.
+Néanmoins, les biens visés au deuxième alinéa peuvent être saisis jusqu’à concurrence de 50% pour exécuter le partage du patrimoine familial, une créance alimentaire ou une prestation compensatoire. Cette règle prévaut sur toute disposition contraire d’une autre loi.
+(Art. 697 C.p.c.) : Les oeuvres d’art et les autres biens culturels ou historiques provenant de l’extérieur du Québec qui sont exposés publiquement au Québec ou destinés à y être exposés sont insaisissables s’ils sont déclarés tels par décret du gouvernement, pour la période qui y est indiquée. Ce décret entre en vigueur dès sa publication à la Gazette officielle du Québec.
+L’insaisissabilité de ces biens n’empêche pas l’exécution de jugements rendus si ces biens ont été, à l’origine, conçus, produits ou réalisés au Québec ou encore pour donner effet à un contrat de service relatif à leur transport, leur entreposage et leur exposition.
+(Art. 698 C.p.c.) : Les revenus du débiteur sont saisissables pour la seule portion déterminée selon la formule (A - B) × C.
+La lettre A correspond aux revenus du débiteur, qui sont composés :
+1°	des prestations en argent, en nature ou en services, consenties en contrepartie des services rendus en vertu de l’exercice d’une charge, d’un contrat de travail, de service, d’entreprise ou de mandat;
+2°	des sommes d’argent qui lui sont versées à titre de prestation de retraite, de rente, d’indemnité de remplacement du revenu et d’aliments accordés en justice, ces sommes étant cependant insaisissables entre les mains de celui qui les verse;
+3°	des sommes versées à titre de prestation d’aide sociale, de prestation d’objectif emploi ou d’allocation de solidarité sociale. Toutefois, demeurent insaisissables entre les mains de celui qui les reçoit, les montants reçus en vertu de la Loi sur l’aide aux personnes et aux familles (chapitre A-13.1.1) que cette loi déclare comme tels.
+Ne sont cependant pas inclus dans les revenus du débiteur :
+1°	les aliments donnés ou légués sous condition d’insaisissabilité, sauf pour la portion déterminée par le tribunal;
+2°	les aliments accordés en justice lorsqu’ils sont destinés à subvenir aux besoins d’un enfant mineur;
+3°	les contributions de l’employeur à une caisse de retraite, d’assurance, ou de sécurité sociale;
+4°	la valeur de la nourriture et du logement fournis ou payés par l’employeur à l’occasion de déplacements effectués au cours de l’exécution des fonctions.
+La lettre B correspond au total des exemptions auxquelles le débiteur a droit pour sa subsistance et celle des personnes à sa charge. Ces exemptions sont établies sur la base du montant octroyé mensuellement à titre d’allocation de solidarité sociale pour une personne seule en vertu de la Loi sur l’aide aux personnes et aux familles, lequel montant est annualisé puis calculé sur une base hebdomadaire par le ministre de la Justice et correspond à 262,62 $. Ces exemptions équivalent à 125% de ce montant pour le débiteur, soit 328,27 $, à 50% de ce montant pour la première personne à sa charge, soit 131,31 $ et à 25% de ce montant pour toute autre personne à sa charge, soit 65,65 $, ces montants étant mis à jour par le ministre au 1er avril de chaque année.
+La lettre C correspond à un taux de saisie de 30%; cependant, ce taux est de 50% pour l’exécution du partage du patrimoine familial, pour le paiement d’une dette alimentaire ou d’une prestation compensatoire.
+(Art. 699 C.p.c.) : Le débiteur qui tire ses revenus de son travail à titre de travailleur autonome ou qui les reçoit d’un employeur ne résidant pas au Québec doit, pour obtenir le bénéfice d’insaisissabilité d’une portion de son revenu, convenir avec l’huissier d’une entente pour échelonner ses paiements sur une période qu’ils déterminent, pouvant excéder le délai d’un an prévu à l’article 663, ou se prévaloir du dépôt volontaire auprès du greffier. Le débiteur profite de ce bénéfice tant qu’il respecte les engagements pris. Il peut, pour établir son revenu, soustraire les dépenses engagées pour le gagner.
+(Art. 700 C.p.c.) : L’immeuble servant de résidence principale au débiteur peut être saisi pour exécuter une créance alimentaire ou pour exécuter une autre créance d’au moins 20 000 $ excluant, le cas échéant, les frais de justice.
+Il peut également l’être pour l’exécution d’une créance garantie par une priorité ou une hypothèque, et ce, quel que soit le montant mais, s’agissant d’une hypothèque légale résultant d’un jugement, ce montant doit être d’au moins 20 000 $, autrement l’inscription de cette hypothèque ne vaut qu’à titre conservatoire.
+Le seuil de 20 000 $ n’est pas applicable lorsque la créance résulte d’une priorité ou d’une hypothèque, excepté l’hypothèque légale résultant du jugement, qui elle pour sa part ne sera alors si inférieure à 20 000 $ qu’une mesure de conservation. 
+(Art. 701 C.p.c.) : Une décision de l’huissier prise en application des règles du bénéfice d’insaisissabilité peut, sur demande, être révisée par le tribunal.
+Section 4 : La saisie des biens (Arts. 702-704 C.p.c.) 
+Le créancier d’un jugement peut exercer en même temps les différents moyens d’exécution que la loi lui accorde (Art. 702, al.1 C.p.c.). 
+Il peut faire saisir les biens meubles du débiteur qui sont en la possession de ce dernier ou ceux que lui-même ou un tiers détient. Il peut aussi faire saisir les immeubles que le débiteur possède (Art. 702, al.2 C.p.c.) et ce en même temps que les biens meubles. 
+La saisie a pour effet de mettre sous-main de justice les biens appartenant au débiteur jusqu’à ce qu’ils soient vendus (Art. 702, al.3 C.p.c.)
+Biens meubles : saisis au lieu où ils se trouvent (Art. 703, al.1 C.p.c.)
+Sommes d’argent ou revenus : notification de l’avis d’exécution à celui qui doit les revenus et c’est ce qu’on appelle la saisie en mains tierces (Art. 703, al.1 C.p.c.)
+Art. 704, al.1 C.p.c. : Toute saisie de biens meubles aura lieu par la signification au débiteur et au tiers-saisi de l’avis d’exécution entre 7h et 21h sauf les jours fériés (art. 82, al.1 C.p.c.et art. 61(23) Loi d’interprétation). 
+La saisie pourra être réalisée à d’autres heure également et même un jour férié, mais elle est soumise à la permission du greffier (Art. 704, al.1 C.p.c.). 
+La saisie exécution des biens meubles et immeubles (Arts. 705-710 C.p.c.) 
+Tout procès-verbal de saisi devra être préparé par l’huissier constatant la saisie et mentionne (Art. 707, al.1 C.p.c.) :
+la présence ou l’Absence du débiteur lors de la saisie 
+l’énoncé du titre en vertu duquel la saisie est pratiquée;
+a date de l’avis d’exécution et le nom du créancier saisissant;
+la date, l’heure et la nature de la saisie;
+la description des biens saisis;
+le nom du gardien et, le cas échéant, un renvoi à l’autorisation donnée par le tribunal.
+Mobilière : contient également la liste et la valeur marchande des meubles laissés au débiteur, lorsque la valeur des biens saisis ne suffit pas pour payer la créance du créancier saisissant (al.2)
+(al.3) : Le procès-verbal est notifié au débiteur et au créancier saisissant, ainsi qu’aux créanciers ayant des droits sur les biens saisis et au tiers nommé gardien.
+Le débiteur peut à tout moment se libérer (Art. 710 C.p.c.) :
+À tout moment avant la vente des biens saisis, le débiteur peut obtenir mainlevée de la saisie en payant le montant de la condamnation, incluant les frais d’exécution. Il peut aussi, lorsque la saisie de certains biens lui cause un préjudice et si l’huissier l’autorise, remplacer les biens saisis, à moins qu’ils ne soient grevés d’une hypothèque, par d’autres biens dont la vente permettra l’exécution entière du jugement.
+Si le débiteur a obtenu mainlevée d’une saisie avant la vente des biens, l’huissier l’atteste à la demande de tout intéressé et dépose un avis de mainlevée au greffe du tribunal dans tous les dossiers concernés.
+Biens meubles particuliers 
+Soit les meubles d’une entreprise, de véhicules routiers, d’autres meubles qui peuvent faire l’objet d’une hypothèque selon le règlement pris en application de l’article 2683 du Code civil ou d’un ensemble de ces meubles, l’huissier vérifie au registre des droits personnels et réels mobiliers si des droits ont été consentis sur de tels biens (Art. 708 C.p.c.). 
+Immeuble
+Se pratique par l’inscription au registre (Art. 705, al.1 C.p.c.) :
+Procès-verbal de saisie
+Accompagné de l’avis d’exécution
+La preuve de leur signification au débiteur.
+Art. 709 C.p.c. : 
+Le débiteur dispose d’un délai de deux mois à compter de la saisie pour procéder lui-même à la vente de gré à gré d’un immeuble saisi, à moins que ce bien ne soit grevé d’une hypothèque. S’il renonce à ce droit ou ne l’exerce pas dans le délai prévu, l’huissier peut procéder à la vente du bien saisi.
+La vente par le débiteur est subordonnée à l’approbation de l’huissier qui estime si cette vente est faite à un prix commercialement raisonnable. Si tel est le cas, l’huissier notifie un avis de vente au créancier saisissant, aux créanciers ayant des droits sur le bien saisi et au tiers-saisi, lesquels ont 10 jours pour s’opposer à la vente.
+En l’absence d’opposition, la vente peut être conclue à l’expiration de ce délai et le prix doit alors être consigné entre les mains de l’huissier.
+La saisie en mains tierces (Arts. 711-721 C.p.c.)
+(Art. 711 C.p.c.) : L’avis d’exécution signifié au tiers-saisi lui enjoint de déclarer à l’huissier, dans un délai de 10 jours, le montant, la cause et les modalités de toute dette qu’il a ou qu’il pourrait avoir envers le débiteur au moment de sa déclaration. Le tiers-saisi doit aussi fournir avec sa déclaration un état détaillé des biens du débiteur qu’il a en sa possession et indiquer en vertu de quel titre il les détient. Il doit également dénoncer les saisies pratiquées entre ses mains.
+L’huissier dépose la déclaration du tiers-saisi au greffe et la notifie au créancier saisissant et au débiteur, lesquels peuvent, dans les 10 jours de la déclaration, la contester. Si l’exécution concerne plusieurs jugements ou si plus d’un créancier s’y est joint, l’huissier dépose la déclaration dans chacun des dossiers concernés.
+Le gardien et son rôle 
+(Art. 712, al.1 C.p.c.) : La saisie constitue le tiers-saisi gardien des biens
+(Art. 712, al.2 C.p.c.) : Il est tenu, comme tiers-saisi, de remettre les biens du débiteur qu’il détient à l’huissier si celui-ci les demande ou si un greffier le lui ordonne. Il est aussi tenu de lui fournir, sur demande, tous les documents pertinents relatifs à la dette qu’il a envers le débiteur. De plus, à la demande expresse du créancier saisissant ou de l’huissier, il est tenu de se prêter à un interrogatoire pour compléter sa déclaration comme s’il s’agissait d’un interrogatoire après jugement.
+La saisie des revenus
+(Art. 713 C.p.c.) : Lorsque la saisie porte sur des revenus du débiteur, le tiers-saisi est tenu de remettre, dans les 10 jours de la signification de l’avis d’exécution, la partie saisissable de ce qu’il doit au débiteur à l’huissier.
+Lorsque le débiteur a des sources de revenus multiples, l’huissier, après avoir établi la partie saisissable des revenus du débiteur, détermine la part que chacun des tiers-saisis doit retenir et remettre. Lorsque les sources de revenus du débiteur sont difficilement identifiables ou qu’elles ne sont pas récurrentes, l’huissier détermine, sous réserve d’une entente de paiement échelonné, le montant que doit lui verser le débiteur.
+Si le tiers-saisi modifie substantiellement ou rompt le lien contractuel avec le débiteur, il est tenu de le déclarer sans délai à l’huissier. En cas de litige entre lui et le débiteur, il lui incombe, sous peine de dommages-intérêts, de prouver que cette mesure n’a pas été prise pour cette raison.
+La saisie reste tenante aussi longtemps que le débiteur conserve ses sources de revenus et que n’ont pas été acquittées toutes les réclamations produites par ses créanciers.
+Al.1 : la portion saisissable calculé avec l’aide de l’art. 698 C.p.c.
+Le défaut du tiers saisi
+(Art. 717 C.p.c.) : Le tiers-saisi qui est en défaut, faute de déclarer, de retenir ou de déposer une somme d’argent, ou qui fait une déclaration qui s’avère fausse peut être condamné au paiement de la somme due au créancier saisissant comme s’il était lui-même débiteur.
+Néanmoins, le tiers-saisi peut en tout temps, même après jugement, obtenir l’autorisation de déclarer ou de déposer en payant les sommes qu’il aurait dû retenir et déposer depuis la notification de l’avis d’exécution; il est alors tenu des frais occasionnés par son défaut.
+Les règles particulières en matière d’aliments (Art. 719-721 C.p.c.) 
+Vrai/Faux
+Les biens saisis en mains tierces doivent être remis physiquement à l’huissier qui en deviendra le gardien.
+Faux, le tiers–saisi devient légalement le gardien des biens en vertu de l’art. 712, al. 1 C.p.c. Il ne peut donc pas s’en dessaisir.
+Les règles particulières à certaines saisies (Arts. 722-730 C.p.c.) 
+La saisir sur la personne du débiteur 
+(Art. 722 C.p.c.) :
+L’huissier qui est convaincu que le débiteur a sur lui des biens de valeur peut être autorisé par le tribunal à procéder à la saisie de biens sur la personne du débiteur et au besoin à solliciter l’assistance d’un agent de la paix. La demande d’autorisation n’a pas à être notifiée au débiteur.
+La saisie ainsi autorisée est précédée d’une demande de l’huissier enjoignant au saisi de lui remettre les biens. En cas de refus, l’huissier peut procéder à une fouille sur le débiteur avec, au besoin, l’assistance d’un agent de la paix. Il procède à la fouille et à la saisie de manière à limiter l’atteinte aux droits et libertés du saisi.
+La saisie de valeurs mobilières ou de titres intermédiés sur les actifs financiers (Arts. 723-726 C.p.c.) 
+Valeurs mobilières représentées par des certificats
+(Art. 723 C.p.c.) : La saisie de valeurs mobilières représentées par des certificats s’opère par la saisie de ces certificats, pratiquée par la signification de l’avis d’exécution à la personne qui les détient et à l’émetteur ou à son agent des transferts au Québec. Si des certificats qui devaient être émis ne l’ont pas été, la saisie est faite entre les mains de l’émetteur qui est alors tenu de délivrer le certificat au nom du débiteur et de les remettre à l’huissier.
+La saisie de valeurs mobilières sans certificat ou de titres intermédiés sur des actifs financiers est pratiquée par la signification de l’avis d’exécution à l’émetteur ou, selon le cas, à l’intermédiaire en valeurs mobilières qui tient le compte de titres du débiteur.
+(Art. 726 C.p.c.) :
+Dans le cas d’une saisie de valeurs mobilières représentées par des certificats, l’émetteur doit déclarer à l’huissier le nombre de valeurs détenues par le débiteur, la proportion dans laquelle les valeurs sont libérées ainsi que les intérêts, dividendes ou autres distributions déclarés, mais non payés.
+Valeurs mobilières, avec ou sans certificat, ou de titres intermédiés sur des actifs financiers
+(Art. 724 C.p.c.) :
+La saisie de valeurs mobilières, avec ou sans certificat, ou de titres intermédiés sur des actifs financiers peut également être pratiquée par la signification de l’avis d’exécution au créancier titulaire d’une sûreté grevant les valeurs ou les titres dans les cas suivants :
+1°	les certificats constatant l’existence des valeurs mobilières sont en possession du créancier;
+2°	les valeurs mobilières sans certificat sont inscrites au nom du créancier dans les registres de l’émetteur;
+3°	les titres intermédiés sur les actifs financiers sont portés au nom du créancier dans un compte de titres tenu par l’intermédiaire en valeurs mobilières pour le débiteur.
+La saisie de supports technologiques (Arts. 727 et 728 C.p.c.) 
+(Art. 727 C.p.c.) : Lors de la saisie d’un support technologique, l’huissier est tenu d’aviser le débiteur ou le tiers-saisi de leur droit de transférer, du support saisi à un autre, les documents dont ils veulent assurer la conservation.
+Si la garde est confiée à un tiers, le débiteur ou le tiers-saisi est tenu, s’il veut exercer ce droit, d’aviser l’huissier de son intention dans les 15 jours de la saisie.
+Les frais du transfert sont à la charge du débiteur ou du tiers-saisi.
+(Art.728 C.p.c.) : S’il n’y a pas d’opposition à la saisie ou si l’opposition a été rejetée, l’huissier, avant la vente, détruit tous les documents se trouvant sur le support technologique et en fait état dans un procès-verbal.
+Si l’huissier l’estime nécessaire, il peut se faire assister d’un spécialiste. Il doit, si des documents sont couverts par le secret professionnel du débiteur ou du tiers-saisi, être assisté, lors de la destruction, d’un représentant désigné par l’ordre professionnel du débiteur ou du tiers-saisi.
+La saisie des biens en coffre-fort (Art. 729 C.p.c.) 
+(Art. 729 C.p.c.) : La saisie de biens en coffre-fort est pratiquée par l’ouverture du coffre-fort et le procès-verbal qui en est fait par l’huissier. Le procès-verbal mentionne les personnes présentes à l’ouverture, le contenu du coffre-fort et les biens saisis; il est notifié au créancier et au débiteur, ainsi qu’au locateur le cas échéant, à titre de gardien.
+Lorsque l’huissier ne peut obtenir la collaboration du débiteur pour ouvrir le coffre-fort, le tribunal peut, sur demande, autoriser l’ouverture selon les modalités qu’il détermine. Cette demande est notifiée au débiteur ainsi que, le cas échéant, au locateur et aux autres locataires du coffre-fort; la notification interdit au locateur de donner accès au coffre-fort en l’absence de l’huissier.
+La saisie de véhicules routiers immatriculés (Art. 730 C.p.c.) 
+(Art. 730 C.p.c.) : La saisie d’un véhicule routier immatriculé peut être pratiquée par la notification de l’avis d’exécution à la Société de l’assurance automobile du Québec. L’avis contient le numéro de la plaque d’immatriculation du véhicule saisi, le numéro d’identification, le modèle et l’année de celui-ci.
+À compter de la notification de l’avis, aucun transfert d’immatriculation ne peut être effectué à moins que la Société ne soit informée par l’huissier qu’une mainlevée a été accordée.
+La garde des biens saisis (Arts. 731-734 C.p.c.) 
+Contrairement à la garde avant jugement où la garde du bien est donnée à quelqu’un d’autre que le débiteur, en matière de saisie exécution, l’Art. 731,al.1 et 2 C.p.c. prévoit que la garde est confiée au débiteur qui est tenu de l’accepter. La garde ne pourra ainsi n’être accordée à un gardien autre que le débiteur qu’avec l’autorisation du tribunal. 
+Doit être une personne solvable et pas en conflit d’intérêt (Art. 731, al.2 C.p.c.) 
+(Art. 731, al. 3 et 4 C.p.c.) : Le créancier saisissant, son avocat et le conjoint de ceux-ci ainsi que leurs parents ou alliés jusqu’au quatrième degré sont inhabiles à servir comme gardien, sauf dans le cas où l’un d’eux détient déjà le bien et consent à la saisie.
+Le gardien du bien saisi est tenu de dénoncer à l’huissier toute situation susceptible d’en emporter la perte.
+En matière immobilière
+(Art. 732 C.p.c.) : L’huissier peut, lorsque la saisie porte sur un immeuble, demander au tribunal de nommer un séquestre.
+Le séquestre ainsi nommé répond de son administration à l’huissier; il perçoit, après avoir donné avis aux intéressés, les fruits et les revenus de l’immeuble, lesquels, déduction faite des dépenses, sont immobilisés pour être distribués de la même manière que le prix de vente.
+Pouvoir du gardien 
+(Art. 733 C.p.c.):
+Le gardien des biens saisis peut, avec l’accord de l’huissier, les déplacer. Il est tenu, sur demande de ce dernier, de lui représenter les biens; il a alors droit à une décharge ou à une quittance des biens qu’il remet.
+Si le gardien enlève les biens sans l’accord de l’huissier, fait défaut de les représenter, les détériore ou fait défaut de dénoncer une situation qui entraîne leur perte, il est tenu de réparer le préjudice qui en résulte et il est en outre passible d’outrage au tribunal.
+Pouvoir de l’huissier 
+(Art. 734 C.p.c.) : L’huissier peut, à moins qu’il ne s’agisse du débiteur, remplacer le gardien devenu insolvable ou qui demande sa décharge pour toute cause jugée suffisante.
+Avant de les confier au remplaçant, il dresse un constat de l’état des biens.
+L’opposition à la saisie et à la vente (Arts. 735-741 et 761 C.p.c.) 
+(Art. 735 C.p.c.) : Une personne peut s’opposer à la saisie ou à la vente projetée d’un bien et demander l’annulation de la procédure de saisie ou de vente, pour le tout ou pour partie si :
+1°	les biens saisis sont insaisissables;
+2°	la dette est éteinte;
+3°	le prix de vente proposé n’est pas commercialement raisonnable = art. 761C.p.c.
+4°	la procédure est entachée d’une irrégularité d’où résulte un préjudice sérieux, sauf le pouvoir du tribunal d’autoriser l’huissier ou le créancier saisissant à y remédier;
+5°	un droit de revendication peut être exercé sur le bien saisi ou partie de celui-ci.
+Les créanciers du débiteur ne peuvent s’opposer qu’à la vente projetée si le prix proposé n’est pas commercialement raisonnable ou si elle est susceptible d’être entachée d’irrégularités graves.
+Le tiers en faveur de qui existe une charge grevant le bien peut également s’opposer à la vente lorsque celle-ci est annoncée sans mention de cette charge et qu’elle sera purgée par la vente.
+De plus, toute personne dont les intérêts sont lésés par l’imposition de quelque charge annoncée comme grevant le bien saisi peut s’opposer à ce que celui-ci soit vendu sujet à cette charge, à moins qu’une sûreté suffisante ne lui soit donnée que la vente sera faite à un prix qui lui assurera le paiement de sa créance.
+(Art. 736 C.p.c.) : L’opposition est signifiée à l’huissier, au débiteur, au créancier saisissant et au tiers-saisi et notifiée aux autres créanciers et aux personnes dont les droits sur le bien sont inscrits au registre foncier ou au registre des droits personnels et réels mobiliers dans les 15 jours de la notification du procès-verbal de la saisie, de l’avis de vente ou de la saisie en mains tierces.
+Les effets de l’opposition (Arts. 737- 741 C.p.c.) 
+(Art. 737 C.p.c.): La notification de l’opposition opère sursis de l’exécution.
+Cependant, si l’opposition ne tend qu’à faire réduire le montant réclamé ou à faire distraire une partie des biens saisis, elle ne suspend pas l’exécution; l’huissier la poursuit pour satisfaire à la partie non contestée de la réclamation ou pour réaliser les biens qui ne font pas l’objet de l’opposition, à moins que le tribunal ne lui ordonne de surseoir.
+L’opposition tardive, notifiée avant la vente, ne peut arrêter cette dernière, à moins que le tribunal ne l’ordonne si l’opposant démontre une cause suffisante.
+(Art. 738 C.p.c.) : Lorsque la saisie porte sur des revenus, l’opposition ne suspend que la distribution des sommes saisies. Néanmoins, si l’exécution concerne un jugement qui accorde des aliments, la distribution des revenus déjà saisis n’est pas suspendue, à moins que, pour des motifs exceptionnels, le tribunal ne l’ordonne. 
+Section 5 : La vente sous contrôle de justice (Arts. 742-746 C.p.c.) 
+Dans le cadre de l’exécution des jugements, il devient parfois nécessaire de procéder à la vente sous contrôle de justice des biens saisis.
+(Art. 742 C.p.c.) : La vente sous contrôle de justice a lieu qu’il s’agisse de vendre les biens qui ont été saisis en exécution d’un jugement ou les biens dont le délaissement est fait ou ordonné dans le cours de l’exercice de droits hypothécaires.
+Dans le premier cas, la vente est sous la responsabilité de l’huissier et est soumise aux règles du présent titre. Dans le second cas, elle est sous la responsabilité de la personne désignée conformément à l’article 2791 du Code civil et soumise aux règles prévues à ce code et, en faisant les adaptations nécessaires, aux règles du présent titre.
+Devoirs de l’huissier
+(Art. 743 C.p.c.): L’huissier qui a la charge de la vente est responsable de la conduite des opérations. Il est tenu de dénoncer sa qualité aux intéressés et, lors de la vente, à l’acquéreur.
+L’huissier se doit également d’informer de ses démarches le créancier et le débiteur ou toute autre personne intéressée qui lui en fait la demande et de tenir un dossier suffisamment complet de l’affaire pour permettre de rendre compte au tribunal et aux intéressés.
+Il peut, s’il l’estime nécessaire, s’adresser au tribunal pour obtenir toute instruction ou toute ordonnance propre à faciliter l’exécution de sa charge et à assurer la vente la plus avantageuse. 
+(Art. 744 C.p.c.) : L’huissier a le choix, suivant la nature du bien, de procéder à la vente de gré à gré, par appel d’offres ou aux enchères; il en fixe les conditions.
+La vente des biens doit se faire dans l’intérêt du débiteur et des créanciers, à un prix commercialement raisonnable (art. 761C.p.c.) et selon le mode de réalisation le plus adéquat dans les circonstances.
+(Art. 745 C.p.c.) : L’huissier peut vendre, sans délai ni formalités, les biens meubles susceptibles de dépérir ou de se déprécier rapidement ou dispendieux à conserver.
+(Art. 746 C.p.c.) : Lorsque plusieurs biens sont saisis, la vente ne porte que sur ce qui est nécessaire pour le paiement des créances, en principal, intérêts et frais, à moins que le débiteur ne consente par écrit à la vente de tous ses biens saisis. Le débiteur a le droit, sauf quant aux droits conférés par la loi aux créanciers hypothécaires, de prescrire l’ordre dans lequel les biens saisis seront vendus.
+Le mode de réalisation de la vente sous contrôle de justice (Arts. 747-756 C.p.c.) 
+(Art. 747 C.p.c.) : L’huissier peut fixer une mise à prix pour un bien offert en vente. Il peut, si la nature ou la valeur des biens le justifie, obtenir une évaluation auprès d’un expert.
+(Art. 748 C.p.c.) : Que la vente ait lieu de gré à gré, par un appel d’offres ou aux enchères, elle est précédée par la publication d’un avis indiquant la nature du bien, le mode de vente choisi, les modalités, les charges et les conditions de la vente. Cet avis est publié dans le registre des ventes tenu par le ministre de la Justice, de même qu’au registre foncier, s’il y a lieu.
+L’huissier peut aussi, à la demande du débiteur ou d’un créancier, aux frais de celui qui en fait la demande, faire toute publicité complémentaire afin d’obtenir une meilleure réalisation des biens.
+Le ministre peut, par règlement, établir des normes portant sur la présentation, la forme et le contenu des avis, le support et la tenue du registre des ventes, les modalités de consultation, le support et la durée de conservation des avis ainsi que les autres règles nécessaires à la mise en oeuvre et au fonctionnement de ce registre, y compris les tarifs applicables.
+(Art. 749 C.p.c.) : Le délai de publication de l’avis de vente est de 30 jours avant la date fixée pour la vente du bien.
+L’huissier notifie sans délai l’avis au débiteur, aux tiers-saisis, ainsi qu’aux créanciers qui l’ont avisé de leur réclamation ou qui ont publié leur droit sur le bien saisi au registre des droits personnels et réels mobiliers ou au registre foncier et qui ont requis l’inscription de leur adresse à l’égard de ce bien.
+Si la vente n’a pas lieu, l’huissier en fait mention au registre des ventes et, s’il y a lieu, avise l’officier de la publicité foncière pour qu’il procède à la radiation de l’avis.
+(Art. 750 C.p.c.) : L’huissier peut prendre en considération les observations que le débiteur, un créancier ou un tiers qui fait valoir un intérêt sur le bien peut lui faire sur le mode de vente choisi et ses modalités ou sur la mise à prix.
+Celui qui n’est pas satisfait de la réponse de l’huissier peut, dans les 10 jours avant la vente des biens, s’adresser au tribunal. La réalisation de la vente n’est toutefois suspendue que si le tribunal ordonne d’y surseoir.
+(Art. 753 C.p.c.) : L’huissier qui procède à la vente par appel d’offres a le choix d’agir sur invitation ou par un appel public. L’appel contient tous les renseignements nécessaires pour permettre la présentation d’une soumission en temps utile.
+L’huissier est tenu d’accepter la meilleure offre, à moins que les conditions dont elle est assortie ne la rendent moins avantageuse qu’une autre offrant un prix moins élevé ou que le prix offert ne soit pas commercialement raisonnable.
+(Art.754 C.p.c.) : L’huissier qui procède selon le mode de vente aux enchères indique dans l’avis de vente la nature du bien, la mise à prix s’il y a lieu, ainsi que les autres renseignements suffisants pour permettre la présentation d’offres. Il y indique également son nom et ses coordonnées, de même que, le cas échéant, le nom et les coordonnées de l’encanteur qu’il choisit.
+Dans les cas où les enchères peuvent s’effectuer par l’utilisation des technologies de l’information, l’avis précise le mode et la période de réception des offres et le moment de la clôture.
+Lors de la vente, l’huissier ou, le cas échéant, l’encanteur peut, dans l’intérêt des créanciers ou du débiteur, refuser toute offre, retirer le bien pour le remettre à l’enchère avec ou sans mise à prix ou mettre fin à la vente.
+(Art. 755 C.p.c.) : L’huissier est soumis aux conditions et aux restrictions qui régissent le transfert des valeurs mobilières ou l’obtention des titres intermédiés sur des actifs financiers prévues à l’acte constitutif de l’émetteur, à ses règlements ou à l’acte régissant le compte de titres tenu par l’intermédiaire en valeurs mobilières; de même, il est soumis aux conditions et restrictions prévues par une convention à laquelle le débiteur est partie. L’huissier peut demander au tribunal une ordonnance afin d’autoriser la vente si ces conditions et restrictions ont pour effet d’en diminuer de façon notable la valeur; le cas échéant, le tribunal fixe les conditions applicables.
+Celui qui les acquiert est assujetti aux conditions et restrictions prévues à l’acte constitutif de la personne morale, à ses règlements et aux conventions unanimes des membres. L’acquéreur devra être informé des restrictions liées aux actions qu’il acquiert.
+(Art. 756 C.p.c.): Si des biens ne peuvent être vendus, l’huissier les remet à leur propriétaire; il peut, si ce dernier les refuse, les donner à un organisme de bienfaisance ou s’ils ne peuvent l’être, en disposer à son gré.
+Les effets de la vente sous contrôle de justice (Arts. 757-761 C.p.c.) 
+(Art. 757 C.p.c.) : Dès que la vente est effectuée, l’huissier publie un avis au registre des ventes et y indique le prix et les conditions de la vente. L’avis est également déposé au greffe.
+(Art. 758 C.p.c.) : Si l’acquéreur refuse de passer l’acte de vente, de payer le prix du bien ou d’en prendre possession, l’huissier peut, à l’expiration des 10 jours qui suivent la vente, obtenir du tribunal une ordonnance pour valoir acte de vente, pour forcer la mise en possession, l’expulsion de l’immeuble ou l’enlèvement du meuble.
+(Art. 759 C.p.c.) : La vente purge tous les droits réels non compris dans ses conditions. Elle ne purge pas :
+1°	les servitudes;
+2°	le droit d’emphytéose, les droits nécessaires à l’exercice de la propriété superficiaire et les substitutions non ouvertes, sauf dans le cas où il apparaît au dossier du tribunal qu’il existe une créance antérieure ou préférable;
+3°	la charge administrative qui grève un immeuble d’habitation à loyer modique.
+Elle ne met pas fin aux baux en cours qui ont été inscrits au registre des droits personnels et réels mobiliers ou au registre foncier.
+De plus, elle ne porte pas atteinte à l’hypothèque légale qui garantit les droits des personnes morales de droit public pour les versements non échus de taxes municipales ou scolaires spéciales et dont le paiement est échelonné sur plusieurs années; ces versements ne deviennent pas exigibles par la vente de l’immeuble et ne sont pas portés à l’état de collocation, mais restent payables suivant les termes de leur imposition.
+(Art. 760 C.p.c.) : La vente peut être annulée à la demande de l’acheteur s’il est exposé à l’éviction en raison de quelque droit réel non purgé par la vente. Elle peut l’être également si le bien est tellement différent de la description donnée dans l’avis de vente ou le procès-verbal de saisie qu’il est à présumer que l’acheteur ne l’eût pas acheté s’il en eût connu la véritable description. Elle peut aussi être annulée à la demande du débiteur ou d’un créancier si le bien est vendu à un prix manifestement déraisonnable compte tenu du marché ou si la vente est entachée d’irrégularités graves qui ne pouvaient, avec toute la diligence raisonnable, être soulevées préalablement à la vente.
+La demande en nullité de la vente est notifiée dans les 20 jours s’il s’agit d’un bien meuble, ou dans les 60 jours s’il s’agit d’un bien immeuble, à compter de la vente. Ces délais sont de rigueur. À l’expiration de ces délais, le greffier peut, sur demande, délivrer un certificat attestant qu’aucune demande en nullité de la vente n’a été déposée.
+Qu’est-ce qu’un bien vendu à un prix commercialement raisonnable ?
+(Art. 761 C.p.c.) : La vente d’un bien est considérée faite à un prix commercialement raisonnable si elle est faite à un prix qui est autant que possible celui de la valeur marchande du bien, au vu des circonstances particulières de la vente.
+S’il s’agit d’un immeuble, ce prix ne peut en aucun cas être inférieur à 50% de son évaluation portée au rôle de la municipalité, multipliée par le facteur établi pour ce rôle par le ministre chargé des affaires municipales aux termes de la Loi sur la fiscalité municipale (chapitre F-2.1), à moins que le tribunal ne soit convaincu que la vente ne peut être faite à un tel prix dans un délai acceptable.
+Section 6 : La distribution du produit de l’exécution (Arts. 762-765 C.p.c.) 
+(Art. 762 C.p.c.) : L’huissier qui a procédé à la vente des biens à la suite d’une autorisation judiciaire ou d’une saisie ou qui a effectué une saisie de sommes d’argent est chargé de la distribution du produit de la vente ou des sommes saisies. De même, l’huissier ou, le cas échéant, le greffier qui perçoit périodiquement des revenus du débiteur est responsable de la distribution de ces sommes entre les créanciers.
+L’huissier peut, s’il l’estime nécessaire, requérir les services d’un avocat ou d’un notaire pour l’assister dans la préparation de l’état de collocation ou encore s’adresser au tribunal pour obtenir toute ordonnance propre à faciliter la distribution du produit de la vente ou des sommes saisies.
+(Art. 763, al.1 C.p.c.) : L’huissier produit le rapport d’exécution au greffe dans les 30 jours de la vente ou de la remise qui lui est faite des sommes d’argent saisies ou encore de la déclaration affirmative du tiers-saisi; il y joint les pièces justificatives, dont les évaluations obtenues au préalable, l’attestation faite par le courtier chargé d’effectuer la vente de valeurs mobilières ou de titres intermédiés cotés et négociés en bourse ou l’état certifié par l’officier de la publicité des droits.
+Le rapport indique (Al.2 C.p.c.) :
+Le nom et les coordonnées du saisi, 
+Le nom et les coordonnées du créancier saisissant
+S’il y a eu saisie en mains tierces ou vente, du tiers-saisi et de l’acquéreur. 
+Le cas échéant, le rapport fait état de la déclaration du tiers-saisi et de l’absence de contestation de cette déclaration
+Les modalités et des conditions de la vente
+Le procès-verbal de saisie et des publications faites
+Fait mention des oppositions reçues
+Précise toute somme obtenue
+Le cas échéant, des procès-verbaux établis dans le cours de l’exécution. 
+Lorsque plusieurs personnes ont droit au produit de la vente ou aux sommes saisies, un état de collocation.
+(Art. 765 C.p.c.) : Le rapport de l’huissier est notifié au débiteur, aux créanciers qui ont droit à la distribution du produit de la vente ou des sommes saisies, aux créanciers dont les droits sont inscrits au registre foncier ou au registre des droits personnels et réels mobiliers, ainsi que, s’agissant d’un immeuble, à la municipalité, au centre de services scolaire et à la commission scolaire sur le territoire desquels est situé l’immeuble.
+L’état de collocation (Arts. 766-771 C.p.c. Arts., 2647, 2650 et 2660 C.c.Q.) 
+(Art. 766 C.p.c.) : L’état de collocation indique le nom et les coordonnées des créanciers, la nature de leur créance, la date du titre et de sa publication, le cas échéant, ainsi que le montant auquel chacun a droit. Il précise quant à chacun d’eux si la réclamation porte sur la totalité du montant à distribuer ou seulement sur le produit de la vente d’un bien en particulier ou d’une partie d’un bien.
+L’état dresse l’ordre de collocation suivant le rang des créanciers comme suit :
+1°	les frais d’exécution, dans l’ordre suivant:
+ — les frais de préparation du rapport de l’huissier;
+ — les frais de vente, ainsi que ceux de la distribution du produit de la vente et des 		sommes saisies;
+ — les frais de saisie, y compris les frais d’interrogatoire après jugement et les frais 		liés au transport et à la garde des biens;
+ — les honoraires et les autres frais d’huissier;
+ — les frais des incidents postérieurs au jugement;
+ — les frais de justice du créancier saisissant, s’il en est;
+2°	les créances prioritaires eu égard aux biens vendus;
+3°	les créances hypothécaires grevant les biens vendus;
+4°	les créances chirographaires.
+Lorsqu’une opposition à la saisie a été faite tardivement et qu’elle a été accueillie après la vente, l’huissier inscrit dans l’état de collocation la créance de celui qui a revendiqué le bien ou de celui qui était titulaire d’un droit réel dans le bien, suivant son rang.
+(Art. 767 C.p.c.) : Dans le cas de créances indéterminées ou non liquidées, l’huissier doit réserver, sur les deniers disponibles, une somme suffisante pour en acquitter le paiement; cette somme est déposée dans un compte en fidéicommis jusqu’à la détermination ou la liquidation, à moins qu’un juge n’en ordonne autrement.
+Dans le cas de créances conditionnelles, le créancier est colloqué suivant son rang, mais le montant de sa créance est payé aux créanciers subséquents dont les créances sont exigibles, pourvu que ceux-ci fournissent, dans le mois qui suit la notification du rapport d’exécution, une sûreté pour garantir la restitution du montant dû lorsque la condition sera réalisée. S’ils font défaut ou s’il n’y a pas de créanciers subséquents, le montant est versé au saisi, à charge pour lui de fournir une sûreté; à son défaut, le montant est versé aux créanciers sous condition, à charge pour eux de fournir une sûreté de restituer si la condition ne se réalise pas ou devient impossible, en payant les intérêts à l’huissier qui les distribue aux créanciers ou en fait remise au débiteur après avoir satisfait les créanciers.
+Dans le cas d’une créance hypothécaire à terme, celle-ci devient exigible dès la vente de l’immeuble hypothéqué et elle est colloquée en conséquence.
+(Art. 768 C.p.c.): Lorsque plusieurs biens ont été vendus à un prix global alors que différentes créances les grevaient séparément ou encore lorsque la réclamation d’un créancier ne porte que sur partie d’un bien, l’huissier fait la ventilation du montant à distribuer s’il est insuffisant et requiert une expertise si l’information au dossier est insuffisante. La ventilation détermine la quote-part attribuable à chaque créancier en établissant la valeur respective des biens ou parties par rapport à la valeur de l’ensemble.
+(Art. 769 C.p.c.) : L’huissier peut, de sa propre initiative ou à la demande d’un intéressé, réviser l’état de collocation s’il y constate une erreur, auquel cas il est tenu de le notifier à nouveau et de le déposer au greffe.
+(Art. 770 C.p.c.) : Tout intéressé peut, dans un délai de 10 jours après la notification du rapport d’exécution ou de l’état de collocation révisé, contester l’état et demander au tribunal de déterminer à qui doivent être distribués le produit de la vente et les sommes saisies.
+Sa demande est notifiée à l’huissier et à tous ceux qui ont reçu le rapport. Dès la notification, l’huissier arrête la procédure de distribution soit pour la totalité, soit seulement pour la créance contestée et celles qui lui sont postérieures.
+(Art. 771 C.p.c.): En l’absence de contestation ou dès le jugement la rejetant, l’huissier distribue sans délai le produit de la vente et les sommes saisies, comme il est prévu dans son rapport.
+La distribution des revenus saisis (Arts. 772-777 C.p.c.) 
+(Art. 772 C.p.c.) : Lorsqu’il y a lieu de distribuer aux créanciers des revenus saisis ou perçus périodiquement, l’huissier ou, le cas échéant, le greffier le fait au moins trimestriellement, mais, dans le cas d’un créancier alimentaire, au moins mensuellement.
+(Art. 776 C.p.c.) : L’huissier ou le greffier procède à la distribution des revenus saisis selon l’ordre de collocation suivant (arts. 2747 et 2751 C.c.Q.):
+1°	les frais d’exécution, incluant les frais d’administration du paiement échelonné et de la distribution des revenus saisis, s’il en est;
+2°	les créances alimentaires, pour la différence entre la partie des revenus saisis en raison de la nature particulière de la créance et la partie des revenus normalement saisissables, en proportion du montant de ces créances;
+3°	les créances prioritaires;
+4°	les créances hypothécaires;
+5°	les créances chirographaires.
+Dans tous les cas, l’huissier ou le greffier verse au créancier alimentaire, sur la partie normalement saisissable des revenus, le montant nécessaire pour que le total des sommes qui sont distribuées à ce créancier soit au moins égal à la moitié des sommes distribuées mensuellement, jusqu’à concurrence des sommes dues pour les aliments.
+Cependant, la réclamation du conjoint fondée sur son contrat de mariage ou d’union civile ne sera payée que lorsque toutes les autres réclamations auront été acquittées.
+Lorsque le montant d’une réclamation a été versé dans sa totalité au créancier, l’huissier ou le greffier notifie un avis de paiement au débiteur et au créancier. Si cet avis ne fait pas l’objet d’une contestation par le créancier dans les 15 jours de sa notification, l’huissier ou le greffier peut, sur demande, donner quittance en attestant sur l’avis du débiteur qu’il n’y a pas eu contestation.
+L’art. 766 C.p.c. quant à la vente d’un bien saisi prévaut. Il faut différencier les deux dispositions. 
+Vrai/Faux
+Les frais de justice sont payés avant les créanciers hypothécaires.
+Vrai, en vertu de l’art. 766 C.p.c., sont d’abord colloqués les frais de justice, incluant les frais d’exécution, puis dans l’ordre, les créanciers prioritaires, hypothécaires et chirographaires.

@@ -1,0 +1,258 @@
+DROIT DU TRAVAIL – LES RAPPORTS COLLECTIFS
+(https://www.legisquebec.gouv.qc.ca/fr/document/lc/C-27) 
+Le Code du travail n’est pas un véritable Code puisque nous n’avons pas un corpus unifié. Un même mot d’une législation à une autre peut varier. **On doit exclure tous les représentants de l’employeur de la définition du mot salarié.**
+Aussi, au Québec, les législations sont différentes, mais nous avons le monopole de la représentation syndicale. C’est-à-dire qu’un seul syndicat peut représenter une Association de salariés. Il peut avoir plusieurs syndicats au sein d’une entreprise, mais ils auront chacun leur propre groupe. 
+Nous avons fait un pacte social dans lequel nous reconnaissons les syndicats dans la mesure où ils sont accrédités, ils s’imposent à l’employeur et l’employeur est tenu négocier avec le syndicat les conditions de travail de ses salariés. 
+En contrepartie, la grève est interdite sauf lorsqu’elle est permise. L’objectif est d’assurer la paix industriel tout au long de la convention collective. 
+Section 1 : La liberté d’association
+La liberté d’association permet aux salariés de participer en groupe à la négociation collective des préoccupations liées au milieu de travail.
+Association de syndicats ou de salariés sont des synonymes. 
+Art. 3 Ct :
+Tout salarié a droit d’appartenir à une association de salariés de son choix et de participer à la formation de cette association, à ses activités et à son administration.
+Donc (1) droit d’appartenir et (2) d’en créer une
+Les prohibitions (arts. 12, 13 et 14 Ct) et les mécanismes de protection (arts. 15Ct)
+Art. 12 Ct :
+Aucun employeur, ni aucune personne agissant pour un employeur ou une association d’employeurs, ne cherchera d’aucune manière à dominer, entraver ou financer la formation ou les activités d’une association de salariés, ni à y participer.
+Aucune association de salariés, ni aucune personne agissant pour le compte d’une telle organisation n’adhérera à une association d’employeurs, ni ne cherchera à dominer, entraver ou financer la formation ou les activités d’une telle association ni à y participer.
+Art.13 Ct : 
+Nul ne doit user d’intimidation ou de menaces pour amener quiconque à devenir membre, à s’abstenir de devenir membre ou à cesser d’être membre d’une association de salariés ou d’employeurs.
+Art. 14 Ct :
+Aucun employeur, ni aucune personne agissant pour un employeur ou une association d’employeurs ne doit refuser d’employer une personne à cause de l’exercice par cette personne d’un droit qui lui résulte du présent code, ni chercher par intimidation, mesures discriminatoires ou de représailles, menace de renvoi ou autre menace, ou par l’imposition d’une sanction ou par quelque autre moyen à contraindre un salarié à s’abstenir ou à cesser d’exercer un droit qui lui résulte du présent code.
+Le présent article n’a pas pour effet d’empêcher un employeur de suspendre, congédier ou déplacer un salarié pour une cause juste et suffisante dont la preuve lui incombe.
+Art. 14.0.1 Ct :
+Toute plainte au Tribunal liée à l’application de l’article 12, de l’article 13 ou, dans le cas du refus d’employer une personne, de l’article 14, doit être déposée dans les 30 jours de la connaissance de la contravention alléguée.
+Outre les pouvoirs qui lui sont autrement dévolus, le Tribunal peut prononcer la dissolution d’une association de salariés, lorsqu’il lui est prouvé que cette association a participé à une contravention à l’article 12. Lorsque cette association est un syndicat professionnel, le Tribunal transmet une copie authentique de sa décision au registraire des entreprises, qui donne avis de la décision à la Gazette officielle du Québec.
+Art. 15 Ct :
+Lorsqu’un employeur ou une personne agissant pour un employeur ou une association d’employeurs congédie, suspend ou déplace un salarié, exerce à son endroit des mesures discriminatoires ou de représailles, ou lui impose toute autre sanction à cause de l’exercice par ce salarié d’un droit qui lui résulte du présent code, le Tribunal peut :
+a) 	ordonner à l’employeur ou à une personne agissant pour un employeur ou une association d’employeurs de réintégrer ce salarié dans son emploi, avec tous ses droits et privilèges, dans les huit jours de la signification de la décision et de lui verser, à titre d’indemnité, l’équivalent du salaire et des autres avantages dont l’a privé le congédiement, la suspension ou le déplacement.
+Cette indemnité est due pour toute la période comprise entre le moment du congédiement, de la suspension ou du déplacement et celui de l’exécution de l’ordonnance ou du défaut du salarié de reprendre son emploi après avoir été dûment rappelé par l’employeur.
+Si le salarié a travaillé ailleurs au cours de la période précitée, le salaire qu’il a ainsi gagné doit être déduit de cette indemnité;
+b) 	ordonner à l’employeur ou à une personne agissant pour un employeur ou une association d’employeurs d’annuler une sanction ou de cesser d’exercer des mesures discriminatoires ou de représailles à l’endroit de ce salarié et de lui verser à titre d’indemnité l’équivalent du salaire et des autres avantages dont l’ont privé la sanction, les mesures discriminatoires ou de représailles.
+Voir l’art. 16 Ct pour le délai de prescription
+Art. 16 Ct : 
+Le salarié qui croit avoir été l’objet d’une sanction ou d’une mesure visée à l’article 15 doit, s’il désire se prévaloir des dispositions de cet article, déposer sa plainte au Tribunal dans les 30 jours de la sanction ou mesure dont il se plaint.
+Contrairement aux arts 122 et 124 Lnt qui sont soumis à un délai de 45 jours, l’art. 15 Ct est soumis à un délai de 30 jours
+Art.17 Ct : 
+S’il est établi à la satisfaction du Tribunal que le salarié exerce un droit qui lui résulte du présent code, il y a présomption simple en sa faveur que la sanction lui a été imposée ou que la mesure a été prise contre lui à cause de l’exercice de ce droit et il incombe à l’employeur de prouver qu’il a pris cette sanction ou mesure à l’égard du salarié pour une autre cause juste et suffisante.
+Doit prouver :
+Qu ’il est un salarié (art. 1 l) Ct)
+Qu’il a exercé un droit résultant du code (art. 15 Ct)
+Qu’il a été = congédie, suspend ou déplace un salarié, exerce à son endroit des mesures discriminatoires ou de représailles, ou lui impose toute autre sanction à cause de l’exercice par ce salarié d’un droit qui lui résulte du présent code (art. 15 Ct)
+Qu’il existe un lapse de temps concomitant entre l’exercice du droit d’une part et la sanction qu’il a subi (art.17 Ct)
+Le délai de 30 jours suivant la sanction ou la mesure pour déposer une plainte a été respecté (art. 16 Ct)
+Si le salarié réussi =Présomption simple en faveur du salarié
+Pour réfuter cette présomption, l’employeur devra prouver  Une autre cause juste et suffisante
+Il devrai prouver que ce n’est pas parce que le salarié formait une association qu’il a été suspendu, mais puisqu’il avait un comportement déficient.
+Si l’employeur réussi à réfuter la présomption = Le tribunal rejette la plainte
+Si l’employeur ne réussit pas à réfuter la présomption puisqu’il ne s’agit que d’un prétexte = Le tribunal accueil la plainte 
+Il pourra exiger la réintégration du salarié et le remboursement du salaire (art. 15 a) Ct) ou à annuler la sanction et à verser une indemnité au salarié (art. 15 b) Ct). 
+Vrai/Faux
+Un salarié congédié parce qu’il a voulu adhérer à un syndicat doit, en vertu du Code du travail, soumettre sa plainte dans les 45 jours du congédiement.
+Le salarié doit plutôt déposer sa plainte dans les 30 jours de la sanction ou de la mesure dont il se plaint (art. 16 C.t.).
+Section 2 : L’accréditation
+L’association de salariés doit être reconnue en tant que seul représentant dans le but de négocier et de faire appliquer une convention collective de travail.
+Les critères de l’accréditation
+L’association devra respecter 3 conditions :
+Déposer une requête en accréditation dans le délai prévu à l’art.22 Ct
+Représenter une unité dite appropriée
+Grouper la majorité des salarié au sein d’une unité
+Déposer une requête en accréditation dans l’un des délais prévu à l’art.22 Ct et à l’art. 72, al.3 Ct
+Art. 22 a) Ct : aucune limite de temps lorsque le groupe de salariée n’est pas représenté par une association accréditée.
+Art. 22 b.1) Ct : association inefficace à conclure une convention collective avec l’employeur ou le droit de grève ou de lock-out n’a pas été permis alors, après un délai de 12 mois de la date d’accréditation, une autre association peut demander l’accréditation. 
+Encore faut-il que l’association désirant prendre la place de l’autre obtienne l’adhésion de la majorité des salariés formant le groupe, ce qui constitue le 3ème critère. 
+Art. 22 c) Ct : association accréditée et a conclu une convention. Le législateur donne un délai de 9 mois pour le renouvellement de la convention. À défaut de quoi, après ces 9 mois, l’accréditation demeure ouverte aux syndicats rivaux. 
+Art. 22 b.2) Ct : découle de l’art. 28 d.1) Ct lorsque l’agent de relations de travail accrédite l’association sur-le-champ alors que l’employeur est en désaccord avec une partie de l’unité de négociation si l’agent constate que l’association jouit du caractère représentatif +estime qu’il conservera ce caractère quelle que soit la décision du tribunal sur la description de l’unité de négociation
+L’employeur ne peut ainsi intervenir qu’en ce qui concerne la description de l’unité d’accréditation et il ne peut pas s’occuper du caractère représentatif. Exemple : Entreprise A compte 25 employés de bureau et 75 de production. Le syndicat voulant s’accréditer relativement aux employés de production qui forme une unité appropriée et obtient la majorité en obtenant l’adhésion de 70 salariés sur 75. Dans un tel cas, l’employeur pourrait être en désaccord avec le fait que ça ne peut pas être uniquement les salariés de productifs mais également ceux de bureau. La Commission devra déterminer l’unité approprié. Peu importe que le compte se fasse sur 75 ou 100 salariés, la majorité est obtenu alors, l’art. 28d.1) Ct permet l’accréditation immédiate du syndicat. Le syndicat ne pourra pas négocier le contenu de la première convention collective puisqu’il ne connait pas l’unité et devra attendre la décision de la Commission. À partir de la décision, le délai de 12 mois pour conclure la convention débute tel que le mentionne l’art. 22b.2) Ct. 
+Période de maraudage inter-syndical (2 possibilités) :
+Pour les conventions collectives de 3 ans ou moins (art. 22d) Ct)
+À partir de la date de l’expiration de la convention collective, on va remonter entre la période du 90ème jours jusqu’au 60ème jours avant l’expiration, et c’est dans cette (1) période qu’un syndicat rival peut déposer une (2) demande en accréditation pour prendre la place du syndicat en place. Encore faut-il que ce syndicat rival ait fait (3) adhérer ou signer la majorité des salariés compris dans l’unité. (4) il doit faire perdre la majorité au syndicat accrédité. 
+Pour les conventions collectives de plus de 3 ans (art. 22 e) Ct)
+Sauf pour la première convention collective ayant une durée maximale de 3 ans, les autres conventions collectives n’ont plus de durée maximale
+À partie de la date de l’expiration de la convention collective, on va remonter entre la période du 180ème jours jusqu’au 150ème jour avant l’expiration OU encore entre cette période suivant le 6ème anniversaire OU le renouvellement de la convention ET chaque 2 ans suivant SAUF si
+Exemple : la convention est de 7 ans. Entre le 150ème jours avant la 6ème année et celle du 180ème avant l’expiration de la convention collective il y a moins de 12 mois qui s’échelonne alors, il n’y aura qu’une seule ouverture possible et ce sera celle avant l’expiration finale de la convention dans la période du 180ème jours jusqu’au 150ème jour. 
+Exemple : la convention est de 11 ans. Il y aura une ouverture dans la période avant le 6ème anniversaire. Ensuite, une autre avant le 8ème anniversaire et finalement une dernière avant l’expiration de la convention collective. 
+Le dernier cas de remise en question quant à l’association accréditée est prévu à l’art. 72,al.3 Ct.
+Art. 72, al.3 Ct :
+Une convention collective ne prend effet qu’à compter du dépôt, auprès du ministre, de deux exemplaires ou copies conformes à l’original, de cette convention collective et de ses annexes. Il en est de même de toute modification qui est apportée par la suite à cette convention collective.
+Ce dépôt a un effet rétroactif à la date prévue dans la convention collective pour son entrée en vigueur ou, à défaut, à la date de la signature de la convention collective.
+À défaut d’un tel dépôt dans les 60 jours de la signature de la convention collective ou de ses modifications, le droit à l’accréditation est dès lors acquis, à l’égard du groupe de salariés pour lesquels cette convention collective ou ces modifications ont été conclues, en faveur de toute autre association, pourvu qu’elle en fasse la demande après l’expiration de ces 60 jours mais avant qu’un tel dépôt ait été fait, et pourvu que l’accréditation lui soit accordée par la suite.
+La partie qui fait ce dépôt doit indiquer le nombre de salariés régis par la convention collective et se conformer aux autres dispositions réglementaires établies à cet effet en vertu de l’article 138.
+Al.3 : dans le cas où une association est négligente et conclu une convention collective avec l’employeur et ne la dépose pas au bureau du ministre dans les 60 jours. À partir de l’expiration du 60 jours, un syndicat rival peut tenter de déposer une requête en accréditation dans la mesure où il respecterait le caractère représentatif. 
+Représenter une unité dite appropriée
+Il faut que ce groupe soit suffisamment homogène et d’intérêts communs pour que l’ensemble des conditions de travail s’applique à ce groupe particulier. Lorsque le syndicat formule sa requête en accréditation, il doit décrire le groupe qu’il veut représenter et le Tribunal va juger s’il s’agit d’une unité appropriée (art. 25, al.2 Ct). Ce que constitue une unité appropriée ne fait pas partie du Ct, mais a été établie dans la jurisprudence. 
+Lorsque l’employeur consent à l’unité proposée par l’association accréditée, il va s’en dire que le tribunal n’aura pas à se pencher sur cette question.
+L’art. 28 c) Ct donne un délai de 15 jours de la réception de la copie de la requête pour que l’employeur fasse par de son désaccord et de ses motifs quant à l’unité appropriée. À défaut de faire une telle intervention, il est présumé être d’accord avec l’unité.
+6 critères tirés de la jurisprudence :
+La volonté des salariés librement exprimée (art. 3 Ct) : tout salarié a droit d’appartenir à une association de salariés de son choix;
+L’histoire des accréditations, des négociations et des conventions collectives chez cet employeur ou chez d’autres employeurs similaires et, s’il y a lieu, l’évolution réelle de la structure de l’entreprise;
+3.	La division territoriale ou géographique des usines;
+4.	La mobilité de la main-d’œuvre et/ou de l’exécution du travail; 
+5.		La paix industrielle qui ne doit pas être troublée par la multiplicité des groupes et des associations, si la chose n’est pas nécessaire, ce qui pourrait avoir, en somme, que l’effet de créer un perpétuel conflit entre les salariés eux-mêmes, les associations et l’employeur et qui rendrait les négociations pratiquement impossible;
+6.		Le simple bon sens exige que tous les salariés qui ont des intérêts communs ne forment qu’un même groupe : 
+Similitude de travail et de fonctions 
+Similitude de salaires et de façon de rémunération 
+Similitude dans les conditions de travail
+Similitude de métiers et de qualifications ;
+Interdépendance et interchangeabilité dans les fonctions;
+Transférabilité et promotion des salariés d’une catégorie à une autre.
+Grouper la majorité des salarié au sein d’une unité
+Art. 36.1 Ct :
+Aux fins de l’établissement du caractère représentatif d’une association de salariés ou de la vérification du caractère représentatif d’une association accréditée, une personne est reconnue membre de cette association lorsqu’elle satisfait aux conditions suivantes (4) :
+a)	elle est un salarié compris dans l’unité de négociation visée par la requête;
+b)	elle a signé une formule d’adhésion dûment datée et qui n’a pas été révoquée avant le dépôt de la requête en accréditation ou la demande de vérification du caractère représentatif;
+c)	elle a payé personnellement à titre de cotisation syndicale une somme d’au moins 2 $ dans les douze mois précédant soit la demande de vérification du caractère représentatif, soit le dépôt de la requête en accréditation ou sa mise à la poste par poste recommandée;
+d)	elle a rempli les conditions prévues aux paragraphes a à c soit le ou avant le jour de la demande de vérification du caractère représentatif, soit le ou avant le jour du dépôt de la requête en accréditation.
+Le Tribunal ne doit tenir compte d’aucune autre condition exigible selon les statuts ou règlements de cette association de salariés.
+Au jour du dépôt on va geler les effectifs. On prend en compte les salariés au jour du dépôt même si rien n’empêche l’employeur d’en engager d’autres, mais nous n’en tiendrons pas compte pour la détermination du caractère représentatif.
+Les démission sont très importantes en situation de maraudage
+La liste des formules d’adhésion est déposée avec la requête en accréditation (art. 25,al.2 C.t)
+Lors de la réception de la requête en accréditation, le Tribunal désigne un agent de relations du travail afin de faire les vérifications quant au caractère représentatif, de son droit à l’accréditation, dont la liste des salariés (art. 28 Ct). 
+**Seulement les membres peuvent participer à la vie associative, mais la convention collective sera applicable à l’ensemble des salariés de cette unité qu’ils soient membres ou pas de l’association.**
+Art. 28 Ct :
+En outre, sur réception de la requête, il doit être procédé de la façon suivante :
+a)	le Tribunal doit dépêcher sans délai un agent de relations du travail qui doit s’assurer du caractère représentatif de l’association et de son droit à l’accréditation. À cette fin, l’agent de relations du travail procède à la vérification des livres et archives de l’association et de la liste des salariés de l’employeur; il peut, en tout temps, vérifier auprès de toute association, de tout employeur et de tout salarié l’observation du chapitre II et tout fait dont il lui appartient de s’enquérir. S’il vient à la conclusion que l’association jouit du caractère représentatif requis et s’il constate qu’il y a accord entre l’employeur et l’association sur l’unité de négociation et sur les personnes qu’elle vise, il doit l’accréditer sur-le-champ par écrit en indiquant le groupe de salariés qui constitue l’unité de négociation. S’il ne vient pas à la conclusion que l’association jouit du caractère représentatif requis, l’agent de relations du travail doit faire un rapport sommaire de sa vérification au Tribunal et en transmettre une copie aux parties. Il doit, dans ce rapport, mentionner les raisons pour lesquelles il n’a pas accordé l’accréditation;
+b)	si l’agent de relations du travail constate qu’il y a accord entre l’employeur et l’association sur l’unité de négociation et sur les personnes qu’elle vise et qu’il y a entre 35% et 50% des salariés dans cette unité qui sont membres de l’association de salariés, il procède au scrutin pour s’assurer du caractère représentatif de cette dernière. Il accrédite l’association si elle obtient la majorité absolue des voix des salariés compris dans l’unité de négociation. S’il ne vient pas à la conclusion que l’association jouit du caractère représentatif requis, l’agent de relations du travail doit faire un rapport sommaire de sa vérification au Tribunal et en transmettre une copie aux parties. Il doit, dans ce rapport, mentionner les raisons pour lesquelles il n’a pas accordé l’accréditation;
+c)	si l’employeur refuse son accord sur l’unité de négociation demandée il doit, par écrit, en expliciter les raisons et proposer l’unité qu’il croit appropriée à l’agent de relations du travail. Celui-ci doit faire un rapport sommaire du désaccord au Tribunal et en transmettre une copie aux parties. Ce rapport doit comporter les raisons explicitées par l’employeur, la description de l’unité que celui-ci croit appropriée et, le cas échéant, la mention qu’il y a entre 35% et 50% des salariés dans l’unité de négociation demandée qui sont membres de l’association de salariés. Si l’employeur néglige ou refuse de communiquer les raisons de son désaccord et de proposer l’unité qu’il croit appropriée dans les 15 jours de la réception d’une copie de la requête, il est présumé avoir donné son accord sur l’unité de négociation. L’agent de relations du travail procède alors suivant le paragraphe a ou le paragraphe b, selon le cas;
+d)	si l’agent de relations du travail constate qu’il y a accord entre l’employeur et l’association sur l’unité de négociation, mais non sur certaines personnes visées par la requête, il accrédite néanmoins l’association sur-le-champ si cette dernière jouit du caractère représentatif pour l’unité de négociation demandée, peu importe que les personnes sur lesquelles il n’y a pas accord soient éventuellement, selon la décision du Tribunal, incluses dans l’unité de négociation ou qu’elles en soient exclues. En même temps, l’agent de relations du travail fait un rapport du désaccord visé ci-dessus au Tribunal et en transmet une copie aux parties. Ce désaccord ne peut avoir pour effet d’empêcher la conclusion d’une convention collective;
+d.1)	l’agent de relations du travail accrédite l’association sur-le-champ même si l’employeur refuse son accord sur une partie de l’unité de négociation, lorsqu’il constate que l’association jouit néanmoins du caractère représentatif et qu’il estime qu’elle conservera son caractère représentatif quelle que soit la décision éventuelle du Tribunal sur la description de l’unité de négociation. En même temps, l’agent de relations du travail fait un rapport du désaccord au Tribunal et en transmet une copie aux parties. Aucun avis de négociation ne peut être donné par l’association accréditée avant la décision du Tribunal sur la description de l’unité de négociation;
+Voir exemple plus haut concernant ce paragraphe
+e)	lorsqu’il y a déjà une association accréditée, ou qu’il y a plus d’une association de salariés requérante, l’agent de relations du travail, s’il constate qu’il y a accord entre l’employeur et toute association en cause sur l’unité de négociation et sur les personnes qu’elle vise, accrédite l’association qui groupe la majorité absolue des salariés ou, à défaut, procède à un scrutin secret suivant les dispositions de l’article 37 et accrédite conséquemment l’association qui a obtenu le plus grand nombre de voix conformément aux dispositions de l’article 37.1. S’il y a désaccord sur l’unité de négociation ou sur les personnes qu’elle vise, l’agent fait un rapport du désaccord au Tribunal et en transmet une copie aux parties.
+Vrai/Faux
+Il ne peut exister plus d’un syndicat auprès d’un même employeur.
+Faux, le syndicat ne regroupe pas nécessairement la totalité des salariés d’un employeur, mais ceux qui possèdent des intérêts communs sur le plan du travail. Par exemple, il peut exister auprès d’un même employeur un syndicat des employés de bureau et un syndicat des employés de production.
+L’aliénation, la fusion, la concession de l’entreprise
+Art. 45 Ct :
+L’aliénation ou la concession totale ou partielle d’une entreprise n’invalide aucune accréditation accordée en vertu du présent code, aucune convention collective, ni aucune procédure en vue de l’obtention d’une accréditation ou de la conclusion ou de l’exécution d’une convention collective.
+Sans égard à la division, à la fusion ou au changement de structure juridique de l’entreprise, le nouvel employeur est lié par l’accréditation ou la convention collective comme s’il y était nommé et devient par le fait même partie à toute procédure s’y rapportant, aux lieu et place de l’employeur précédent.
+Le deuxième alinéa ne s’applique pas dans un cas de concession partielle d’entreprise lorsque la concession n’a pas pour effet de transférer au concessionnaire, en plus de fonctions ou d’un droit d’exploitation, la plupart des autres éléments caractéristiques de la partie d’entreprise visée.
+Aliénation et concession totale : Garantie que le nouvel employeur est lié par la convention collective et sera tenue de reconnaitre le syndicat
+ Concession partielle : A décide de confier l’entretien ménager en sous-traitant. Une municipalité qui confie l’enlèvement des ordures ménagères à un sous-traitant, l’enlèvement de la neige à un autre sous-traitant et etc. Est-ce que le sous-traitant est lié par la convention collectif qui existait entre la municipalité et ses col bleu ? 
+Al.3 : il faut non seulement que la ville cède le droit de l’enlèvement de la neige, mais notamment des camions, de la main-d’œuvre… Cette alinéa fait abstraction de ce que la Cour suprême avait décidé en choisissant de ne pas suivre la thèse fonctionnelle. 
+La plupart des autres éléments caractéristiques qu’est-ce que cela inclue ? Ça dépend du cas d’espèce
+L’art. 45.2, al.1 (1) Ct prévoit lorsque nous sommes en présence d’une concession partielle d’une entreprise que la convention collective est réputée expirée au moment de la concession si elle n’est pas expirée.
+L’art. 45.2, al.1 (2) Ct permet aux parties de s’entendre pour que l’art. 45, al.2 Ct ne s’applique pas en incluant une clause à cet effet. 
+Exemple : entreprise A sous CC avec un syndicat et l’entreprise B sous CC avec un autre syndicat. Si A et B fusionne ensemble, il ne pourra y avoir qu’un seul syndicat. Ici, le tribunal pourra agir sur requête en vertu de l’art. 46 Ct pour déterminer le syndicat qui restera en place ainsi que la CC applicable, etc. 
+Art. 46 Ct :
+Il appartient au Tribunal, sur requête d’une partie intéressée, de trancher toute question relative à l’application des articles 45 à 45.3. À cette fin, il peut notamment en déterminer l’applicabilité.
+Il peut aussi, sur requête d’une partie intéressée, régler toute difficulté découlant de l’application de ces articles et de leurs effets de la façon qu’il estime la plus appropriée. À cette fin, il peut notamment rendre toute décision nécessaire à la mise en œuvre d’une entente entre les parties intéressées sur la description des unités de négociation et sur la désignation d’une association pour représenter le groupe de salariés visé par l’unité de négociation décrite à cette entente ou sur toute autre question d’intérêt commun.
+À cette même fin et lorsque plusieurs associations de salariés sont mises en présence par l’application des articles 45 et 45.3, le Tribunal peut également :
+1°	accorder ou modifier une accréditation;
+2°	accréditer l’association de salariés qui groupe la majorité absolue des salariés ou procéder à un scrutin secret suivant les dispositions de l’article 37 et accréditer conséquemment l’association qui a obtenu le plus grand nombre de voix conformément aux dispositions de l’article 37.1;
+3°	décrire ou modifier une unité de négociation;
+4°	fusionner des unités de négociation et, lorsque plusieurs conventions collectives s’appliquent aux salariés du nouvel employeur compris dans une unité de négociation résultant de cette fusion, déterminer la convention collective qui demeure en vigueur et apporter aux dispositions de celle-ci toute modification ou adaptation qu’elle juge nécessaire.
+La fusion d’unités de négociation emporte la fusion, s’il en est, des listes d’ancienneté des salariés qu’elles visaient, selon les règles d’intégration des salariés déterminées par le Tribunal.
+Lorsqu’une concession d’entreprise survient durant la procédure en vue de l’obtention d’une accréditation, le Tribunal peut décider que l’employeur cédant et le concessionnaire sont successivement liés par l’accréditation.
+Le Tribunal peut aussi, sur requête d’une partie intéressée déposée au plus tard le trentième jour suivant la prise d’effet d’une concession partielle d’entreprise et lorsqu’il juge que cette concession a été faite dans le but principal d’entraver la formation d’une association de salariés ou de porter atteinte au maintien de l’intégralité d’une association de salariés accréditée :
+1°	écarter l’application, le cas échéant, du troisième alinéa de l’article 45 et rendre toute décision appropriée pour favoriser l’application du deuxième alinéa du même article;
+2°	écarter l’application du paragraphe 1° du premier alinéa de l’article 45.2 et déterminer que le nouvel employeur demeure lié, jusqu’à la date prévue de son expiration, par la convention collective visée au deuxième alinéa de l’article 45.
+Art. 59 Ct :
+À compter du dépôt d’une requête en accréditation et tant que le droit au lock-out ou à la grève n’est pas exercé ou qu’une sentence arbitrale n’est pas intervenue, un employeur ne doit pas modifier les conditions de travail de ses salariés sans le consentement écrit de chaque association requérante et, le cas échéant, de l’association accréditée.
+Il en est de même à compter de l’expiration de la convention collective et tant que le droit au lock-out ou à la grève n’est pas exercé ou qu’une sentence arbitrale n’est pas intervenue.
+Les parties peuvent prévoir dans une convention collective que les conditions de travail contenues dans cette dernière vont continuer de s’appliquer jusqu’à la signature d’une nouvelle convention.
+Vrai/Faux
+Dans tous les cas de concession partielle, l’acquéreur est lié par l’accréditation et la convention collective.
+Faux, lors d’une concession partielle d’entreprise, l’accréditation syndicale ne liera le nouvel employeur que si, en plus de fonctions ou d’un droit d’exploitation, la transaction transfère au nouvel employeur la plupart des autres éléments caractéristiques de la partie d’entreprise cédée. (art. 45, al.3 C.t.)
+Dans ce cas, contrairement à la vente d’entreprise, la convention collective (si elle est en vigueur) expirera chez ce nouvel employeur le jour de la prise d’effet de la concession partielle d’entreprise. (art. 45.2 par.1 C.t.)
+Le syndicat et le nouvel employeur seront alors en droit d’entamer une nouvelle négociation collective.
+Section 3 : Les obligations du syndicat 
+L’accréditation confère au syndicat l’obligation de représenter tous les salariés compris dans l’unité de négociation qu’ils soient membres ou non-membres.
+defi
+L’obligation d’une juste et loyale représentation à l’égard des salariés compris dans l’unité
+Art. 47.2 Ct : juste et loyale représentation
+Une association accréditée ne doit pas agir de mauvaise foi ou de manière arbitraire ou discriminatoire, ni faire preuve de négligence grave à l’endroit des salariés compris dans une unité de négociation qu’elle représente, peu importe qu’ils soient ses membres ou non.
+Ne garantit pas la meilleure représentation. Il ne s’agit pas de démontrer un faute, soit celle de la personne raisonnable dans les mêmes circonstances, mais plutôt d’un comportement empreint de mauvaise foi… Concept limitatif et le fardeau est important et si pas comblé, la plainte sera rejetée
+La jurisprudence donne une grande discrétion au syndicat. Exemple : pas parce qu’un salarié formule un grief que le syndicat doit l’amener en arbitrage. Le syndicat peut avoir des priorités et choisir ses combats. 
+Son obligation est d’analyser chaque grief, de faire une enquête, de choisir lesquels qui seront portés en griefs ou non en arbitrage
+L’art. 47,al.1 Ct impose à l’employeur de retenir sur le salaire de tous les salariés membres de l’association accréditée une cotisation et l’al.2 précise que les autres salariée faisant partie de cette unité se verront également retenir le même montant. 
+Le recours de l’art. 47.2 et ss Ct
+Si nous sommes en présence d’une contravention de cette obligation dans une situation d’harcèlement psychologique, d’un renvoi ou d’une sanction disciplinaire, l’art. 47.3 Ct prévoit que le salarié peut déposer une plainte au TAT à l’encontre du syndicat et ce dans les 6 mois (art. 47.5, al.1 Ct) de la connaissance de l’agissement du syndicat. Cela permet au salarié d’aller lui-même en arbitrage. 
+Art. 47.3 Ct :
+Si un salarié qui a subi un renvoi ou une mesure disciplinaire, ou qui croit avoir été victime de harcèlement psychologique, selon les articles 81.18 à 81.20 de la Loi sur les normes du travail (chapitre N‐1.1), croit que l’association accréditée contrevient à cette occasion à l’article 47.2, il doit, s’il désire se prévaloir de cet article, porter plainte et demander par écrit au Tribunal d’ordonner que sa réclamation soit déférée à l’arbitrage.
+Si le Tribunal juge que la plainte est valable et qu’il a fait l’objet d’un comportement en violation de l’art. 47.2 Ct et bien, il peut autoriser le salarié à soumettre sa réclamation à un arbitre. Les frais seront ainsi couverts par le syndicat et il pourra décider de se faire représenter par la personne de son choix.
+Dès qu’une contravention au Ct, le Tribunal peut être saisi d’une plainte même si par exemple ce n’est pas couvert aux arts 47.2 et 47.3 Ct lorsque le salarié estime avoir été victime d’un traitement inacceptable.
+Quiz - Trouvez l'intrus
+Le salarié pourra avoir recours aux arts. 47.2 et ss Ct lorsque :
+Le syndicat agit de mauvaise foi envers le salarié
+Le syndicat a un comportement arbitraire
+Le syndicat agit avec discrimination envers le salarié 
+Le salarié est insatisfait des décisions de son syndicat
+Le salarié est victime de négligence grave de la part de son syndicat  
+d), le recours prévu aux arts. 47.2 et ss C.t. n’est pas un recours que le salarié peut exercer lorsqu’il est seulement insatisfait des décisions de son syndicat. Il devra démontrer que le syndicat a manqué à l’une des quatre interdictions, soit : la mauvaise foi, le comportement arbitraire, la discrimination et la négligence grave.
+Section 4 : La convention collective
+Les rapports collectifs de travail visent à conclure une entente écrite relative aux conditions de travail entre l’association de salariés et l’employeur. L’avis de négociation débute par la réception d’un avis de négociation (art. 52 Ct). 
+Art. 52 Ct :
+L’association accréditée donne à l’employeur, ou celui-ci donne à l’association accréditée, un avis écrit d’au moins huit jours de la date, de l’heure et du lieu où ses représentants seront prêts à rencontrer l’autre partie ou ses représentants pour la conclusion d’une convention collective.
+L’association accréditée ou l’employeur peut donner cet avis dans les 90 jours précédant l’expiration de la convention, à moins qu’un autre délai n’y soit prévu.
+L’association accréditée ou l’employeur peut donner cet avis dans les 90 jours précédant l’expiration d’une sentence arbitrale tenant lieu de convention collective.
+Dans le cas d’une convention collective visée au paragraphe 1° du premier alinéa de l’article 45.2, l’association accréditée ou l’employeur peut donner cet avis dans les 30 jours suivant l’expiration réputée de la convention.
+Art. 53, al.2 Ct impose une obligation de négocier de bonne foi 
+Pas de s’entendre, mais d’avoir une ouverture d’esprit dans le but d’en arriver à une entente
+**Cet avis est très important puisqu’il permet de déterminer à quelle date le syndicat ou les employeurs pourront déclencher les moyens de pression. La grève est permise 90 jours après la réception de l’avis ou de celui réputé donné et reçu (art. 58 Ct).**
+Exemple association nouvellement accréditée : Ce syndicat peut donner à partir de son avis d’accréditation donner l’avis de négociation à l’employeur. 90 jours suivant la réception de l’avis, le droit de grève est acquis (art. 58 Ct).
+Exemple association nouvellement accrédité : Si le syndicat ne donne pas d’avis de négociation, l’art. 52.2 Ct prévoit que l’employeur est réputé l’avoir reçu 90 jours après son accréditation. En vertu de l’art. 58 Ct, le droit de grève sera acquis 90 jours après, soit 180 jours après l’accréditation. 
+Exemple syndicat déjà en place avec une convention collective expirant le 1er janvier : l’art. 52, al.2 Ct prévoit qu’un avis de négociation peut être donné 90 jours avant l’expiration de la convention collective. Si c’est avis est donné 90 jours avant et bien l’art. 58 Ct prévoit que le droit de grève sera acquis le lendemain de l’expiration de la convention.
+Exemple syndicat déjà en place avec une convention collective expirant le 1er janvier : Si aucun avis n’est donné, il sera présumé donné à l’expiration de la convention collective et ce n’est que 90 jours après l’expiration que le droit de grève sera acquis. 
+Administrativement, le Tribunal peut intervenir pour imposer des sanctions dans le cas d’une grève illégale. Notamment, le syndicat peut subir des sanctions civiles pour les conséquences engendrées par la grève illégales. À l’inverse, si la grève est légale, le syndicat n’est pas responsable des conséquences de cet arrêt de travail. L’employeur peut déclencher un lock-out aussi inversement.
+Vrai/Faux 
+La phase de négociation débute à compter de la réception de l’avis de négociation.
+Vrai, art. 53 Ct.
+Les conséquences 
+Une grève illégale donne ouverture à des conséquences administratives et de responsabilité civile.
+Hilton : avis de négociation donné prématurément au délai de 90 jours prévu à l’art. 58 Ct. La Cour d’appel vient affirmer que le délai est prématuré, mais donné de manière sensiblement proche à celui prévu par la loi et la grève pourra ainsi être déclenchée à la première date où elle était légale.
+Quiz - Trouvez l'intrus
+L’obligation de négocier de bonne foi n’empêche pas l’employeur de négocier directement avec les salariés ou un autre interlocuteur que le syndicat accrédité.
+L’obligation de négocier n’implique pas celle de s’entendre.
+Une partie sera en faute si elle cherche à éviter la conclusion d’une convention collective, mais non pas si elle négocie de façon serrée à partir de positions fermes.
+a), l’obligation de négocier de bonne foi empêche l’employeur de négocier directement avec les salariés ou un autre interlocuteur que le syndicat accrédité.
+L’acquisition du droit de grève et les dispositions anti-briseurs de grève 
+Il existe des dispositions anti-briseurs de grève dans le Ct qui interdit à l’employeur d’engager ou de faire travailler des employés pour remplacer les personnes en grève. Le TAT possède des pouvoirs importants en ce sens à l’art. 111.33 Ct et également en vertu l’ar.t 9 (3) Litat pour agir dans les cas de figure de l’art. 109.1 Ct. 
+Art. 109.1 Ct :
+Pendant la durée d’une grève déclarée conformément au présent code ou d’un lock-out, il est interdit à un employeur:
+a)	d’utiliser les services d’une personne pour remplir les fonctions d’un salarié faisant partie de l’unité de négociation en grève ou en lock-out lorsque cette personne a été embauchée entre le jour où la phase des négociations commence et la fin de la grève ou du lock-out;
+b)	d’utiliser, dans l’établissement où la grève ou le lock-out a été déclaré, les services d’une personne à l’emploi d’un autre employeur ou ceux d’un entrepreneur pour remplir les fonctions d’un salarié faisant partie de l’unité de négociation en grève ou en lock-out;
+c)	d’utiliser, dans l’établissement où la grève ou le lock-out a été déclaré, les services d’un salarié qui fait partie de l’unité de négociation alors en grève ou en lock-out à moins:
+i.	qu’une entente ne soit intervenue à cet effet entre les parties, dans la mesure où elle y pourvoit, et que, dans le cas d’un établissement visé à l’article 111.2, cette entente ait été approuvée par le Tribunal;
+ii.	que, dans un service public, une liste n’ait été transmise ou dans le cas d’un établissement visé à l’article 111.2, n’ait été approuvée en vertu du chapitre V.1, dans la mesure où elle y pourvoit;
+iii.	que, dans un service public, une décision n’ait été rendue en vertu de l’article 111.0.24.
+d)	d’utiliser, dans un autre de ses établissements, les services d’un salarié qui fait partie de l’unité de négociation alors en grève ou en lock-out;
+e)	d’utiliser, dans l’établissement où la grève ou le lock-out a été déclaré, les services d’un salarié qu’il emploie dans un autre établissement;
+f)	d’utiliser, dans l’établissement où la grève ou le lock-out a été déclaré, les services d’une personne autre qu’un salarié qu’il emploie dans un autre établissement sauf lorsque des salariés de ce dernier établissement font partie de l’unité de négociation alors en grève ou en lock-out;
+g)	d’utiliser, dans l’établissement où la grève ou le lock-out a été déclaré, les services d’un salarié qu’il emploie dans cet établissement pour remplir les fonctions d’un salarié faisant partie de l’unité de négociation en grève ou en lock-out.
+Vrai/Faux
+Le droit de grève est acquis 90 jours après l’expédition d’un avis de négociation.
+Faux, après sa réception (art. 58 Ct). 
+La convention collective
+Art. 1 Ct « convention collective » :
+une entente écrite relative aux conditions de travail conclue entre une ou plusieurs associations accréditées et un ou plusieurs employeurs ou associations d’employeurs;
+Art. 62 Ct :
+La convention collective peut contenir toute disposition relative aux conditions de travail qui n’est pas contraire à l’ordre public ni prohibée par la loi.
+Art. 65 Ct: 
+Une convention collective doit être d’une durée déterminée d’au moins un an.
+La durée doit être d’au plus trois ans s’il s’agit d’une première convention collective pour le groupe de salariés visé par l’accréditation.
+Art. 27.1 Ct :
+Lorsqu’elle est déposée au bureau du ministre dans les 60 jours de sa signature, la convention va avoir un effet rétroactif à sa signature. Si elle n’est pas déposée dans ce délai, la période va redevenir ouverte et un syndicat rival va pouvoir déposer une requête en accréditation. Toutefois, la requête devra être déposée avant le dépôt de la convention collective pour être recevable
+Art. 66 Ct: 
+Est présumée en vigueur pour la durée d’une année, la convention ne comportant pas de terme fixe et certain.
+Art. 67 Ct: 
+La convention collective lie tous les salariés actuels ou futurs visés par l’accréditation.
+L’association accréditée et l’employeur ne doivent conclure qu’une seule convention collective à l’égard du groupe de salariés visé par l’accréditation.
+Le grief 
+C’est possible que la convention collective mène à un conflit puisque les parties n’interprètent pas de la même manière celle-ci. 
+Art. 100 Ct : compétence exclusif à l’arbitre de grief
+Tout grief doit être soumis à l’arbitrage en la manière prévue dans la convention collective si elle y pourvoit et si l’association accréditée et l’employeur y donnent suite; sinon il est déféré à un arbitre choisi par l’association accréditée et l’employeur ou, à défaut d’accord, nommé par le ministre.
+L’arbitre nommé par le ministre est choisi sur la liste prévue à l’article 77.
+Sauf disposition contraire, les dispositions de la présente section prévalent, en cas d’incompatibilité, sur les dispositions de toute convention collective.
+Personne de l’extérieur de l’entreprise
+De consensus des parties
+Tiers impartial
+Art. 100.12 Ct : 
+Dans l’exercice de ses fonctions l’arbitre peut:
+a) 	interpréter et appliquer une loi ou un règlement dans la mesure où il est nécessaire de le faire pour décider d’un grief;
+b)	fixer les modalités de remboursement d’une somme qu’un employeur a versée en trop à un salarié;
+c)	ordonner le paiement d’un intérêt au taux légal à compter du dépôt du grief, sur les sommes dues en vertu de sa sentence.
+Il doit être ajouté à ce montant une indemnité calculée en appliquant à ce montant, à compter de la même date, un pourcentage égal à l’excédent du taux d’intérêt fixé suivant l’article 28 de la Loi sur l’administration fiscale (chapitre A-6.002) sur le taux légal d’intérêt;
+d)	fixer, à la demande d’une partie, le montant dû en vertu d’une sentence qu’il a rendue;
+e)	corriger en tout temps une décision entachée d’erreur d’écriture ou de calcul, ou de quelque autre erreur matérielle;
+f)	en matière disciplinaire, confirmer, modifier ou annuler la décision de l’employeur et, le cas échéant, y substituer la décision qui lui paraît juste et raisonnable, compte tenu de toutes les circonstances de l’affaire. Toutefois, lorsque la convention collective prévoit une sanction déterminée pour la faute reprochée au salarié dans le cas soumis à l’arbitrage, l’arbitre ne peut que confirmer ou annuler la décision de l’employeur ou, le cas échéant, la modifier pour la rendre conforme à la sanction prévue à la convention collective;
+g)	rendre toute autre décision, y compris une ordonnance provisoire, propre à sauvegarder les droits des parties.
+La décision est finale et sans appel. Elle lie les parties Elle demeure toutefois sujette au contrôle de la Cour supérieure.

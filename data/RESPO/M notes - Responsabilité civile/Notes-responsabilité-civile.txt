@@ -1,0 +1,238 @@
+RESPONSABILITÉ CIVILE - RÈGLES GÉNÉRALES ET RÉGIMES DE RESPONSABILITÉ
+Section 1 : La qualification juridique
+Art. 1458 C.c.Q. :
+Toute personne a le devoir d’honorer les engagements qu’elle a contractés.
+Elle est, lorsqu’elle manque à ce devoir, responsable du préjudice, corporel, moral ou matériel, qu’elle cause à son cocontractant et tenue de réparer ce préjudice; ni elle ni le cocontractant ne peuvent alors se soustraire à l’application des règles du régime contractuel de responsabilité pour opter en faveur de règles qui leur seraient plus profitables.
+Si on a un contrat, on doit respecter nos engagements selon le régime contractuelle. 
+Il existe 5 différences entre le régime contractuel et extracontractuel :
+L’application des présomptions légales seulement en matière extracontractuelle (arts. 1459-1469 C.c.Q.)
+Régime contractuel
+Exemple : si je vais voir le clocher et loue le calèche, à ce moment-là, si l’animal me blesse, j’avais un contrôle. La tendance lourde des tribunaux est d’appliquer la présomption qu’en matière extracontractuelle alors en fonction du contrat de location, il ne pourra pas s’en prémunir
+Régime extracontractuel
+Exemple : me promène à Mtl et me fait frapper pour une calèche. J’ai un recours extracontractuel contre le propriétaire de l’animal (art. 1466 C.c.Q.)
+Plus payant lorsque c’est extracontractuel
+Responsabilité pour autrui
+Régime contractuel (art. 1458 C.c.Q) : le débiteur qui confie l’exécution de son obligation à quelqu’un d’autre, n’en reste pas moins responsable vis-à-vis de son créancier. Il demeure responsable de la faute de ceux qu’il se substitue. Plus avantageux qu’extracontractuel. (Donc nous avons un contrat avec une personne et on exécute le contrat par une autre personne, nous sommes responsables face au créancier ET des fautes du tier au contrat)
+Conditions d’application :
+Existence d’un contrat
+Débiteur confie l’exécution de son obligation à un tiers (sous-traitance entre dans confier)
+Faute du tiers
+Avantages :
+Il n’est pas nécessaire de prouver un lien de préposition entre le débiteur et le tiers
+Il n’est pas nécessaire d’identifier le tiers
+Régime extracontractuel (art. 1463 C.c.Q.) : le commettant est responsable du préjudice causé par la faute de son préposé
+Conditions d’application :
+La faute du préposé
+Le lien de préposition entre le commettant et le préposé
+La survenance de la faute du préposé dans l’exécution de ses fonctions
+Obligations solidaires et in solidum
+Solidarité
+Débiteurs suite à une inexécution contractuelle : art. 1525 C.c.Q. solidarité non présumée, elle doit être stipulée (al.1). Lorsque c’est pour une entreprise, il peut avoir une solidarité (al.2)
+Débiteurs d'une faute extracontractuelle qui cause un préjudice unique : art.1526 C.c.Q. (solidarité parfaite) plus avantageuse puisque c’est présumé.
+Effets
+Effet principal : le débiteur ne peut plaider le bénéfice de division (art. 1528 C.c.Q.)
+Effets secondaires : impact à l'égard de tous les codébiteurs de la mise en demeure, si l’un reçoit une mise en demeure, ils sont tous mis en demeure (art. 1599 C.c.Q.) et de l'interruption de la prescription à l’égard de tous les débiteurs (art. 2900 C.c.Q.)
+In solidum (solidarité imparfaite)
+Hypothèses
+Lorsque les débiteurs sont tenus envers le même créancier mais en vertu d'une responsabilité de source différente. Faute contractuelle pour l’un et extracontractuelle pour l’autre
+Lorsque les débiteurs extracontractuels sont tenus en vertu de régimes différents (ex : un en vertu d’un régime basé sur la faute, l’autre basé sur la présomption de responsabilité)
+L’obligation in solidum s’applique uniquement si aucun cas de solidarité parfaite ou d’individualité ne trouve application. Les deux hypothèses évoquées par le professeur Deslauriers peuvent parfois générer un cas de solidarité parfaite, ce qui empêche alors de recourir à l’obligation in solidum. Par ailleurs, d’autres cas d’obligation in solidum existent en sus des deux hypothèses évoquées. Il ne s’agit pas d’une liste limitative.
+Effets
+Seul l'effet principal est produit : le débiteur ne peut plaider le bénéfice de division (art. 1528 C.c.Q.)
+L'obligation in solidum ne produit pas d'effets secondaires (absence de représentation). Il n’y a pas d’interruption de prescription. Il faut transmettre une mise en demeure à chacun des débiteurs de l’obligation in solidum.
+ATTENTION : in solidum n’a pas les effets secondaires de la solidarité, donc si on envoie une mise en demeure à une personne in solidum, elle n’est pas envoyée à toute le monde! Donc si on décide de poursuivre UNE personne in solidum elle n’interrompe pas la prescription, donc l’article 2900 ne s’applique pas pour les débiteurs in solidum. 
+L’étendue du préjudice
+Régime extracontractuel
+Art. 1607 C.c.Q. :
+Le créancier a droit à des dommages-intérêts en réparation du préjudice, qu’il soit corporel, moral ou matériel, que lui cause le défaut du débiteur et qui en est une suite immédiate et directe.
+Plus intéressant
+Exemple : Je vois l’un de mes ennemis et je le vois exploser mon véhicule. J’ai le droit de réclamer tout ce qui est une suite immédiate et directe, cela inclus le tableau dans le véhicule.
+Régime contractuel
+Art. 1613 C.c.Q. :
+En matière contractuelle, le débiteur n’est tenu que des dommages-intérêts qui ont été prévus ou qu’on a pu prévoir au moment où l’obligation a été contractée, lorsque ce n’est point par sa faute intentionnelle ou par sa faute lourde qu’elle n’est point exécutée; même alors, les dommages-intérêts ne comprennent que ce qui est une suite immédiate et directe de l’inexécution.
+Exemple : stationne véhicule dans un stationnement payant. On a mis un tableau de grande valeur dans le coffre du véhicule et je me fait voler mon véhicule Je poursuis le propriétaire du stationnement qui a commis une faute. Je pourra réclamer la valeur de l’auto, des CD, mais comme le tableau n’est pas normalement prévisible, je ne pourrais pas réclamer ce montant-là.
+In fine : si le débiteur contractuel a commis une faute lourde ou une faute intentionnelle telle qu’avoir laissée les clés dans le véhicule à un endroit sans aucune surveillance. On oublie le prévisible et on suit la même idée qu’au régime extracontractuel. 
+Les clauses limitatives de responsabilité
+Régime contractuelle
+Clause jugée valide au nom de la liberté contractuelle
+Il est interdit d’avoir ces clauses pour les préjudices corporels ou morale (Art 1474 al.2 du C.c.Q.)
+La loi sur la protection du consommateur les rends illégales
+À la base, ces clauses sont valide 
+Art. 1475 C.c.Q. : pour les rendre opposables
+Un avis, qu’il soit ou non affiché, stipulant l’exclusion ou la limitation de l’obligation de réparer le préjudice résultant de l’inexécution d’une obligation contractuelle n’a d’effet, à l’égard du créancier, que si la partie qui invoque l’avis prouve que l’autre partie en avait connaissance au moment de la formation du contrat.
+Régime extracontractuelle
+On voit par exemple dans le vieux Mtl des affiches attention ça glisse nous ne sommes pas responsables. 
+Le C.c.Q. prévoit qu’on ne peut pas limiter notre responsabilité à l’égard d’un tier, mais que ça peut valoir dénonciation du danger. Valeur réduite comparée au régime contractuel. 
+À quel moment on est en matière contractuel ou extracontractuel ?
+Dans le doute, la CSC est venue précisée que nous pouvons y aller avec un régime et avec un autre subsidiairement. (ex : nous avons un contrat avec l’université pour étudier … tu tombes dans les escaliers de l’école, est-ce que c’est une poursuite contractuelle ou extra?)
+3 conditions pour utiliser le régime contractuel :
+Un contrat valablement conclu
+Un contrat touche les deux parties au litige
+Le litige concerne une obligation qui résulte du contrat (obligations principales ou implicites)
+Il existe des obligations explicites et implicites. 
+Art. 1434 C.c.Q. : (obligation implicite)
+Le contrat valablement formé oblige ceux qui l’ont conclu non seulement pour ce qu’ils y ont exprimé, mais aussi pour tout ce qui en découle d’après sa nature et suivant les usages, l’équité ou la loi.
+Obligation implicite la plus connue est celle de sécurité. La tendance jurisprudence inclue l’obligation de sécurité lors d’activité de rafting, de saut en parachute, de ski, etc. On est obligé de poursuivre le centre sportif en question. (Obligation de sécurité est une obligation de moyen).
+Lorsqu’on est en matière contractuelle, nous devons déterminer l’intensité de l’obligation :
+De moyen (plus intéressant pour le centre)
+Exemple : je fais du ski, le centre de ski a une obligation de moyen. Le fardeau repose sur les épaules du demandeur, soit la victime.
+De résultat (plus intéressant pour la victime)
+De garantie (pas mentionné dans la vidéo)
+Section 2 : Les conditions générales de la responsabilité civile
+3 conditions pour engager la responsabilité :
+La faute (subjective) – voir l’affaire Lapierre (nous ne pouvons pas objectiver la responsabilité de l’auteur)
+Capacité de discernement est essentiel pour être en mesure d’être condamné. Il faut comprendre les conséquences de nos gestes, être douée de raison.
+Il y a deux groupes d’individus qui sont exclus de l’application de l’art. 1457, al.2 C.c.Q. :
+Les enfants de moins de 7 ans : règle malléable en fonction d’une expertise médicale (mais règle générale, un enfant de 7 ans n’a pas la capacité de discernement – voir l’affaire Howard – l’enfant qui a tiré des roches)
+Les personnes avec des troubles mentaux : nous sommes présumés saint d’esprit alors, il revient à l’individu de démontrer qu’il a ses troubles avec l’expertise psychiatrique à l’appui – voir l’affaire Laverdure c. Bélanger – le gars tue une fille et dit qu’il est schizo, il a été jugé au criminel et au civil)
+Est-ce que le défendeur a agi comme une personne raisonnable placée dans les mêmes circonstances ? (si on juge que la personne n’as pas agi comme une personne prudente et diligente, il est condamné) – le critère d’évaluation est abstract avec un élément concret (ex : nous ne pouvons pas poursuivre une personne qui a fait une chirurgie d’urgence dans les bois comparativement à un chirurgien dans une salle médicale)
+On peut regarder la réglementation pour fixer la norme de prudence pour préparer son dossier. (Ex : regarder le code de conduite – voir l’affaire Morin c. Blais… si nous avons un règlement de conduite qui couvre la norme élémentaire de prudence, y contrevenir peut donner recours en responsabilité civile.)
+La règle est la faute est subjective sauf dans certains contextes le législateur prévoit une faute objective :
+Le patron est responsable de son employé
+Le propriétaire d’un animal (art. 1466 C.c.Q.)
+Les troubles de voisinage (art. 976 C.c.Q.) – même en absence de faute, nous sommes responsable objectivement. 
+Le préjudice
+Art. 1607 C.c.Q. :
+Le créancier a droit à des dommages-intérêts en réparation du préjudice, qu’il soit corporel, moral ou matériel, que lui cause le défaut du débiteur et qui en est une suite immédiate et directe.
+Art. 1611 C.c.Q. :
+Les dommages-intérêts dus au créancier compensent la perte qu’il subit et le gain dont il est privé.
+On tient compte, pour les déterminer, du préjudice futur lorsqu’il est certain et qu’il est susceptible d’être évalué.
+Possible d’avoir des dommages punitifs aussi
+Un lien causal (basé sur les faits selon la balance des probabilités)
+Entre le préjudice et la faute. Le fardeau est sur les épaules de la victime par prépondérance des probabilité.
+Présomption de faits exceptionnellement : on a de la moulée pour les porcs, on décide de changer la moulée et ils développent une malformation on décide de revenir avec l’ancienne et les malformations disparaissent. La Cour d’appel a affirmé qu’il y avait un lien causal en la faute et le préjudice.
+Aussi, dans Morin c Blais a énoncé que lorsque l’accident que l’on voulait éviter dans la règlementation qui immédiatement est survenu, on pouvait en inférer une présomption de lien causal. L’accident a été causé en raison de l’absence d’un triangle en contravention à la règlementation sur la sécurité routière. 
+Section 3 : La responsabilité pour le fait ou la faute d’autrui et pour le bien
+L'art. 1457 C.c.Q. prévoit, à l'al. 3, qu'une personne peut être appelée à répondre du fait d'autrui ou d'un bien. Ces règles, qui sont prévues aux arts 1459 C.c.Q. et ss permettent habituellement à la victime de profiter d'un régime plus avantageux que le régime de responsabilité du fait personnel fondé sur la faute de l'art. 1457, al.1 et 2 C.c.Q.
+La responsabilité pour le fait ou la faute d’autrui
+**Ces recours peuvent être cumulatifs**
+La faute ou le fait du mineur – La responsabilité du titulaire de l’autorité parentale (art. 1459 C.c.Q.)
+Trois conditions :
+Il doit être titulaire de l’autorité parentale (art. 600 C.c.Q.)
+La minorité de l’auteur du fait dommageable, 18 ans et moins, sous réserve de l’art. 167 et ss C.c.Q. auquel cas les parents ne pourront pas être poursuivis
+La faute du mineur qui possède la capacité de discernement OU le fait objectivement fautif du mineur non doué de raison (art. 1462 C.c.Q.)
+Art.1462 C.c.Q :
+On ne peut être responsable du préjudice causé à autrui par le fait d’une personne non douée de raison que dans le cas où le comportement de celle-ci aurait été autrement considéré comme fautif.
+Un enfant de 4 ans qui lance des roches, donne un coup de couteau, mettre le feu ne commet pas de faute puisqu’il n’est pas doué de raison. Cependant, c’est un acte qui est objectivement fautif, de sorte qu’une personne douée de raison commettrait une faute en pareil cas alors, les titulaires de l’autorité parentale seront tenus responsables. 
+Un enfant qui échappe par terre un verre en vitre, ne sera pas une faute. 
+= Lorsque ces 3 éléments sont prouvés, il y a un renversement et les parents sont présumés fautifs. Ils devront prouvés qu’il n’a pas été mal éduqué, mal surveillé ou mal gardé. Ça va dépendre de l’âge de l’enfant et du niveau de surveillance nécessaire. Pour l’éducation, ce ne sera pas seulement concernant l’acte fautif, mais plutôt l’éducation en général. Faire témoigner les voisins.
+Exemple Pitre c Tremblay, 1990 : jeune adolescent qui frappe un autre qui harcelait sa copine. Les 3 éléments sont rencontrés et il y a présomption de faute. Ensuite, les parents devaient prouver une bonne éducation. La preuve révèle relativement à l’éducation que l’ado à 15 ans conduisait la voiture sans permis et que sa copine de 13 ans couchait à la maison. Cela a été considéré comme une mauvaise éducation. 
+La faute ou le fait du mineur – La responsabilité du titulaire déchu de l’autorité parentale (art. 1459, al.2 C.c.Q.)
+Quatre conditions :
+La minorité de l’auteur du fait dommageable, 18 ans et moins, sous réserve de l’art. 167 et ss C.c.Q auquel cas les parents ne pourront pas être poursuivis
+La faute du mineur qui possède la capacité de discernement OU le fait objectivement fautif du mineur non doué de raison (art. 1462 C.c.Q.)
+Le fait d’avoir été déchu de l’autorité parentale avant la survenance du fait dommageable
+Le lien entre la faute ou le fait du mineur et la mauvaise éducation reçus du parent déchu de l’autorité parentale
+Le parent déchu conserve une certaine responsabilité en matière de responsabilité civile. On pourrait poursuivre le titulaire de l’autorité parentale et le parent déchu pour la faute ou le fait du mineur. 
+La faute ou le fait du mineur – La responsabilité de la personne qui se voit confier le mineur à titre onéreux (art. 1460, al.1 C.c.Q.)
+Exemple : moniteur de camp de vacances, professeur, sauveteur, instituteur, celui qui garde des enfants…c’est large
+Quatre conditions :
+La minorité de l’auteur du fait dommageable
+On se voit confier, par délégation ou autrement, la garde, la surveillance ou l’éducation
+La faute du mineur ou le fait objectivement fautif du mineur non doué de raison (art. 1462 C.c.Q.)
+L’exercice de la garde ne survient pas à titre gratuit ou moyennant récompense (sinon c’est l’art. 1460, l’al.2 C.c.Q. qui s’applique et il n’y a pas de présomption de faute)
+= Quand c’est conditions sont prouvés, comme pour les parents, il y a un renversement du fardeau. Ces personnes devront prouver qu’ils ont bien surveiller l’enfant compte tenu des circonstances. Ce ne sera pas une question d’éducation.
+La faute ou le fait du mineur – La responsabilité de la personne qui se voit confier le mineur à titre gratuit ou moyennant récompense (art. 1460, al.2 C.c.Q.)
+Contrairement aux parents ou à ceux qui le font moyennant rémunération, la personne qui le fait gratuitement n’est pas présumée fautive. La victime devra alors prouver la faute dans la surveillance. C’est le pendant de l’art. 1457 C.c.Q.
+Si c’est moyennant une récompense, pour une somme modique, elle ne sera pas tenue responsable. On parle ici de la gardienne de soir. 
+Le fait du majeur non doué de raison : la responsabilité du tuteur, du curateur ou du gardien (art. 1461 C.c.Q.)
+Il n’est pas question de faute ici, mais bien d’un fait. On doit lire l’art. 1461 avec l’art. 1462 C.c.Q. 
+Est-ce que ces actes commis par une personne douée de raison sont objectivement fautif ? 
+Ces personnes ne seront responsables que s’il est prouvé qu’ils ont commis une faute lourde ou intentionnelle dans la garde et la surveillance du majeur non doué de raison.
+Art. 1474 C.c.Q. :
+Une personne ne peut exclure ou limiter sa responsabilité pour le préjudice matériel causé à autrui par une faute intentionnelle ou une faute lourde; la faute lourde est celle qui dénote une insouciance, une imprudence ou une négligence grossières.
+Elle ne peut aucunement exclure ou limiter sa responsabilité pour le préjudice corporel ou moral causé à autrui.
+La faute du préposé : la responsabilité du commettant (art. 1463 C.c.Q.)
+Trois conditions :
+ La faute du préposé : si le préposé n’est pas doué de raison, le régime ne s’applique pas. 
+Lien de préposition entre le commettant et le préposé : subordination, le contrôle d’une autre personne (fournir les outils, horaire…)
+La survenance de la faute du préposé dans l’exécution de ses fonctions : lorsque le préposé a commis l’acte dommageable, est-ce qu’il le faisait d’une certaine façon pour le bénéfice du patron ? Si ce n’est que pour son bénéfice personnelle, ce n’est pas inclus dans ce régime, mais si c’était concurrent ou que pour le patron, ça entre
+Exemple : un policier qui décide de mettre du plomb dans sa matraque pour frapper plus fort. Il frappe et blesse sérieusement la personne. Est-ce qu’il était dans l’exercice de ses fonctions ? Il y a un bénéfice concurrent, voulait mettre fin à la manifestation illégale, mais en même temps il se faisait plaisir en frappant plus fort (on peut considérer qu’il est dans l’exécution de ses fonctions)
+Exemple : individu dans un restaurant, il commande un smoke meat avec cornichons et puis un 2ème, un 3ème et au 4ème, la serveuse va lui dire non. L’individu était à l’extérieur et va se rendre à l’intérieur pour prendre un cornichon et le gérant va lui donner un coup de couvercle et va le blesser. Les individus se connaissaient déjà et avaient une dispute personnelle : ce ne sera pas dans l’exécution des fonctions, mais s’il protégeait les cornichons, ce sera inclue. 
+Exemple : compagnie de construction dans le centre-ville et il y a la compagnie Garda qui surveille les lieux. Un préposé surveillant décide de mettre le feu à l’endroit et d’y mettre fin pour paraitre comme un héro. Les pompiers ont dû intervenir pour cesser le feu et des dommages de plus centaine de milliers de $ ont été causés. Lorsqu’il a fait cela est-ce qu’il était dans l’exercice de ses fonctions ? La Cour vient dire que oui puisqu’il avait un bénéfice personnel et il le faisait pour montrer que Garda avait de supers employés.
+= Lorsque ces trois éléments sont prouvés, il y a une présomption qui va s’établir. Quasi-obligation objective du commettant. Le commettant devra démontrer que son préposé n’a pas commis de faute, que ce n’était pas son préposé, qu’il n’était pas dans l’exécution de ses fonctions. Les moyens de défenses généraux : la faute de la victime, la force majeure…¨ 
+La responsabilité du fait des biens 
+Vrai/Faux
+Le propriétaire d’un animal peut invoquer comme moyen de défense à l’encontre du fait fautif de celui-ci qu’il s’est égaré ou échappé.
+Faux, le fait que l’animal se soit égaré ou échappé n’est pas un moyen de défense art. 1466, al. 1 C.c.Q. in fine.
+Le fait autonome du gardien du bien (art. 1465 C.c.Q.)
+Art. 1465 C.c.Q. : application qu’en matière extracontractuelle
+Le gardien d’un bien est tenu de réparer le préjudice causé par le fait autonome de celui-ci, à moins qu’il prouve n’avoir commis aucune faute.
+Trois conditions :
+Le gardien du bien : généralement le propriétaire du bien, mais parfois le locataire
+Un bien : interprétation large
+Le fait autonome du bien : un mouvement indépendant du bien
+= Présomption de faute à l’égard du gardien. Le gardien pourra utiliser la défense de la force majeure, de la faute de la victime. Aussi, démontrer qu’il n’a commis aucune faute par exemple en affirmant que quand le bien ne fonctionnait pas bien, il est allé le réparer et c’est peut-être lui qui ne l’a pas bien réparé. Gardien prudent et diligent.
+Le fait de l’animal – La responsabilité du propriétaire et du gardien (art. 1466 C.c.Q.)
+Deux conditions :
+Le fait d’un animal : chien, chevaux, chat. Pas nécessairement une morsure, ça peut être le fait de se tasser par peur de l’animal, pas besoin d’un contact physique
+La propriété de l’animal ou l’usage de l’animal (art. 1466, al.2 C.c.Q.) : confié la garde d’un animal (usage). Si fait garder mon animal, la responsabilité est cumulative, à la fois au gardien et au propriétaire. Le propriétaire peut toujours se retourner par contre le gardien
+Présomption de responsabilité. Moyens de défense très limités. La première est la force majeure si le chien par peur a changé de comportement. La seconde, la faute de la victime si elle flatte un chien dans le stationnement.
+La ruine de l’immeuble – La responsabilité du propriétaire (art. 1467 C.c.Q.)
+Quatre conditions :
+La propriété de l’immeuble, c’est le propriétaire au moment de l’accident que l’on poursuit
+Un bien immeuble (arts. 900 et ss C.c.Q.)
+La ruine totale ou partielle de l’immeuble : balcon décrépit, un trou….
+L’existence d’un défaut d’entretien ou d’un vice de construction à l’origine de la ruine : ça peut être l’erreur de l’architecte, mais c’est tout de même contre le propriétaire que le recours sera effectué. Par contre, le propriétaire pourra se retourner contre l’architecte
+= Présomption de responsabilité de la part du propriétaire. Même s’il est propriétaire que depuis 1 journée !! Les moyens de défense : force majeure, faute de la victime.
+** Puisque c’est une présomption légale, elle ne s’applique pas au contrat. Le locataire ne peut pas l’utiliser contre le propriétaire. Aussi, il est possible pour la victime de cumuler le recours de l’art. 1467 C.c.Q. avec le fait autonome du bien à l’art. 1465 C.c.Q. **
+Le défaut de sécurité du produit – La responsabilité du fabricant et des autres intermédiaires de la chaîne de distribution (art. 1468 C.c.Q.)
+Quatre conditions :
+Être un tiers : pas un cocontractant
+Un bien meuble 
+La qualité du fabriquant, de distributeur ou de fournisseur :
+Fabriquant  transforme la matière
+Distributeur  généralement un intermédiaire entre le fabriquant et le fournisseur
+Fournisseur  à l’autre extrémité de la chaîne de distribution, met le produit sur le marché
+La preuve d’un défaut de sécurité du bien (art. 1469 C.c.Q.) : la victime n’a qu’à prouver l’existence d’un défaut sans plus
+D’un vice de conception, de fabrication, de conservation ou de présentation
+D’un manque d’information
+= Présomption de responsabilité
+Section 4 : Les cas d’exonération
+Vrai/Faux 
+Les deux seuls moyens d'exonération sont la force majeure et la faute de la victime
+Faux, il existe d'autres moyens d'exonération. La présente section vous présente les moyens généraux d'exonération de même que certains moyens particuliers.
+Les moyens généraux d’exonération
+La force majeure 
+Art. 1470 C.c.Q. : 
+Toute personne peut se dégager de sa responsabilité pour le préjudice causé à autrui si elle prouve que le préjudice résulte d’une force majeure, à moins qu’elle ne se soit engagée à le réparer.
+La force majeure est un événement imprévisible et irrésistible; y est assimilée la cause étrangère qui présente ces mêmes caractères.
+La rupture du lien causal (novus actus)
+Événement qui survient après la faute initiale et qui est aussi grave ou plus grave que le premier et coupe le lien causal avec le premier. 
+Exemple : fire works a laissé une pièce pyrotechnique à un enfant qui lui a été confisqué par son père. Le père l’a donné à l’un de ses employés qui l’a fait exploser en présence de l’enfant. L’enfant n’a pas été indemnisé par fire works.
+Faute d’un tiers
+En présence d’une autre personne qui commet une faute, on l’ajoute simplement aux personnes débitrices et en vertu de l’art. 1526 C.c.Q. et de l’art. 1528 C.c.Q. on peut plaider pour qu’il ait absence de possibilité division du recours pour la faute personnelle commise. Ils seront poursuivis pour le tout solidairement. 
+Par contre, si un tiers commet une faute telle qu’il y a une rupture du lien causal, il ne pourra poursuivre que celui-ci.
+La victime commet une faute (art. 1478 C.c.Q.)
+Art. 1478 C.c.Q. :
+Lorsque le préjudice est causé par plusieurs personnes, la responsabilité se partage entre elles en proportion de la gravité de leur faute respective.
+La faute de la victime, commune dans ses effets avec celle de l’auteur, entraîne également un tel partage.
+Si la faute est commise par un enfant, on ne doit pas en tenir compte puisqu’il n’est pas doué de raison. On pourra obtenir 100% des dommages (« faute de la victime)
+Entre les deux on va y aller avec la gravité des fautes commises, mais à l’égard de la victime on ne peut jamais lui opposer la possibilité d’aller chercher cette part. La victime est chanceuse, elle bénéficie de la solidarité et va chercher un montant de l’un et de l’autre. L’al.1 ne s’applique qu’entre les différentes parties fautives, à l’exclusion de la victime.
+Les cas particuliers d’exonération
+Acceptation des risques
+Art. 1477 C.c.Q. :
+L’acceptation de risques par la victime, même si elle peut, eu égard aux circonstances, être considérée comme une imprudence, n’emporte pas renonciation à son recours contre l’auteur du préjudice.
+Beaucoup plus difficile de poursuivre le responsable de l’accident lorsque nous avons une connaissance des risques, que nous acceptons ces risques et que ce sont ces risques qui se matérialisent. On va se faire reprocher une faute contributoire de la part de la victime (art. 1478 C.c.Q.) – mais nous n’avons pas exonération complète.
+La minimisation du préjudice
+On a le préjudice et la victime n’a pas pris les mesures raisonnables pour l’aggravation du risque.
+Obligation de moyen
+Art. 1479 C.c.Q. :
+La personne qui est tenue de réparer un préjudice ne répond pas de l’aggravation de ce préjudice que la victime pouvait éviter.
+L’absence de faute lourde ou intentionnelle du « bon samaritain »
+Si vous portez secours et que vous blessez la personne, vous ne pourrez pas être poursuivit en l’absence d’une faute lourde ou intentionnelle. La faute simple n’est pas suffisante.
+Art. 1471 C.c.Q. :
+La personne qui porte secours à autrui ou qui, dans un but désintéressé, dispose gratuitement de biens au profit d’autrui est exonérée de toute responsabilité pour le préjudice qui peut en résulter, à moins que ce préjudice ne soit dû à sa faute intentionnelle ou à sa faute lourde.
+Faute lourde (art. 1474 C.c.Q.)
+Porter secours est prévu dans la Charte québécoise
+ Le motif légitime en cas de divulgation du secret commercial
+Art. 1472 C.c.Q. :
+Toute personne peut se dégager de sa responsabilité pour le préjudice causé à autrui par suite de la divulgation d’un secret commercial si elle prouve que l’intérêt général l’emportait sur le maintien du secret et, notamment, que la divulgation de celui-ci était justifiée par des motifs liés à la santé ou à la sécurité du public.
+Exemple : une personne dans une entreprise s’aperçoit qu’un produit est très dangereux pour la santé, il pourrait révéler l’information et se retrouver protéger
+L’avis d’exclusion ou de l’imitation de responsabilité à l’égard des tiers
+Pour le régime contractuelle c’est possible, mais on ne peut jamais limiter notre responsabilité pour une faute lourde ou intentionnelle. Aussi, pour un préjudice corporel en vertu de l’art. 1474, al.2 C.c.Q. On retrouve aussi à l’art. 10 de la loi sur la protection du consommateur cette restriction. 
+L’art. 1475 C.c.Q. précise que la personne doit en prendre connaissance et il faut que ce soit à la conclusion du contrat. 
+En extracontractuelle ces clauses ne sont pas valides (voir l’art. 1476 C.c.Q.)
+Art. 1476 C.c.Q. :
+On ne peut, par un avis, exclure ou limiter, à l’égard des tiers, son obligation de réparer; mais, pareil avis peut valoir dénonciation d’un danger.
+Une affiche écrit danger ce n’est pas suffisamment détaillé

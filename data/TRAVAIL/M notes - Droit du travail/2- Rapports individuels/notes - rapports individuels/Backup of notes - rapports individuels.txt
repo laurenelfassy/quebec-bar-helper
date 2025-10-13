@@ -1,0 +1,204 @@
+DROIT DU TRAVAIL – LES RAPPORTS INDIVIDUELS
+Section 1 : le Code du travail
+Vrai/Faux
+Un contrat de travail c’est :
+Une entente écrite par laquelle un travailleur autonome accepte, pour un temps limité, de travailler sous la direction et le contrôle d’un employeur moyennant rémunération.
+Faux, le contrat de travail est défini à l’art.2085 C.c.Q. Il n’a pas besoin d’être consigné dans un écrit et il doit répondre aux caractéristiques suivantes : la présence d’une prestation de travail sous la direction ou le contrôle d’un employeur contre rémunération.
+La personne qui veut se prévaloir de ses droits en vertu de la loi sur les accidents de travail, de la loi sur les normes ou encore de la loi sur la santé et la sécurité, elle doit avoir un contrat de travail. Une personne en possession d’un contrat d’entreprise ou de service ne pourrait pas bénéficier des avantages de la législation.
+Définition et caractéristiques du contrat de travail
+Art. 2085 C.c.Q. :
+Le contrat de travail est celui par lequel une personne, le salarié, s’oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d’une autre personne, l’employeur.
+Le contrat n’impose aucune formalité, le Code n’impose pas qu’il soit constitué dans un écrit
+2 personnes : salarié – employeur
+Inclue tous les salariés, que ce soit un cadre ou encore un cadre supérieur
+3 caractéristiques au contrat de travail :
+Une prestation de travail
+Une rémunération
+Une subordination juridique (direction ou contrôle de l’employeur)
+Le lien de subordination nous permet de distinguer le contrat de travail du contrat d’entreprise (voir l’art. 2099 C.c.Q. a contrario)
+Art. 2099 C.c.Q.:
+L’entrepreneur ou le prestataire de services a le libre choix des moyens d’exécution du contrat et il n’existe entre lui et le client aucun lien de subordination quant à son exécution.
+Voici la distinction entre un contrat de service ou d’entreprise avec celui du travail
+La jurisprudence a développé des critères afin d’analyser s’il y a un contrôle ou une direction de la part de l’employeur envers le salarié. 
+Ce n’est d’abord pas parce que le contrat se nomme contrat de travail qu’il possède les attribut d’un tel contrat. Chaque cas est un cas d’espèce et voici quelques indices tirés de la jurisprudence :
+Qui est propriétaire des outils ? Si c’est l’employeur ça penche vers un contrat de travail
+Est-ce qu’il y a un horaire de travail obligatoire ?
+Est-ce qu’il y a un port d’uniforme obligatoire ?
+Est-ce qu’il y a des déductions à la source qui sont effectuées ?
+Est-ce qu’on oblige la personne elle-même a exécuter le travail ?
+Les obligations des parties 
+Vrai/Faux
+Chaque salarié est soumis à une obligation de loyauté.
+Vrai, L’obligation de loyauté s’impose à chaque salarié. Cependant, son intensité va varier en fonction du poste occupé dans l’entreprise.
+Les obligations du salarié
+Art. 2088 C.c.Q.:
+Le salarié, outre qu’il est tenu d’exécuter son travail avec prudence et diligence, doit agir avec loyauté et honnêteté et ne pas faire usage de l’information à caractère confidentiel qu’il obtient dans l’exécution ou à l’occasion de son travail.
+Ces obligations survivent pendant un délai raisonnable après cessation du contrat, et survivent en tout temps lorsque l’information réfère à la réputation et à la vie privée d’autrui.
+En somme al.1 : 
+Exécuter sa prestation de travail avec prudence et diligence
+Donc cela englobe d’être apte, d’avoir les compétences et les qualités requises pour exécuter son travail
+Agir avec loyauté
+Obligation implicite à tout contrat de contrat contrairement à la clause de non-concurrence. 
+(1) Le salarié doit être honnête envers son employeur. (2) Il ne doit pas se placer aussi en placer en situation de conflit d’intérêt. (3) Cette obligation s’impose à tout salarié, mais en fonction du poste occupé, le degré de loyauté va varier. 
+Ne pas faire l’usage de l’information confidentielle
+Il ne peut pas partir avec une liste de clients pour faire de la sollicitation pour un autre produit
+En somme al.2 :
+Même en cas de rupture du contrat de travail l’obligation de loyauté va tenir. Ça va l’empêcher d’utiliser des moyens déloyaux envers son ancien employeur. Il pourra se faire engager par un compétiteur sauf si une clause de non-concurrence impose un délai ou une restriction à cet effet. 
+La jurisprudence s’est intéressée à savoir si la sollicitation d’anciens clients constituaient une transgression de l’obligation de loyauté. Généralement, si la sollicitation n’est pas agressive ce ne sera pas considérée comme une violation. Ce sera le contraire par contre, si je quitte avec une liste de clients et que je les appelle pour leur offrir mes services avec en boni une réduction de prix, des avantages… 
+Pendant mon emploi, est-ce que je peux postuler chez un autre employeur ? Oui, la personne peut, ça ne transgresse pas l’obligation de loyauté.
+La clause de non-concurrence
+D’autres obligations aux salariés peuvent lui être imposées. À ce moment-là, ce ne sera pas implicite mais bien expressément prévu au contrat. 
+Art. 2089 C.c.Q.:
+Les parties peuvent, par écrit et en termes exprès, stipuler que, même après la fin du contrat, le salarié ne pourra faire concurrence à l’employeur ni participer à quelque titre que ce soit à une entreprise qui lui ferait concurrence.
+Toutefois, cette stipulation doit être limitée, quant au temps, au lieu et au genre de travail, à ce qui est nécessaire pour protéger les intérêts légitimes de l’employeur.
+Il incombe à l’employeur de prouver que cette stipulation est valide.
+Interprétation restrictive
+Si l’une des conditions n’est pas respectée, la clause sera déclarée invalide
+Conditions pour la clause soit valide :
+Elle doit être écrite (al.1)
+Elle doit être en terme express alors s’il existe une ambiguïté quant à la clause, la clause peut être déclarée illégale et ne produire aucun effet (al.1)
+Est-ce qu’une clause par palier est possible ? Par exemple, la clause prévoit que la durée va varier en fonction du temps de travail (entre 1 et 5 ans, la durée a une durée de 12 mois…). La Cour d’appel est venue préciser que la clause ne respecte pas le terme express
+Elle doit être limitée dans le temps pour une période raisonnable (al.2)
+La jurisprudence prétend qu’une période entre 12 et 18 moins c’est raisonnable dépendamment des domaines d’activité
+Si la durée est trop grande, est-ce que le juge peut ramener la durée à une période raisonnable ? Non
+ Elle doit être limitée au lieu où l’entreprise exerce ses fonctions (al.2)
+Exemple : si l’entreprise n’exerce ses activités qu’à Montréal et bien, la clause ne peut pas s’étendre plus loin que la ville de Montréal
+Elle doit être limitée quant au genre de travail prohibé (al.2)
+Art. 2095 C.c.Q.:
+L’employeur ne peut se prévaloir d’une stipulation de non-concurrence, s’il a résilié le contrat sans motif sérieux ou s’il a lui-même donné au salarié un tel motif de résiliation.
+(1) Rupture du lien contractuel sans motif sérieux : le même que celui de l’art. 2094 C.c.Q., c’est-à-dire un motif qui est relié à la personne et non à une difficulté économique de l’entreprise ou à une réorganisation. (2) Rupture du lien contractuel puisque le salarié quitte lui-même alors que l’employeur agit pour que ce soit un congédiement déguisé. Par exemple : baisse des responsabilités, du salaire, modifie l’environnement de travail.
+La stipulation s’applique dans 2 circonstances : motif sérieux ou en cas de démission de la part du salarié
+Les obligations de l’employeur
+Art. 2087 C.c.Q. : 
+L’employeur, outre qu’il est tenu de permettre l’exécution de la prestation de travail convenue et de payer la rémunération fixée, doit prendre les mesures appropriées à la nature du travail, en vue de protéger la santé, la sécurité et la dignité du salarié.
+Obligations inclues :
+Permettre l’exécution du travail prévue à la conclusion du contrat
+Payer la rémunération
+Protéger la santé, la sécurité et la dignité du salarié (plus large portée que la loi sur la santé et sécurité qui ne s’applique pas aux cadres)
+La durée du contrat de travail
+Art. 2086 C.c.Q. :
+Le contrat de travail est à durée déterminée ou indéterminée.
+Est-ce qu’il existe un terme ou non ? Si non, les parties pourront y mettre fin en tout temps. 
+S’il existe un terme, il doit être pour une période fixe. 
+Art. 2090 C.c.Q.:
+Le contrat de travail est reconduit tacitement pour une durée indéterminée lorsque, après l’arrivée du terme, le salarié continue d’effectuer son travail durant cinq jours, sans opposition de la part de l’employeur.
+Transformation du contrat de travail déterminé en contrat indéterminé
+Il y aura des conséquences au niveau de la résiliation du contrat
+Cependant, l’employeur peut empêcher la reconduction tacite en conclu un nouveau contrat à durée déterminée de 1 mois. 
+La terminaison du contrat de travail
+Art. 1439 C.c.Q. : Le contrat ne peut être résolu, résilié, modifié ou révoqué que pour les causes reconnues par la loi ou de l’accord des parties.
+Art. 2093 C.c.Q.:
+Le décès du salarié met fin au contrat de travail.
+Le décès de l’employeur peut aussi, suivant les circonstances, y mettre fin.
+Art. 2091 C.c.Q. :
+Chacune des parties à un contrat à durée indéterminée peut y mettre fin en donnant à l’autre un délai de congé.
+Le délai de congé doit être raisonnable et tenir compte, notamment, de la nature de l’emploi, des circonstances particulières dans lesquelles il s’exerce et de la durée de la prestation de travail.
+Préavis de congé = synonyme d’un délai de départ. Une période de temps raisonnable.
+La jurisprudence ajoute des critères : l’âge, poste occupé, des années de services, des motifs de la résiliation
+C’est possible de substituer au préavis un montant
+A contrario, un contrat déterminé ne nécessite pas de préavis
+La disposition s’applique autant au salarié qu’à l’employeur alors, le salarié désirant quitter doit donner un délai de congé suffisant
+Vrai/Faux
+En vertu du C.c.Q., un employeur doit justifier d’un motif sérieux pour mettre fin au contrat de travail d’un salarié
+Faux, selon l’art. 2091 C.c.Q. Cependant, cette règle est tempérée par de nombreuses lois particulières notamment la Loi sur les normes du travail. Il peut congédier sans motif. S’il possède cependant un motif sérieux, il n’aura pas à donner un préavis (art. 2094 C.c.Q.). 
+Art. 2094 C.c.Q. :
+Une partie peut, pour un motif sérieux, résilier unilatéralement et sans préavis le contrat de travail.
+Motif sérieux : faute du salarié. Une raison économique n’est pas un motif sérieux au sens du C.c.Q. Toutefois, la Lnt affirme que c’est un motif sérieux alors, on doit faire attention.
+Préavis de congé = synonyme d’un délai de départ
+Art. 2092 C.c.Q.: clause de renonciation
+Le salarié ne peut renoncer au droit qu’il a d’obtenir une indemnité en réparation du préjudice qu’il subit, lorsque le délai de congé est insuffisant ou que la résiliation est faite de manière abusive.
+Les parties peuvent prévoir contractuellement un préavis. 
+Exemple : préavis de 2 mois prévu au contrat de travail. Après 2 ans de services continus, si l’employeur désire résilier le contrat, il le pourra. Cependant, pour un employé ayant travaillé 30 ans, le préavis de 2 mois est déraisonnable et en ce sens, le tribunal pourrait intervenir et l’annuler.
+Mettre une clause dite par palier (la préavis sera de 1 an après 10 ans …)
+Les recours lors de la terminaison d’emploi
+La personne qui le lendemain de la résiliation de son contrat de travail se trouve un emploi tout autant rémunérateur n’aura pas de recours envers son employeur.
+Entre la fin de son emploi et la décision du tribunal, l’ancien salarié doit se chercher (1) activement un nouvel emploi comparable à celui qu’il avait avant et (2) pas refuser une offre. 
+Par exemple : si le salarié estime avoir droit à un préavis de 6 mois selon les critères de l’art. 2091 C.c.Q. À ce moment-là, il pourra s’adresser au tribunal de droit commun. Si dans cette période, il trouve un nouvel emploi pendant 1 mois, le tribunal réduira l’indemnité de 6 à 5 mois. 
+Si le salarié a obtenu des prestations d’assurance emploi, il devra les rembourser. 
+Est-ce que le salarié a le droit à des dommages-intérêts pour un préjudice moral résultant de son congédiement ? – congédiement n’est pas une faute. 
+Non, rien d’autre que la durée du délai congé pour cette indemnisation. Par contre, si ailleurs du congédiement, l’employeur commet une faute, il pourrait avoir une réclamation. 
+Exemple : résiliation du contrat puisque l’employeur prétend que le salarié a volé alors que ce ne sont que de fausses prétentions. À ce moment il peut obtenir des dommage-intérêt à cause de la faut civil (fasse accusation de vol). 
+Art. 1479 C.c.Q. :
+La personne qui est tenue de réparer un préjudice ne répond pas de l’aggravation de ce préjudice que la victime pouvait éviter.
+Art. 2925 C.c.Q. : 
+L’action qui tend à faire valoir un droit personnel ou un droit réel mobilier et dont le délai de prescription n’est pas autrement fixé se prescrit par trois ans.
+Quiz - Choisissez la bonne réponse
+Qu’arrive-t-il avec le contrat de travail des salariés en cas d’aliénation (vente) de l’entreprise?
+Le contrat de travail est résilié
+Le contrat de travail demeure inchangé
+Le contrat de travail est modifié à la seule guise du nouvel employeur
+b), En cas d’aliénation de l’entreprise, l’art. 2097 C.c.Q. assure la continuité du contrat de travail et l’art. 97 de la Loi sur les normes assure la continuité d’application des normes du travail auprès du nouvel employeur.
+Section 2 : La loi sur les normes du travail 
+Art. 1 (10) Lnt « salarié » : 
+une personne qui travaille pour un employeur et qui a droit à un salaire; ce mot comprend en outre le travailleur partie à un contrat en vertu duquel :
+il s’oblige envers une personne à exécuter un travail déterminé dans le cadre et selon les méthodes et les moyens que cette personne détermine;
+il s’oblige à fournir, pour l’exécution du contrat, le matériel, l’équipement, les matières premières ou la marchandise choisis par cette personne, et à les utiliser de la façon qu’elle indique;
+il conserve, à titre de rémunération, le montant qui lui reste de la somme reçue conformément au contrat, après déduction des frais d’exécution de ce contrat;
+Elle comprend le salarié prévu à l’art. 2085 C.c.Q. et l’entrepreneur dépendant
+Élargissement du mot salarié comparativement au C.c.Q.
+Art. 1 (12) Lnt « service continu » : 
+la durée ininterrompue pendant laquelle le salarié est lié à l’employeur par un contrat de travail, même si l’exécution du travail a été interrompue sans qu’il y ait résiliation du contrat, et la période pendant laquelle se succèdent des contrats à durée déterminée sans une interruption qui, dans les circonstances, permette de conclure à un non-renouvellement de contrat.
+Plusieurs normes vont s’appliquer : congédiement pour cause juste et suffisante qui dispose de plus de 2 ans de service continu
+Exemple : congé sans solde, femme en congé de maternité (ils accumulent du service continu, mais cependant pas de l’ancienneté au sens de la loi)
+In fine : contrat de 1 an renouvelé pour une autre année équivaut à 2 ans de services continus, même si juridiquement ce sont des contrats déterminés sauf s’il y a une interruption entre les 2 contrats assimilable à une résiliation. 
+Art. 93 Lnt : d’ordre public
+Sous réserve d’une dérogation permise par la présente loi, les normes du travail contenues dans la présente loi et les règlements sont d’ordre public.
+Une disposition d’une convention ou d’un décret qui déroge à une norme du travail est nulle de nullité absolue.
+Exemple : Salaire minimum ne peut y déroger malgré stipulation 
+Art. 94 Lnt : les seules permises
+Malgré l’article 93, une convention ou un décret peut avoir pour effet d’accorder à un salarié une condition de travail plus avantageuse qu’une norme prévue par la présente loi ou les règlements.
+*La loi crée un organisme qui voit à l’application et au respect de celle-ci, soit la Commission des normes, de l’équité, de la santé et de la sécurité du travail*
+Personnes exclues par la loi
+Art. 3 Lnt :
+La présente loi ne s’applique pas :
+2°	au salarié dont la fonction exclusive est d’assumer la garde ou de prendre soin d’un enfant, d’un malade, d’une personne handicapée ou d’une personne âgée, dans le logement de cette personne, y compris, le cas échéant, d’effectuer des travaux ménagers qui sont directement reliés aux besoins immédiats de cette personne, lorsque cette fonction est exercée de manière ponctuelle, sauf si l’employeur poursuit au moyen de ce travail des fins lucratives, ou encore est fondée uniquement sur une relation d’entraide familiale ou d’entraide dans la communauté;
+3°	au salarié régi par la Loi sur les relations du travail, la formation professionnelle et la gestion de la main-d’œuvre dans l’industrie de la construction (chapitre R-20), sauf les normes visées au deuxième alinéa de l’article 79.1, à l’article 79.6.1, aux quatre premiers alinéas de l’article 79.7, aux articles 79.8 à 79.15, au premier alinéa de l’article 79.16, aux articles 81.1 à 81.20 et, lorsqu’ils sont relatifs à l’une de ces normes, les deuxième, troisième et quatrième alinéas de l’article 74, le paragraphe 6° de l’article 89, la section IX du chapitre IV, les sections I, II et II.1 du chapitre V et le chapitre VII;
+4°	au salarié visé dans les sous-paragraphes i, ii et iii du paragraphe 10° de l’article 1 si le gouvernement détermine par règlement en vertu d’une autre loi, la rémunération de ce salarié ou le tarif qui lui est applicable;
+5°	à un étudiant qui travaille au cours de l’année scolaire dans un établissement choisi par un établissement d’enseignement et en vertu d’un programme d’initiation au travail approuvé par le ministère de l’Éducation, du Loisir et du Sport ou par le ministère de l’Enseignement supérieur, de la Recherche, de la Science et de la Technologie;
+5°1	à un athlète dont l’appartenance à une équipe sportive est conditionnelle à la poursuite d’un programme de formation scolaire;
+6°	à un cadre supérieur, sauf les normes visées au deuxième alinéa de l’article 79.1, à l’article 79.6.1, aux quatre premiers alinéas de l’article 79.7, aux articles 79.8 à 79.15, au premier alinéa de l’article 79.16, aux articles 81.1 à 81.20 et, lorsqu’ils sont relatifs à l’une de ces normes, les deuxième, troisième et quatrième alinéas de l’article 74, le paragraphe 6° de l’article 89, la section IX du chapitre IV, les sections I, II et II.1 du chapitre V et le chapitre VII.
+Interprétation restrictivement
+Cadre supérieur : relève directement du conseil d’administration. Donne des orientation à l’entreprise, en haut de la hiérarchie.
+Vrai/Faux
+Selon la Loi sur les normes du travail, un cadre n’est pas un salarié.
+Faux, le cadre n’est pas exclu de la définition de salarié à l’art. 1(10) Lnt. Toutefois, l’art. 3 (6) de la L.n.t. prévoit que la loi ne s’applique pas au cadre supérieur sauf pour les quelques normes qui y sont mentionnées.
+Les recours découlant de la Lnt 
+La réclamation pécuniaire (arts. 98-121 Lnt)
+Par exemple : salarié qui n’a pas reçu son plein salaire, pas rémunéré pour une journée férié. 
+Deux possibilités : directement au tribunaux communs ou à la Commission. La Commission peut aussi faire une enquête de son initiative. 
+ Les pratiques interdites (art. 122 Lnt)
+Protéger le salarié qui se trouvent dans une situation décrite à l’art. 122 Lnt.
+Art. 122 Lnt :
+Il est interdit à un employeur ou à son agent de congédier, de suspendre ou de déplacer un salarié, d’exercer à son endroit des mesures discriminatoires ou des représailles ou de lui imposer toute autre sanction:
+1°	à cause de l’exercice par ce salarié d’un droit, autre que celui visé à l’article 84.1, qui lui résulte de la présente loi ou d’un règlement;
+1.1°	en raison d’une enquête effectuée par la Commission dans un établissement de cet employeur;
+2°	pour le motif que ce salarié a fourni des renseignements à la Commission ou à l’un de ses représentants sur l’application des normes du travail ou qu’il a témoigné dans une poursuite s’y rapportant;
+3°	pour la raison qu’une saisie en mains tierces a été pratiquée à l’égard du salarié ou peut l’être;
+3.1°	pour le motif que le salarié est un débiteur alimentaire assujetti à la Loi facilitant le paiement des pensions alimentaires (chapitre P‐2.2);
+4°	pour la raison qu’une salariée est enceinte;
+5°	dans le but d’éluder l’application de la présente loi ou d’un règlement;
+6°	pour le motif que le salarié a refusé de travailler au-delà de ses heures habituelles de travail parce que sa présence était nécessaire pour remplir des obligations reliées à la garde, à la santé ou à l’éducation de son enfant ou de l’enfant de son conjoint, ou en raison de l’état de santé d’un parent au sens de l’article 79.6.1 ou d’une personne pour laquelle le salarié agit comme proche aidant, bien qu’il ait pris les moyens raisonnables à sa disposition pour assumer autrement ces obligations;
+7°	en raison d’une dénonciation faite par un salarié d’un acte répréhensible au sens de la Loi concernant la lutte contre la corruption (chapitre L-6.1), d’un manquement à une loi visée à l’article 7 de la Loi sur l’encadrement du secteur financier (chapitre E-6.1) ou de sa collaboration à une vérification ou à une enquête portant sur un tel acte ou un tel manquement;
+8°	en raison de l’exercice par ce salarié d’un droit qui lui résulte de la Loi sur les régimes volontaires d’épargne-retraite (chapitre R-17.0.1);
+9°	dans le but d’éluder l’application de la Loi sur les régimes volontaires d’épargne-retraite;
+10°	en raison d’une communication faite par un salarié à l’inspecteur général de la Ville de Montréal ou de sa collaboration à une inspection menée par ce dernier en application des dispositions de la section VI.0.1 du chapitre II de la Charte de la Ville de Montréal, métropole du Québec (chapitre C-11.4);
+11°	en raison de la divulgation d’un acte répréhensible faite de bonne foi par le salarié ou de sa collaboration à une vérification ou à une enquête portant sur un tel acte, conformément à la Loi facilitant la divulgation d’actes répréhensibles à l’égard des organismes publics (chapitre D-11.1) ou au chapitre VII.2 de la Loi sur les services de garde éducatifs à l’enfance (chapitre S-4.1.1);
+12°	en raison d’un signalement fait par un salarié ou de sa collaboration à l’examen d’un signalement ou d’une plainte en application des dispositions de la Loi visant à lutter contre la maltraitance envers les aînés et toute autre personne majeure en situation de vulnérabilité (chapitre L-6.3);
+13°	pour le motif que le salarié a transmis au syndic d’un ordre professionnel une information selon laquelle un professionnel a commis une infraction visée à l’article 116 du Code des professions (chapitre C-26);
+14°	en raison d’une communication de renseignements faite de bonne foi par ce salarié en vertu de l’article 56 de la Loi sur l'Autorité des marchés publics (chapitre A-33.2.1) ou de sa collaboration à une vérification ou à une enquête menée en raison d’une telle communication;
+15°	en raison d’une communication de renseignements faite de bonne foi par ce salarié en vertu de l’article 20 de la Loi sur l’éthique et la déontologie en matière municipale (chapitre E-15.1.0.1) ou de sa collaboration à une recherche de renseignements ou à une enquête menée par la Commission municipale du Québec en application de la section I du chapitre III de cette loi;
+16°	pour le motif qu’il a de bonne foi communiqué à la Commission de la construction du Québec un renseignement visé à l’article 123.6 de la Loi sur les relations du travail, la formation professionnelle et la gestion de la main-d’oeuvre dans l’industrie de la construction (chapitre R-20) ou collaboré à une enquête, à une vérification ou à un contrôle mené en raison d’une telle communication;
+17°	pour le motif qu’il a de bonne foi communiqué à la Régie du bâtiment du Québec un renseignement en vertu de l’article 129.2.1 de la Loi sur le bâtiment (chapitre B-1.1) ou collaboré à une enquête, à une vérification ou à un contrôle mené en raison d’une telle communication;
+18°	pour le motif que le salarié a été assigné comme candidat juré en vertu de la Loi sur les jurés (chapitre J-2) ou qu’il a agi comme juré;
+19°	pour le motif que le salarié a été cité à comparaître ou qu’il a agi comme témoin devant un tribunal judiciaire.
+Un employeur doit, de son propre chef, déplacer une salariée enceinte si les conditions de travail de cette dernière comportent des dangers physiques pour elle ou pour l’enfant à naître. La salariée peut refuser ce déplacement sur présentation d’un certificat médical attestant que ces conditions de travail ne présentent pas les dangers allégués.
+Exemple : employeur congédie une salarié puisqu’elle est enceinte. Elle établit son statut de salarié et entre dans un cas de l’art. 122(4) Lnt. Elle est visée par une mesure en raison du congédiement et elle prouve qu’elle a été congédiée en raison de sa maternité. Elle a respecté le délai de 45 jours alors, la présomption est établie et il revient à l’employeur de convaincre le tribunal que le congédiement résulte non pas parce qu’elle est enceinte, mais en raison du retard qu’elle a prise.
+Ne concerne que
+les
+congédiements
+Pas de présomption comme c’est le cas des conduites interdites. Il y a 5 critères à prouver à la Commission. 
+Cause juste et suffisante : l’employeur (1) doit démonter une faute commise par le salarié (2) existence une proportionnalité entre la faute du salarié et le congédiement.
+Cas de congédiement ne doivent être gardés pour des faute majeure ou lors d’une gradation des sanctions.
+4. et 5. 
+Distinction entre le salarié visé par la convention collective ou non
+ Recours pour les employés fédéraux en vertu du Code canadien du travail

@@ -1,0 +1,240 @@
+LES PRIORITÉS ET HYPOTHÈQUES – LES PRINCIPES GÉNÉRAUX
+Plusieurs appréhendent le domaine des priorités et des hypothèques et la présente formation vous permettra de l’aborder avec moins de crainte. Elle énonce d’abord les principes généraux des sûretés en traitant notamment du gage commun des créanciers, du processus d’exécution et des avantages conférés aux créanciers qui en bénéficient. Cette présentation aborde ensuite les différentes conditions de validité et d’opposabilité des priorités et des hypothèques ainsi que les principes généraux des recours qui en découlent.
+Cette formation compte cinq sections qui se dérouleront selon la séquence suivante :
+Section 1 : Introduction aux régimes des sûretés
+Comme le patrimoine du débiteur est le gage commun de l’ensemble de ses créanciers, il est important de savoir identifier les biens qui en font réellement partie et de connaître l’ordre dans lequel les différents créanciers doivent être payés en fonction de leur cause légitime de préférence, c’est-à-dire l’ordre de collocation.
+Le gage commun des créanciers 
+(Arts. 2644 et 2645 C.c.Q.) : l’ensemble des biens du débiteur servent à satisfaire l’ensemble des créanciers de ce même débiteur SOUS RÉSERVE des créanciers bénéficiant d’une priorité ou d’une hypothèque.
+Exemple : A emprunte 50 000 $ à B. Cette somme est remboursable dans deux ans. A est tenu de remplir son engagement. Les biens du patrimoine de A sont à la disposition de B pour se rembourser. Il pourra saisir les biens saisissables qui seront dans le patrimoine de A dans deux ans. Un créancier ordinaire, comme B, court le risque que le patrimoine de A soit vide dans deux ans et que des créanciers prioritaires et hypothécaires priment sur ses droits.
+Il faut faire attention lorsqu’il est question du gage commun des créanciers concernant les biens qui semblent y faire partie alors que ce n’est pas le cas. 
+Exemple : Bien en location comme par exemple un véhicule, aussi au bien que le débiteur a en sa possession, mais qui constitue un bien acquis par la vente à tempérament, faisant en sorte qu’il n’en ai pas propriétaire avant d’en avoir effectué le paiement complet. De plus, pour les biens pouvant faire partie d’une entité autonome distincte de celle du débiteur. C’est le cas des biens dévolus dans un fiducie, les bien détenus par l’intermédiaire d’une société par actions, mais qui peuvent encore une fois sembler appartenir au débiteur. 
+Le processus d’exécution
+Dans la précédente exemple, qu’est-ce qu’un créancier ordinaire pourra faire pour être payer ? Il devra instituer un recours judiciaire par le biais d’une demande introductive d’instance afin d’obtenir un jugement. Suite à ce jugement, il pourra procéder à la saisie des biens faisant partie du patrimoine du débiteur (art. 702 C.p.c.). Une fois les biens saisis, ils seront vendus sous contrôle de justice et le produit de vente sera distribué à l’ensemble des créanciers selon l’ordre de collocation préparée par l’officier de justice et le montant de leur créance respective. 
+Au moment de la saisie pratiquée par l’huissier, le débiteur aura l’obligation selon le C.p.c. d’indiquer quels sont l’ensemble des biens qu’il détient et quels sont les créanciers qu’il a et quels créanciers ont un ordre de préférence, soit les créanciers prioritaires et hypothécaires. 
+L’ordre de collocation en matière mobilière et immobilière
+En matière mobilière (art. 766 C.p.c.) 
+Les créanciers prioritaires de biens meubles : dans cet ordre
+(art. 2651 (1) C.c.Q.) : Les frais de justice et toutes les dépenses faites dans l’intérêt commun
+(art. 2651 (2) C.c.Q.) : Les créanciers-vendeurs impayés pour le prix du meuble vendu à une personne physique qui n’exploite pas une entreprise.
+(art. 2651 (3) C.c.Q.) : Les créances de ceux qui ont un droit de rétention sur un meuble, pourvu que ce droit subsiste;
+(arts. 2651 (4) et 2653 C.c.Q.) Les créances de l’État pour les sommes dues en vertu des lois fiscales;
+Les créanciers hypothécaires de biens meubles
+Qu’il s’agisse d’une hypothèque légale ou conventionnelle
+L’art. 2945 C.c.Q. définit l’ordre de colocation : 
+À moins que la loi n’en dispose autrement, les droits prennent rang suivant la date, l’heure et la minute inscrites sur le bordereau de présentation ou, si la réquisition qui les concerne est présentée au registre foncier, dans le livre de présentation, pourvu que les inscriptions soient faites sur les registres appropriés.
+Lorsque la loi autorise ce mode de publicité, les droits prennent rang suivant le moment de la remise du bien ou du titre au créancier.
+Date d’inscription de l’hypothèque au RDPRM
+Les créanciers ordinaires ou chirographaires de biens meubles
+En matière immobilière :
+Les créanciers prioritaires de biens immeubles 
+(art. 2651 (1) C.c.Q.) : Les frais de justice et toutes les dépenses faites dans l’intérêt commun
+(art. 2651 (5) C.c.Q.) Les créances des municipalités, des centres de services scolaires et des commissions scolaires pour les impôts fonciers sur les immeubles qui y sont assujettis, de même que celles des municipalités, spécialement prévues par les lois qui leur sont applicables, pour les taxes autres que foncières sur les immeubles et les meubles en raison desquels ces taxes sont dues. 
+Ce sont les deux seuls créanciers prioritaires qui bénéficie d’une priorité en matière immobilière
+Les créanciers bénéficiant d’une hypothèques légale de la construction (art. 2952 C.c.Q.) 
+L’hypothèque légale de la construction passe avant toute autre hypothèques en matière immobilière et déroge de la règle de l’art. 2945 C.c.Q.
+Les autres créanciers hypothécaires d’une hypothèque légale ou conventionnelle sur un bien immeuble (art. 2945 C.c.Q.)
+** Petites exception pour le créancier bénéficiant d’une hypothèque du vendeur (art. 2948 C.c.Q.)
+Les créanciers ordinaires de biens immeubles (art. 2646 C.c.Q.) 
+Les avantages conférés aux créanciers bénéficiant de causes légitimes de préférence
+L’art. 2647 C.c.Q. prévoit une cause légitime de préférence aux créanciers prioritaires et hypothécaires. 
+Préférés sur le prix de vente 
+*Les créanciers hypothécaires bénéficient d’un droit supplémentaire fort important, soit le droit de suite (art. 2660 C.c.Q.). Il permet au créancier hypothécaire de suivre le bien en quelque main qu’il se trouve. Ils ne perdent pas leur hypothèque même si le bien change de propriétaire.*
+*CEPENDANT, les seuls créanciers prioritaires possédant ce droit de suite sont les municipalité et les commissions scolaires.*
+L’interprétation des sûretés doit toujours être restrictive puisqu’il s’agit d’un droit de préférence exceptionnel. Il faut donc vérifier avec précaution que toutes les conditions de validité du créancier hypothécaire ou prioritaire sont rencontrés. Autrement, le créancier demeure un créancier ordinaire et ne possède pas le droit de suite, ni une position préférentielle dans l’ordre de collocation. 
+Vrai/Faux
+Dans un état de collocation à la suite de la vente d’un immeuble, la créance d’une institution bancaire bénéficiant d’une hypothèque conventionnelle inscrite en premier, prend rang avant celle de l’État. 
+Vrai, puisque la créance d’une institution bancaire est une créance hypothécaire (arts. 2646, 2647 et 2660 C.c.Q.) alors que la créance de l’État est une créance ordinaire dans le cadre de la distribution du produit de vente de l’immeuble (art. 2653 C.c.Q.).
+Section 2 : Les priorités
+En vertu de l’art. 2650 C.c.Q. est prioritaire la créance à laquelle la loi confère, en faveur d’un créancier, le droit d’être préféré aux autres créanciers, même hypothécaires, selon la cause de sa créance.
+Les formalités de création d’une créance prioritaire
+La priorité prend naissance automatiquement dans le cas de l’art. 2651 C.c.Q. Cependant, nous devons nous assurer que toutes les conditions existent.
+Exemple : (art. 2651 (2) C.c.Q.) la créance du vendeur impayé pour le prix du meuble vendu par une personne n’exploitant par une entreprise. On doit s’assuré qu’il s’agisse d’un bien meuble + la personne créancière est le vendeur + le débiteur ne doit pas exploiter d’entreprise 
+Exemple : (art. 2651 (3) C.c.Q.) le droit de rétention que sur les biens meubles. Pour ce faire, ce droit de rétention doit subsister pour exister 
+Exemple : (arts. 2651 (4) et 2653 C.c.Q.) les créances de l’État en vertu des lois fiscales que sur des biens meubles. L’État dispose également d’une autre garantie, soit d’une hypothèque légale (art. 2724 C.c.Q.) et contrairement à la priorité, l’hypothèque pourra s’appliquer tout autant sur un bien meuble qu’immeuble. L’État pourra donc de se prévaloir de la priorité ou de l’hypothèque légale. 
+Exemple : (art. 2651 (5) C.c.Q.) les créanciers des municipalités et des commissions scolaires qui ne s’appliquent que sur les impôts fonciers. 
+Les formalités de conservation de la créance prioritaire
+Il n’en existe aucune formalité pour leur conservation. 
+Les priorités sont opposables en principe sans formalité (art. 2655 C.c.Q.) à l’exception de la priorité de l’État doit être inscrite, mais seulement sur demande (art. 2654 C.c.Q.).
+L’opposabilité des priorités 
+Exemple d’opposabilité des priorités : A vend sa voiture à B pour un prix de 2 000$. A bénéficie d’une priorité de vendeur sur la voiture de B pour sa créance de 2 000$. Si la voiture de B est vendue sous contrôle de justice, A pourra être colloqué tout de suite après les frais de justice (art. 2651 (2) et 2657 C.c.Q.). Si B revend la voiture à C, A n’aura plus de créance prioritaire et devra saisir d’autres biens de son débiteur B à titre de créancier ordinaire, après avoir obtenu un jugement contre lui. C’est la conséquence de ne pas avoir de droit de suite. 
+Le créancier prioritaire ne bénéficie pas du droit de suite. 
+*La seule exception dont le créancier prioritaire bénéficie du droit de suite est celle de la créance prioritaire des municipalités et des commissions scolaires (arts. 2651(5) et 2654.1 C.c.Q.)*
+Les recours en matière de priorité
+Le créancier prioritaire devra introduire une demande introductive d’instance contre son débiteur dans le but d’obtenir un jugement. Suite à ce jugement, il y a la vente des biens et il sera colloqué suivant un ordre prioritaire
+Par contre, il peut arriver que ce ne soit pas le créancier prioritaire qui introduit le recours, mais bien un autre créancier. Même alors, il sera colloqué de manière prioritaire dans la majorité des cas, mais pas tous. 
+Exemple : si un créancier possédant une hypothèque conventionnelle ou légale décide de faire valoir son hypothèque par un recours. Si la manière de procéder dans le jugement constitue la vente par le créancier et bien, notre créancier prioritaire sera colloqué suivant son rang. Le résultat est identique. Si le créancier hypothécaire choisissait la vente sous contrôle de justice à la place, la finalité serait la même.
+*PAR CONTRE, si un créancier hypothécaire choisit comme recours la prise en paiement, le créancier prioritaire va perdre sa priorité puisqu’il ne bénéficie pas du droit de suite et dans ce recours le bien va changer de propriétaire pour se diriger entre les mains du créancier hypothécaire. 
+Aussi, il faut garder à l’esprit que la majorité des biens du débiteur peuvent être assurés par une compagnie d’assurance et si un sinistre survient et détruit les biens garantis, le créancier prioritaire pourra alors se tourner vers l’assureur (art. 2497 C.c.Q.) et lui faire une réclamation pour obtenir paiement de sa créancier au terme de la priorité qu’il détient. 
+Section 3 : Les hypothèques légales
+Contrairement aux créances prioritaires, la naissance des hypothèques légales n’est pas automatique (sous réserve d’une nuance à apporter dans le cas de certaines hypothèques légales de la construction qui existent de façon automatique durant un certain temps) et il est donc important de s’assurer que les formalités de création et de conservation ont été remplies.
+Les formalités de création des hypothèques légales
+Il n’y en a seulement 4 hypothèques légales (art. 2724 C.c.Q.) :
+Les créances de l’État pour les sommes dues en vertu des lois fiscales, ainsi que certaines autres créances de l’État ou de personnes morales de droit public, spécialement prévues dans les lois particulières (art. 2724 (1) C.c.Q.) ;
+Les créances des personnes qui ont participé à la construction ou à la rénovation d’un immeuble (art. 2724 (2) C.c.Q.) ;
+La créance du syndicat des copropriétaires pour le paiement des charges communes (art. 2724 (3) C.c.Q.) ; 
+Les créances qui résultent d’un jugement (art. 2724 (4) C.c.Q.).
+Toutes les conditions doivent être rencontrées afin que ces hypothèques légales produisent leurs effets. 
+L’hypothèque légale de la construction (art. 2724 (2) C.c.Q. et les arts. 2726-2728 C.c.Q.) 
+Conditions :
+L’hypothèque ne vise que les travaux de construction ou de rénovation (art. 2727 C.c.Q.)
+D’un immeuble
+Est ouverte à un nombre limité de personnes qui sont impliquées dans le construction ou la rénovation de cet immeuble (art. 2726 C.c.Q.) : architecte, ingénieur, fournisseur de matériaux, ouvrier, entrepreneur ou sous-entrepreneur
+Les travaux doivent avoir contribués à donner une plus-value à l’immeuble et ce ne sera que sur cette plus-value que l’hypothèque légale de la construction s’applique. 
+La jurisprudence a établi une présomption à l’effet que le montant de la plus-value équivaut en principe au montant auquel il se rattache. Cela évite de faire une preuve de la réelle plus-value. 
+Les travaux doivent être demandés par le propriétaire (art. 2726 C.c.Q.)
+La dénonciation écrite au propriétaire des travaux avant le début des travaux S’IL Y A LIEU SEULEMENT (arts. 2123 et 2728 C.c.Q.)
+Cette condition est obligatoire pour les créanciers participant à la construction ou à la rénovation de l’immeuble qui ne contractent pas directement avec le propriétaire. 
+L’ouvrier n’a jamais besoin de dénoncer son contrat même s’il ne transige pas avec le propriétaire. 
+Que se passe-t-il si un créancier commence les travaux et fait une déclaration tardivement ? Il sera un créancier hypothécaire seulement pour la partie des travaux suivant le moment de la dénonciation. 
+Contrairement aux priorités, les hypothèques légales ne sont pas automatiques. Tant que les formalités de création n’ont pas été remplies, elles n’existent pas. Elles n’ont pas besoin cependant du consentement du débiteur. Certaines formalités doivent être réalisés pour que le créancier en dispose.
+*Le créancier devra faire l’inscription de l’avis de l’hypothèque légale dans 3 cas afin qu’elles existent, qu’elles soient mobilières ou immobilières : 
+L’hypothèque légale de l’État = (art. 2725, al.2 C.c.Q.)
+L’hypothèque légale du syndicat (art. 2729 C.c.Q.) 
+L’hypothèque légale d’un jugement (art. 2730 C.c.Q.)
+ll y a cependant une particularité pour l’hypothèque légale de la construction. Elle existe sans aucune formalité dès qu’un créancier participant à la construction ou à la rénovation conclu un contrat avec le propriétaire ou dénonce son contrat au propriétaire. Pendant la période de construction, il n’y aucun formaliste additionnel. Pour que l’hypothèque légale subsistent PAR CONTRE, le créancier de la construction devra lui aussi inscrire un avis d’hypothèque légale, mais beaucoup plus tard, soit 30 jours suivant la fin totale des travaux (art. 2727, al.1 C.c.Q.). S’il fait l’inscription au registre foncier à l’intérieur des 30 jours de la fin des travaux, l’hypothèque est conservée. 
+Les formalités de conservation additionnelle 
+2 hypothèques légales nécessitent des formalités additionnelles : 
+l’hypothèque du syndicat de la copropriété
+L’art. 2800 C.c.Q. exige qu’une action ou un préavis soit publiés dans les 3 ans de l’avis d’inscription. 
+L’hypothèque légale de la construction 
+L’art. 2727, al.1 et 2 C.c.Q. prévoit d’abord que les créanciers doivent inscription d’un avis désignant l’immeuble grevé et indiquant le montant de la créance pendant les 30 jours qui suivent la fin des travaux et dans un second temps (al.3), six mois après la fin des travaux, le créancier doit publier une action contre le propriétaire de l’immeuble ou inscrire un préavis d’exercice d’un droit hypothécaire pour conserver sa garantie. 
+La fin des travaux 
+Art. 2110 C.c.Q. :
+Le client est tenu de recevoir l’ouvrage à la fin des travaux; celle-ci a lieu lorsque l’ouvrage est exécuté et en état de servir conformément à l’usage auquel on le destine.
+La réception de l’ouvrage est l’acte par lequel le client déclare l’accepter, avec ou sans réserve.
+Lorsque tous les travaux prévus à l’ensemble des contrats de construction sont terminés. 
+Que les travaux soient bien ou mal effectués, ce n’est pas important pour déterminer la fin des travaux
+L’opposabilité des hypothèques légales
+Elles doivent être publiées pour être opposable aux tiers (art. 2663 C.c.Q.) à l’exception de l’hypothèque légale de la construction existant pendant un certain temps sans inscription. Ladite inscription fait en sorte qu’elle est opposable aux tiers (art. 2941 C.c.Q.) et établie l’ordre de collocation (art. 2945 C.c.Q.).
+Il y a une EXCEPTION en matière de l’hypothèque légale de la construction (art. 2952 C.c.Q.) : elle passe avant toutes les autres hypothèques, dont aussi les autres hypothèques légales et conventionnelles. L’art. 2952 C.c.Q établie également qu’entre différents créanciers tenant une hypothèque légale de la construction, ceux-ci sont concurrents au prorata de leur créance. 
+Les recours en matière d’hypothèque légale
+Intenter un recours hypothécaire (art. 2748 et ss C.c.Q.)
+Intenter une action personnelle et faire valoir son droit de préférence lors de la collocation (art. 2748 C.c.Q.)
+Invoquer son droit de préférence lors de l’exercice d’un recours par un autre créancier (art. 766 C.c.Q.), y compris une vente par le créancier (art. 2789 C.c.Q.) et sous contrôle de justice par un autre créancier hypothécaire (art. 2793 C.c.Q.)
+En cas de sinistre touchant le bien hypothéqué, demander à l’assureur, s’il y a lieu, de lui verser l’indemnité payable à l’assuré selon son rang (art. 2497 C.c.Q.).
+La radiation d’une hypothèque 
+Vrai/Faux
+La radiation d’une hypothèque peut être demandée si la dette à l’origine de l’hypothèque consentie est prescrite.
+Vrai, car la prescription de la créance entraîne l’extinction de l’hypothèque en vertu de son caractère accessoire, arts. 2661 et 2797 C.c.Q. 
+Section 4 : Les hypothèques conventionnelles
+Contrairement aux différentes sûretés ou hypothèques légales, l’hypothèque conventionnelle requiert le consentement du constituant de l’hypothèque. Les hypothèques conventionnelles se déclinent en plusieurs catégories, soit l’hypothèque immobilière, l’hypothèque mobilière sans dépossession et l’hypothèque mobilière avec dépossession appelée gage.
+Constituant : c’est le débiteur 
+Titulaire : créancier
+Conditions :
+Le débiteur doit avoir la capacité d’aliéner les biens (art. 2681 C.c.Q.)
+On ne peut pas donner en hypothèque des biens insaisissables (art. 2668, al.1 C.c.Q. et l’art. 696 et ss C.p.c.). 
+Ne peuvent pas faire l’objet d’une hypothèque conventionnelle : les meubles du débiteur qui garnissent sa résidence principale, servent à l’usage du ménage et sont nécessaires à la vie de celui-ci (art. 2668, al.2 C.c.Q.)
+L’hypothèque sur les biens d’autrui c’est possible (art. 2670 C.c.Q.)
+Aussi, les biens qui ne sont pas existants encore, mais à venir peuvent faire l’objet d’une hypothèque conventionnelle et leur ordre de collocation devra être prévue expressément (arts. 2948 et 2954 C.c.Q.)
+Vrai/Faux
+Il est impossible d’hypothéquer son bien pour garantir la dette d’un tiers.
+Faux, en vertu de l’art. 2681, al.2 C.c.Q., l’hypothèque conventionnelle peut être consentie par le débiteur de l’obligation qu’elle garantit ou par un tiers.
+Les conditions de validité et d’opposabilité des hypothèques immobilières
+Les loyers que génèrent un immeuble constituent exceptionnellement une hypothèque immobilière (art. 2695 C.c.Q.). Pour les hypothéquer, le créancier devra suivre les règles des hypothèques immobilières.
+Qui peut constituer une hypothèque immobilière ? Constituant
+N’importe qui sauf pour l’hypothèque sur une universalité d’immeubles : par une personne morale ou une personne exploitant une entreprise (art. 2684 C.c.Q.).
+Les conditions de validité de forme
+L’hypothèque immobilière doit être sous forme notarié sous peine de nullité (art. 2693 C.c.Q.).
+Les conditions de validité de fond
+Art. 2694 C.c.Q.: 
+L’hypothèque immobilière n’est valable qu’autant que l’acte constitutif désigne de façon précise le bien hypothéqué.
+Art. 3032 C.c.Q.:
+Dès le jour de l’entrée en vigueur du plan cadastral, le numéro donné à un lot est sa seule désignation et suffit dans tout document qui y fait référence.
+Lorsque le droit à publier porte sur un immeuble formé de plusieurs lots entiers, chacun des lots doit être individuellement désigné.
+Pour l’hypothèque portant sur une universalité d’immeuble en matière de désignation du lot, dès que le propriétaire deviendra propriétaire du lot, il devra procéder à l’inscription de ce nouvel immeuble au registre foncier (art. 2949, al.2 et 3 C.c.Q.).
+L’acte notarié doit notamment mentionner le montant de l’hypothèque (art. 2689 C.c.Q.). Le montant est souvent supérieur au prêt lui-même. 
+L’obligation garantie par cet hypothèque doit aussi faire partie de l’acte constitutif de l’hypothèque (art. 2687 C.c.Q.). 
+L’opposabilité de l’hypothèque immobilière
+C’est l’inscription au registre foncier qui va rendre celle-ci opposable aux tiers (art. 2663 C.c.Q.) et son rang est établie en fonction de la date d’inscription de l’acte (art. 2945 C.c.Q.). En matière d’hypothèque légale de la construction, son rang sera dans tous les cas meilleur (art. 2952 C.c.Q.). Le rang peut être modifié par une cession de rang au profit d’un autre créancier (art. 2956 C.c.Q.).
+En matière de rang, il y a des exceptions :
+L’hypothèque sur une chose d’autrui (art. 2670 C.c.Q.) : le rang est suspendu jusqu’à ce que le bien intègre le patrimoine du constituant 
+L’hypothèque qu’un vendeur obtient dans un bien immeuble lorsqu’il vend cet immeuble (art. 2948 C.c.Q.)
+L’hypothèque sur une universalité d’immeubles (art. 2949 C.c.Q.) : le rang se prendra lorsque l’hypothèque sera inscrite pour chacun des immeubles
+Toute hypothèque qui serait inscrite sur le registre foncier après que celui-ci a été saisi devient inopposable (art. 2958 C.c.Q.)
+Quiz
+Trouvez l’intrus parmi les conditions suivantes de validité de fond pour une hypothèque immobilière :
+La désignation du numéro de lot de l’immeuble
+La mention du montant de l’hypothèque
+L’indication de l’adresse résidentielle et du code postal de l’immeuble
+La mention de l’obligation garantie par l’hypothèque
+c), car seul le numéro de lot peut constituer la désignation de l’immeuble dans l’acte d’hypothèque, art. 3032 C.c.Q. 
+Les conditions de validité et d’opposabilité des hypothèques mobilières sans dépossession
+Qui peut constituer une hypothèque mobilière sans dépossession ?
+Les personnes morales sans aucune restriction (arts. 2683 et 2684 C.c.Q.) 
+Les personnes physiques qui exploitent une entreprise peut constituer une hypothèque sur les biens de cette entreprise (art. 2683 C.c.Q.) ou sur une universalité de ses biens mobiliers (art. 2684 C.c.Q.)
+La personne physique n’exploitant pas une entreprise peut constituer une hypothèque mobilière sans dépossession sur un nombre de biens limités.
+L’art. 2683 C.c.Q. réfèrent aux véhicules routiers et à d’autres biens visés aux arts. 15.01 et 15.02 RDPRM
+La personne physique peut hypothéquer l’universalité de valeur mobilière (d’actions), des titres intermédiés (titres détenus à la bourse) (art. 2684.1 C.c.Q.) et aussi l’universalité des comptes financiers et des soldes créditeurs (art. 2713.1-2713.9 C.c.Q.)
+Pour tous les autres meubles, une personne physique n’exploitant pas une entreprise ne pourra pas accorer à son créancier une hypothèque mobilière sans dépossession. Elle devra nécessairement se tourner vers l’hypothèque mobilière avec dépossession aussi appelé gage. 
+Les conditions de validité de forme de l’hypothèque mobilière sans dépossession
+L’art. 2696 C.c.Q. exige uniquement que le document soit un écrit sous seing privé. Donc, le C.c.Q. n’exige pas d’acte notarié. À l’exception des biens ou de financements par le biais de l’émission d’obligations ou d’autres titres d’emprunt qui sont des meubles, nécessitant un acte notarié selon l’ art. 2692 C.c.Q.
+Les conditions de validité de fond de l’hypothèque mobilière sans dépossession
+L’acte nécessite une description des biens ou une indication des biens donnés en universalité (art. 2697 C.c.Q.). 
+Le montant de l’hypothèque est obligatoire (art. 2689 C.c.Q.) et celui de l’obligation (art. 2687 C.c.Q.).
+Opposabilité
+Lors de l’inscription de l’hypothèque (art. 2663 C.c.Q.) et son rang est toujours régit selon l’art. 2945 C.c.Q.
+Lorsque l’hypothèque porte sur une universalité de biens meubles, c’est l’art. 2950 C.c.Q. qui concerne cette question. La possibilité d’avoir une cession de rang est aussi possible en vertu de l’art. 2956 C.c.Q.
+Les cas particuliers pour l’opposabilité de l’hypothèque mobilière sans dépossession
+L’hypothèque de la chose d’autrui : prend quand même rang à la date de l’inscription *(rang particulier pour l’hypothèque du vendeur)* (art. 2954 C.c.Q.)
+Le report de l’hypothèque lorsque le bien meuble est aliéné dans le cours des activités de l’entreprise (art. 2674 C.c.Q.) : 
+Exemple : A achète une voiture d’un concessionnaire automobile qui avait hypothéqué l’universalité de ses voitures en stock. Par l’effet de l’art. 2674 C.c.Q., A acquiert le véhicule libre de l’hypothèque.
+L’avis de conservation à publier lorsque le bien meuble hypothéqué n’est pas aliéné dans le cours des activités de l’entreprise (art. 2700 C.c.Q.)
+Exemple : le concessionnaire A, qui a hypothéqué l’universalité de ses voitures en stock, les vend toutes au concessionnaire B, parce qu’il désire fermer son entreprise. Dans les 15 jours où il est informé par écrit de cette vente, le créancier hypothécaire devra inscrire un avis de conservation de son hypothèque sous le nom du concessionnaire B
+L’hypothèque mobilière sur un meuble incorporé à un immeuble : devient immobilier par l’inscription d’un avis et prend rang à la date de cet avis (art. 2951 C.c.Q.) 
+Les hypothèques sur des meubles transformés : prennent rang en concurrence à la date d’inscription sur le meuble nouveau (art. 2953 C.c.Q.)
+Les hypothèques constituées par un intermédiaire en valeurs mobilières : publiées par leur constitution sans inscription au RDPRM et viennent en concurrence (art. 2701.1 C.c.Q.)
+L’hypothèque de créances :
+En principe, rang selon la date de son inscription (arts. 2945 C.c.Q.) et pour les universalité (art. 2950 C.c.Q.)
+Possibilité d’effet rétroactif de 10 jours, lorsque l’argent est décaissé par le créancier hypothécaire avant qu’il n’inscrive son hypothèque (art. 2699 C.c.Q.) : le cas de financement à très court terme
+Opposabilité aux débiteurs des créances hypothéquées lorsque les formalités prévues pour les cessions de créances sont remplies (arts. 1641, 1642, 2710, al.2 et 2712 C.c.Q.)
+Lorsque tous les créanciers hypothécaires auront rendu leur hypothèque de créances opposables aux débiteurs, c’est le créancier hypothécaire de meilleur rang qui a le droit de la percevoir  
+Les conditions de validité et d’opposabilité des hypothèques mobilières avec dépossession
+Qui peut constituer une hypothèque mobilière avec dépossession (le gage) ?
+Aucune restriction puisque l’art. 2683 C.c.Q. ne s’applique pas en matière de gage. 
+Les conditions de validité de forme
+La remise matérielle du bien au créancier constitue l’hypothèque (art. 2702 C.c.Q.). Le C.c.Q. n’exige pas l’existence d’un écrit pour constituer un écrit. 
+Cependant, dans le cas particulier où la détention du bien se ferait pas l’intermédiaire d’un tiers, exige tout de même un écrit (art. 2705 C.c.Q.).
+Deux cas particuliers :
+L’hypothèque mobilière avec dépossession sur des valeurs mobilières ou des titres intermédiés : se créé par la maitrise de ces valeurs ou titres (art. 2714.1 C.c.Q.)
+L’hypothèque mobilière avec dépossession sur certaines créances pécuniaires tel que des comptes financiers (art. 2713.6 C.c.Q.) : constitue aussi par la maitrise (arts. 2713.1-2713.4 C.c.Q.)
+Les conditions de validité de fond
+Il n’y a pas d’exige de fond puisqu’un tel écrit n’est pas nécessaire. 
+L’opposabilité de ce gage
+L’art. 2703 C.c.Q.) : par la détention qu’en fera le créancier puisque la détention en constitue la publicité. 
+Quant au rang, l’art. 2945, al.2 C.c.Q. indique que c’est la date de remise du bien au créancier. 
+Que se passe-t-il en cas de conflit entre l’un avec dépossession sur un bien et l’autre sans dépossession sur le même bien ?
+= C’est celui qui a le meilleure rang que les droits vont primer. Sans dépossession, on regarde l’inscription et avec, la remise. 
+Les exceptions
+Exceptions en matière d’hypothèque sur des valeurs mobilières ou des titres intermédiés (art. 2714.2 et ss C.c.Q.) ou sur certaines créances pécuniaires (art. 2713.1 et ss C.c.Q.) :
+L’hypothèque mobilière avec dépossession opérée par la maitrise sur des valeurs mobilières ou des titres intermédiés prend rang avant toute autre hypothèque mobilière portant sur les mêmes valeurs ou titres (art. 2714.2 C.c.Q.)
+L’hypothèque mobilière avec dépossession en faveur d’un intermédiaire en valeurs mobilières prend rang avant toute autre hypothèque grevant les titres intermédiés dans le compte du constituant tenu par cet intermédiaire (art. 2714.3 C.c.Q.)
+L’hypothèque mobilière avec dépossession sur des valeurs mobilières représentés par un certificat nominatif prend rang avant toute hypothèque sans dépossession (art. 2714.4 C.c.Q.)
+L’hypothèque mobilière avec dépossession sur certaines créances pécuniaires, dont les comptes financiers définis à l’art. 2713.6 C.c.Q. prend rang avant tout autre hypothèque grevant cette créance dès l’obtention de la maitrise selon l’art. 2713.8 C.c.Q.
+ L’effet rétroactif (art. 2708 C.c.Q.) : L’hypothèque mobilière qui grève des biens représentés par un connaissement ou un autre titre négociable ou qui grève des créances, est opposable aux créanciers du constituant depuis le moment où le créancier a exécuté sa prestation, si le titre lui est remis dans les 10 jours qui suivent.
+L’hypothèque de créance où il faut rendre en plus le gage opposable a débiteur comme pour une cession de créance (art. 1647, 2709 et 2719, al.2 C.c.Q.)
+Les recours en matière d’hypothèques conventionnelles
+Une fois que l’opposabilité est établie dans une hypothèque conventionnelle, notamment le rang. 
+Le recours hypothécaire (art. 2748 C.c.Q.)
+Le recours personnel (art. 2748 C.c.Q.) : au moment de la vente des biens de l’ordre de collation, il pourra faire valoir son droit à un rang en tant que créancier détenant une hypothèque conventionnelle. 
+ Si un autre créancier hypothécaire intente contre le même débiteur, notre créancier pourra faire valoir ses droits par la vente par le créancier ou par la vente sous contrôle de justice
+Si un sinistre survient sur les biens visés par l’hypothèque conventionnel, il est commun que le créancier soit désigné dans la police d’assurance du débiteur comme un assuré additionnel. Fait en sorte que celui-ci percevra automatiquement le montant de sa créance sans qu’il n’ait à produire une réclamation formelle auprès de l’assureur (art. 2497 C.c.Q.)
+Les hypothèques sur créance, ajoutons un droit supplémentaire : celui de percevoir autant le revenu que le capital de ces créances (art. 2743 et ss C.c.Q.). Attention, le droit de perception des créances n’est pas un droit hypothécaire donc, un créancier d’une hypothèque sur créance qui désire percevoir du revenu et du capital n’aura pas à transmettre une préavis d’exercice, n’a pas à intenter une action contre le débiteur. Il n’aura qu’à lui transmettre un avis comme quoi il lui retire l’autorisation d percevoir les créances et il demande donc aux débiteurs hypothéqués de payer directement ce créancier hypothécaire. Ce refus d’autorisation, visé à l’art. 2710, al.2 C.c.Q. renvoi aux arts. 1641 et ss C.c.Q.). Le retrait de percevoir est prévue à l’art. 2745 C.c.Q.
+Dans le cas d’une hypothèque portant sur une créance pécuniaire, dont le créancier a la maitrise (art.  2713.1 C.c.Q.), le retrait d’autorisation s’effectue par le biais de l’art. 2713.7 C.c.Q.
+En matière de rang l’art. 2945 C.c.Q. est une disposition de principe. 
+Les banques disposent de la loi sur les banques : (art. 427 C.c.Q.) confère le droit d’obtenir sur certains biens du débiteur des garanties. Celles sont gérés par les banques et ils possèdent un registre pour les tenir. La consultation de ce registre de la banque du Canada nous permet de savoir si une institution financière n’a pas une garantie sur des biens déjà ou qu’un nouveau créancier est sur le point d’obtenir une hypothèque.
+Vidéo d’Arthur
+2653 – créance de l’état est seulement sur les biens meubles. 
+Nous n’avons pas à publier l’hypo pour le rendre opposable entre les parties… mais pour les tiers, oui. (Art 2663)
+Art 2670 – une personne qui achète une maison, signe une hypo avec la banque sur la maison…. Bien qu’il n’est pas encore propriétaire de la maison, elle va commencer à grever la maison à partir du moment qu’il devient propriétaire (donc l’acte de vente est publiée).
+Universalité de biens : le matériel de l’entreprise 
+Si on parle d’un magasin qui vend des ordinateurs, l’activité d’entreprise est la vente de l’ordinateur. 
+Une personne physique ne peut pas consentir un hypo sans dépossession, sauf exception 2683  
+Art 2699 – ex : nous avons un papier qui nous dit « je vous livre une Tesla le 15 janvier » et nous avons une hypothèque sur ce papier d’avertissement. Au moment de la livraison, la Tesla rentre dans le garage et il décide le 18 janvier de garantir le prêt qu’il prend sur la Tesla à l’aide d’une autre hypothèque (techniquement, la banque va publier une hypo mobilière sans dépossession sur le véhicule le 18 janvier) … Mais avec l’article 2699, nous avons 10 jours pour transférer l’hypothèque de connaissement en une hypothèque sur la Tesla et l’hypothèque va avoir priorité. Donc nous avons jusqu’au 25 janvier pour transférer cette garantie pour avoir une priorité. 
+Si nous avons une hypo mobilière sur les actions de notre courtier, nous n’avons pas à la publier, elle prend rang au moment de la constitution. 
+L’hypothèque ouverte est comme une hypo qui est suspendu jusqu’à ce que le débiteur soit en défaut. Au moment qu’il est en défaut, l’hypothèque est activée et continue jusqu’à ce que le débiteur remédie à son défaut. (Remédier à son défaut = désactivation de l’hypo)
+1069 – les charges communes 
+Art 2769 – exemple : nous avons une hypo de 100,000$ sur la maison que nous avons achetée. Nous ne sommes pas la personne qui a constitué l’hypo. Si on refus de délaisser le bien, nous sommes personnellement responsables de la dette même si nous n’avons pas personnellement constitué le bien. 
+Art 2770 – si la banque veut venir saisir le bien, mais le garagiste veut retenir le bien… il est tenu de délaisser le bien à la banque, mais lors de la collocation, il va recevoir sa quote-part. 
+ATTENTION : si on fait une prise en paiement en vertu de l’article 1743 (une clause résolutoire), les hypo de constructions perdre leur priorité conférée par l’article 2952. 
+Regarder le dossier Khadar dans les exercices. 
+Donc quand on prévoit de l’article 1743, elle reprend l’immeuble libre de l’hypo même si nous avons une hypothèque légale de construction. 

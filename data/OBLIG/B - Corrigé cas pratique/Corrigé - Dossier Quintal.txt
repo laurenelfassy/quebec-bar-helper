@@ -1,0 +1,31 @@
+CORRIGÉ - DOSSIER QUINTAL
+Le mardi 23 août 0000, Julie Quintal, Noémie Lavoie et Sandrine Audouy obtiennent un prêt de 45 000 $ auprès de Fabienne Quintal, la mère de Julie. Ce prêt vise à financer un rallye automobile que le trio entreprendra en Amérique centrale en octobre 0000.
+Le contrat de prêt se lit comme suit :
+CONTRAT DE PRÊT
+ENTRE :	Fabienne Quintal
+ci-après « prêteuse »
+ET :	Julie Quintal
+	Noémie Lavoie
+	Sandrine Audouy
+ci-après « emprunteuses »
+1.	La prêteuse s’engage à verser la somme de 45 000 $ aux emprunteuses en date d’aujourd’hui, le 23 août 0000.
+2.	Le prêt est accordé sans intérêts.
+3.	Le prêt est remboursable en entier le 23 août 0001.
+4.	Les emprunteuses sont tenues solidairement au remboursement du prêt.
+Signé à Trois-Rivières, le 23 août 0000.
+_________________
+Fabienne Quintal
+_________________	________________	_________________
+Julie Quintal	Noémie Lavoie	Sandrine Audouy
+Au début de l’année 0001, Fabienne regrette d’avoir prêté l’argent, d’autant plus qu’elle vient d’apprendre qu’elle est atteinte d’un cancer et qu’elle aura besoin d’argent compte tenu qu’elle doit cesser de travailler. Un ami de Fabienne, Marc Brault, lui offre d’acquérir la totalité de la créance de 45 000 $ en retour du paiement d’une somme de 40 000 $. Fabienne aimerait procéder ainsi, mais elle ne souhaite pas en informer sa fille ou les amies de cette dernière, puisqu’elle ne veut pas les inquiéter.
+1.	Fabienne Quintal pourrait-elle conclure l’entente suggérée par Marc Brault sans en informer immédiatement les emprunteuses Julie Quintal, Noémie Lavoie et Sandrine Audouy? Motivez votre réponse.
+Oui. L’opération proposée par Marc Brault constitue une cession de créance. Le consentement du débiteur ne constitue pas une condition de validité de la cession.
+Toutefois, la connaissance par les débitrices de l’existence de la cession de créance devra nécessairement survenir, afin que la cession leur soit opposable. L’opposabilité peut prendre la forme d’un acquiescement de la part des débitrices, mais peut aussi se limiter à les informer de l’existence de la cession selon l’un des modes prévus à l’article 1641, al. 1 C.c.Q. Donc, l’entente suggérée peut être conclue, mais les emprunteuses devront éventuellement en être avisées.
+*  *  *  *  *
+Le 21 mars 0001, Fabienne décède des suites du cancer et laisse comme seule héritière sa fille Julie, laquelle accepte expressément la succession de sa mère. Fabienne n’avait pas donné suite à l’offre de Marc Brault. La liquidation de la succession de Fabienne est achevée le 2 août 0001.
+À l’échéance du prêt, Julie souhaite obtenir paiement de la part de Noémie, puisqu’elle sait que Sandrine est à l’extérieur du pays pour quelques mois. Julie désire connaître le montant maximal qu’elle peut, à titre d’héritière de sa mère, réclamer à Noémie.
+2.	Combien Julie Quintal peut-elle réclamer à Noémie Lavoie pour la dette contractée en vertu du contrat du 23 août 0000? Motivez votre réponse.
+Fabienne bénéficiait d’une obligation solidaire, puisque le prêt comportait une stipulation expresse de solidarité à l’égard des débitrices (art. 1525, al. 1 C.c.Q.). Donc, avant d’aborder l’impact de moyens de défense, Noémie serait tenue pour le tout (art. 1523 C.c.Q.), sans possibilité d’invoquer le bénéfice de division (art. 1528 C.c.Q.).
+La dette de Julie envers sa mère s’est éteinte par confusion puisque, par l’effet des règles successorales, elle réunit les qualités de créancière et de débitrice (art. 1683 C.c.Q.).
+Noémie peut obtenir que le total qui lui est réclamé soit réduit d’un montant qui représente la part de Julie dans la dette (art. 1685 C.c.Q.). La dette des codébitrices se divise en parts égales, à défaut de stipulation contraire (art. 1537, al. 1 C.c.Q.), ce qui représente ici 15 000 $. Noémie est tenue à la somme de 30 000 $ envers Julie.
+Si Noémie paie ce montant, elle pourra réclamer la part de Sandrine puisque le paiement par un débiteur solidaire permet une subrogation contre ses codébiteurs pour la part de ces derniers (art. 1536 et 1656, par. 3 C.c.Q.).

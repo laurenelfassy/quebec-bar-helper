@@ -1,0 +1,160 @@
+L’ORGANISATION DES TRIBUNAUX ET LA PROCÉDURE CRIMINELLE
+Section 1 : Les différents tribunaux
+Le système judiciaire pénal québécois est composé de différentes cours. La compétence de chacune de ces cours est déterminée par la loi. Cette compétence dépend de plusieurs facteurs, notamment la nature des crimes commis.
+Cour supérieure de juridiction criminelle exclusive (art. 469 C.cr. ) 
+Art. 469 C.cr. : Tous les actes criminels énoncés sont de juridiction exclusive de la Cour supérieure.
+L’expression toute cour de juridiction criminelle inclue des juges de la Cour du Québec. 
+Cette Cour exerce ses pouvoirs de surveillance et de contrôle en vertu de l’art. 774 C.cr. : La présente partie s’applique aux procédures pénales par voie de certiorari, d’habeas corpus, de mandamus, de procedendo et de prohibition.
+Lorsqu’on a pris des poursuites en matière d’infraction sommaire, la partie 27 du C.cr.  (art. 785-840 C.cr.) prévoit que la Cour supérieure constitue le tribunal d’appel pour toutes les décisions rendues par un juge de paix exerçant cette fonction. L’art. 812 C.cr. prévoit ce pouvoir d’appel décerné à la Cour supérieure. 
+Cour du Québec de juridiction criminelle absolue (art. 553 C.cr. ) 
+Art. 2 C.cr. cour de juridiction criminelle : 
+Cour de sessions générales ou trimestrielles de la paix, lorsqu’elle est présidée par un juge d’une cour supérieure;
+a.1)	dans la province de Québec, la Cour du Québec, la Cour municipale de Montréal et la Cour municipale de Québec;
+juge de la cour provinciale ou juge agissant sous l’autorité de la partie XIX;
+dans la province d’Ontario, la Cour de justice de l’Ontario. (court of criminal jurisdiction)
+Avec un juge de la Cour provinciale
+Comme juge sans jury pour les actes criminels (art. 552 C.cr. ) 
+Exerce aussi en tant que juge de paix quant à la partie 27 du C.cr. pour les infractions punissable par voie sommaire
+Un juge de paix à l’enquête préliminaire, soit un juge de la Cour du Québec (art. 535 et ss C.cr. ) 
+Un juge de la Cour du Québec aussi pour la remise en liberté (art. 515 et ss C.cr. )
+Le juge de paix à l’enquête préliminaire 
+L’art. 537 et ss C.cr. précise les pouvoirs du juge et uniquement ceux-ci. 
+Ne permet donc pas au juge d’accueillir une requête en vertu de la Charte puisqu’il n’a pas ce pouvoir
+Lorsque le juge détermine qu’il y a suffisance de preuve afin d’aller à procès, il fixe une date d’audition et cite l’accusé à procès
+Le juge de paix à l’enquête sur remise en liberté
+L’art. 515 et ss C.cr. prévoit les pouvoirs du juge. Lors de l’audition, le juge détermine si l’accusé représente un danger pour la société et conséquemment s’il va être remis en liberté. 
+La personne doit comparaitre détenue afin de donner le pouvoir au juge de la Cour du Québec d’entendre l’enquête sur remise en liberté
+Il faut nécessairement qu’un procureur de la couronne s’objecte à la remise en liberté afin de permettre au juge de statuer sur la continuation de la détention ou bien de sa remise en liberté sous conditions
+Les règles de preuves se trouvent à l’art. 518 C.cr.
+Enquêtes devant être faites par le juge de paix et preuve
+518 (1) Dans toutes procédures engagées en vertu de l’article 515 :
+le juge de paix peut, sous réserve de l’alinéa b), faire, auprès du prévenu ou à son sujet, sous serment ou autrement, les enquêtes qu’il estime opportunes;
+le prévenu ne peut être interrogé par le juge de paix ni par aucune autre personne, sauf son avocat, quant à l’infraction dont il est inculpé; aucune question ne peut lui être posée en contre-interrogatoire relativement à cette infraction à moins qu’il ait déjà témoigné à ce sujet;
+le poursuivant peut, en sus de toute autre preuve pertinente, présenter une preuve en vue :
+soit d’établir que le prévenu a antérieurement été déclaré coupable d’une infraction criminelle,
+soit d’établir que le prévenu a été inculpé d’une autre infraction criminelle et attend son procès à cet égard,
+soit d’établir que le prévenu a antérieurement commis une infraction aux termes de l’article 145,
+soit d’exposer les circonstances de l’infraction présumée, particulièrement en ce qu’elles ont trait à la probabilité de la condamnation du prévenu;
+le juge de paix peut prendre en considération toutes questions pertinentes sur lesquelles se sont entendus le poursuivant et le prévenu ou son avocat;
+d.1)	le juge de paix peut admettre en preuve par écrit, de vive voix, ou sous forme d’enregistrement, une communication privée qui a été interceptée au sens de la partie VI, le paragraphe 189(5) ne s’appliquant pas au présent article;
+d.2)	le juge de paix prend en considération toute preuve relative au besoin d’assurer la sécurité des victimes ou des témoins de l’infraction qui lui est présentée;
+le juge de paix peut recevoir toute preuve qu’il considère plausible ou digne de foi dans les circonstances de l’espèce et fonder sa décision sur cette preuve.
+Mise en liberté en attendant la peine
+(2) Lorsque, avant le début des procédures engagées en vertu de l’article 515 ou à tout moment au cours de celles-ci, le prévenu plaide coupable et que son plaidoyer est accepté, le juge de paix peut rendre toute ordonnance prévue dans la présente partie pour sa mise en liberté jusqu’à ce que sa peine soit prononcée.
+*Ces décisions peuvent être révisées par un juge de la Cour supérieure lorsque l’accusé ou le poursuivant n’est pas satisfait (arts. 520 et 521 C.cr.). 
+Par contre, lorsque nous sommes en matière d’actes criminels sous l’art. 469 C.cr., c’est un juge de la Cour supérieure qui siège en première instance et cette décision de remettre en liberté ou non le détenu peut être contestée en Cour d’appel du Québec (art. 522 C.cr.).
+Les règles régissant l’enquête sur remise en liberté sont assouplies puisque la preuve par ouï-dire est acceptée. La question est de savoir si la personne est un danger et respectera les conditions de mises en liberté qu’il lui sera imposées.
+Le juge sans jury
+La compétence d’un juge sans jury est prévue à l’art. 552 C.cr. Il doit s’agir d’un acte criminel non-énoncé à l’art. 469 C.cr. et d’une infraction non-listée à l’art. 553 C.cr. pour que l’accusé ai le choix du mode de son procès : (art. 536(2) C.cr.)
+Soit je veux être jugé par un juge de la Cour provinciale (juge du Québec) sans jury avec possibilité d’une enquête préliminaire
+Soit je veux être jugé par un juge de la Cour supérieure et un jury de 12 personnes avec la possibilité d’une enquête préliminaire
+Soit je veux être jugé par un juge de la Cour provinciale sans possibilité d’enquête préliminaire
+Si je choisi juge sans jury, il y a la possibilité d’avoir une demande d’enquête préliminaire par l’une ou l’autre des parties. C’est toujours un juge de la cour du Québec qui exerce cette fonction lors d’un procès sans jury. Nous devons déposer un acte d’accusation au DPCP et l’accusé doit répondre à l’accusation. 
+Le juge de la Cour provinciale et le juge de paix à la Partie XXVII du C.cr.
+Juridiction absolue d’un juge de la cour provinciale pour les infractions de l’art. 553 C.cr. Ce sera également un juge de la Cour provinciale lorsque l’accusé aura choisi comme mode de procès un juge seul au sens de l’art. 536 (2) C.cr. La dénonciation vaut comme acte d’accusation. 
+Il n’y a jamais d’enquête préliminaire. C’est un processus plus rapide. 
+La juridiction des juges de la Cour du Québec et des juges des cours municipales de Québec, Montréal et Laval. On peut retrouver cette juridiction à la partie XXVII du C.cr. et pour les mêmes raisons que l’art. 553 C.cr., lorsqu’on est poursuivi pour une infraction sommaire pure de culpabilité ou une infraction mixte et que le poursuivant a porté le chef par voie sommaire, le juge de paix présidant devra recevoir un plaidoyer. 
+La peine maximale attribuable est de 2 ans moins 1 jour d’emprisonnement et/ou de 5 000$ d’amendes (art. 787(1) C.cr. ).
+La prescription pour entreprendre une poursuite suivant la Partie XXVII du C.cr. est de 12 mois (art. 786(2) C.cr.).
+La Cour municipal (arts. 2 et 785 et ss C.cr. ) 
+La Cour municipal soit de Montréal, Laval ou Québec ont toutes juridictions quant aux infractions sommaires de culpabilité. Par contre, cela ne restreint pas la possibilité qu’un juge d’une autre juridiction soit nommé juge, mais il ne pourra exercer que les pouvoirs de juge de paix.
+Les juges de paix magistrats
+Ils ont des pouvoirs un peu supérieurs au juge de paix fonctionnaire. Ils peuvent émettre des mandat généraux (art. 487.01 C.cr. ), des mandats de perquisition (art. 487(1) C.cr. ), pour fin d’analyse génétique (art. 487.055 et ss C.cr.) et désigné aussi selon l’art. 128 de la Loi sur les tribunaux judiciaires. 
+Ils sont le pouvoir de faire comparaitre des personnes, mais pas le pouvoir de faire des enquêtes sur remise en liberté et ni de faire des enquêtes préliminaires.
+Les juges de paix fonctionnaires
+Ils sont nommés par le ministère de la justice. C’est eux qui peuvent recevoir les dénonciations, émettre des mandats d’arrestations (art. 507 et ss C.cr.). En vertu des arts 128 et 158 Loi sur les tribunaux judiciaires, ils ont des pouvoirs plus ou moins étendu dans la circonscription en fonction de l’acte de nomination. 
+Section 2 : Les différents modes de procès
+L’infraction dont un individu est accusé déterminera le tribunal qui sera compétent à entendre l’affaire. Lorsqu’il s’agit d’une infraction hybride, le poursuivant déterminera au moment de la préautorisation s’il procédera par acte criminel ou sur une infraction punissable sur déclaration de culpabilité par procédure sommaire.
+La compétence sur l’objet
+Acte criminel
+Hybride : au choix du poursuivant de poursuivre finalement par acte criminel ou par déclaration sommaire de culpabilité. Lorsqu’il n’a pas de circonstances aggravantes, la poursuite procèdera habituellement par voie sommaire. 
+Sommaire
+L’art. 786 (2) C.cr. : la prescription pour une déclaration sommaire ou une infraction mixte qui finalement portée par voie sommaire est de 12 mois. 
+L’art. 34 (1) de la loi d’interprétation prévoit que lorsqu’il s’agit d’une infraction mixte, c’est présumé être poursuivit par acte criminel.
+Si l’accusé ne fait aucun choix sur son mode de procès ou refuse d’en faire un, l’art. 565 (1) C.cr. est pertinent et impose un procès avec juge et jury. ÇA ne veut pas dire qu’il ne pourra pas changer de choix en cours de route. 
+La réoption
+L’art. 536(2) C.cr. prévoit les trois choix s’offrant à l’accusé lors de la comparution, mais qu’il peut faire plus tard. L’accusé peut cependant modifier son choix en vertu de l’art. 561 C.cr. dans le délai prescrit. S’il n’est pas dans le délai prévu, il devra obtenir le consentement du procureur de la couronne afin de modifier son choix. 
+Au moment du nouveau choix, il doit s’assurer s’il bénéficie d’une enquête préliminaire de respecter les délais particuliers, lorsque l’infraction est condamnable d’une peine de 14 ans et plus. 
+Vrai/Faux
+Si le prévenu n’exerce pas de choix, il est réputé avoir choisi d’être jugé par un juge de la Cour provinciale.
+Faux, si le prévenu n’exerce pas de choix, il est réputé avoir choisi d’être jugé par un tribunal composé d’un juge et d’un jury (art. 565 (1) C.cr.).
+Section 3 : Les mesures concernant la comparution
+Une fois qu’un individu a été arrêté et que des accusations criminelles ont été déposées, l’accusé devra comparaître. L’agent de la paix dispose de différents devoirs et pouvoirs quant à la mise en liberté, et ce, afin de s’assurer de la présence de cet individu lors de sa comparution à la cour.
+Les pouvoirs d’arrestation et les mesures concernant la comparution
+Art. 495 (1) C.cr.
+Un agent de la paix peut arrêter sans mandat :
+une personne qui a commis un acte criminel (comprend l’infraction hybride en vertu de l’art. 34 de la loi d’interprétation)ou qui, d’après ce qu’il croit pour des motifs raisonnables, a commis ou est sur le point de commettre un acte criminel;
+une personne qu’il trouve en train de commettre une infraction criminelle (acte criminel, mixte, sommaire);
+une personne contre laquelle, d’après ce qu’il croit pour des motifs raisonnables, un mandat d’arrestation ou un mandat de dépôt, rédigé selon une formule relative aux mandats et reproduite à la partie XXVIII, est exécutoire dans les limites de la juridiction territoriale dans laquelle est trouvée cette personne.
+Pouvoir d’arrestation sans mandat sont limités par l’art. 495 (2) C.cr.
+Art. 495 (2) C.cr.:
+Un agent de la paix ne peut arrêter une personne sans mandat :
+soit pour un acte criminel mentionné à l’article 553;
+soit pour une infraction pour laquelle la personne peut être poursuivie sur acte d’accusation ou punie sur déclaration de culpabilité par procédure sommaire;
+soit pour une infraction punissable sur déclaration de culpabilité par procédure sommaire,
+dans aucun cas où :
+d’une part, il a des motifs raisonnables de croire que l’intérêt public, eu égard aux circonstances, y compris la nécessité :
+d’identifier la personne,
+de recueillir ou conserver une preuve de l’infraction ou une preuve y relative,
+d’empêcher que l’infraction se poursuive ou se répète, ou qu’une autre infraction soit commise,
+peut être sauvegardé sans arrêter la personne sans mandat;
+d’autre part, il n’a aucun motif raisonnable de croire que, s’il n’arrête pas la personne sans mandat, celle-ci omettra d’être présente au tribunal pour être traitée selon la loi.
+Quels sont les facteurs que les agents de la paix et les tribunaux vont prendre en compte à savoir s’ils vont arrêter la personne et la remettre en liberté ? Généralement toute personnes arrêtée sans mandat doit être remise en liberté, c’est un devoir imposé aux agents de la paix. C’est aussi un devoir des tribunaux lorsque la personne est détenue, soit de le remettre en et sans condition. 
+Il existe le principes de la retenue primant la remise en liberté de l’accusé (art. 493.1 C.cr. ). Le législateur doit tenir en compte de facteurs particuliers lorsqu’il est question d’un prévenu a) autochtone ou b) d’une population vulnérable en vertu de l’art. 493.2 C.cr.
+Qu’arrive-t-il lorsque les policiers veulent réaliser une arrestation sans mandat (art. 495(1) C.cr.) lorsqu’une personne a déjà reçu des documents de cours ou reçus des documents émis par les policiers telle qu’une sommation, une citation à comparaitre, une promesse de comparaitre, d’une ordonnance de remise en liberté. 
+Dans ce contexte, l’art. 495.1C.cr. prévoit que : Malgré toute autre disposition de la présente loi, l’agent de la paix qui a des motifs raisonnables de croire qu’un prévenu soit a violé ou est sur le point de violer une sommation, une citation à comparaître, une promesse ou une ordonnance de mise en liberté le visant, soit a commis un acte criminel alors qu’il était visé par une sommation, une citation à comparaître, une promesse ou une ordonnance de mise en liberté, peut l’arrêter sans mandat afin qu’il soit conduit devant un juge ou un juge de paix au titre de l’article 524. 
+Une fois devant le juge de paix en fonction de l’infraction commise si jamais l’ordonnance de remise en liberté avait été donné par un juge d’une cour supérieure, le juge de paix renvoi l’affaire devant cette cour (art. 524(1) a) C.cr. ) et dans tous les autres de figure, ce sera le juge de paix qui s’occupera de l’audition (art. 524(1) b) C.cr. )
+Les circonstances analysées sont à l’art. 524 (2) C.cr. : soit a) a été arrêté pour avoir violé l’un des documents remis ou pour avoir été sur le point de la violer, soit b) arrêté pour avoir commis un acte criminel alors qu’il était visé par un document. 
+Le poursuivant dans ces deux cas cherche à obtenir l’annulation de ces actes de procédures (art.524 (2) et (3) C.cr. ) et le juge va les annuler (3) a) s’il a violé ou était sur le point ou encore (3) b) qu’il a des motifs raisonnables de croire qu’il a commis un AC alors qu’il était visé par …
+Si le juge annule les actes, la détention sous garde du prévenu est ordonnée sauf si ce dernier réussit à prouver que ce n’est pas justifié (art. 524 (4)C.cr. ) 
+Si le juge n’ordonne pas la détention sous garde, il doit rendre une ordonnance de remise en liberté (art. 524 (5) C.cr. ). L’ordonnance doit faire part des motifs du juge (art. 524 (6) C.cr. ) 
+Dans tous les cas, si le juge n’annule pas les actes de procédures, il doit ordonner la remise en liberté du prévenu (art. 524 (7) C.cr. ).
+L’art. 496 C.cr. vient tempérer le texte de l’art. 524 C.cr. ainsi : L’agent de la paix qui a des motifs raisonnables de croire qu’une personne a omis de se conformer à une sommation, une citation à comparaître, une promesse ou une ordonnance de mise en liberté ou d’être présent au tribunal comme l’exige le tribunal et que l’omission n’a pas causé de dommages — matériels, corporels ou moraux — ou de pertes économiques à une victime, peut, sans porter d’accusation, délivrer une citation à comparaître pour que la personne comparaisse pour manquement en vertu de l’article 523.1. 
+Pour sa part, l’art. 523.1 (3) C.cr. prévoit les pouvoirs du tribunal :
+(3) S’il est convaincu que le prévenu a omis de se conformer à une sommation, une citation à comparaître, une promesse ou une ordonnance de mise en liberté ou d’être présent au tribunal comme l’exige le tribunal et que l’omission n’a pas causé de dommages — matériels, corporels ou moraux — ou de pertes économiques à une victime, le juge ou le juge paix qui entend l’affaire examine toute condition de mise en liberté à laquelle le prévenu est assujetti et peut, selon le cas :
+ne pas agir;
+annuler la sommation, la citation à comparaître, la promesse ou l’ordonnance de mise en liberté et, selon le cas :
+rendre une ordonnance de mise en liberté au titre de l’article 515,
+si le poursuivant fait valoir des motifs justifiant la détention du prévenu au titre du paragraphe 515(10), ordonner que le prévenu soit détenu sous garde jusqu’à ce qu’il soit traité selon la loi, auquel cas le juge ou le juge de paix porte au dossier les motifs de sa décision;
+renvoyer le prévenu à la détention pour l’application de la Loi sur l’identification des criminels.
+Si la circonstance devant le juge est celle de l’art. 523.1 (2) b) C.cr. en raison d’une poursuite portée pour avoir déjà violée antérieurement une ordonnance ou une document soit à l’art. 145 C.cr., et que le juge décide d’agir en vertu de l’art. 523.1(3) C.cr., il pourra rejeter cette accusation portée en vertu de l’art. 523.1(4) C.cr.
+Lorsqu’on est dans la situation de l’art. 495(2)C.cr. et que le policier de procède pas à l’arrestation sans mandat, il est tenu de lui remettre une citation à comparaitre (art. 497 C.cr.). 
+Qu’arrive-t-il quand le policier possède des motifs et procède à l’arrestation de la personne (art. 495(2)d)(i) C.cr.) parce qu’il veut par exemple identifier la personne ?
+L’art. 498(1) C.cr. lui commande de remettre en liberté l’individu une fois que son motif est écarté, soit par une a) sommation par un juge de paix, soit par une b) citation à comparaitre ou par une c) promesse de comparaitre 
+Remise en liberté SAUF si en vertu de l’art. 498(1.1)C.cr. : 
+L’agent de la paix ne met pas la personne en liberté s’il a des motifs raisonnables de croire :
+a)	qu’il est nécessaire, dans l’intérêt public, de détenir la personne sous garde ou de régler la question de sa mise en liberté en vertu d’une autre disposition de la présente partie, eu égard aux circonstances, y compris la nécessité :
+(i) d’identifier la personne,
+(ii) de recueillir ou conserver une preuve de l’infraction ou une preuve y relative,
+(iii) d’empêcher que l’infraction se poursuive ou se répète, ou qu’une autre infraction soit ,
+(iv) d’assurer la sécurité des victimes ou des témoins de l’infraction;
+b)	que, s’il met la personne en liberté, celle-ci omettra d’être présente au tribunal pour être traitée selon la loi.
+S’il ne le remet pas en liberté on doit se référer à l’art. 503(1) et ss C.cr. mentionnant que le prévenu devra être amené devant un juge dans les 24 heures suivant son arrestation.
+Aussi, les pouvoirs que peuvent exercer les agents lorsque l’individu est visé par un mandat visé (art. 507(6) C.cr.). Il pourront le remettre en liberté par une citation à comparaitre ou une promesse de comparaitre (art. 499 C.cr.). Il s’agit d’un pouvoir de la part des policiers. 
+Lorsque l’agent a arrêté un personne et décide de lui remettre une promesse de comparaitre , celle-ci devra l’enjoindre de se présenter à une date et à un lieu pour comparaitre (art. 501(2) C.cr. ). Il pourra aussi faire l’objet dans la promesse à comparaitre (art. 498, 499 ou 503(1) C.cr. ) de conditions à respecter en vertu de l’art. 501(3) a)-k) C.cr. Les conditions seront choisies par les agents de la paix. 
+Est-ce qu’on peut modifier les conditions de la promesse avant que l’individu comparaisse ? Oui, de manière informelle ou formelle en vertu de l’art. 502 (1) C.cr. avec le consentement de la poursuite et de la défense par écrit. S’il n’y a pas de consentement de la part de la poursuite, on doit se tourner vers le tribunal (art. 502 (2) C.cr.). En fonction de ce que le tribunal entend, il pourra la modifier (art. 515(1) ou 515 (2) C.cr. ). 
+Les documents contraignant le prévenu à comparaitre
+Art. 2 C.cr. :
+Citation à comparaitre 
+Promesse à comparaitre
+Devient des documents légaux lorsque la personne issue (agent) de la plainte est assermentée et lorsque le juge de paix est satisfait et qu’il y a suffisamment de preuves pour supporter une dénonciation, notamment le juge authentifiera les documents soumis par l’agent de la paix, soit les citations… Le système judiciaire sera donc engagé. 
+Une fois que la plainte est assermentée devant le juge et que le prévenu est absent au tribunal, le juge pourra émettre un mandat d’arrestation. Lorsque le policier se rend déposer la plainte au juge de paix et qu’il lui demander si la plainte sera assermentée, le juge peut décider de modifier cette citation ou la promesse puisque la situation de la personne depuis son arrestation a changé. Le juge pourrait donc annuler ou modifier ladite promesse, émettre une sommation et/ou émettre un mandat d’arrestation au nom de la personne. 
+La durée de vie des documents (citation ou promesse) = jusqu’au moment où la personne sera déclarée coupable ou non-coupable. 
+Lorsque des promesses de comparaitre sont émises et que l’une de ces conditions devient trop onéreuse, il y a la possibilité de modifier la condition (art. 502(1) ou (2) C.cr.). 
+L’individu a comparu devant la cour, des conditions sont émises par la cour. Est-ce que les conditions imposées par la Cour peuvent être modifiées ultérieurement ? La révision informelle à l’art. 519.1 C.cr. prévoit que s’il y a un consentement par écrit de toutes les parties c’est possible. 
+Vrai/Faux
+Lorsque l’agent de la paix décide de ne pas arrêter une personne sans mandat selon l’art. 495 (2) C.cr., il peut délivrer une citation à comparaître.
+Vrai, art. 497 C.cr.
+Section 4 : Le cheminement d’une plainte
+Toute personne peut dénoncer un crime. Il faut toutefois que le dénonciateur ait des motifs raisonnables et probables de croire qu’une personne a commis une infraction criminelle. La dénonciation devient la procédure introductive d’instance.
+Nulle part dans le C.cr. il est mentionné que ça doit passer par le bureau du DPCP. Le bureau doit alors préautoriser le dossier avant que le policier authentifie. 
+Le policier devra se rendre au greffe devant le juge de paix pour qu’une authentification soit faite. Le juge de paix a une certaine discrétion quant à leur authenticité (art. 507 et 508 C.cr.). Il peut les annuler si les circonstances le justifie et donc décider d’émettre une sommation ou un mandat d’arrestation. Pour le mandat par contre, cela devra être motivé.
+Lorsqu’un citoyen décide de porter une plainte directement au greffe du palais de justice où les événements ce sont déroulés et non par la police. L’art. 507.1 C.cr. prévoit un processus très particulier à cet effet. Ce sera un juge de la Cour du Québec qui agira à titre de juge de paix 
+C’est possible de procéder par sommation à la place d’une promesse. Dans le cas, il est possible que le policier n’ait jamais rencontré l’accusé. Normalement, il n’y a pas de pièce de procédure de déposé au dossier, il y a eu une enquête et le dossier a été préautorisé par le DPCP. Le policier dispose du pouvoir de remettre une sommation à la place d’une promesse (art. 498 (1) C.cr. ). La sommation est document qui émane du juge de paix au moment de la dénonciation. Par le dépôt de la dénonciation et l’émission d’une sommation fait démarrer le processus judiciaire. 
+Il peut arriver que le poursuivant à la place de porter la plainte par une dénonciation, il décide de faire une pré-enquête auprès d’un juge du Québec et c’est après qu’il a entendu la preuve qu’il émet une sommation. Exemple : poursuite de l’ancienne lieutenante, preuve devant la cour du Qc et ensuite émission d’un mandat pour que cette personne pour qu’elle comparaisse à la cour. 
+Si la sommation émise par le juge de paix demande à l’accusé qu’il soit présent à la cour par signification et que ce dernier ne se présente pas au tribunal, la preuve de la réception de la signification devra être faite. Si elle n’est pas faite, une nouvelle lui sera transmise. Si la preuve est faite, le juge pourra émettre un mandat d’arrestation au nom de la personne. 
+Lorsqu’une personne est arrêtée avec ou sans mandat et pas remis en liberté, les policiers doivent nécessairement la faire comparaitre dans les 24h ou dans les meilleurs délais possibles (art. 503(1) C.cr.).
+Si les agents établissent qu’entre temps et avant l’expiration du délai, il n’est plus nécessaire de détenir la personne, ils peuvent la libérer sous citation ou promesse (art. 503 (1.1) C.cr.).
+Vrai/Faux
+Lorsque le prévenu a reçu une citation à comparaître, a signé une promesse, le juge de paix doit fixer une date d’audience afin d’entendre les parties afin de confirmer la décision.
+Faux, le juge de paix doit entendre et examiner ex parte, les allégations du dénonciateur et les dépositions des témoins s’il l’estime utile. Il devra ensuite, soit confirmer la citation, et inscrire sur la dénonciation une mention en ce sens, soit annuler ces documents et décerner une sommation ou un mandat d’arrestation ou l’annuler tout simplement (art. 508(1) C.cr.).

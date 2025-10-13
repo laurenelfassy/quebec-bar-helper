@@ -1,0 +1,314 @@
+LES INFRACTIONS CRIMINELLES
+Un crime est considéré comme une infraction contre la société dans son ensemble; c’est pourquoi il revient habituellement à l’État d’engager la poursuite pénale.
+Les actes criminels et les infractions sommaires sont désignés sous le terme « infractions criminelles ». En effet, le Code criminel distingue ces deux types d'infractions en fonction de la procédure et de la peine applicable. Pour les actes criminels, la procédure est plus complexe et les peines possibles, beaucoup plus importantes. Parmi les actes criminels, on retrouve le meurtre, les voies de fait graves ou l'agression sexuelle armée.
+Section 1 : Les éléments constitutifs de l’infraction criminelle
+Les infractions criminelles se retrouvent dans le Code criminel et dans certaines lois créées par le parlement fédéral, notamment la Loi réglementant certaines drogues et autres substances.
+Il doit s’agir d’une infraction criminelle tombant sous le coup de la loi canadienne obligatoirement (art. 9 C.cr.) et non d’une infraction de Common Law, etc. (les infractions de Common Law n’existent plus = tentative de complot (R. c. Déry), mais outrage au tribunal est encore une infraction). 
+Les infractions criminelles sont composées de deux éléments : l’élément matériel ou l’actus reus,  l’élément mental ou mens rea et pour certaines infractions, le lien de causalité.
+L’élément matériel ou l’actus reus
+L’élément matériel
+Action : voler, conduire, agresser 
+Omission : Article spécifique (art. 215 (2) C.cr.)
+Exemple : omission de fournir les choses nécessaires à la vie d’un enfant
+Devoir légal d’agir et non sur la moralité du geste
+Lorsqu’on entraîne sa responsabilité criminelle par le jeu de la complicité (art. 21 (1) b) C.cr.), bien qu’il n’ait pas d’obligation légale d’agir
+État : se trouver dans un endroit dans un état défendu par la loi
+Exemple : se trouver dans une maison de pari ou de jeu (art. 201 (2) a) ou b) C.cr.)
+Possession : 
+Possession d’objets volés (recel) - arts. 354 et 355 C.cr.
+Ou
+Possession de stupéfiants (art. 4 (3) C.cr.) – cette définition est plus large de celle du dictionnaire
+Élément volontaire minimal : 
+Toute personne raisonnable est sensée connaitre la nature des conséquences qu’il pose
+Il ne s’agit donc pas ici de la Mens rea. Lorsque je veux amener une défense à l’encontre de cet élément, on peut penser à la défense d’automatisme. 
+Le lien de causalité pour certaines infractions 
+Par exemple de la capacité affaiblie causant la mort, de la négligence criminelle causant la mort ou des lésions corporelles. 
+Le lien de causalité sera évalué en fonction que la cause doit avoir contribuée de manière plus que mineure au résultat, de façon appréciable. 
+Pour les infractions de négligence criminelle causant la mort ou des lésions corporelles (arts.  219 ou 220 C.cr.), il est important de savoir qu’en l’absence d’un lien de causalité il n’y a pas d’infraction. 
+Pour une tentative de meurtre, si le PPCP n’est pas en mesure de prouver que la nature des gestes posés devait accompagner l’intention de la personne de mettre fin à sa vie, le PPCP va s’assurer que le libellé dans le chef d’accusation soit suffisamment détaillé pour retrouver une infraction incluse (art. 662 C.cr.). Pour la tentative de meurtre, je devrais donc retrouver dans la dénonciation et plus précisément dans le chef d’accusation des éléments permettant au juge si je n’ai pas prouvé hors de tout doute raisonnable la tentative de meurtre, à déclarer coupable l’accusé de voies de fait grave ou de voie de fait lésion si j’ai prouvé l’intention de blesser.
+Vrai/Faux
+Pour être reconnu coupable de meurtre, il est nécessaire que les actes illégaux de l’accusé soient la cause directe de la mort.
+Faux, dès que l’acte de l’accusé contribue de façon « plus que mineure » à la conséquence réprouvée par la loi, le lien de causalité suffit pour établir sa culpabilité même s’il existe d’autres causes contributives, antérieures ou postérieures.
+L’élément mental ou la Mens rea
+Intention criminelle d’accomplir les gestes. C’est l’esprit coupable qui est pertinent. 
+Il y a 3 types : (1) intention générale (2) l’insouciance (3) la négligence pénale ou criminelle.
+La fraude (art. 380 (1) C.cr.) : connaissance subjective de l’acte prohibé en mentant ou par supercherie ou utilisant un autre moyen dolosif. Il faut également une preuve que l’individu savait qu’il allait privée la personne d’un montant, d’une valeur ou d’un service. 
+Intention coupable 
+On doit se placer dans l’état où l’accusé était quand il a posé les gestes, c’est une analyse objective. 
+On peut arriver à cette connaissance subjective parfois d’une autre manière. Par exemple, dans le cas d’un recel, il y a la théorie de l’aveuglement volontaire. En fonction des gestes posés et de l’absence de question de l’accusé, nous allons être en mesure de faire la preuve de sa connaissance du bien volé. (Le PG va devoir prouver hors de tout doute raisonnable).
+L’insouciance
+La connaissance du danger ou du risque la conduite devrait engagé, mais on décide de poursuite. 
+Exemple : (art. 267 a)  C.cr.) décide de tirer avec une carabine une cible alors que des personnes se trouvent à proximité. 
+La distinction entre l’insouciance et l’aveuglement : 
+Insouciance connait les risques et décide d’agir quand-même
+Aveuglement je refuse de me poser des questions sur la provenance des objets (tu es dans la connaissance subjective). 
+La négligence 
+La négligence criminelle (art. 219 et 220 C.cr.): entraine le responsabilite de la personne lorsqu’il agit de manière téméraire sans se soucier de ses actes
+La négligence pénale : 
+Exemples: (art. 86(1) C.cr.) (art.  215 (1) C.cr.) ou 249
+*Il s’agit d’une mens rea objective modifiée : une personne raisonnable placée dans la même situation sans égard aux conséquences lorsque les actes ont été posés. * ATTENTION : on ne regarde pas les conséquences des actes et on ne prend pas compte des caractères personnels de la personne)
+R c Creighton et R c Gosset. – elle établit comment la preuve doit être fait du concept de l’intention criminel qui accompagne les gestes
+R c Roy et R c Beatty en matière de conduit dangereuse : Ça prend un écart marqué par rapport aux normes de diligence raisonnable qu’aurait eu une même personne dans les mêmes circonstances. 
+Salame c La Reine : Doit être placée dans la même situation que l’accusé, il doit être conscient du risque et du danger, notamment on ne tient pas compte des qualités personnelles de l’accusé. 
+ATTENTION : Gosset nous dit que nous devons prendre en considération les caractéristiques personnelles de la personne seulement si elles affectent sa capacité de percevoir le risque lié à sa conduite. (page 208 du C.cr)
+Vrai/Faux
+L’âge, l’éducation et l’expérience de l’accusé doivent être pris en considération lorsque vient le temps de déterminer la conduite d’une personne raisonnable.
+Faux, bien que l’on doive tenir compte des circonstances de l’affaire pour déterminer quelle aurait été la conduite d’une personne raisonnable, les caractéristiques personnelles de l’accusé doivent être ignorées. Ce n’est que si l’accusé est affecté d’une particularité le rendant incapable d’apprécier le risque que l’on considérera ces facteurs personnels (R. c. Creighton (1993) 3 R.C.S. 3).
+Section 2 : L’intention générale et l’intention spécifique
+Lorsque le législateur exige la preuve qu’un acte a été commis « intentionnellement », l’état d’esprit de l’accusé est pertinent.
+Intention générale – intention de poser des gestes qui consiste une infraction criminelle
+R c Bernard : La défense d’intoxication volontaire ne peut jamais être amené lorsque nous sommes en présence d’un crime à intention générale.
+R c Bernard : intention se rapporte uniquement à l’accomplissement de l’acte sans qu’il n’y ait d’autre intention ou dessein. 
+Exemples : voies de fait (art. 265 C.cr.) et agression sexuelle (art. 271 et ss C.cr.)
+Intention spécifique – nous sommes en mesure d’invoquer une défense d’intoxication
+Exemple : intention spécifique de tuer en matière de meurtre. L’infraction incluse serait l’homicide involontaire coupable. 
+Exemple : le vol (art. 322 C.cr.)
+R c Bernard : En mesure de présenter une défense d’intoxication volontaire, ce qui peut amener à une condamnation pour une infraction moindre et incluse ou à un acquittement s’il n’y a pas d’infraction incluse. 
+R c Bernard : se caractérise par la perpétration de l’actus reus assortie d’une intention ou d’un dessein qui ne se limite pas à l’accomplissement de l’acte. 
+Si on voit dans le libellé : « dans l’intention de… » = obligation de la poursuite de prouver l’intention spécifique de l’accusé au moment de la commission de l’infraction. 
+Critère #1 : Processus de raisonnement et connaissance de conséquences. 
+Intention spécifique : Si le crime exige un processus de raisonnement complexe ou la connaissance de certaines conséquences (par exemple, que l’acte peut causer la mort de la victime), le crime exige, en principe, la preuve d’une intention spécifique. (Intention de prendre les biens de l’individu)
+Intention générale : Si le crime requiert un processus de raisonnement simple ou aucune connaissance de conséquences, le crime exige la preuve d’une intention générale.  
+Vrai/Faux
+Pour être reconnu coupable de voies de fait simples, l’accusé doit avoir recouru intentionnellement à la force, avec l’intention de causer des blessures.
+Faux, dans le cas d’un crime d’intention générale, l’élément moral se rattache simplement à la perpétration de l’acte illégal. Ces infractions n’exigent pas de prouver une intention que surviennent certaines conséquences (R. c. Tatton, [2015] 2 R.C.S. 574). 
+Section 3 : L’intention et la conséquence
+Habituellement un crime se définit par le simple fait de poser un acte, accompagné de l’intention criminelle appropriée. Parfois la loi exige davantage. En effet, pour que soient commises certaines infractions, le comportement d’une personne doit occasionner une conséquence particulière.
+En matière de meurtre il est question de prévisibilité subjective de la conséquence, soit de causer la mort ou des lésions corporelles susceptibles de causer la mort que la mort s’ensuive ou non. C’est en raison des stigmates et de la peine accompagné à une telle infraction. 
+Vrai/Faux 
+Pour être reconnu coupable d’une infraction criminelle, l’accusé doit avoir eu lui-même l’intention d’engendrer une conséquence.
+Faux, à moins qu’il soit spécifié au texte de loi qui crée l’infraction que l’accusé doit lui-même avoir eu l’intention d’engendrer la conséquence, la preuve de cette intention subjective n’est pas nécessaire.
+Section 4 : Les infractions contre la personne
+Les infractions contre la personne ont en commun la menace à l’intégrité physique ou psychologique des personnes.
+Les armes et les armes à feu 
+Art. 2 C.cr.: 
+« Arme » : Toute chose conçue, utilisée ou qu’une personne entend utiliser pour soit tuer ou blesser quelqu’un, soit le menacer ou l’intimider. Sont notamment visées par la présente définition les armes à feu et, pour l’application des articles 88, 267 et 272, toute chose conçue, utilisée ou qu’une personne entend utiliser pour attacher quelqu’un contre son gré.
+« Arme à feu » : Toute arme susceptible, grâce à un canon qui permet de tirer du plomb, des balles ou tout autre projectile, d’infliger des lésions corporelles graves ou la mort à une personne, y compris une carcasse ou une boîte de culasse d’une telle arme ainsi que toute chose pouvant être modifiée pour être utilisée comme telle.
+Art. 84 C.cr.: d’autres définitions par exemples sur les armes à autorisation restreinte et les armes à feu prohibés. 
+Les voies de fait, les menaces, le harcèlement criminel, l’extorsion et l’intimidation
+Les voies de fait 
+Les voies de fait simples (art. 265 (1) C.cr.)
+Pas nécessaire que je puisse atteindre ma victime, si je tente c’est suffisant
+Les voies de fait avec lésions corporelles  (art. 267 C.cr.)
+Art. 2 C.cr. « lésion corporelle » : Blessure qui nuit à la santé ou au bien-être d’une personne et qui n’est pas de nature passagère ou sans importance. 
+Les voies de fait grave (art. 268 C.cr.)
+Si je ne suis pas en mesure de prouver : blesse, mutile ou défigure le plaignant ou met sa vie en danger, je suis susceptible d’être déclaré coupable de voies de fait lésion à l’art. 267 C.cr. et si pas en mesure de prouver les lésions corporelles, ce sera pour voie de fait simple (art. 265 C.cr.)
+L’infliction de lésions corporelles ou agression armée (art. 267 C.cr.)
+Les voies de fait contre les agents de la paix (art. 270-270.02 C.cr.)
+Les menaces (art.  264.1(1) C.cr.)
+À l’égard d’une personne, d’un animal ou d’un bien 
+Pas nécessaire que la menace soit transmise directement à la personne visée ou même que le message soit rendu
+Intention spécifique de menacer la personne
+Pas nécessaire de prouver que la personne ayant transmis la menace ait l’intention de commettre les gestes faisant l’objet de la menace 
+Mens rea objective : personne raisonnable considèrerait que les menaces ont été transmises de manière sérieuse. On regarde le sens ordinaire des mots dans le contexte.
+Il n’est pas obligatoire de prouver que l’individu a fait la menace avait l’intention d’exécuter les menaces. (Moyen de se décharger du fardeau de preuve)
+Harcèlement criminel (art. 264 (1) C.cr.)
+Exigence de connaissance ou d’insouciance de l’effet qui sera causé par la conduite harcelante. Cela inclue l’aveuglement volontaire. 
+Listes exhaustives d’actes interdit à l’art. 264(2) C.cr.
+l’accusé agit en sachant qu’elle se sent harcelée ou sans se soucier qu’elle se sente harcelée. 
+L’extorsion (art. 346 C.cr.)
+Intention spécifique : veut aller chercher quelque chose de plus que la commission du crime. L’accusé a l’intention d’obtenir un avantage
+Intimidation (arts. 423 (1) C.cr.) et intimidation d’une personne associée au système judiciaire ou d’un journaliste (art. 423.1 (1) C.cr.)
+Mens rea d’intention spécifique pour deux éléments distincts. Premièrement, la Couronne doit prouver hors de tout doute raisonnable que l'accusé avait l'intention de provoquer un état de peur chez le plaignant et, deuxièmement, la Couronne doit prouver hors de tout doute raisonnable que l'accusé avait l'intention de provoquer cet état de peur afin d'entraver le plaignant dans l'exercice de ses fonctions.
+Les crimes sexuels 
+Les agressions sexuels (art.  271 C.cr.)
+Différence des voies de fait et agression sexuelle : Circonstance de nature sexuelle, de manière à porter atteinte à l’intégrité sexuelle de la victime. 
+Voies de fait : usage de la force avec comme circonstance l’absence de consentement 
+Connotation sexuelle : observée de manière objective
+Mens rea subjective : de volontairement employer la force sachant que la personne ne consent pas. 
+Consentement tacite (le silence) ne constitue pas un consentement valide peu importe l’étape. Pas besoin de prouver que l’accusé en a tiré du plaisir 
+Notion de consentement (art.  273.1 et ss C.cr.)
+Les contacts sexuels (art. 151 C.cr.)
+Mens rea subjective avec intention spécifique : toucher volontairement avec son corps ou un objet le corps de la personne âgée de moins de 16 ans, en sachant qu’elle a moins de 16 ans.
+Pour déterminer si un attouchement a été fait à des fins d’ordre sexuel, le Tribunal peut, dans son évaluation de la mens rea de l’accusé, se demander si une personne raisonnable aurait pu percevoir le contexte sexuel de l’attouchement
+Victime de moins de 16 ans
+PPCP peut accuser d’incitation à des contacts sexuels 
+Pornographie juvénile 
+Définitions à l’art. 163.1 C.cr.
+Possession, d’accès, distribution, production
+Peines sévères. Peine minimale 
+Leurre (art. 172.1(1)  C.cr.)
+3 types de leurre en fonction de l’âge : a) moins de 18 ans b) moins de 16 ans et c) moins de 14 ans 
+Faire l’offre est suffisante, le crime, soit la commission de l’acte n’est pas nécessaire. 
+La distribution non consensuelle d’images intimes (art. 162.1 C.cr.)
+Image intime est définit à l’art.  162.1(2) C.cr.
+D’autres infractions : Maison de débauche, de rétribution de services sexuels …. 
+Le vol qualifié (arts. 343 et 344 C.cr.)
+4 types de vol qualifié (art. 343 C.cr.)
+Si le procureur se réfère dans l’acte d’accusation à l’art. 344 C.cr. et non à l’un des alinéas de l’art. 343 C.cr., il peut ainsi prouver l’un de ceux-ci peu importe.
+Pas nécessaire d’avoir l’arme en main, le simple fait d’écrire sur un papier à une caissière j’ai une arme dans mon sac donne-moi ta caisse
+L’enlèvement et la séquestration (art. 279 et ss C.cr.)
+Enlèvement avec intention (art. 279 (1) C.cr.) : transport d’une personne sans le consentement de cette dernière en utilisant la force ou la fraude et la prise de contrôle est privative de liberté. C’est une mens rea subjective avec intention spécifique (3 possibilités) = (1) Art. 279(1)a) C.cr. : soit de la faire séquestrer ou emprisonner contre son gré; (2) Art. 279(1)b) C.cr. : soit de la faire illégalement envoyer ou transporter à l’étranger, contre son gré; (3) Art. 279(1)c) C.cr. : soit de la détenir en vue de rançon ou de service, contre son gré.
+Enlèvement d’une personne de moins de 16 ans et non mariée (art. 280(1) C.cr.)
+Enlèvement d’une personne de moins de quatorze ans (art. 281 C.cr.) 
+Enlèvement d’une jeune personne en contravention d’une ordonnance de garde (art. 282 (1) C.cr.) 
+Enlèvement d’une jeune personne qu’il y ait ou non une ordonnance de garde (art. 283 (1) C.cr.)
+La séquestration (art. 279(2) C.cr.) : enlèvement implique une forme de séquestration, mais tu pex être séquestré sans être enlevé. Peu impliquer la force ou non (maintenu au sol, au mur, je t’embarre dans la chambre, séquestration psychologique (manipulation) si tu sors ... si tu parles .. il y a quelqu’un qui va te tuer... t’attaquer… par des menaces…, sans consentement)
+La négligence criminelle (art. 219 (1) C.cr.)
+Art. 219 (1) C.cr. : soit a) en faisant quelque chose ou b) en omettant de faire quelque chose qui est de son devoir d’accomplir, montre une insouciance déréglée ou téméraire à l’égard de la vie ou de la sécurité d’autrui
+Art.  219 (2) C.cr.: devoir impose par la loi
+Doit y avoir des lésions corporelles (art. 221 C.cr.) ou la mort (art. 220 C.cr.) en raison de la négligence
+Différence avec la négligence pénale, ne pas conforme
+Exemple : poursuite en véhicule dans une artère principale à Québec (130km/h) sur une route de 70km/h. La lumière est rouge et il s’est engagé sur la route et a tué 3 personnes. 
+Les homicides (arts. 229 - 240 C.cr.)
+Homicide coupable : doit couvrir de l’ensemble des conditions de l’art. 229 C.cr. = 
+Étape 1 : 
+1.	Acte illégal
+R. c. Creighton définition : geste qui est de nature a causé des lésions corporelles ou constitué un danger grave pour la vie d’une personne. Objectivement le geste doit être dangereux.
+a)	Quel est l’acte illégal ? 
+- Ex : Trafic d’une substance s’apparentant à de la cocaïne
+b)	Actus reus de l’acte illégal : 
+En donnant de la cocaïne par injection
+c)	Mens rea de l’acte illégal : 
+Vouloir volontairement injecter de la drogue
+d)	Contribution de façon plus que mineure (appréciable), est-ce qu’il y a un lien causal ? 
+La drogue a mené à la mort
+e)	Prévisibilité objective de lésions corporelles : pas requis que l’accusé ait l’intention de tuer, tout ce que ça prend une prévisibilité objective de lésions corporelles
+Est-ce qu’un observateur raisonnable pourrait croire que ça l’entrainerait des lésions corporelles ? Oui
+f)	Mort ? 
+Oui
+Quand tous les éléments de l’acte illégal sont rencontrés = Ça devient un homicide coupable. S’il manque un élément c’est un homicide non-coupable
+Défense : Non ce n’est pas un acte illégal puisqu’il s’agit d’un acte de légitime défense.
+Art. 14 C.cr. : Nul n’a le droit de consentir à ce que la mort lui soit infligée, et un tel consentement n’atteint pas la responsabilité pénale d’une personne qui inflige la mort à celui qui a donné ce consentement.
+Étape 2 :
+Est-ce qu’il y a une mens rea selon un des alinéas de l’art. 229 C.cr. ? Intention de tuer
+Si oui = Meurtre
+Si non = Homicide involontaire coupable
+Étape 3 :
+Si c’est un meurtre, est-il au premier degré ?
+Si arts. 231(2) à (6.2) C.cr. = Premier degré
+Si aucun de ces articles, voir art. 231(7) C.cr. = Second degré
+Voir plus bas pour le détails des étapes pour cette parties.
+Défense d’intoxication volontaire c’est possible. 
+Les organisations criminelles (art. 467.1(1) et ss C.cr.)
+Groups d’au moins 3 personnes 
+infraction grave, passible d’un emprisonnement maximale de 5 ans ou plus 
+Section 5 : Les infractions contre la propriété
+Les infractions contre la propriété regroupent toutes les entraves à l’exercice par un individu de son droit de propriété.
+Le vol (art. 322 C.cr.)
+Mens rea subjective d’intention spécifique : vol dans le but de priver le propriétaire légitime de la possession ou de la propriété du bien
+Le fait de manière intentionnelle, manifestation de l’intention subjective
+Ouvre la porte à une défense de sincérité, d’erreur, d’apparence de droit… Par exemple dans un vestiaire disposant seulement de manteaux noirs à capuche 
+Ex : achète un bien à l’épicerie après avoir changé l’étiquette. Il peut être à la fois accusé de fraude et de vol. 
+Le recel (arts. 354 et 355 C.cr.)
+Possession d’un objet provenant directement ou indirection d’une infraction 
+La connaissance subjective ou l’aveuglement volontaire 
+Introduction par effraction (arts. 348 et ss C.cr.) 
+Effraction en soit n’est pas une infraction, elle doit être accompagné d’un acte criminel. 
+Au moment que tu t’introduis dans un endroit par contre il y a une présomption d’introduction pour commettre un acte criminel. 
+Méfait (art. 430(1) C.cr.)
+Endommagé un bien 
+La fraude (art. 380 C.cr.)
+Commet un geste à caractère frauduleux : Supercherie, mensonge ou autre moyen dolosif + je sais que c’est geste cause la privation ou le risque de privation chez la victime 
+Et ce, même si je n’ai pas reçu d’argent, de bien ou un service 
+Faux semblant : (arts. 361(1) et 362 (1) C.cr.) faits passés ou présents. Exemple : chèque postdaté ce sera un cas de fraude et non de faux-semblant. 
+On peut être accusé d’escroquerie et de fraude, ce sont des infractions concomitantes 
+Souvent l’escroquerie et la fraude sont accompagnées des infractions suivantes : la fabrication et l’utilisation d’un faux. Ce sont des infractions distinctes. 
+Le chèque fabriqué pour une opération dans le futur : ne pourra pas l’accusé de faux semblant puisque c’est dans le futur
+Section 6 : Les drogues et certaines autres substances LRCDAS
+La Loi réglementant certaines drogues et autres substances définit les substances qu’elle régit. Toutes les substances contrôlées par la loi sont qualifiées de « substances désignées », soit celles comprises dans les annexes I à V de la loi.
+La possession (art. 2 LRCDAS référant à l’art. 4 Cr.)
+Le trafic (art. 2 LRCDAS ) et la possession en vue de faire le trafic 
+Art. 2 LRCDAS référant à l’art. 4 Cr. :
+Relativement à une substance inscrite à l’une ou l’autre des annexes I à V, toute opération de vente — y compris la vente d’une autorisation visant son obtention —, d’administration, de don, de transfert, de transport, d’expédition ou de livraison portant sur une telle substance — ou toute offre d’effectuer l’une de ces opérations — qui sort du cadre réglementaire.
+Les infractions se retrouves aux arts. 5 et ss LRCDAS
+Doit possession une substance importante pour être poursuivie de possession en vue d’en faire le trafic. 
+L’importation, l’exportation et la production (art. 6 et ss LRCDAS.)
+Le loi sur la cannabis (donne des sanctions criminelles) et la loi provinciale encadrant le cannabis (donne des sanctions pénales)
+La différence entre la loi fédérale et provinciale est qu’au fédéral on est susceptible de se faire poursuivre pour des actes criminels alors que la loi provincial ne sera sanctionné que par des dispositions pénales. 
+Il faut connaitre les définitions de la loi fédérale :  
+Les lieux publics
+Cannabis illicites
+La distribution et la vente
+Les substances désignées 
+La possession est visée par l’art. 8 LRCDAS et l’art. 9 quant à la distribution et l’art. 10 pour la vente de cannabis. 
+La loi fédérale prévoit en matière d’infraction criminelle la possibilité de poursuivre par acte criminel ou par voie sommaire. 
+La possession de cannabis par un majeur ne doit pas dépasser 30g de cannabis séché. L’Annexe III prévoit de quel type de cannabis il s’agit, il y a 7 catégories. 
+La loi provinciale sanctionne la possession dans une résidence qui ne doit pas dépasser 150g de cannabis séché. La loi fédérale parle d’une possession maximale de 4 plants de cannabis et les poursuites doivent être engagés par acte criminel ou sommaire. La loi provinciale interdit à l’art. 5 tant aux majeurs qu’aux mineurs de possédé un plant de cannabis.
+Les peines varient en fonction que ce soit par voie sommaire ou criminel. Elles sont normalement de 6 mois d’emprisonnement et/ou 5 000$ quoi que ces peines peuvent être dépassées pour certaines infractions criminelles prises par déclaration sommaire. Par acte criminel, ce sera 5 ans moins 1 jour ou allant jusqu’à 14 ans de pénitencier pour certaines infractions. 
+Il y a une différence quant aux interdictions pour les mineurs. La loi provinciale interdit la possession de cannabis pour les mineurs de 14 ans à moins de 18 ans. La loi fédérale interdit la possession pour les mineurs de 12 ans à 17 ans (art. 8 (1) c) Loi sur le cannabis) d’avoir une quantité de plus de 5g de cannabis séché. 
+La loi provinciale interdit la culture à des fins personnels (art. 10) alors que la loi fédérale (art. 12(4)b)) créée des sanctions pour les personnes majeurs possédant plus de 4 plants de cannabis. 
+Le mot trafic est disparue : on retrouve vente, fournir et distribue. 
+Les peines à la loi fédérale se retrouvent aux arts. 8-14 et 15 pour une poursuite pour les infractions désignées. L'art. 49 de la loi sur le cannabis prévoit le lieu où des poursuites criminelles peuvent être intentées. Les policiers inspecteurs ont des pouvoirs de saisir des substances illicites (arts. 86(1)-86(14) et possèdent des mandats de perquisition pour saisir des substances, des moyens d’enquêtes. S’il y a une urgence à l’égard de la fouille ou de saisie, leurs pouvoirs leurs sont octroyés. Aussi, il existe des ordonnances de blocage, soit par exemple de déclarer des biens infractionnels. La loi fédérale tente également d’encadrer toute promotion, commandite et publicité. 
+Notamment, certaines poursuites pénales peuvent être prises (règlementaire).
+Section 7 : Les infractions relatives aux véhicules à moteur
+Les infractions inhérentes à la conduite d’un véhicule 
+La négligence criminelle à la conduit d’un véhicule à moteur (art. 219 C.cr.). 
+Insouciance déréglée et téméraire à la sécurité ou la vie des personnes. 
+Il faut un lien de causalité plus que mineur entre la conduite et le décès ou les lésions corporelles causés (art.2 C.cr.)
+Il faut faire quelque chose ou omettre de faire quelque chose. Doit faire partie d’un devoir.
+Peut être un acte légal ou illégal, peut être un acte commis dans une totale indifférence aux conséquences.
+Pas besoin de prouver que la conduite de la personne était intentionnelle 
+Si la négligence est causée par l’état d’ébriété de la personne et que la personne est aussi poursuivie pour conduite avec les capacités affaiblies par l’alcool causant des lésions ou la mort, la personne ne pourra pas être trouvé coupable des 2 infractions. 
+Autres infractions inhérente à la conduite
+L’art. 320.12 C.cr. soumet des éléments que la Cour devra tenir compte : 
+Il est reconnu et déclaré que :
+la conduite d’un moyen de transport est un privilège assujetti à certaines contraintes dans l’intérêt de la sécurité publique, comme celles d’être titulaire d’un permis, de respecter des règles et d’être sobre;
+la protection de la société est favorisée par des mesures visant à dissuader quiconque de conduire un moyen de transport de façon dangereuse ou avec les capacités affaiblies par l’effet de l’alcool ou d’une drogue, car ce type de comportement représente une menace pour la vie, la sécurité et la santé des Canadiens;
+l’analyse d’échantillons d’haleine à l’aide d’un éthylomètre approuvé indique l’alcoolémie avec fiabilité et exactitude;
+l’évaluation effectuée par un agent évaluateur constitue un moyen fiable d’établir si la capacité de conduire d’une personne est affaiblie par l’effet d’une drogue ou l’effet combiné de l’alcool et d’une drogue.
+La conduite est définie à l’art. 320.11 C.cr. :
+« conduire »
+Dans le cas d’un véhicule à moteur, le manoeuvrer ou en avoir la garde ou le contrôle;
+dans le cas d’un bateau ou d’un aéronef, le piloter ou aider à son pilotage, ou en avoir la garde ou le contrôle;
+dans le cas de matériel ferroviaire, participer au contrôle immédiat de son déplacement ou en avoir la garde ou le contrôle, notamment à titre de cheminot ou de substitut de celui-ci au moyen du contrôle à distance.
+« moyen de transport » 
+Véhicule à moteur, bateau, aéronef ou matériel ferroviaire.
+Quand il y a une conduite causant la mort ou des lésions corporelles, le lien de causalité doit être prouvé d’une manière plus que mineure selon les arrêts Smithers c. R. et R. c. Nette. Il appartient à la poursuite de faire cette preuve hors de tout doute raisonnable. 
+Conduite dangereuse (art. 320.13 (1) et aux arts 320.19 C.cr.)
+Commet une infraction quiconque conduit un moyen de transport d’une façon dangereuse pour le public, eu égard aux circonstances.
+Doit présenter un égard marquer, mais moins que un grande mens rea que la négligence 
+Peut être poursuivit sans qu’il y ait eu de lésions ou la mort d’une personne. Cependant s’il en découle une conséquence à la conduite, la peine se retrouve à l’art. 320.20 ou 320.21 C.cr. 
+Fuite (art. 320.17 C.cr.) 
+À cette disposition, on ne fait pas mention de conséquence tel que la mort ou les lésions corporelles alors, le PPCP devra poursuivre l’individu pour conduite dangereuse causant des lésions ou la mort. Si la conduite est déréglée et téméraire, le chef approprié sera celui de négligence criminelle. 
+Omission de s’arrêter à la suite d’un accident (art. 320.16 C.cr.)
+Mens rea : sachant que celui-ci a été impliqué dans un accident avec une personne ou un autre moyen de transport ou ne s’en souciant pas
+Peut en découler un délit de fuite avec ou sans conséquence
+omet, sans excuse raisonnable, d’arrêter le moyen de transport et de donner ses nom et adresse, et d’offrir de l’assistance à une personne qui a été blessée ou semble avoir besoin d’assistance.
+Peine : (art. 320.20 et 320.21 C.cr.
+Les infractions incidentes à la conduite et reliées à l’absorption de substances intoxicantes
+Conduite avec les facultés affaiblie par l’alcool et/ou la drogue peu importe le degré (art. 320.14 (1) a) C.cr.) 
+(1) a) 	conduit un moyen de transport alors que sa capacité de conduire est affaiblie à un quelconque degré par l’effet de l’alcool ou d’une drogue ou par l’effet combiné de l’alcool et d’une drogue;
+Conduite avec les facultés affaiblie par l’alcool et/ou la drogue, 80mg/100ml de sang (art. 320.14 (1) b) C.cr.)
+(1) b) 	 sous réserve du paragraphe (5), a, dans les deux heures suivant le moment où il a cessé de conduire un moyen de transport, une alcoolémie égale ou supérieure à quatre-vingts milligrammes d’alcool par cent millilitres de sang;
+Conduite avec les facultés affaiblie par la drogue égale ou supérieure au règlement (art. 320.14 (1) c) C.cr.)
+(1) c) 	sous réserve du paragraphe (6), a, dans les deux heures suivant le moment où il a cessé de conduire un moyen de transport, une concentration de drogue dans le sang égale ou supérieure à celle établie par règlement pour cette drogue;
+Conduite avec les facultés affaiblie par l’alcool et la drogue (art. 320.14 (1) d) C.cr.)
+(1) d) 	sous réserve du paragraphe (7), a, dans les deux heures suivant le moment où il a cessé de conduire un moyen de transport, une alcoolémie et une concentration de drogue dans le sang égales ou supérieures à celles établies par règlement, pour l’alcool et cette drogue, pour les cas où ils sont combinés.
+Présomption importante à l’art. 320.35 C.cr. : lorsqu’il est prouvé que l’accusé occupait la place ou la position ordinairement occupée par la personne qui conduit un moyen de transport, il est présumé l’avoir conduit à moins qu’il n’établisse qu’il n’occupait pas cette place ou cette position dans le but de mettre en mouvement le moyen de transport. 
+Conduite causant des lésions corporelles (art. 320.14 (2) C.cr.).
+Conduite causant la mort (art. 320.14 (3) C.cr.).
+* Il y a quelque chose de nouveau lorsque la conduite cause la mort ou des lésions corporelles au sens de l’art. 320.14 (2) et (3) C.cr., soit le fait de ne pas avoir à prouver le lien de causalité entre l’état d’intoxication du conducteur et les conséquences. Le PPCP doit faire la preuve que la personne conduisait alors, indépendamment de ses capacités affaiblies. *
+Omission ou refus d’obtempérer 
+Art. 320.15 (1) C.cr. :
+Commet une infraction quiconque, sans excuse raisonnable, sachant que l’ordre a été donné, omet ou refuse d’obtempérer à un ordre donné en vertu des articles 320.27 ou 320.28.
+Les pouvoirs policiers quant à la conduite avec les capacités affaiblies
+Art. 320.27C.cr.:
+L’agent de la paix qui a des motifs raisonnables de soupçonner qu’une personne a de l’alcool ou de la drogue dans son organisme et que, dans les trois heures précédentes, elle a conduit un moyen de transport, peut lui ordonner de se soumettre aux mesures prévues à l’un ou l’autre des alinéas a) et b), ou aux deux, dans le cas où il soupçonne la présence d’alcool, ou aux mesures prévues à l’un ou l’autre des alinéas a) et c), ou aux deux, dans le cas où il soupçonne la présence de drogue, et de le suivre à cette fin :
+subir immédiatement les épreuves de coordination des mouvements établies par règlement;
+fournir immédiatement les échantillons d’haleine que celui-ci estime nécessaires à la réalisation d’une analyse convenable à l’aide d’un appareil de détection approuvé;
+fournir immédiatement les échantillons d’une substance corporelle que celui-ci estime nécessaires à la réalisation d’une analyse convenable à l’aide du matériel de détection des drogues approuvé.
+***MODIFICATION IMPORTANTE PAR LE LÉGISLATEUR*** : pas besoin d’avoir des motifs raisonnables de penser que la personne a les capacités affaiblies. Si le policier possède un ADA dans son véhicule, il peut faire souffler l’individu. 
+L’agent de la paix qui a en sa possession un appareil de détection approuvé peut, dans l’exercice légitime de ses pouvoirs en vertu d’une loi fédérale, d’une loi provinciale ou de la common law, ordonner à la personne qui conduit un véhicule à moteur de fournir immédiatement les échantillons d’haleine que l’agent de la paix estime nécessaires à la réalisation d’une analyse convenable à l’aide de cet appareil et de le suivre à cette fin.
+Art. 320.28 (1) C.cr. : Prélèvement d’échantillons d’haleine ou de sang - ALCOOL
+L’agent de la paix qui a des motifs raisonnables de croire qu’une personne a conduit un moyen de transport alors que sa capacité de conduire était affaiblie à un quelconque degré par l’effet de l’alcool ou qu’elle a commis l’infraction prévue à l’alinéa 320.14(1)b) peut, à condition de le faire dans les meilleurs délais, lui ordonner :
+de lui fournir dans les meilleurs délais les échantillons suivants :
+soit les échantillons d’haleine qui, de l’avis d’un technicien qualifié, sont nécessaires à la réalisation d’une analyse convenable à l’aide d’un éthylomètre approuvé,
+soit les échantillons de sang qui, de l’avis du technicien qualifié ou du médecin qualifié qui effectue le prélèvement, sont nécessaires à la réalisation d’une analyse convenable permettant d’établir l’alcoolémie de cette personne, dans le cas où l’agent de la paix a des motifs raisonnables de croire que, compte tenu de l’état physique de la personne, celle-ci peut être incapable de fournir un échantillon d’haleine ou le prélèvement d’un tel échantillon serait difficilement réalisable;
+de le suivre pour que puissent être prélevés les échantillons de sang ou d’haleine.
+Art. 320.28 (3) C.cr. : L’agent évaluateur qui a des motifs raisonnables de soupçonner qu’une personne a de l’alcool dans son organisme peut, si aucun ordre n’a été donné en vertu du paragraphe (1) et à condition de le faire dans les meilleurs délais, ordonner à celle-ci de lui fournir dans les meilleurs délais les échantillons d’haleine qui, de l’avis d’un technicien qualifié, sont nécessaires à la réalisation d’une analyse convenable à l’aide d’un éthylomètre approuvé.
+Art. 320.28 (2) C.cr. : Évaluation et prélèvement d’échantillons de sang - DROGUES
+L’agent de la paix qui a des motifs raisonnables de croire qu’une personne a conduit un moyen de transport alors que sa capacité de conduire était affaiblie à un quelconque degré par l’effet d’une drogue ou par l’effet combiné de l’alcool et d’une drogue ou qu’elle a commis l’infraction prévue aux alinéas 320.14(1)c) ou d) ou au paragraphe 320.14(4) peut lui ordonner, à condition de le faire dans les meilleurs délais, de se soumettre aux mesures prévues à l’un ou l’autre des alinéas a) et b), ou aux deux, et de le suivre à cette fin :
+se soumettre, dans les meilleurs délais, à une évaluation afin que l’agent évaluateur vérifie si sa capacité de conduire un moyen de transport est affaiblie de la sorte;
+fournir, dans les meilleurs délais, les échantillons de sang qui, de l’avis du technicien qualifié ou du médecin qualifié qui effectue le prélèvement, sont nécessaires à la réalisation d’une analyse convenable permettant de déterminer la concentration d’une drogue dans son sang ou de déterminer son alcoolémie et la concentration d’une drogue dans son sang.
+Art. 320.28 (4) C.cr. : prélèvement de substances corporelles - DROGUES
+Une fois l’évaluation terminée, l’agent évaluateur qui a des motifs raisonnables de croire que la capacité de la personne de conduire un moyen de transport est affaiblie par l’effet d’une ou plusieurs drogues de l’un ou l’autre des types mentionnés au paragraphe (5) — ou par l’effet combiné de l’alcool et d’au moins une drogue de l’un ou l’autre de ces types — détermine le type ou les types de drogues en question et peut, à condition de le faire dans les meilleurs délais, ordonner à la personne de fournir dans les meilleurs délais :
+soit l’échantillon de liquide buccal ou d’urine qui, de l’avis de l’agent évaluateur, est nécessaire à la réalisation d’une analyse convenable permettant de déceler la présence d’un ou de plusieurs de ces types de drogues dans son organisme;
+soit les échantillons de sang qui, de l’avis du technicien qualifié ou du médecin qualifié qui effectue le prélèvement, sont nécessaires à la réalisation d’une analyse convenable permettant de déceler la présence d’un ou de plusieurs de ces types de drogues dans son organisme ou de déterminer la concentration d’une ou plusieurs drogues de ces types dans son sang.
+Quant à la preuve des échantillons d’haleine par l’éthylomètre ou le test sanguin voir comment il doit être fait selon l’art. 320.31 (1) ou (2) C.cr.). Le taux d’alcoolémie au moment que l’analyse est faite est réputée être le taux prouvé de manière concluante (art. 320.31 (2) C.cr.)
+Les peines 
+(art. 320.19 C.cr.) : si pas de conséquence 
+(art. 320.21 C.cr.) : si conduite affaiblie cause la mort. Pas nécessaire de prouver le lien causal. 
+(art. 320.20 C.cr.) : si conduite affaiblie cause des lésions corporelles. Pas nécessaire de prouver le lien causal.
+Si la personne refuse de suivre les ordres des agents en vertu des arts. 320.27 et 320.28 C.cr., l’ art. 320.15 C.cr. mentionne la peine applicable. Lorsque le refus est pour une infraction de conduite avec les facultés affaiblies causant la mort ou des lésions, la peine est plus grande. 
+Les circonstances aggravantes (art. 320.22 C.cr.) : Le PCPP doit en faire état lorsque l’une des circonstances est applicables. 

@@ -1,0 +1,6 @@
+EXERCICE PRATIQUE - CORRIGÉ
+1.	Océane serait-elle tenue de payer la part de Jasmine si celle-ci fait défaut de payer sa part?
+Il faut vérifier si le bail de logement mentionne que les locataires sont solidairement responsables. Selon l’article 1525 C.c.Q., la solidarité ne se présume pas et doit être expressément stipulée. À défaut de stipulation, chacun n’est tenu que pour sa part selon l’article 1518 C.c.Q.
+2.	Si le bail est reconduit est-ce que le cautionnement va s’étendre au bail reconduit?
+Non, selon l’article 1881 C.c.Q., la sûreté consentie par un tiers pour garantir l’exécution des obligations du locataire ne s’étend pas au bail reconduit.
+Cependant cette disposition n’est pas d’ordre public puisque non mentionnée à l’article 1893 C.c.Q. Ainsi, rien n’empêche un locateur de stipuler explicitement au bail de logement que la caution est tenue pour les renouvellements subséquents.

@@ -1,0 +1,30 @@
+Julia Singh, enseignante, et Steve Grant, comptable, tous deux résidant de l’Île-du-Prince-Édouard, se marient en 2006 et établissent leur domicile dans la ville de Québec. Ils ont trois enfants : Jade, actuellement âgée de 12 ans, Ella, âgée de 10 ans et Emma, âgée de 8 ans. Julia et Steve se séparent en janvier 2020. Depuis, ils ont réglé le partage de leurs biens à l’amiable et Steve a assumé volontairement les paiements nécessaires aux besoins des enfants, si bien qu’aucune ordonnance n’a été rendue à ce jour, à cet effet. Steve vous consulte, car Julia a entrepris des procédures de divorce afin de faire établir une pension alimentaire pour le bénéfice de leurs trois enfants pour lesquels elle exerce du temps parental de 245 jours par an, alors que Steve exerce du temps parental de 120 jours par an. Steve vous informe qu’il gagne 129 000,00 $ par année et paie des cotisations professionnelles de 945,00 $ par an, alors que Julia gagne annuellement 84 500,00 $ et assume des cotisations syndicales de 990,00 $ par an. Julia a hérité d’un duplex à la mort de ses parents et elle reçoit des revenus de loyers nets de 9 600,00 $ par an. Les frais de garde nets assumés par Julia pour les enfants sont de 7 800,00 $ par an, ou 2 600,00 $ pour chaque enfant.
+Quel est le montant annuel de pension alimentaire payable par Steve Grant pour les trois enfants? Utilisez le formulaire joint.
+200 :		 P-	129 000,00 $	 M-	84 500,00 $
+207 :					M-	9 600,00$
+209 et 300 :	P-	129 000,00$	M-	94 100 $
+301 : 		P-	12 215 $	M-	12 215 $
+302 :					M-	990,00 $
+303 : 		P-	945,00 $
+305		P-	115 840 $	M-	80 895 $
+306 :		196 735 $
+307 :		P-	58,8812%	M-	41,1188%
+400 :	3
+401 : 	26 660
+402 :		P-	15 697,74	M-	10 962,26
+403 :					M-	7 800 $
+406 :					M-	7 800 $
+407 :		P-	4 592,74$	M-	3 207,26$
+Partie 5- Section 1.1 Ajustement pour droit de visite et de sortie prolongée
+515 :	32,8767 %
+516 :	3432,93$
+517 : (514 : 34460) = 31027,07$
+518 : 18 269,12 $
+*  *  *  *  *
+Après le divorce, Steve déménage à l’Île-du-Prince-Édouard, sa province natale, et gagne maintenant un salaire annuel de 145 500,00 $ et il paie des cotisations professionnelles de 900,00 $. Il convient avec Julia de modifier son temps parental à l’égard des enfants à 54 jours par an. Julia a toujours les mêmes revenus. Une voisine a accepté de garder les enfants, sans frais.
+Quel est le montant annuel de pension alimentaire payable par Steve Grant pour les trois enfants? Faites état de tous vos calculs et motivez votre réponse.
+Revenu net - 	145 500 – 900 (déduction - Annexe 3(1)g) = 144 600 $
+Voir la tableau de l’Île du Prince Édouard :
+2497 + 1.44% X 600 (8,64) = 2 505,64 $ mensuelle
+2 505,64 $ X 12 = 30 067,68 $ annuellement
+On ne tient compte que du revenu du parent débiteur. 

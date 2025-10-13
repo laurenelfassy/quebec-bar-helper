@@ -1,0 +1,298 @@
+Les sources extra de l’obligation – Art 6, 7, 1375, 1456 à 1469 et 1482 à 1496 du C.c.Q.
+Les conditions de validité de l’obligation : 
+Ils se divise en deux catégories (Art 1372 al.1)
+Source Contractuelle
+Extra -contractuelle 
+Tout personne doit avoir la bonne foi lorsque nous avons des contrat (Art 6 et 7) et l’article 1375 nous dit que la bonne foi doit gouverner la conduite des parties de la naissance de l’obligation à son extinction et son exécution. 
+Sanction de l’obligation conclu en mauvaise foi : erreur dolosive, crainte, de la nécessité d’une mise en demeure préalable, ou une action en opposabilité. 
+Existence du contrat : au niveau du contrat, nous devons vérifier si le contrat existe valablement, ce qui contient, et les personnes touchées par les obligations du contrat. 
+L’offre : Art 1388
+Ainsi, une offre qui ne contient pas des quantités de produit ou une description ou le prix, n’est pas une offre parce qu’elle n’a pas les éléments essentiels
+Acceptation de l’offre : Art 1393 – nous dit que l’acceptation doit substantiellement être conforme à l’offre si non, elle sera une contre-offre. 
+Elle déterminer le lieu et le moment de la formation du contrat (Art 1387) mais en ayant en esprit la réserve de l’article 54.2 de la L.p.c.
+Le moment et le lieu est essentielle car elle déterminer l’endroit si nous avons potentiellement un litige. 
+Le moment est également essentiel pour déterminer si l’offre est devenue caduc avant son acceptation : 
+Sois par révocation selon l’article 1391
+L’écoulement du temps
+Le refus du destinataire 1392 al.2
+Le décè
+La failite
+L’ouverture d’un régime de protection de l’offrant (Art 1392 al.2)
+On consatate que l’offre est une notion d’où l’intérêt que cette offre devient une promesse de contracter qui crée des effets : 
+La promesse : Art 1396
+Les effets de la promesse = 1396 al.2 – elle n’équivalut pas au contrat envisagé!
+DONC, le décès de la personne ne fait pas tomber la promesse par l’effet de l’article 1441… elle donne ouverture à l’exécution en nature des termes du contrat par l’effet de l’article 1601 qui prend la forme de de l’action en passation de titre (Art 1712)
+La promesse unilatérale : uniquement à la personne qui la présente 
+Elle devient bilatérale lorsque la promesse est levée. (Quand les parties s’entendent, assortie de conditions parfois (ex : obtenir un financement ou une inspection du bien) (Art 1497) – et lorsque le financement est obtenu, la condition sera accomplie et elle aura alors un effet rétroactif au jour où le débiteur s’est obligé sous telle condition (Art. 1506)) 
+ATTENTION : l’exécution en nature n’est pas illimitée. Dans certain cas, il est interdit pour le remplace par la sanction des DI, exemple en matière de promesse de prêt (Art 2316), ou si l’exécution en nature est rendue impossible parce que le bien est vendu par un tier (Art 1397 al1) et donne des DI contractuelle contre le promettant (art 1458) ou des DI extracontractuelle contre le tier de mauvaise foi (courant de la promesse) (Art 1457) … Art 1392 (violation d’un pacte de préférence = seulement droit à des DI).
+Validité du contrat : les sanctions
+L’erreur simple (Art 1400) – elle doit porter sur la nature du contrat (ex : signer un contrat de cautionnement alors que tu penses signer un contrat de prêt), la prestation du contrat, un élément essentiel (ex : des limitations non-apparent de l’usage d’un immeuble). 
+L’erreur dolosive (Art 1401) – une application de la notion de bonne foi (Art 6 et 7). Pas de forme particulière et peut résulter d’un acte positif, et du silence ou de la rétissance provoqué d’une autre aprtie mais à la connaissacne de l’autre partie (Ex. ne pas informer la personne que l’immeuble a de l’amiante)
+La crainte (Art 1402) – doit être provoqué par l’autre partie à la connaissance de l’autre partie et porter sur un préjudice sérieux (ex : menacer de blessure corporelle de signer le contrat)
+Art 1403 dit que la crainte inspirée par l’exercice abusif d’un droit ou d’une autorité ou par la menace d’un tel exercice vise le consentement mais pas la crainte née d’un état de nécessité d’un contractant de bonne foi (Art 1404)
+La lésion (Art 1405) – seulement les mineures 
+Art 424 – renonciation au partage du patrimoine
+Acceptation ou renonciation des acquêt (Art 472)
+Parage de la succession (Art 877)
+Nullité du prêt d’une somme d’argent (Art 2332)
+La lésion peut être objectif, c-a-d que le déséquilibre de la prestation des partie (Art 1406 al.2) ou subjectif, c-a-d analyse l’impact du contrat sur al victime (Art 1406 al.2)
+Subjectif – elle peut être invoqué que par le MINEUR ou MAJEUR PROTÉGÉ (Art 1406 al.2)… ATTENTION aux règle des article 8 et 9 de la L.p.c., permet à tout consommateur d’un contrat d’invoquer la lésion objective ou subjective!
+Certain préjudice peut être assimilé à la lésion ex : Art 1609 ou des transactions en matière de préjudice corporel ou morale
+La capacité (Art 1409) – VOIR DROIT DE LA PERSONNE
+La cause et l’objet du contrat 
+La cause : la raison pourquoi on contracté. 
+Elle doit être légale et non contraire à l’ordre public
+L’objet : l’opération juridique envisagé par les parties (Art 1412)
+La forme (art 1414) – elle doit être respecté pour la formation du contrat 
+Ex : une convention de modification ne doit pas être notarié
+Attention : la promesse n’est pas soumise à cette exigence de forme (Art 1415)
+ATTENTION : la LPC impose souvent des conditions de forme au risque que le contrat sera annulé. 
+Il faut distinguer les règles de formation du contrat et les règles de défaut (inexécution du contrat) ce sont deux éléments séparé qu’une partie peut invoquer cumulativement (Ex : nous pouvons invoquer l’erreur dolosive et la garantis de qualité du contrat)
+Sanction pour défaut de la formation du contrat : Art 1416 – prévoit que la règle est la nullité du contrat, sois absolue ou relative 
+Absolu : lorsque nous avons un cas de protection d’intérêt générale (Art 1417) et peut être invoqué par tout personne ayant un intérêt (Art 1418 et 85 du C.p.c) et elle peut être soulevé d’office par le tribunal (Ex : une convention de prêt qui a un taux l’intérêt de 60% est une convention illégale et qui prévoir une nullité absolue
+Relative : elle prévoit une protection de l’intérêt particulier. Exemple, le consentement d’une partie (Art 1419) et alors elle ne peut être soulevé par la victime ou le co-contractant de bonne foi, mais ne peut pas être soulevée d’office par le tribunal (Art 1420)
+PRÉSOMPTION : la nullité est présumée relative (Art 1421)
+Conséquence de la nullité : 
+Provoque la restitution des prestations respective des parties (Art 1422 et 1699 à 1707)
+Dommages et intérêt de 1457
+Art 1407 – 
+Réduction de l’obligation en cas de lésion (Art 1408)
+Réduction de obligations ou des modalité (Art 2332)
+Les parties du contrat – Art 1378, 1434 et 1440 nous dit que le contrat lie les parties
+Art 1441 – prévoit que les droit et obligation d’une personne passe à ses héritier en cas de décès e plus des tiers
+Les droit des parties sont transmis si elle constitut d’accession d’un bien (ex : une garantir de qualité) – Art 1442
+Fabricant ou du distributeur des biens qui est sujet à une obligation de garantis de qualité (Art 1730 et 53 de la L.p.c.)
+Un tier peut être responsable par l’effet de la respo extra (Art 1457) s’il encourage une partie à un contrat à manquer à son obligation (ex ; un employeur qui encourage un nouveau employé a transgresser une clause de non concurrence auquel il sait est stipulé dans le contrat). 
+La force obligatoire et le contenu obligationnel du contrat 
+Art 1434 = le contrat à une force obligatoire entre les parties mais cet effet peut être atténué pour certains motif (Art 1439)
+Par la volonté des parties (il peuvent décider d’y mettre fin)
+L’effet de la loi (inexécution injustifié Art 1590 et 1604-1606 ou d’une force majeure (Art 1693 et 1694)
+L’effet du contrat est déterminé par son contenu obligationnelle. L’article 1434 qui nous le dit. 
+Précision : permet de déterminer l’intensité de l’obligation des parties, joue un rôle fondamental à déterminer qui détient le fardeau de preuve en cas de litige. (Exemple : est-ce que c’est de demandeur qui doit prouver la diligence ou c’est au défendeur de prouver une force majeure)
+Obligation implicite : elle se retrouve dans els contrat nommés (Art 1854 : en matière de louage)
+Un contrat qui contient des clause explicite est sujet d’interprétation : Art 1425 à 1432 qui traite des éléments de clause explicite : 
+Recherche des intentions communes des parties
+La nature du contrat 
+Des circonstance et usage de la matière
+L’ensemble du contrat et des dispositions
+Adaptation des clauses qui procure un effet 
+Si le contrat est d’adhésion, il s’interprète en faveur de l’adhérant ou du consommateur. (Art 1379 – contrat de consommation)
+Les clauses illisible, incompréhensive ou abusive sera nul (Art 1436 et 1437) 
+CLAUSE PÉNALE : le montant de la pénalité d’une clause pénale doit être raisonnable sinon le tribunal va la réduire ou annuler (Art 1623 al.2)
+Le paiement, la mise en œuvre et la protection du droit
+L’inexécution de l’obligation : Art 1470, 1553 à 1636 et 1693
+Lorsque nous avons une exécution conforme sur la nature et l’entente de l’exécution de l’obligation, pas de problème. 
+Art 1553 à 1589 – règle relative à l’exécution de l’obligation (nous avons 3 règles d’ordre)
+Paiement (Art 1553)
+Paiement d’une somme d’argent dans le sens commun… mais 1553 dit que le paiement est l’exécution générale de l’obligation sous n’importe quelle forme (donc plus que l’argent simple) 
+L’imputation des paiements
+Relative aux offres réelles et la consignation 
+S’appliquer lorsque le débiteur veux exécuteur cette obligation, mais le créanciers refus l’exécution parce que nous avons une mésentente de l’obligation du débiteur 
+Quand savoir que nous avons une inexécution? (Art 1590 à 1625)
+Lorsque le débiteur n’offre aucune prestation
+Lorsque la prestation offerte ne correspond pas aux attributs énumérés. (Art 1590 al.1) – exécuter partiellement l’obligation. Ex : livrer un bien plus tard que le délai convenu
+ATTENTION : l’inexécution partielle doit être injustifiée (Art 1590 al.2)
+Ex : une force majeure (Art 1470 et 1693) justifie une inexécution. 
+La mise en demeure – Art 1590 à 1598
+Une fois que nous avons une inexécution, nous devons envoyer une mise en demeure (Art 1590 al.2)
+Nous pouvons être mise en demeure par plusieurs façons : 
+Selon les termes du contrat (Art 1594 al.1)
+Par une demande en justice (Art 1596)
+De plein droit (Art 1597 al.1 et al.2) – par le seul effet de la loi (exemple : un débiteur qui écrit au créancier qu’il n’exécutera pas ses obligations; un débiteur qui à chaque mois est en retard au paiement de son loyer). 
+Preuve de la MED : le créancier DOIT démontrer que le débiteur est en demeure dans tous les cas (Art 1598). 
+Les moyens de pressions et sanctions à la disposition du créancier 
+Les moyens de pression – art 1591 à 1593, 2058 et 2293 + 516 CPC
+En cas d’inexécution du débiteur, le créancier dispose des moyens de mettre de la pression (pas des sanctions!)
+Art 1591 – permet au créancier de ne pas exécuter sa propre obligation (ex : u bien acheté au débiteur et doit payer à une certaine date. Le créancier peut retarder la livraison du bien tant que le débiteur ne paye pas)
+Art 1592 et 1593 – le créancier au droit de retenir le bien jusqu’au paiement de la créance (ex : nous pouvons remorquer le véhicule tans aussi longtemps que le débiteur ne paie pas la facture.)
+Ce droit de rétention se trouve dans un contrat de dépôt à l’article 2293 ou dans un contrat de transport (Art 2058)
+La saisi avant jugement (Art 516 et s.), nous dit que le créancier accentua la pression de plein droit ou avec l’autorisation du juge lorsque le recouvrement du paiement est en péril. 
+Les sanctions – art 1457 à 1481, 1590, 1597, 1601 à 1625, 1742, 1743, 1853, 1868 et 1883 + 509 du CPC
+Art 1590 al.2 – CENTRE DES SNACTIONS
+« Lorsque le débiteur, sans justification, n’exécute pas son obligation et qu’il est en demeure, le créancier peut, sans préjudice de son droit à l’exécution par équivalent (c-a-d des DI art 1457 à 1481 et 1607 et 1625) de tout ou partie de l’obligation : 
+1° Forcer l’exécution en nature de l’obligation; (Art 1601 à 1603)
+2° Obtenir, si l’obligation est contractuelle, la résolution ou la résiliation du contrat ou la réduction de sa propre obligation corrélative; (Art 1604 à 1606)
+3° Prendre tout autre moyen que la loi prévoit pour la mise en œuvre de son droit à l’exécution de l’obligation. (Exemple : Art 1868 – permet au locataire commercial entreprendre des réparations urgente et nécessaire sans l’intervention du tribunal) 
+C’est le créancier qui décide de la sanction, mais doit s’assurer que les conditions d’appcliation sont rencontré. (Il doit également prévoir des sanctions subsidiaires si le tribunal n’accorde pas la sanction principale prévue)
+Conditions pas rempli? – c’est le créancier qui sera en défaut de son obligation et non le débiteur 
+Ex : nous pouvons demander subsidiaire ment la réduction des obligations si le tribunal n’accorde pas la résolution. 
+Exécution par équivalence (DI) peuvent s’ajouter à TOUS les autres sanctions (Art 1590 al.2) 
+LES SANCTIONS INCOMPATIBLES : 
+Art 1604 al.1, l’exécution en nature et la résolution du contrat est incompatible.  
+La résolution, résiliation et réduction de l’obligation ne s’applique seulement en cas contractuelle (le reste s’applique en responsabilité extra et contractuelle). 
+LA RÉOSLUTION ET RÉSILIATION DU CONTRAT 
+Art 1604 à 1606 – si le créancier ne peut pas force par nature, il peut anéantie le contrat. 
+Art 1604 al.2 – Nous dit que l’inexécution doit être importante ou répétitive pour demander la résolution (aussinon c’ets une réduction de l’obligation) -règle d’OP
+Art 1605 nous dit que la résolution peut être de plein droit (sans le tribunal) lorsque le débiteur est en demeure de plein droit 
+Donc si l’inexécution est : 
+Injustifié selon Art 1590 al.2
+Impirtant (Art 1604 al.2)
+Demeure de pleine droit (Art 1597)
+= résolution ou résiliation de plein droit du contrat (Art 1605)
+Nous ne pouvons pas demander la résolution ET l’exécution en nature (Art 1601 et 1604 al.1)
+Règle spécifique propre au contrat : 
+Exemple une résolution de vente immobilière ne peut être que judiciaire et requière des démarche spécifique (Art 1742 et 1743)
+En matière de bail commerciale (Art 1863) confirme que la résiliation du bail doit être prononcé par le tribunal (sauf i le bail ait une disposition claire)
+Art 1604 = conséquence de la RR
+Exécution en nature (Art 1601 – 1603) – force le débiteur à s’exécuter dans les cas qui le permet – donc pas possible dans un contrat intuiti personea
+Exécution en nature (1601-1603) « dans les cas qui le permettent »
+- Pour exiger du débiteur qu’il fournisse la prestation qui fait l’objet de l’obligation
+> plusieurs véhicules procédures, dont l’injonction (Art 509 t s. du CPC)
+> obligation de faire : action en passation de titre (1712), exécution en nature par
+substitution (1602 = sanction extrajudiciaire)
+> note 1 : le promettant-acheteur ne peut forcer l’exécution en nature si le bien
+promis a déjà été vendu à un tiers (1397 al. 1)
+> note 2 : le législateur écarte la possibilité de forcer la conclusion du contrat pour
+la promesse de donation (1812), la promesse de prêt (2316)
+> obligation de ne pas faire
+> exécution aux frais du débiteur
+> destruction de ce qui a été fait en violation d’une obligation de ne pas faire
+> exception : un contrat intuitu personae ne peut faire l’objet d’une exception en nature
+Art 1607 – défini l’exécution par équivalent. 
+La libération du débiteur et de son cocontractant – art 1470, 1590, 1693 et 1604
+Force majeure : art 1470 et 1693 - permet au débiteur de se libérer de son obligation.
+Créancier à droit à la restitution de sa prestation si elle a été exécutée AVANT la liberté du débiteur (Art 1694)
+Mesure de protection – 1626 et 1636
+Attention : art 2644 – garantis 
+L’action oblique : Art 1627 à 1630
+Consiste au créancier de prendre une action au nom et à la place du débiteur car ile refus de la faire et d’aller chercher un droit du débiteur. 
+Action d’inopposabilité : Art 1631 à 1636
+Permet au C de rendre inopposable des transactions qui a été fait par le débiteur en fraude des droits du créancier. 
+Action de déclaration de simulation : Art 1451 et 1452
+Modalités de l’obligation – art 1497, 1498, 1508 à 1517, 1525, 1526, 1906 et 2354 + 93, 104 et s. LPC
+Modalité simple : nous en avons deux : 
+Les obligatins conditionnelles : la conitino est à l’artice 1497 – une obligation qui dépend d’un événement 
+Les boligation à terme
+Changement de créancier – Art 1637 à 1663
+S’effectue de 3 façons
+Cession de créance : pas une subrogation, elle n’est pas lié au paiement, donc elle peut intervenir à tout moment totale de la créance ou de manière gratuite. 
+  à tout moment, le créancier #1 peut céder sa créance au créancier #2 avec ses accessoires
+Formalité de la créance = 1641, 1642 et 1645
+Pour ce qui est de la garantie légale, elle peut être augmenté, réduise ou simplement annulé par convention des parties 
+La subrogation : est vraiment un accessoire du paiement! (Pas de paiement, pas de subrogation)
+Art 1651 et 1659
+Une fois que nous avons paiement, ils sont complétement subrogé dans le s souliers de l’acien débiteur. 
+Changement de débiteur : 
+Délégation imparfaite : lorsqu’une personne (délégué) accepte à la demande de l’autre débiteur (déléguant) de s’engager envers le créancier (délégataire) (Art 1667). 
+Le créancier (délégataire) conserve ses droit (Art 1668). 
+Exemple : j’achète un immeuble et sur l’immeuble nous avons un solde de prix de vente que le propriétaire vendeur doit ... Nous voulons revendre l’immeuble et nous demandons à l’ancien acheteur de payer notre solde de prix de vente et accepte (une délégation imparfaite de paiement auquel nous sommes aussi tenus par l’obligation)
+Délégation parfaite : le premier débiteur est libéré de son obligation dans la délégation (doit être évidant : Art 1668) 
+Novation : le débiteur étant libéré, peut se faire sans son consentement de l’ancien débiteur. 
+Changement de dette : une novation mais changement de dette (pas de parties)
+Novation : Art 1660 – nous avons besoin des mortifications importante de l’obligation initiale (attention, les accessoires de l’ancienne dette éteint avec l’ancien dette). 
+Exemple : le créancier donne un prêt de 10,000$ au débiteur… mais le débiteur a besoin de 5,000$ de plus… alors on annule le prêt de 10,000$ pour en faire un nouveau de 15,000$ et l’ancien prêt est éteint). (Changement de dette : Art 1660)
+Nous avons 7 obligations pour le locateur :
+La délivrance du bien loué en bon état de réparation de toute espèce : art 1854 al.1 
+(Pas OP) donc en matière commercial nous pouvons y déroger. 
+Art 1717 – la délivrance se fait par la prise en possession du bien 
+C’est uen obliigationd e résultat (donc la sanction est l’articel 1863) 
+Doit procurer la jouissance du bien durant tout la durée du bail
+Obligatino de résultat (force maeure)
+Obligation de garantis des troubles 
+Garantis d’usage (Art 1854 al.2) 
+Les réparations (Art 1864)
+Obligation de ne pas changer la forme et la destination du bien (Art 1856)
+Droit de visite (Art 1857)
+Les 6 obligation du locataire : 
+Art 1855 : obligation de payer (Art 1553 à 1599) et l’article 1561, Art 1564 (remise et forme du paiement), 1566 (lieu)
+E cas de pluralité, le loyer est divisible. 
+Utiliser le bien avec prudence et diligence (Art 1855)
+L’obligation de réparer le préjudice en cas de perte du bien loué (Art 1862)
+L’obligation d’aviser le propriétaire de tout détérioration substantielle. 
+L’obligation de faire les menues réparations d’entretien (Art 1864) – pas OP mais nous devons la stipuler extrêmement claire
+Remettre le bien dans l’état auquel il l’a reçu (Art 1890)
+Obligation du locataire envers les autres locataires (ex : du bruit)
+Art 1860 – ne doit pas troubler la jouissance normale des autres locataires. 
+Les règles particulières au bail d’un logement
+Art 1893 – ordre public 
+Le logement est un bien de consommation essentielle!
+Le droit au maintien dans les lieux : ce droit ne permet as au locateur de reprendre le logement ou mettre fin au bail (sauf dans les cas particulier)
+Obligation de qualité du logement : nous avons trois angle (Obligation de fournir un logement de qualité lors de la conclusion du bail, le droit au maintien des lieux et la qualité des logements) 
+Obligation de fournir un logement de qualité lors de la conclusion du bail : Art 1895 – oblige le locateur de remettre un écrit dans le cas d’un bail verbal 
+Art 1897 ajoute que les règlements de l’immeuble doivent être écrit. 
+Art 1955 – exige l’incision dans le bail de tous ce qui est prévu dans l’article 1897. L’article 1955 nous dit que c’est impossible de fixer le loyer ou de modifier le bail par le tribunal pour une logement coopérative d’habitation. 
+Art 1900 – le leg limite l’exclusion de responsabilité du locateur 
+Art 1901 – stipule des notions sur le montant de la peine qui peut être stipulé en cas de défaut 
+Art 1905 – interdit de stipuler la déchéance du terme dans le cas de défaut de payer le locateur. 
+Art 1906 – interdit relativement au réajustement du loyer en cours de bail. 
+L’obligation d’informer le loyer le moins chère payé dans les 12 dernier mois (Art 1896), cependant, si le locataire paye un loyer supérieur au loyer le moins élevé, il peut demander au tribunal de le faire fixer en verti de l’article 1950 et 1954. 
+Le droit au maintien des lieux (Art 1934 et s.)
+Permet à chaque colocataire du logement de demeurer dans le logement jusqu’à la fin du bail 
+C’est un droit personnel (Art 1936)
+Tout nouveau locateur doit respecter le bail, qu’il ait été publié ou non, et quelle que soit sa durée (Art 1937)
+Le bail se reconduit de plein droit, sauf dans les cas prévus par la loi ou le locateur peut éviter la reconduction du bail.
+La reconduction du bail : Art 1941 – d’une durée de 12 mois. Dans cette reconduction, le locateur peut modifier le bail (mais sous avis) et la durée de l’avis dépend de la durée du bail
+12 mois et plus = 6 mois
+12 mois et moins = un mois (Art 1942)
+Souvent la modification est pour augmenter le loyer (Art 1943 = dit de stipuler le montant en argent dans l’avis)
+Le locateur qui refus (doit aviser le locateur dans le mois suivant la réception de l’avis, sinon est réputé accepter des modification (Art 1945 et 2847 al.2)
+Si le locataire refus dans le délai, le locateur doit alors s’adresser à la Régie du logement pour faire statuer sur les modifications du bail, qu’ils s’agissent de la fixation ou d’une autre modification (sauf si le locataire accepte de quitter le logement)
+Dans le bail d’une coopérative de location… le seul choix est de quitter le logement (Art 1955) ***
+Art 1992 et 1993 – bail de logement à loyer modique (pas à indiquer la modification et c’est le locataire de s’adresser au Régie du logement. 
+Le locateur peut empêcher la reconduction (6 situations)
+Si le locataire à sous-loué le logement pour 12 mois… locateur peut mettre fin au bail (Art 1944)
+Décès du locataire s’il habite seul (Art 1944 al.2)
+Lorsque el locateur propriétaire reprend le logement pour y habiter ou loger certain proche (Art 1957 et 1958)
+Quand le locateur veut subdiviser le logement, agrandir, ou en changer l’affectation (NOTA : Art 33 de la Loi sur le Tribunal administratif du logement (délai de l’avis pour la destruction du logement)
+Pour le bail dans un établissement d’enseignement, le locateur peut mettre fin au bail quand il cesse ses étude (Art 1983)
+Logement de loyer modique, si la personne qui demeure dans le logement ne s’attifait plus aux conditions, le locateur peut mettre fin (Art 1999)
+Reprise du logement (Art 1959.1) protège les personnes âgées de 70 ans et plus. 
+La qualité des logements : Art 1910 à 1921
+Art 1854 et 1910 oblige le locateur de donne run logement de bonne qualité. C-a-d que le locateur doit faire les travaux requis pour que ce soit habitable et conforme a un usage normal. 
+Le locateur et locataire peuvent s’entendre sur des travaux, mais l’article 1911 ajouter que le logement doit être livré en bon état! Devoir de délivrer en bon état le logement
+L’inhabilité et l’insalubrité se mesure par le confort du logement. (Art 1912… renvoi à l’article 1863) et doit se maintenir tout le long tu bail par le locateur. Défaut = application de l’article 1912 qui renvoi en matière usuel de bail de l’article 1863 
+L’article 1913 dit que le locateur ne peut offrir un logement impropre à l’habitation (Art 1913 al.2 = définition de l’impropre)
+Art 1914 à 1918 = sanctions pour le refus de rendre les logements propres 
+Art 1917 et 1918 = force le locateur l’exécution en nature et faire et poser des actes pour rendre le logement propre. 
+Le locataire peut faire des travaux dans le logement si les travaux sont nécessaires mais pas urgent (Art 1857 et 1922)
+Mais doit envoyer un avis, une indemnité pour déménagement de la personne, et l’intervention de la Régie du logement 
+Art 1929 – nous ne pouvons pas avoir une contestation ou un avis lorsque nous avons une entente des modifications a été fait entre le locateur et locataire.  
+Tribunal administratif du logement 
+Loi sur le tribunal administratif du logement – art 1 à 28, 32 à 55, 82 et 90 à 94
+Art 28 de la Loi = établie l’ensemble de la compétence de la régie et de la Loi. 
+Pour ce qui est de l’article 90 de la Régie, nous pouvons aller en révision pour des décision comprenant : 
+Fixation de loyer
+Modification d’une condition de bail
+Révision du loyer
+(Art 1947, 1948, 1949, 1950, 1954, 1969 et 1977 et 1992)
+La révision se demande dans le mois de la décision rendu par la Régie et sera entendu par deux régisseur de la Régie du logement. 
+En vertu de l’article 91 de la Loi, les décisions de la régie peuvent faire l’objet de l’appel sur permission d’un juge de la CQ. Sauf sur certain cas!
+Pour avoir la permission, la juge doit être convaincu que nous avons des questions nouvelles, sérieuse ou l’intérêt générale ou porte sur une matière controversé ou la décision attaqué a créé une injustice.
+La demande doit être déposé au greffe (Art 92)
+C’est un délai de rigueur (Art 93) et 2878 du CCQ
+La demande de permission ne suspend pas l’exécution de la décision, mais l’appel qui est autorisé entrain la suspension de la décision (Art 94) ***
+Si la décision en appel entrain l’expulsion, la cour du Québec peut suspendre cette décision. Art 91 nous dit que certaine décision n’est ni révisable ni appelable!
+ATTENTION ; si nous sommes dans un contrat de bail commercial ou un contrat de bail mobilière, nous devons regarder les articles 1851 à 1891… si nous sommes dans un cas d’un bail immobilier résidentiel (Art 1892 et s.) tout en appliquant les articles généraux de façon subsidiaire. 
+LA VENTE
+LES RÈGLES GÉNÉRALE DE LA VALIDITÉ DES CONTRATS – Art 1398 et s., 1409, 1411,  1413, 1455, 1709, 1745 al.2, 1785, 1785, 1793 et 2938 + art 23 LPC
+Doit respecter les règles générales de la formation des contrat (Art 1409 à 1413) ainsi que la capacité des personnes de contracter (Art 1398)
+Art 1709 – vise à empêcher certaine personne qui sont placé de relation de confidence de s’enrichir de l’une des parties dans la cadre d’un contrat de vente
+La forme : le contrat de vente n’est soumis à aucun formalisme. 
+Art 23 de la LPC requière qu’un contrat de vente sois écris (ex : un contrat préliminaire aux article 1785 et 1793… ou a la publicité requise de l’article 2938)
+Les promesses de vente 
+Mécanisme de retarder la vente : 
+Une promesse unilatérale (Art 1396) : lorsque le destinataire manifeste clairement son intention de contracter. C’est cette dispositino qui distingue l’offre de la promesse
+Une fois cette option levée, la promesse devient bilatérale (Art 1396 al.2) et oblige les parties de conclure l’acte de vente. 
+L’article 1710 nous dit que si la promesse est accompagné de délivrance, nous avons une véritable vente!
+Distinction entre promesse et offre 
+ATTENTION : l’article 1397 – qui protège la vente d’un bien à un ter, vente qui a été fait en contraventions de la promesse… la vente à un tier est valable !!! Même si elle est contre la promesse. 
+Une promesse accompagnée d’une somme d’argent (une promesse avec des arrhes) fait en sorte que le promettant peut se libérer de la promesse au moyen de cette somme en la renonçant à cette somme. 
+o	Convention d’arrhes – Faculté de dédit bilatérale. 
+o	Habituellement le propriétaire acheteur verse un montant d’argent pour avoir le droit de se dédire, et l’acheteur verse le double du montant.
+Nous devons la distingue avec une promesse avec acompte… une promesse avec acompte est prévu à l’art 1711 et présume que c’est un acompte sur le prix. 
+Nous avons aussi le pacte de préférence (offrir le bien an propreté à une personne) et donne ouverture seulement à des dommages intérêts (Art 1397 al.2)
+Vice de consentement et autres défauts de formation du contrat – Art 1785 et 1786 al.2 + art 59, 73 et 76 de la LPC. 
+Le défaut de respecter les règles de la formation de contrat, le contrat n’est pas valable. 
+Soustraction du contrat : Art 1785 – le promettant acheteur peut se soustraire à son obligation (Art 1786)
+La LPC – nous pouvons obtenir la résolution du contrat conclu avec un commerçant itinérant (Art 59 de la LPC) ou un contrat de prêt ou d’un contrat de crédit (Art 73 de la LPC)
+Contenu du contrat – art 1379, 1384, 1435 à 1437, 1474, 1623 al.2, 1732, 1733 et 1785 et s.
+Le contrat de vente est soumis à a liberté contractuelle des parties (avec des limites) 
+Dans un contrat de consommation (Art 1384) ou d’adhésion (Art 1379), le code civil régis la clause externe (Art 1437) ou les clause illisible ou incompréhensible (Art 1436) ainsi que les clause abusive (Art 1437). Et les clauses pénales abusive (Art 1623 al.2)
+Une impossibilité d’exclure sa responsabilité (Art 1474) en cas de faute lourde ou intentionnelle ou en cause de préjudice corporel ou morale. 
+Art 1732 et 1733 permet l’exclusion de responsabilité mais avec des limites. 
+Vente du bien d’autrui – art 1713 à 1715
+Nous pouvons vendre un bien auquel nous ne sommes pas propriétaire. 
+Nous avons 3 acteurs impliqué 
+Un venduer
+Un acheteur
+Le vrai propriétaire du bien

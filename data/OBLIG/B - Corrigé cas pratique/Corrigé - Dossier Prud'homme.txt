@@ -1,0 +1,38 @@
+CORRIGÉ - DOSSIER PRUD’HOMME
+Jocelyn Prud’homme retient les services de Valérie Beauchamp et Charles O’Neil pour l’aménagement de sa nouvelle usine.
+Le contrat se lit comme suit :
+CONTRAT DE SERVICE
+ENTRE :	Jocelyn Prud’homme
+ci-après « le client »
+ET :	Valérie Beauchamp
+	Charles O’Neil
+ci-après « les stylistes »
+1.	Les stylistes s’engagent à élaborer un projet d’aménagement pour l’usine du client, située au 4823, avenue du Parc à Montréal, conformément aux spécifications transmises par le client lors d’une rencontre préliminaire tenue en date d’aujourd’hui.
+2.	Les stylistes s’engagent à soumettre une version préliminaire au client au plus tard le 21 juin 0000.
+3.	Advenant que le client demande des ajustements dans les 15 jours de la réception du projet préliminaire, les stylistes s’engagent à soumettre une version finale du projet au plus tard le 21 juillet 0000.
+4.	Le client s’engage à payer aux stylistes des honoraires de 18 000 $, taxes incluses, au plus tard le 21 août 0000. Le défaut de payer les honoraires entraîne le paiement d’intérêts au taux annuel de 12 % à compter de l’échéance.
+Signé à Montréal, le 21 mars 0000.
+____________________
+Jocelyn Prud’homme
+____________________	___________________
+Valérie Beauchamp	Charles O’Neil
+Valérie et Charles ont fourni les services convenus à la satisfaction de Jocelyn. Cependant, Jocelyn a du mal à les payer, car ils ont déménagé à Toronto sans laisser d’adresse.
+En juillet 0003, Jocelyn apprend que Charles est revenu au Québec après une rupture avec Valérie. Le 18 août 0003, Jocelyn reçoit une assignation à comparaître pour une action en justice déposée le 16 août 0003 par Charles, réclamant 18 000 $ plus intérêts à 12 % depuis le 21 août 0000, conformément au contrat signé le 21 mars 0000.
+Le 8 septembre 0003, Jocelyn vous consulte à ce sujet.
+1.	Jocelyn Prud’homme est-il tenu de payer la somme réclamée par Charles O’Neil? Motivez votre réponse.
+Jocelyn Prud’homme est tenu de payer pour les services rendus. La dette est exigible depuis le 21 août 0000.
+Le droit d’action de Charles O’Neil contre Jocelyn n’est pas éteint par prescription, puisque ce créancier dispose d’une période de trois ans à compter de la date d’exigibilité, en l’occurrence la date d’échéance du terme suspensif (art. 2880, al. 2 et 2925 C.c.Q.). Le recours intenté par Charles le 16 août 0003 et signifié à Jocelyn le 18 août 0003, a pour effet d’interrompre la prescription, puisque la demande a été instituée avant la date de prescription et qu’elle a été complétée par une signification dans les délais impartis (art. 2892, al. 1 C.c.Q.).
+Comme il y a ici pluralité de créanciers, il convient de se demander si Jocelyn est tenu de payer la totalité de la dette, ou encore la part de Charles uniquement.
+La dette est divisible, puisqu’il s’agit du paiement d’une somme d’argent – laquelle est divisible en nature – et que l’entente ne comporte pas de clause d’indivisibilité. La créance est divisible de plein droit (art. 1519 C.c.Q.).
+La créance est également conjointe de plein droit et il ne peut y avoir de créance solidaire que si la solidarité a été prévue conventionnellement (art. 1541 C.c.Q.). Or, le contrat signé le 21 mars 0000 ne prévoit rien à ce sujet.
+Comme l’obligation est divisible et n’est pas solidaire, Charles ne peut réclamer que sa part.
+Si Jocelyn payait à Charles le montant entier, plutôt que la seule part due à ce dernier, l’excédent ne serait pas libératoire à l’égard de Valérie Beauchamp.
+*  *  *  *  * 3 years prescription is counted from the suspended term (august 21st) which was interrupted by the recours (august 16th) and signification (18). Two creditors who are conjoined (no stipulation of solidarity), and the debt is divisible (no stipulation of indivisibility) so J can only be forced to pay Charles his respective part. Paying more won’t extinguish the debt against Val.
+En mai 0002, Jocelyn Prud’homme contribue financièrement à un projet immobilier de Développements immobiliers de la Rive inc. Le 25 mai 0002, ils concluent un accord où Jocelyn met à leur disposition la somme de 225 000 $ à partir du 1er juin 0002. En retour, Développements immobiliers de la Rive inc. s’engage à rembourser Jocelyn, au plus tard le 1er septembre 0003, le capital et les intérêts au taux de 4 % ou lui transférer la propriété d’un des appartements construits dans le projet.
+Le projet est un grand succès commercial, avec des appartements d’une valeur dépassant 290 000 $ chacun. Tous les appartements ont été vendus.
+Le 1er septembre 0003, Développements immobiliers de la Rive inc., n’ayant plus d’appartement à transférer à Jocelyn, lui remet un chèque certifié de 236 340 $, couvrant le capital et les intérêts selon le contrat du 25 mai 0002.
+Jocelyn, qui aurait préféré obtenir un appartement, souhaite forcer Développements immobiliers de la Rive inc. à lui transférer la propriété d’un appartement. Il argumente que l’impossibilité de transférer la propriété résulte de leur décision de vendre tous les appartements.
+2.	Jocelyn Prud’homme peut-il forcer Développements immobiliers de la Rive inc. à lui transférer la propriété d’un appartement plutôt que la somme de 236 340 $ offerte le 1er septembre 0003? Motivez votre réponse.
+Non. Le mode de financement prend la forme d’une obligation alternative. L’obligation contractée par Développements immobiliers de la Rive inc. comporte deux objets, l’un et l’autre considérés à titre de prestation principale (art. 1545 C.c.Q.) : rembourser le capital emprunté avec intérêts au taux stipulé par les parties, ou encore transférer le droit de propriété sur l’une des unités de copropriété du projet de développement. 
+La faculté de choix entre les deux prestations peut être déterminée par les parties. Sinon, le choix est exercé par le débiteur (art. 1546 C.c.Q.).
+Le paiement offert par Développements immobiliers de la Rive inc. est donc libératoire et Jocelyn est tenu de l’accepter.

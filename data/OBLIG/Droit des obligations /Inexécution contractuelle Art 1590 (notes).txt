@@ -1,0 +1,55 @@
+Inexécution contractuelle
+Art 1590 – la mise en œuvre du droit à l’exécution de l’obligation et les outils 
+« L’obligation confère au créancier le droit d’exiger qu’elle soit exécutée entièrement, correctement et sans retard.
+Lorsque le débiteur, sans justification, n’exécute pas son obligation et qu’il est en demeure, le créancier peut, sans préjudice de son droit à l’exécution par équivalent de tout ou partie de l’obligation:
+1° Forcer l’exécution en nature de l’obligation;
+2° Obtenir, si l’obligation est contractuelle, la résolution ou la résiliation du contrat ou la réduction de sa propre obligation corrélative;
+3° Prendre tout autre moyen que la loi prévoit pour la mise en œuvre de son droit à l’exécution de l’obligation. »
+Exécution des obligations – art 1590
+Première phrase : « L’obligation confère au créancier le droit d’exiger qu’elle soit exécutée entièrement, correctement et sans retard »
+Ici le législateur nous dit l’affirmation du principe du contenu obligationnelle des obligations, la force contraignant des contrat et le droit d’exiger l’exécution de l’obligation. 
+Afin d’ouvrir le coffre à outil des remèdes d’inexécution, nous avons besoin que le « Lorsque le débiteur, sanss justification, n’exécute pas son obligation »
+Pour appliquer l’article 1590 : 
+Nous avons d’une obligation contractuelle
+Une inexécution contractuelle injustifiée
+EXEMPLE DE DÉFUAT JUSTIFIÉ (Art 1591, 1592 et 1593)
+Art 1591 : exception d’inexécution
+Ce que 1591 nous dit est que lorsque nous n’avons pas à exécuter notre obligation lorsque l‘autre partie n’a pas exécuté ses obligations lui-même.  
+Art 1592 et 1593 : droit de rétention (une forme d’inexécution justifiée et non injustifié au sens de 1590)
+Si on confie un bien et tu refus de payer le prix, le droit de retenir le bien jusqu’à paiement. (EX : le garagiste qui garde la voiture jusqu’à paiement)
+Doit être en demeure
+Nous avons besoin d’une situation de demeure (Art 1594 à 1600 = les dispositions de mise en demeure)
+Par la demande en justice
+Par l’effet de la loi
+Par les termes même du contrat
+Demande extrajudiciaire (lettre de mise en demeure)
+Art 1595 (une lettre de mise en demeure)
+Art 1597 (important) – prévoit les situations de demeure de plein droit (contient 6 situations de demeure de plein droit
+DONC POUR APPLIQUER 1590 NOUS AVONS BEOSIN (1) OBLIGATION CONTRACTUELLE, (2) UN DÉFAUT INJUSTIFIÉE, (3) ÊTRE EN DEMEURE
+Lorsque les conditions sont comblées, alors le créancier peut faire appel aux recours énoncé a al.2 de l’article 1590
+Recours #1 = exécution par équivalent (des dommages et intérêt) – peut jumeler ce recours avec l’importe lesquels des autres recours. 
+Art 1607 et s. : « Le créancier a droit à des dommages-intérêts en réparation du préjudice, qu’il soit corporel, moral ou matériel, que lui cause le défaut du débiteur et qui en est une suite immédiate et directe. »
+Art 1611 et 1613
+Art 1611 nous dit : « Les dommages-intérêts dus au créancier compensent la perte qu’il subit et le gain dont il est privé. »
+Donc nous avons deux facettes, la perte de gain et la perte subi. 
+Art 1613 : « En matière contractuelle, le débiteur n’est tenu que des dommages-intérêts qui ont été prévus ou qu’on a pu prévoir au moment où l’obligation a été contractée (…) » 
+Donc c’est le concept de dommage prévu qui s’applique en matière contractuelle. 
+« Sans préjudice » = nous pouvons toujours ajouter les DI aux recours intentés. 
+Recours #2 = exécution en nature
+C’est l’exécution de la prestation qui a été promise par le débiteur. Nous avons 3 articles qui parle de l’exécution en nature
+Art 1601 = principe de l’exécution en nature (forcer une personne de faire la prestation)
+Art 1602 = exécution par un tier au frais du débiteur. (Ex : engager une personne de faire la toiture et il ne vient pas, alors nous pouvons demander à une autre personne de faire l’obligation et chercher e. débiteur fautif aux frais)
+Art 1603 = autorisation de détruire (rare)
+ATTENTION : nous ne pouvons pas demander l’exécution en nature ET la résolution! (Incompatible) – nous pouvons demander de DI et résolution OU DI et exécution en nature. 
+Recours #3 = résolution ou résiliation ou réduction de l’obligation corrélative. 
+Quand on parle de résolution, nous voulons annuler les effets d’un contrat de façon instantané
+Quand on parle de résilier, on parle d’un contrat à exécution successive (ex : un bail, louage, prêt avec versement, etc.) 
+Réduction de l’obligation corrélative (Art 1604 et s.)
+Nous avons 3 dispositions qui parle de la RRC
+Art 1604 = principe de la RR (on exprime que nous ne pouvons pas cumuler la résolution avec l’exécution en nature). 
+Attention : si le défaut est à peu d’importance, ou sauf si nous avons une obligation successive et que le défaut est répétitif, alors nous pouvons demander la réduction proportionnelle à l’obligation corrélative. (Ex : en matière de louage). 
+Essentiellement, en cas de défaut du débiteur, le créancier peut choisir d’éteindre les effets du contrat. 
+Art 1605 = on parle de RR extrajudiciaire
+Essentiellement, en cas de défaut et de demeure, le créancier peut simplement considérer le contrat résolu ou résilié. 
+Art 1606 = les effets de la résolution
+Quand nous sommes en matière de résolution, elle déclenche une obligation de restitution des prestations et les parties doivent redonner les prestations reçus. 

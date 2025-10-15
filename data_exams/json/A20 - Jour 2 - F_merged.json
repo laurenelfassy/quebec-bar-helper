@@ -1,0 +1,157 @@
+[
+  {
+    "number": "1",
+    "context": "Rédigez l’en-tête et les conclusions de la procédure appropriée pour la demande de Jasmin Vigneau relative à la garde de Raphaël, à la pension alimentaire et au suivi  thérapeutique de l’enfant auprès d’un psychologue.  Veuillez prendre note que 1 point sur 5 sera alloué aux techniques de rédaction ",
+    "choices": [],
+    "answer": null
+  },
+  {
+    "number": "2",
+    "context": "Quel est le régime matrimonial applicable à Marielle Trépanier et Saman Sadafi? Motivez votre réponse et faites référence à la ou aux dispositions législatives ou réglementaires précises et  pertinentes.  FAITS COMPLÉMENTAIRES  Saman vous mentionne qu’il a toujours assumé toutes les dépenses de la f",
+    "choices": [],
+    "answer": null
+  },
+  {
+    "number": "3",
+    "context": "Compte tenu que Saman Sadafi a assumé seul toutes les dépenses de la famille pendant le mariage, pourrait-il obtenir un partage inégal du patrimoine familial, voire la propriété complète de la résidence familiale, sans verser quelque somme que ce soit à Marielle Trépanier? Motivez votre réponse et f",
+    "choices": [],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "number": "4",
+    "context": "Marielle Trépanier peut-elle renoncer à toute pension alimentaire présente et future pour elle-même dans le cadre d’une entente sur les mesures accessoires à la séparation de corps? Motivez votre réponse et faites référence à la ou aux dispositions législatives ou  réglementaires précises et pertine",
+    "choices": [],
+    "answer": null
+  },
+  {
+    "number": "5",
+    "context": ", veuillez vous référer à la Table de fixation de la contribution alimentaire parentale de base 2021 aux pages 6 et 7.  Exceptionnellement, il vous est permis de faire votre calcul dans votre code sur le formulaire de fixation des pensions alimentaires qui s’y retrouve. Veuillez retranscrire votre r",
+    "choices": [],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "number": "5",
+    "context": "Calculez la pension alimentaire mensuelle payable pour les enfants Clara, Lauralie et Cédric, dans l’éventualité où le temps parental attribué à Lianne Chevigny serait fixé à 295 jours par  année.  ANNEXE I  @.1) TABLE DE FIXATION DE LA CONTRIBUTION ALIMENTAIRE PARENTALE DE BASE  Applicable à compte",
+    "choices": [
+      "e)"
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "number": "6",
+    "context": "Indiquez la valeur partageable des biens du patrimoine familial dont Lianne Chevigny est propriétaire? Séparez les biens par catégories, nommez les biens et faites état de tous vos  calculs.",
+    "choices": [],
+    "answer": null
+  },
+  {
+    "number": "7",
+    "context": "Indiquez la valeur partageable des biens du patrimoine familial dont Patrice Beaunoyer est propriétaire? Séparez les biens par catégories, nommez les biens et faites état de tous vos  calculs.",
+    "choices": [],
+    "answer": null
+  },
+  {
+    "number": "8",
+    "context": "Quelle est la valeur nette partageable des biens acquêts dont Patrice Beaunoyer est  propriétaire? Faites état de tous vos calculs.  FAITS COMPLÉMENTAIRES  Lianne vous informe que le comportement de Patrice à son égard devient de plus en plus problématique. Il n’accepte ni le divorce ni sa nouvelle ",
+    "choices": [],
+    "answer": null
+  },
+  {
+    "number": "9",
+    "context": "Dans le cadre des mesures accessoires au divorce, comment Lianne Chevigny peut-elle demander au tribunal de condamner Patrice Beaunoyer à assumer une partie de ses frais d’avocat? Motivez votre réponse et faites référence à la ou aux dispositions législatives ou  réglementaires précises et pertinent",
+    "choices": [],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "number": "10",
+    "context": "Lianne Chevigny et Patrice Beaunoyer peuvent-ils convenir de conserver chacun leurs gains inscrits à leur nom respectif dans les registres de Retraite Québec en application de la Loi sur le régime de rentes du Québec? Si oui, dites à quelle(s) condition(s). Si non, dites pourquoi. Motivez votre répo",
+    "choices": [],
+    "answer": null
+  },
+  {
+    "number": "11",
+    "context": "a) Le policier Samuel Michaud pouvait-il arrêter Éric Jasmin? Si oui, pour quel(s) motif(s)? Si non, dites pourquoi. Motivez votre réponse et faites référence à la ou aux dispositions  législatives ou réglementaires précises et pertinentes.   b) Le policier Léo Cardin pouvait-il arrêter Maxence Roy?",
+    "choices": [
+      "a)",
+      "b)"
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "number": "12",
+    "context": "Alors qu’Éric Jasmin est au poste de police, les policiers ont-ils le pouvoir de le mettre en liberté? Si oui, pour quel(s) motif(s)? Si non, dites pourquoi. Motivez votre réponse et faites  référence à la ou aux dispositions législatives ou réglementaires précises et pertinentes.  FAITS COMPLÉMENTA",
+    "choices": [],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "number": "13",
+    "context": "Énoncez TOUTES les peines que M° Georges Lauzon peut négocier pour respecter son mandat. Motivez votre réponse et faites référence à la ou aux dispositions législatives ou  réglementaires précises et pertinentes.  FAITS COMPLÉMENTAIRES  Le mardi 22 septembre 2020, Éric se rend au bureau de M° Lauzon",
+    "choices": [],
+    "answer": null
+  },
+  {
+    "number": "14",
+    "context": "a) Qui de la poursuite ou de la défense aura le fardeau de la preuve lors de l’enquête pour mise en liberté d’Éric Jasmin concernant l’introduction par effraction et vol? Motivez votre réponse et faites référence à la ou aux dispositions législatives ou réglementaires  précises et pertinentes.  b)  ",
+    "choices": [
+      "a)",
+      "b)"
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "number": "15",
+    "context": "Le juge de paix pourrait-il rendre une décision relative à l’ordonnance prononcée à l’égard d’Éric Jasmin le jeudi 20 août 2020? Si oui, laquelle? Si non, dites pourquoi. Motivez votre réponse et faites référence à la ou aux dispositions législatives ou réglementaires précises et  pertinentes.  14  ",
+    "choices": [],
+    "answer": null
+  },
+  {
+    "number": "16",
+    "context": "M° Lise Lemoyne pourrait-elle demander à la cour la confiscation de la somme de 650 $ retrouvée sur Éric Jasmin le jeudi 20 août 2020? Motivez votre réponse et faites référence à  la ou aux dispositions législatives ou réglementaires précises et pertinentes.  FAITS COMPLÉMENTAIRES  Le mardi 13 octob",
+    "choices": [],
+    "answer": null
+  },
+  {
+    "number": "17",
+    "context": "Éric Jasmin peut-il enregistrer immédiatement un plaidoyer de non-culpabilité? Motivez votre réponse et faites référence à la ou aux dispositions législatives ou réglementaires précises et  pertinentes.  FAITS COMPLÉMENTAIRES  Le procès est fixé au lundi 7 décembre 2020. Au début du mois de novembre",
+    "choices": [],
+    "answer": null
+  },
+  {
+    "number": "18",
+    "context": "a) Quel moyen légal permet d’obtenir des échantillons malgré le refus d’Éric Jasmin? Motivez votre réponse et faites référence à la ou aux dispositions législatives ou  réglementaires précises et pertinentes.  b)  M° Lise Lemoyne dispose-t-elle d’un moyen légal pour faire la preuve de la valeur du v",
+    "choices": [
+      "a)",
+      "b)"
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "number": "19",
+    "context": "L’objection formulée par M Georges Lauzon est-elle bien fondée? Dites pourquoi et faites état  de votre raisonnement juridique.  FAITS COMPLÉMENTAIRES  M° Lemoyne fait entendre le policier Chartrand qui relate les événements conformément aux faits déjà énoncés. Elle fait aussi entendre l’expert Loui",
+    "choices": [],
+    "answer": null
+  },
+  {
+    "number": "20",
+    "context": "Dans l’hypothèse où le juge croirait qu’Éric Jasmin était en état d’ébriété, peut-il l’acquitter de l’accusation telle que portée? Dites pourquoi et faites état de votre raisonnement  juridique.",
+    "choices": [],
+    "answer": [
+      "D"
+    ]
+  }
+]

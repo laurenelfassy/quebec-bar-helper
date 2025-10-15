@@ -1,0 +1,58 @@
+import json
+import re
+import os
+
+# --- Paths ---
+answers_txt = "data_exams/text/A20_Jour1_answers.txt"
+questions_json = "data_exams/json/A20_Jour1_questions.json"
+
+# --- Load OCR answers text ---
+with open(answers_txt, "r", encoding="utf-8") as f:
+    text = f.read()
+
+# --- Extract QUESTION numbers and answers ---
+pattern = re.compile(
+    r"QUEST\s*ION\s*(\d+)\s*([a-g](?:\)|\s*[,et]+\s*[a-g]\))*\)?)",
+    re.IGNORECASE
+)
+
+answers_found = {}
+for num, letters in pattern.findall(text):
+    letters_clean = re.findall(r"[a-g]", letters, re.IGNORECASE)
+    if letters_clean:  # only record valid ones
+        answers_found[num] = [l.upper() for l in letters_clean]
+
+# --- Load questions ---
+with open(questions_json, "r", encoding="utf-8") as f:
+    questions = json.load(f)
+question_nums = [q["number"] for q in questions]
+
+# --- Validation checks ---
+missing_answers = [n for n in question_nums if n not in answers_found]
+extra_answers = [n for n in answers_found if n not in question_nums]
+duplicates = [n for n in question_nums if question_nums.count(n) > 1]
+total_q = len(question_nums)
+
+# --- Report ---
+print("📘 Validation Report")
+print("-" * 50)
+print(f"Total questions in JSON: {total_q}")
+print(f"Total answers in text:   {len(answers_found)}\n")
+
+if duplicates:
+    print(f"⚠️ Duplicate question numbers in JSON: {duplicates}")
+else:
+    print("✅ No duplicate question numbers found.")
+
+if missing_answers:
+    print(f"⚠️ Missing answers for: {', '.join(missing_answers)}")
+else:
+    print("✅ All questions have answers.")
+
+if extra_answers:
+    print(f"⚠️ Extra answers that don’t match any question: {', '.join(extra_answers)}")
+else:
+    print("✅ No unmatched answers in text file.")
+
+print("-" * 50)
+print("🔍 Tip: Review missing ones in your OCR text file for scanning errors.\n")

@@ -1,0 +1,1038 @@
+ÉVALUATION FINALE DE REPRISE — JOUR 1 — B
+8 MARS 2021
+CORRIGÉ
+
+QUESTIONS RÉPONSES
+
+:
+aus |
+
+a)
+€)
+d)
+d)
+d)
+b)
+a)
+€)
+RS
+
+L
+[am | 0
+
+NOTA : 2 POINTS PAR QUESTION, POUR UN TOTAL DE 40 POINTS.
+
+POUR CONSULTATION PAR LES ETUDIANTS
+
+ÉVALUATION FINALE DE REPRISE — JOUR 1 —B
+8 MARS 2021
+EXPLICATION DES RÉPONSES
+
+QUESTION 1
+
+Dans l'hypothèse où Maureen Bachelli se verrait attribuer un temps parental de 295 jours par
+année, quel montant de pension alimentaire annuelle pour enfants Boris Casavant devrait-il lui
+payer pour ceux-ci? Noircissez LA CASE qui correspond à la bonne réponse sur votre feuillet de
+
+réponses.
+a) 7722,67$
+b) 7998,53$
+c) 8 122,60$
+d) 11867,45$
+e) 13648,38$
+Réponse : b).
+Explications de la bonne réponse :
+b)
+
+Père Mere
+300 Revenus 86 250,00 $ 69 500,00 $
+301  Déduction de base 11 965,00 $ 11 965,00 $
+303  Déduction cotisation prof. - 322,00$ - 354,005
+305 Revenu disponible 73 963,00 $ 57 181,00 $
+306 Revenu disponible des 2 parents 131 144,00 $
+307 Facteur de répartition 56,3983 % 43,6017 %
+400 Nombre d'enfants 2
+401 Contribution de base 17 120,00 $
+402 Contribution de chacun 9655,39$ 7 464,61 $
+405 Frais particuliers (école privée) 3 800,00 $
+407 Contribution de chacun 2143,14$ 1 656,86 $
+511 Contribution annuelle des 2 parents 20 920,00 $
+512 Pension alimentaire à payer pour le père 11 798,53$
+512.1 Pension ajustée à payer par le père 7 998,53 $
+Motif : le père s'engage à payer directement à l’école de Carolane les frais de scolarité d'une somme de
+3 800 $.
+Réponses erronées :
+
+c)
+d)
+
+e)
+
+Mauvais revenu de la mère, car ajout de la pension alimentaire pour Noémie de 357,92 $ par mois,
+soit 4 295,04 $ par année (donc revenu 69 500,00 $ + 4 295,04 $ = 73 795,04 S).
+
+Ajout des frais annuels de danse de 220 S.
+
+Calcul de La pension alimentaire ajustée pour 3 enfants et ajout des frais d'études de cégep de Noémie
+de 1 700 S ainsi que des frais particuliers (école privée) de 3 800 S.
+
+Calcul de la pension alimentaire pour 3 enfants et ajout des frais d'études de cégep de Noémie de
+1 700 $, des frais annuels de danse de 220 $ ainsi que des frais particuliers (école privée) de 3 800 $.
+L'ajustement de La pension alimentaire est fait en soustrayant que Le pourcentage du père dans les
+frais de l’école privée.
+
+QUESTION 2
+
+Maureen Bachelli peut-elle réclamer les donations entre vifs de meubles et de la somme de
+75 000 $ contenues à son contrat de mariage? Noircissez LA CASE qui correspond à la bonne
+réponse sur votre feuillet de réponses.
+
+a) Maureen Bachelli peut réclamer la donation de meubles malgré l'établissement de la créance
+qui découle du partage du patrimoine familial, mais elle ne peut pas réclamer la donation de
+la somme d'argent, car le divorce la rend caduque.
+
+b) Maureen Bachelli peut réclamer la donation de meubles et elle peut réclamer la donation de
+la somme d'argent.
+
+€) Maureen Bachelli ne peut pas réclamer la donation de meubles, mais peut réclamer la
+donation de la somme d'argent.
+
+d) Maureen Bachelli ne peut pas réclamer la donation de meubles, parce que les meubles font
+partie du patrimoine familial et doivent être partagés également entre les parties; elle ne
+peut non plus réclamer la donation de la somme d'argent, parce que le divorce la rend
+caduque.
+
+Réponse : a).
+
+Explications de la bonne réponse :
+
+a)  Eneffet, Maureen peut réclamer la donation de meubles puisqu'il s'agit d'une donation entre vifs et
+dans les faits, ces meubles lui appartiennent depuis La célébration du mariage. Ce n'est que leur
+valeur qui sera partagée dans le cadre du patrimoine familial. Quant à La donation d'une somme de
+75 000 $, elle sera considérée à cause de mort, art. 519 C.c.Q., malgré son titre, puisqu'il n'y a pas
+de réelle dépossession, art. 1808 C.c.Q.
+
+Réponses erronées :
+
+bj Pour La donation de meubles, il est vrai qu'elle peut la réclamer (voir réponse a)} maïs elle ne peut
+réclamer la donation de La somme d'argent, parce que cette donation est caduque par l'effet du
+divorce, la considération en étant le décès de Boris. De plus, il n'y a pas eu de réelle dépossession.
+
+c) Voir bonne réponse a) de même que Les explications de a).
+
+d) Les meubles appartiennent à Maureen. C'est la valeur qui doit être partagée, Ce ne sont que les
+donations à cause de mort qui sont caduques par l'effet du divorce.
+
+QUESTION 3
+
+Dans le cadre du partage du patrimoine familial, quelle est la valeur partageable à laquelle a droit
+Boris Casavant à l'égard de la résidence familiale? Noircissez LA CASE qui correspond à la bonne
+réponse sur votre feuillet de réponses.
+
+a) 115374,39$
+
+b) 123637,81$
+
+c) 147 625,00 $
+
+d) 160872,38$
+
+e) 171225,00$
+
+Réponse : b).
+
+Explications de la bonne réponse :
+1" résidence :
+
+Valeur nette au moment du mariage
+valeur brute 190 000,00 $ - hypothèque 122 800,00 $ = 67 200,00 $
+
++
+
+Plus-value 1° résidence :
+Prix de vente 210 000,00 $ - valeur au moment du mariage 190 000,00 $ = 20 000,00 $
+
+Proportion : 20 000,00 $ X valeur nette 67 200,00 $
+
+valeur brute 190 000,00 $ = 7 073,68 $
+
+Déduction de 1"* résidence : 67 200,00 $ + 7 073,68 $ = 74 273,68 S
+
+Plus-value 2° résidence :
+Valeur actuelle 459 000,00 $ - prix à l'achat 296 000,00 $ = 163 000,00 $ plus-value
+
+Proportion + value 2° résidence :
+163000,00$ X valeur de l'apport __74 273,68 $
+valeur à l'achat 296 000,00 S = 40 900,71 $
+
+OU sur la moitié :
+Valeur actuelle 229 500,00 $ - prix à l'achat 148 000,00 $ = 81 500,00 $ plus-value
+Donc
+81 500,00$ X valeur de l'apport 74 273,68 $
+
+valeur à l'achat 148 000,00 $ = 40 900,71 $
+
+Au final : déduction 74 273,68 $ + 40 900,71$ = 115 174,39$
+
+Valeur partageable :
+
+Valeur brute actuelle : 459 000,00 S$
+-hypothèque actuelle :
+
+= valeur nette : 362 450,00 $
+
+-déduction Maureen : 115 174,39 $
+= valeur partageable : 247 275,61 $ divisé en 2 = 123 637,81 $ pour Boris
+
+Réponses erronées :
+
+a) Montant semblable à celui de La déduction de Maureen de 115 174,39 $
+c) En appliquant la seule déduction de 67 200,00 $ pour 1"° résidence
+Valeur brute actuelle : 459 000,00 $
+
+- hypothèque actuelle : 96 550,00 $
+
+= valeur nette : 362 450,00 $
+
+- déduction Maureen : 67 200,00 $
+
+=valeur partageable : 295 250,00 $ divisé en 2 = 147 625,00 $ pour Boris
+
+d) Erreur de calcul en prenant les valeurs au moment de l'achat de la 1"° résidence au lieu des valeurs
+au moment du mariage
+Valeur nette au moment de l'achat :
+valeur brute 160 000,00 $ - hypothèque 140 000,00 $ = 20 000,00 $
++
+Plus-value 1" résidence :
+Prix vente 210 000,00 $ - valeur au moment du mariage 160 000,00 $= 50 000,00 $
+Proportion : 50 000,00 $ X valeur nette 20 000,00$
+valeur brute 160 000,00 $ = 6 250,00 S
+
+Déduction de 1° résidence : 20 000,00 $ + 6 250,00 $ = 26 250,00 $
+
++
+Plus-value 2° résidence :
+Valeur actuelle : 459 000,00 $ - prix à l'achat 296 000,00 $ = 163 000,00 $ plus-value
+Proportion + value 2° résidence :
+163 000,00 $ X valeur de l'apport 26 250,00 S
+valeur à l’achat 296 000,00 $ = 14 455,24$
+Au final : déduction 26 250,00 $ + 14455,24$ = 40705,24$
+
+Valeur partageable :
+Valeur brute actuelle : 459 000,00 S
+
+- hypothèque actuelle : 96 550,00 S
+
+= valeur nette : 362 450,00 S
+- déduction Maureen : 40 705,24 $
+= valeur partageable : 321 744,76 $ divisé en 2 = 160 872,38 $ pour Boris
+
+e) En appliquant une seule déduction de 20 000,00 $ pour 1'° résidence
+
+Valeur brute actuelle : 459 000,00 S$
+
+- hypothèque actuelle : 96 550,00 $
+
+= valeur nette : 362 450,00 $
+
+- déduction Maureen : 20 000,00 $
+
+= valeur partageable : 342 450,00 $ divisé en 2 = 171 225,00 $ pour Boris
+
+QUESTION 4
+
+Parmi les biens ci-après mentionnés, lesquels font partie du patrimoine familial? Noircissez TOUTES
+
+LES CASES qui correspondent à la bonne réponse sur votre feuillet de réponses.
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+8)
+
+h)
+
+Un régime enregistré d'épargne retraite (REER) auquel Maureen Bachelli contribuait avant le
+mariage auprès de la Caisse de Verdun. Depuis le mariage, elle a cessé toute contribution à
+ce REER. Au moment du mariage, ce REER valait 18 500 $.
+
+Des intérêts de 3 200$ accumulés depuis le mariage sur le REER possédé par
+Maureen Bachelli, avant le mariage, auprès de la Caisse de Verdun.
+
+Un REER d’une valeur de 32000$ possédé par Maureen Bachelli auprès du
+Trust Banque Nationale. Maureen contribue à ce REER depuis le mois de février 2008.
+
+Des intérêts de 11845 $ accumulés depuis le mariage sur le REER possédé par
+Maureen Bachelli, depuis le mariage, auprès du Trust Banque Nationale.
+
+Un compte épargne libre d'impôt (CELI) d’une valeur de 5000$ possédé par
+Maureen Bachelli. Elle contribue à ce CELI depuis les trois dernières années.
+
+Un certificat de dépôt à terme d’une valeur de 5 400 $ détenu par Boris Casavant auprès de
+la Banque Nationale et représentant des économies accumulées après le mariage.
+
+Des droits de 42 000 $ dans le régime de retraite de la société Extra CommuniAction inc. où
+Boris Casavant a travaillé pendant le mariage avant de démarrer son entreprise.
+
+Un REER de 28 382 $ détenu par Boris Casavant auprès de la Banque Royale, Boris a ouvert
+ce REER en 2011 en y plaçant la somme de 20 000 $, soit le produit d’une assurance-vie reçu
+à la suite du décès de son père survenu le 23 janvier 2011.
+
+Réponse : c), d), g)et h).
+
+Explications de la bonne réponse :
+
+Tous ces droits ont été accumulés durant Le mariage au titre d’un régime de retraite.
+
+Quant à h), la valeur de ce REER est incluse, quoique Boris ait droit à une déduction pour une somme
+
+équivalente.
+
+Réponses erronées :
+
+a) Ces droits ont été accumulés avant le mariage.
+
+b) Intérêts sur des droits accumulés avant le mariage, l'accessoire suit le principal en patrimoine
+familial.
+
+e) Le CELIn’est pas un droit au titre d’un régime de retraite (art. 415, al. 5 C.c.Q.).
+
+f) Le certificat de dépôt à terme n’est pas un droit au titre d'un régime de retraite
+
+(art. 415, al. 5 C.c.Q.).
+
+QUESTION 5
+
+Boris Casavant a-t-il droit à une récompense pour la somme de 27 000 $ investie pour la
+construction d'une annexe au chalet? Si oui, de quel montant? Noircissez LA CASE qui correspond
+à la bonne réponse sur votre feuillet de réponses.
+
+à) Oui, une récompense de 22 046,76 $.
+b) Oui, une récompense de 24 516,00 $.
+c) Oui, une récompense de 27 000,00 $.
+d) Oui, une récompense de 27 361,61 $.
+€) Oui, une récompense de 30 107,91 $.
+f) Non, il n'y a pas lieu à récompense.
+
+Boris reçoit le chalet en héritage, c'est un propre (art. 450 (2) C.c.Q.).
+L'argent utilisé pour la construction de l'annexe est acquêt (art. 449 (1 et 2) C.c.Q.).
+
+Art. 455 C.c.Q. pour la qualification du bien :
+27 000,00 $ d'acquêt utilisé n'est pas égal ou supérieur à celle du bien propre qui vaut alors 112 000,00 $,
+donc le bien reste propre à charge de récompense.
+
+Art. 475 C.c.Q. pour le calcul de la récompense, on n'en connaît pas la valeur par un expert, donc on
+applique une règle de proportionnalité.
+
+27 000,00 $ X 113 500,00 $ = 22 046,76 $
+
+139 000,00 $
+
+(La valeur du chalet est de 139 000,00 $ soit La valeur du chalet de 112 000,00 $ + l'annexe de 27 000,00 $.)
+
+Réponses erronées :
+
+b) Erreur dans La proportion initiale : ajout du 27 000,00 $ à La valeur à La donation, soit 98 000,00 $.
+_27 000,00 $ X 113 500,00 $ = 24 516,00 $
+125 000,00 $
+
+c) Récompense que pour le montant investi pour la construction de l'annexe de 27 000,00 $.
+
+d) Erreur dans la proportion initiale : Oubli d'additionner les 27 000,00 $.
+_27 000,00 S X 113 500,00 $ = 27 361,61 $
+
+112 000,00 $
+
+€) Erreur dans la valeur actuelle du chalet (prix d'achat offert).
+_27 000,00 $ X 155 000,00 $ = 30 107,91 $
+139 000,00 $
+
+f)  ILy a lieu à une récompense,
+
+QUESTION 6
+
+Maureen Bachelli a-t-elle droit à une récompense pour la somme de 15 000 $ investie pour la
+construction de la pergola au chalet? Si oui, de quel montant? Noircissez LA CASE qui correspond
+à la bonne réponse sur votre feuillet de réponses.
+
+a) Oui, une récompense de 10 014,71 $.
+b) Oui, une récompense de 10 983,87 $.
+c) Oui, une récompense de 13 676,47 $.
+d) Oui, une récompense de 15 000,00 $.
+e) Non, il n'y a pas lieu à récompense.
+
+Réponse : e).
+
+Explications de la bonne réponse :
+
+I n'y a pas lieu à une récompense étant donné que l'argent investi provient de Maureen et que le chalet
+appartient à Boris. Les récompenses se calculent seulement entre les masses d'un même conjoint
+(art. 475 C.c.Q.).
+
+Réponses erronées :
+
+a)  Serait Le bon calcul de proportionnalité, s'il y avait lieu à récompense.
+15 000,00 $ X 113 500,00 $ = 10 014,71 $
+170 000,00 $
+
+b) Erreur dans la proportion : oubli d'ajouter le 15 000,00 $ à La valeur du chalet.
+15 000,00 $ X 113 500,00 $ = 10 983,87 $
+hr td
+
+c) Bonne proportion, mais erreur dans la valeur actuelle du chalet.
+"15 000 00 $ X 133 000,00 $ = 13 676,47 $
+170 000,00 $
+
+d) Que la valeur des 15 000,00 $ investis est considérée.
+
+QUESTION 7
+
+Dans l'hypothèse où Recy-Métal inc. poursuivrait Protège-Toit, Philippe Dutronc, la Ville de
+Sherbrooke et les policiers, quel motif de défense NE POURRAIT PAS être invoqué par Protège-Toit?
+Noircissez LA CASE qui correspond à la bonne réponse sur votre feuillet de réponses.
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+Philippe Dutronc devrait être reconnu responsable, parce que son retour sur les lieux
+constitue un novus actus interveniens. Il s’agit de la dernière et la seule faute causale.
+
+La Ville de Sherbrooke, à titre d'employeur, et les policiers devraient être reconnus
+responsables, parce que ces derniers n’ont pas inspecté correctement les lieux; en effet,
+s'ils l'avaient fait, Philippe Dutronc ne serait jamais revenu voler. Leurs actes sont
+également subséquents et constituent des novus actus interveniens.
+
+Gérald Anderson devrait être reconnu responsable, parce que ses actes sont subséquents et
+constituent des novus actus interveniens; il ne s’est jamais présenté sur les lieux à la suite
+du message laissé sur son répondeur, soit avant que Philippe Dutronc ne revienne.
+
+Richard Breton devrait être reconnu responsable, parce qu’il n'a pas suivi les directives
+précises que Protège-Toit lui impose, ce qui a occasionné la transmission d’une information
+incomplète aux policiers et aux responsables de Recy-Métal inc.
+
+Le contrat de surveillance signé entre Protège-Toit et Recy-Métal inc. contient une clause
+de limitation de responsabilité indiquant que Protège-Toit ne sera pas responsable d’un
+dommage matériel autrement que par une faute intentionnelle ou lourde de sa part ou celle
+de ses employés, ce qui n’est pas le cas en l’espèce.
+
+Réponse : d).
+Explications de la bonne réponse :
+
+d) Protège-Toit aurait un recours récursoire contre son employé, mais il ne peut s'agir d’un moyen de
+défense.
+
+Réponses erronées :
+
+a) Le retour sur les lieux peut être plaidé comme rompant le lien de causalité puisqu’avant son retour,
+il n'y avait pas de préjudice pour Recy-Métal inc.
+
+b) Le défaut de bien inspecter par les policiers (et leur commettant, la Ville de Sherbrooke) peut être
+plaidé comme rompant le lien de causalité puisqu'ils auraient pu éviter le préjudice.
+
+c) Le défaut de Gérald Anderson peut être plaidé comme rompant le lien de causalité puisque Gérald
+aurait pu éviter le préjudice s’il s'était rendu sur Les lieux.
+
+e) La clause contractuelle est légale et pourrait être plaidée au sens de l'article 1474 C.c.Q.
+
+QUESTION 8
+
+Dans l'hypothèse où tous les défendeurs seraient reconnus responsables du préjudice subi par
+Recy-Métal inc., quelle devrait être la conclusion du juge quant à la notion de condamnation
+solidaire demandée par Recy-Métal inc. et contestée par les défendeurs? Noircissez LA CASE qui
+correspond à la bonne réponse sur votre feuillet de réponses.
+
+a) Il n'y a aucune solidarité entre les défendeurs, sous quelque forme, parce que chaque acte
+est distinct. La condamnation sera donc conjointe.
+
+b) La responsabilité est solidaire entre les défendeurs, parce que plusieurs personnes ont
+participé à un fait collectif fautif.
+
+c) La responsabilité est solidaire entre les défendeurs, parce que les fautes sont communes et
+contributoires.
+
+d) La responsabilité est in sofidum entre les défendeurs, parce qu'ils ont commis des fautes
+contributoires.
+
+e) La responsabilité est in solidum entre les défendeurs et également avec la demanderesse,
+parce que cette dernière a été fautive; elle doit donc être tenue solidairement responsable
+avec les défendeurs.
+
+Réponse : d).
+
+Explications de la bonne réponse :
+
+d) La solidarité ne peut être parfaite puisque Protège-Toit est poursuivie en responsabilité contractuelle
+alors que les autres Le sont extracontractuellement,
+
+Réponses erronées :
+
+a) La jurisprudence reconnaît qu'il peut y avoir solidarité imparfaite (in solidum) entre les coauteurs
+d'un préjudice unique causé par des fautes contractuelles et extracontractuelles.
+
+b) ILn'y à pas application de l'article 1480 C.c.Q. qui impose La solidarité lorsqu'il est impossible de
+Érrpro le véritable auteur de la faute qui a causé le préjudice. Ici, chaque faute est clairement
+
+inie.
+
+c) Pour que les fautes communes et contributoires au sens de l’article 1523 C.c.Q, soient solidaires,
+elles doivent être toutes extracontractuelles. Or, la responsabilité de Protège-Toit est contractuelle.
+
+€) Le partage de responsabilité ne vise pas Le concept de solidarité. Voir également la bonne réponse.
+
+QUESTION 9
+
+Quel serait le chef de dommages qu'Adam Saleh NE POURRAIT PAS réclamer? Noircissez LA CASE
+qui correspond à la bonne réponse sur votre feuillet de réponses.
+
+a)  Préjudice corporel pécuniaire passé pour perte de revenus.
+
+b)  Préjudice corporel pécuniaire passé pour le coût des soins et débours divers.
+c)  Préjudice corporel pécuniaire futur pour perte de capacité de gains.
+
+d)  Préjudice corporel pécuniaire futur pour le coût de soins.
+
+e) Préjudice corporel pécuniaire futur pour la majoration fiscale.
+
+f Préjudice corporel pécuniaire futur pour les frais de gestion.
+
+g)  Préjudice corporel non pécuniaire.
+
+h)  Dommages-intérêts moratoires.
+
+i) Dommages-intérêts compensatoires.
+
+Réponse : f).
+
+Explications de la bonne réponse :
+
+f) La trame factuelle ne démontre pas qu'Adam sera incapable de gérer Les sommes qui pourraient lui
+être attribuées par un tribunal, Les frais de gestion ne peuvent être réclamés,
+
+erronées :
+
+Sont des préjudices directs passés : a) la perte de revenus à titre de serveur, b) le coût de soins non
+remboursés par le régime public et Les débours divers de déplacement (par exemple).
+
+Sont des préjudices directs futurs c) la perte de capacité de gains avec un emploi moins rémunérateur vu
+son handicap, d) le coût des soins futurs (ex. physiothérapie et psychothérapie),e) majoration pour impôts.
+Est également direct : g) le préjudice corporel non pécuniaire, douleurs, souffrances, perte de jouissance
+de la vie.
+
+Finalement, sont directs : h) les dommages-intérêts moratoires et i) les dommages-intérêts compensatoires.
+
+QUESTION 10
+
+Qui Adam Saleh NE POURRAIT-IL PAS poursuivre? Noircissez LA CASE qui correspond à la bonne
+réponse sur votre feuillet de réponses.
+
+a) Le centre de ski,
+
+b) La skieuse qui parlait au téléphone sur la piste de ski.
+€) La compagnie ambulancière Urgence-Mont-Tremblant.
+d) La compagnie ambulancière Urgence-Santé.
+
+e)  D' Pierre Duhamel.
+
+Réponse : c).
+
+Explications de la bonne réponse :
+
+c) L'accident est un préjudice couvert par Le régime public de La Loi de l'assurance automobile du
+Québec. Adam ne peut donc pas poursuivre La compagnie ambulancière Urgence-Mont-Tremblant.
+
+Réponses erronées :
+
+a) Le centre de ski pour ne pas avoir mis aucune protection sur Le poteau de remontée mécanique.
+
+b) La skieuse qui s'est arrêtée fautivement dans un endroit dangereux pour répondre à un appel (par
+opposition, par exemple, à la situation où elle serait tombée).
+
+d) La compagnie ambulancière Urgence-Santé pourrait être poursuivie pour la faute de ses préposés qui
+ont choisi de conduire Adam à Montréal plutôt que de le conduire dans l'un des centres hospitaliers
+plus près. Adam n’a pu consentir puisqu'il était inconscient.
+
+€) D Pierre Duhamel pour la faute professionnelle commise en ayant fait une incision dans l'intestin
+d'Adam.
+
+QUESTION 11
+
+Indépendamment de la réponse donnée à la question précédente, dans l'hypothèse où Adam Saleh
+déciderait de poursuivre les personnes ci-après énumérées, lequel des énoncés suivants serait
+INEXACT? Noircissez LA CASE qui correspond à la bonne réponse sur votre feuillet de réponses.
+
+a) Le centre de ski, contractuellement.
+
+b) La skieuse qui parlait au téléphone sur la piste de ski, extracontractuellement.
+€) La compagnie ambulancière Urgence-Mont-Tremblant, contractuellement.
+
+d) La compagnie ambulancière Urgence-Santé, contractuellement.
+
+e) D’ Pierre Duhamel, extracontractuellement.,
+
+Réponse : d).
+Explications de la bonne réponse :
+d)  Puisqu’Adam était inconscient, il n’a pu consentir à une relation contractuelle.
+
+Réponses erronées :
+
+a) Adam et Le centre de ski ont une relation contractuelle, art. 1458 C.c.Q,.,vu l'achat du billet de ski
+qui comprend implicitement une obligation de sécurité, art. 1434 C.c.Q.
+
+b) La skieuse à fait une faute extracontractuelle, art. 1457 C.c.Q.
+
+c) Adam et la compagnie ambulancière Urgence-Mont-Tremblant ont une relation contractuelle,
+puisqu'il était conscient et a accepté d'être transporté par cette compagnie.
+
+€)  Puisqu'Adam était inconscient, il n'a pu consentir à une relation contractuelle avec le médecin. Son
+recours serait donc extracontractuel.
+
+QUESTION 12
+
+Vincent Dupras peut-il valablement soutenir que les manquements reprochés à Média
+CommuniAction inc. et à Jacob Fouquereau donnent ouverture à l'octroi de dommages-intérêts
+punitifs? Parmi les énoncés suivants, indiquez lequel est VRAI. Noircissez LA CASE qui correspond
+à la bonne réponse sur votre feuillet de réponses.
+
+a) Oui, Vincent Dupras peut valablement réclamer des dommages-intérêts punitifs. Ce droit
+n'existe toutefois qu'à l'encontre de Média CommuniAction inc., qui a commis une atteinte
+à un droit ou une liberté garantis par la Charte des droits et libertés de la personne. Il n'est
+pas permis d'obtenir des dommages-intérêts punitifs contre Jacob Fouquereau parce que la
+responsabilité de ce dernier se fonde sur une inexécution contractuelle.
+
+b) Oui, Vincent Dupras peut valablement réclamer des dommages-intérêts punitifs. Média
+CommuniAction inc. et Jacob Fouquereau ont commis une atteinte illicite à un droit ou une
+liberté garantis par la Charte des droits et libertés de la personne et cette atteinte était
+intentionnelle.
+
+c) Oui, Vincent Dupras peut valablement soutenir qu'il a droit à des dommages-intérêts punitifs.
+Média CommuniAction inc. et Jacob Fouquereau ont commis une atteinte illicite à un droit
+ou une liberté garantis par la Charte des droits et libertés de la personne et cette atteinte
+était intentionnelle. Toutefois, comme les dommages-intérêts punitifs ont un caractère
+accessoire, Vincent Dupras ne pourrait y avoir droit s’il n'avait subi aucun préjudice
+permettant l'octroi de dommages-intérêts compensatoires.
+
+d) Non, parce que le Code civil du Québec ne prévoit pas l'octroi de dommages-intérêts punitifs
+dans de telles circonstances.
+
+e) Non, Vincent Dupras ne peut réclamer des dommages-intérêts punitifs. Média
+CommuniAction inc. et Jacob Fouquereau ont commis une atteinte illicite à un droit ou une
+liberté garantis par la Charte des droits et libertés de la personne, mais cette atteinte n'était
+pas intentionnelle.
+
+Réponse : b).
+
+Explications de la bonne réponse :
+
+L'article 1621 C.c.Q, requiert que Les dommages-intérêts punitifs soient prévus par La loi, ce qui ne se limite
+pas aux articles du Code civil. La Cour suprême a établi, dans l'arrêt de Montigny, que les dommages-
+intérêts punitifs n’ont pas un caractère accessoire et peuvent être octroyés sans égard aux dommages-
+intérêts compensatoires. Le droit à la réputation et Le droit à La vie privée sont garantis par la Charte des
+droits et libertés de la personne en vertu des articles 4 et 5. En l'espèce, l'atteinte à ces deux droits était
+intentionnelle au sens de l’article 49 de la Charte. L'octroi de dommages-intérêts punitifs ne se limite pas
+à La responsabilité extracontractuelle et vise aussi les manquements de nature contractuelle.
+
+erronées :
+
+a)  L'octroi de dommages-intérêts punitifs ne se limite pas à La responsabilité extracontractuelle et vise
+aussi les manquements de nature contractuelle.
+
+€) La Cour suprême a établi, dans l'arrêt de Montigny, que les dommages-intérêts punitifs n’ont pas un
+caractère accessoire et peuvent être octroyés sans égard aux dommages-intérêts compensatoires.
+
+d) L'article 1621 C.c.Q. requiert que les dommages-intérêts punitifs soient prévus par La loi, ce qui ne
+se limite pas aux articles du Code civil. La Cour suprême à établi, dans l'arrêt de Montigny, que les
+dommages-intérêts punitifs n'ont pas un caractère accessoire et peuvent être octroyés sans égard aux
+dommages-intérêts compensatoires. Le droit à la réputation et Le droit à La vie privée sont garantis
+par la Charte en vertu des articles 4 et 5. En l'espèce, l'atteinte à ces deux droits était intentionnelle
+au sens de l'article 49 de La Charte. L'octroi de dommages-intérêts punitifs ne se limite pas à La
+responsabilité extracontractuelle et vise aussi les manquements de nature contractuelle,
+
+€) Le droit à la réputation et le droit à la vie privée sont garantis par La Charte en vertu des articles 4
+et 5. En l'espèce l'atteinte à ces deux droits était intentionnelle au sens de l’article 49 de La Charte.
+
+QUESTION 13
+
+La décision du tribunal de première instance était-elle entachée d'une erreur quant à la
+prescription du recours de Vincent Dupras contre Jacob Fouquereau et Média CommuniAction inc.?
+Parmi les énoncés suivants, indiquez lequel est VRAI. Noircissez LA CASE qui correspond à la bonne
+réponse sur votre feuillet de réponses.
+
+Tenez pour acquis que Vincent Dupras serait en mesure de démontrer l'existence d'atteintes à la
+réputation et à la vie privée, de source contractuelle par Jacob Fouquereau et de source
+extracontractuelle par Média CommuniAction inc., ainsi que le préjudice et le lien causal requis
+par la loi.
+
+a) La décision du tribunal de première instance comportait une erreur. Le droit d'action de
+Vincent Dupras contre Jacob Fouquereau était prescrit en ce qui concerne l'atteinte à la
+réputation, mais non quant à l'atteinte à la vie privée. En revanche, le tribunal avait raison
+de considérer que le droit d'action était entièrement prescrit à l'égard du recours de Vincent
+Dupras contre Média CommuniAction inc. L'interruption de prescription à l'égard de Jacob
+Fouquereau ne vaut pas à l'égard de Média CommuniAction inc.
+
+b) La décision du tribunal de première instance comportait une erreur. Le droit d'action de
+Vincent Dupras contre Jacob Fouquereau était prescrit en ce qui concerne l'atteinte à la
+réputation, mais non quant à l'atteinte à la vie privée. La situation était identique en ce qui
+concerne le droit d'action de Vincent Dupras contre Média CommuniAction inc.
+L'interruption de la prescription à l'égard de Jacob Fouquereau vaut à l'égard de Média
+CommuniAction inc.
+
+c) La décision du tribunal de première instance comportait une erreur. Le droit d'action de
+Vincent Dupras contre Jacob Fouquereau et Média CommuniAction inc. n'était pas prescrit,
+tant en ce qui concerne l'atteinte à la vie privée que l'atteinte à la réputation. L'interruption
+de la prescription à l'égard de Jacob Fouquereau vaut à l'égard de Média CommuniAction
+inc.
+
+d) La décision du tribunal de première instance ne comportait pas d'erreur. Le droit d'action
+de Vincent Dupras contre Jacob Fouquereau et Média CommuniAction inc. était entièrement
+prescrit, tant à l'égard de l'atteinte à la réputation que de l'atteinte à la vie privée.
+
+Réponse : a).
+
+Explications de la bonne réponse :
+
+Le délai de prescription pour atteinte à la réputation est d'un an à compter de la connaissance par la victime
+selon l'article 2929 C.c.Q. Le recours pour atteinte à la vie privée est plutôt assujetti au délai de droit
+commun de trois ans en vertu de l’article 2925 C.c.Q. Seul le recours pour atteinte à la vie privée a été
+intenté à l’intérieur du délai de prescription et uniquement quant au défendeur poursuivi initialement. Le
+principe de l’article 2900 C.c.Q. se limite à la solidarité parfaite et ne s'applique pas en cas d'obligation in
+solidum, puisqu'il s'agit d'un effet secondaire de la solidarité. IL y a obligation in solidum en l'espèce parce
+que Les codébiteurs sont tenus à une même chose (l'indemnisation du préjudice), de source distincte
+(responsabilité contractuelle de Jacob Fouquereau et responsabilité extracontractuelle de Média
+CommuniAction inc.), sans pouvoir appliquer la solidarité parfaite ou l'indivisibilité. IL ne peut y avoir
+solidarité parfaite parce que l'article 1526 C.c.Q. est inapplicable à cause de l'inexécution contractuelle.
+La solidarité contractuelle de l'article 1525 C.c.Q. n'est pas applicable à un défendeur tenu sur un
+fondement extracontractuel.
+
+Dr erronées :
+IL y à obligation in solidum en l'espèce parce que les codébiteurs sont tenus à une même chose
+(l'indemnisation du préjudice), de source distincte (responsabilité contractuelle de Jacob et
+responsabilité extracontractuelle de Média CommuniAction inc.), sans pouvoir appliquer la solidarité
+parfaite ou l'indivisibilité.
+
+IL ne peut y avoir solidarité parfaite parce que l'article 1526 C.c.Q. est inapplicable à cause de
+l'inexécution contractuelle.
+
+La solidarité contractuelle de l’article 1525 C.c.Q, n'est pas applicable à un défendeur tenu sur un
+fondement extracontractuel.
+
+c)
+
+d)
+
+IL y a obligation in solidum en l'espèce parce que les codébiteurs sont tenus à une même chose
+(l'indemnisation du préjudice), de source distincte (responsabilité contractuelle de Jacob et
+responsabilité extracontractuelle de Média CommuniAction inc.), sans pouvoir appliquer la solidarité
+parfaite ou l'indivisibilité.
+
+IL ne peut y avoir solidarité parfaite parce que l'article 1526 C.c.Q. est inapplicable à cause de
+l'inexécution contractuelle.
+
+La solidarité contractuelle de l’article 1525 C.c.Q. n'est pas applicable à un défendeur tenu sur un
+fondement extracontractuel.
+
+Le délai de prescription pour atteinte à La réputation est d'un an à compter de la connaissance par la
+victime selon l'article 2929 C.c.Q. Le recours pour atteinte à la vie privée est plutôt assujetti au délai
+de droit commun de trois ans en vertu de l'article 2925 C.c.Q. Seul le recours pour atteinte à la vie
+privée a été intenté à l'intérieur du délai de prescription et uniquement quant au défendeur poursuivi
+initialement.
+
+QUESTION 14
+
+Parmi les énoncés suivants, indiquez lequel est BIEN FONDÉ. Noircissez LA CASE qui correspond à
+la bonne réponse sur votre feuillet de réponses.
+
+a) Le policier Thomas Lahaye a le droit d'arrêter Martin Bérubé, car il a des motifs raisonnables
+de croire qu'il a troublé la paix.
+
+b) Le policier Thomas Lahaye doit détenir Martin Bérubé concernant l'infraction de vol qualifié,
+car il s'agit d’une infraction passible d’une peine maximale de plus de 14 ans.
+
+€) Le policier Thomas Lahaye doit remettre Martin Bérubé en liberté, car aucune des infractions
+commises n'est prévue à l’article 469 du Code criminel.
+
+d) Le policier Thomas Lahaye doit détenir Martin Bérubé, car il fait l’objet d'un mandat
+d'arrestation pour trafic de stupéfiants.
+
+e) Le policier Thomas Lahaye peut remettre Martin Bérubé en liberté pour l'infraction de vol
+qualifié avec une promesse de comparaître assortie d'une condition d'être à son domicile
+entre minuit et 6 h du matin et de se présenter à l'entrée de sa résidence sur demande d'un
+agent de la paix.
+
+f) Le policier Thomas Lahaye peut remettre Martin Bérubé en liberté pour l'infraction de vol
+qualifié avec une promesse de comparaître et un dépôt en argent de 500 $.
+
+Réponse : e).
+
+Explications de la bonne réponse :
+
+e) Le policier Lahaye peut remettre Martin Bérubé en liberté s'il n'a pas de motif d'intérêt public à Le
+détenir, art. 498 (1.1) C.cr. La promesse peut être assortie d'un couvre-feu (art. 501 (3) C.cr.).
+
+Réponses erronées :
+
+a) Faux, troubler la paix est une infraction sommaire (art. 175 (1) C.cr.); or, le policier Lahaye ne peut
+arrêter Martin Bérubé sans mandat que s’il le trouve en train de commettre une infraction sommaire,
+art. 495 (1) b) C.cr., ce qui n’est pas le cas ici.
+
+b) Faux, l’article 498 (1) C.cr. permet au policier Lahaye de remettre Martin Bérubé en liberté s'il n'a
+pas de motif d'intérêt public de le détenir, art. 498 (1.1) C.cr.
+
+€) Idem.
+
+d) Le policier Lahaye peut remettre Martin Bérubé en liberté s'il considère que sa détention est non
+
+f)
+
+nécessaire, art. 503 (1.1) C.cr.
+
+Faux, comme Martin Bérubé réside dans La même province et qu'il est sous garde à moins de
+200 kilomètres de son lieu de résidence, le policier Lahaye ne peut pas exiger un dépôt en argent,
+art. 501 (3) j) C.cr.
+
+QUESTION 15
+
+Lors de l'enquête pour remise en liberté de Martin Bérubé, parmi les énoncés suivants, indiquez
+lequel est ERRONÉ. Noircissez LA CASE qui correspond à la bonne réponse sur votre feuillet de
+réponses.
+
+a) Le juge peut directement s'adresser à l'accusé Martin Bérubé et lui poser des questions sur
+sa consommation de cocaïne,
+
+b)  M° Maurice Vallières, l'avocat de Martin Bérubé, peut ne pas faire témoigner son client même
+si ce dernier désire suivre une thérapie.
+
+c)  MBrenda Mcintyre, procureure aux poursuites criminelles et pénales, peut déposer en
+preuve le contenu d'une communication privée obtenue grâce au mandat d'écoute
+électronique, et ce, malgré le fait qu’elle n'ait pas envoyé le préavis prévu à l’article 189 (5)
+du Code criminel.
+
+d) Dans le dossier de trafic de stupéfiants, la défense devra démontrer que la détention de
+Martin Bérubé n'est pas justifiée, car il y a un renversement du fardeau de la preuve en
+raison de sa cause pendante d'intrusion de nuit dans une résidence.
+
+e) Afin de démontrer que la détention de Martin Bérubé est nécessaire, M° Brenda Mcintyre,
+procureure aux poursuites criminelles et pénales, peut faire une preuve de mauvaise
+moralité.
+
+Réponse : d).
+
+Explications de la bonne réponse :
+
+d) Comme la cause pendante d'intrusion de nuit dans une résidence est une infraction sommaire,
+art. 177 C.cr., le renversement du fardeau de la preuve n'existe pas pour cette raison, puisque
+l’article 515 (6) a) (i) C.cr. exige un autre acte criminel. Il y a affectivement un renversement du
+fardeau de la preuve, mais uniquement dans Le dossier de trafic de stupéfiants, art. 516 (6) d) C.cr.
+
+dr erronées :
+Vrai, l’article 518 (1) a) et b) C.cr. le permet, car le juge ne l'interroge pas sur l'infraction pour
+laquelle il est inculpé.
+
+b) Vrai, l'article 518 (1) e) C.cr. permet toute preuve plausible et digne de foi.
+
+€) Vrai, l'article 518 (1) d.1) C.cr. permet le dépôt de cette preuve.
+
+e) Vrai, l'article 518 (1) c) C.cr, le permet, puisque c'est pertinent pour déterminer la probabilité
+marquée de commettre une autre infraction.
+
+QUESTION 16
+
+Relativement à l'enquête préliminaire, parmi les énoncés suivants, indiquez lequel est
+BIEN FONDÉ. Noircissez LA CASE qui correspond à la bonne réponse sur votre feuillet de réponses.
+
+a) Paul Régimbald peut sans préalable renoncer en tout temps à la tenue de l'enquête
+préliminaire.
+
+b) Le juge peut citer l'accusé Paul Régimbald sur toutes infractions pour lesquelles le procureur
+a fait la preuve prima facie des éléments constitutifs de l'infraction.
+
+c) Aucun voir-dire n’est nécessaire pour la mise en preuve de la déclaration de Paul Régimbald,
+car lors de l'enquête préliminaire, le juge n'a pas compétence sur les questions relevant de
+la Charte canadienne des droits et libertés.
+
+d) Le juge peut en tout temps intervenir et mettre fin à un contre-interrogatoire lorsqu'il
+estime qu'il a suffisamment de preuve pour citer à procès.
+
+e) La déclaration de Sylvie Roireau peut être mise en preuve par le témoignage de l'agent
+Robert Corbin.
+
+Réponse : e).
+
+Explications de la bonne r:
+
+€) Vrai. Il s'agit de l'exception de la res gestae. Comme la possession est une infraction continue, La
+déclaration est spontanée; c'est une exception au ouï-dire.
+
+Réponses erronées :
+
+a) Faux, l'article 549 C.cr. (le) permet de renoncer en tout temps à la tenue de l'enquête préliminaire,
+mais avec Le consentement du poursuivant.
+
+b) Faux, l’article 548 (1) a) C.cr. permet uniquement Le renvoi des infractions qui découlent de La même
+affaire.
+
+€) Faux, il faut faire un voir-dire de common law pour démontrer que la déclaration est libre et
+volontaire et résulte d'un esprit conscient.
+
+d) Faux, le juge peut intervenir uniquement si le contre-interrogatoire est répétitif ou abusif,
+art. 537 (1.1) C.cr.
+
+QUESTION 17
+
+Parmi les énoncés suivants, indiquez lequel est FAUX. Noircissez LA CASE qui correspond à la bonne
+réponse sur votre feuillet de réponses.
+
+a) Une peine de 18 mois d'emprisonnement avec sursis et une probation de 2 ans.
+b) Une peine de 10 mois d'emprisonnement avec une amende de 10 000 $.
+
+c) Une peine de 90 jours d'emprisonnement discontinus avec probation de 2 ans et une amende
+de 1 000 $.
+
+d) Un sursis de sentence avec une probation de 12 mois.
+e) Une absolution conditionnelle avec une probation.
+
+Réponse : a).
+Explications de la bonne réponse :
+a) Faux, l'article 742,1 (f) vii C.cr. ne permet pas le sursis.
+
+erronées :
+
+b) Vrai, l'article 731 (1) b) C.cr. le permet.
+
+C) Vrai, les articles 731 (1) b) et 732 C.cr. et R. c. Cartier, (1990) 57 C.C.C. (3d) 569 (C.A.). Le juge qui
+impose une peine d'emprisonnement à être purgée de façon discontinue peut en plus de La probation
+imposer une amende,
+
+d) Vrai, l'article 731 (1) a) C.cr. Le permet.
+
+€) Vrai, car la peine maximale est inférieure à 14 ans, art. 730 C.cr.
+
+QUESTION 18
+
+Parmi les énoncés suivants, indiquez lesquels sont VRAIS. Noircissez TOUTES LES CASES qui
+correspondent à la bonne réponse sur votre feuillet de réponses.
+
+a) La preuve par ouï-dire est admissible si elle est crédible et fiable.
+b) Tous les faits doivent être prouvés selon la règle de prépondérance de la preuve.
+
+c) Le juge doit, avant de prononcer la peine, s'assurer que le poursuivant a pris des mesures
+raisonnables pour permettre à la victime de rédiger sa déclaration sur les conséquences du
+crime.
+
+d) Le tribunal peut, après avoir consulté les parties, exiger qu'on lui fasse la preuve d'éléments
+qui lui seront utiles pour déterminer la peine.
+
+e) Le tribunal peut, après avoir consulté les parties, exiger la comparution de toute personne
+contraignable qui pourrait lui fournir des renseignements utiles.
+
+f) Le juge, avant le prononcé de la peine, doit donner au délinquant l'occasion de s'adresser à
+lui.
+
+Réponse : a), c), d}, e) et f).
+
+Explications de la bonne réponse
+
+a) Vrai, l'article 723 (5) C.cr. TN
+€) Vrai, art. 722 (2) C.cr.
+
+d) Vrai, art. 723 (3) C.cr.
+
+€) Vrai, art. 723 (4) C.cr.
+
+f) Vrai, art. 726 C.cr,
+
+Réponses erronées :
+b) Faux. Les facteurs aggravants doivent être prouvés hors de tout doute raisonnable,
+art. 724 (3)e) C.cr.
+
+QUESTION 19
+
+En plus de l'infraction d'introduction par effraction dans une maison d'habitation et perpétration
+d'un vol, de quelle infraction Sarah Valcourt peut-elle être reconnue coupable et emporter une
+condamnation en vertu des règles applicables? Noircissez LA CASE qui correspond à la bonne
+
+réponse.
+
+a) Complot avec Rose Lauzier et Madeleine Gascon.
+b)  Recel.
+
+c) Port d'un déguisement dans un dessein criminel.
+d)  Méfait,
+
+Réponse : d).
+
+Explications de la bonne réponse :
+
+d)  Méfait : en brisant La fenêtre, Sarah commet l'infraction de méfait prévue à l'article 430 (1) a) C.cr.
+Un méfait n'est pas nécessairement commis lors d'une introduction par effraction et la règle qui
+prohibe les condamnations multiples n'empêche pas une déclaration de culpabilité aux deux
+infractions.
+
+pat erronées :
+Complot : aucune preuve d'entente entre Rose, Sarah et Madeleine le 12 juillet ou le 9 août. Leur
+discussion du 12 juillet ne constitue pas un complot (0'Brien-Carter-Douglas). Le 9 août, Sarah et
+Madeleine agissent de façon spontanée parce qu'elles passaient par Là par hasard.
+
+b)  Recel : La règle prohibant les condamnations multiples empêche une condamnation sur un chef de vol
+ET de recel.
+
+€) Port d'un déguisement : seule Madeleine porte un foulard afin de dissimuler son visage.
+
+QUESTION 20
+
+Que doit faire Madeleine Gascon ou M° Arthur Villi afin que le juge du procès accorde crédibilité
+et une plus grande valeur probante à cette défense d'alibi? Noircissez LA CASE qui correspond à la
+bonne réponse sur votre feuillet de réponses.
+
+a)  Aviser le juge du procès de la déclaration de Madeleine Gascon faite à la policière Nina Diaz.
+
+b) Présenter une requête au juge du procès afin que Madeleine Gascon subisse un procès séparé
+de celui de Sarah Valcourt,
+
+c) Présenter, lors de l'enquête préliminaire, les témoins appuyant la défense de Madeleine
+Gascon.
+
+d) Fournir à la policière Nina Diaz une déclaration écrite dans laquelle Madeleine Gascon dévoile
+les détails entourant sa défense.
+
+e)  Démontrer, hors de tout doute raisonnable, que Madeleine Gascon était ailleurs que chez
+Romane Sauriol au moment des événements.
+
+Réponse : a).
+
+Explications de la bonne réponse :
+Une défense d'alibi doit être annoncée en temps opportun et avec des détails suffisants afin que sa valeur
+probante et sa crédibilité ne soient pas touchées.
+
+Er e  d
+
+£
+d)
+
+e)
+
+Le fait qu'elle subisse un procès conjoint ne l'empêche pas de présenter une défense de cette nature,
+
+Aucune obligation pour la défense de produire des témoins en examen volontaire à l'enquête
+préliminaire afin que la défense puisse être présentée.
+
+La communication des détails entourant l'alibi peut se faire par Le biais d'une déclaration de l'accusé,
+mais aussi par d'autres moyens (verbalement, par lettre).
+
+La défense d'alibi, tout comme d'autres défenses, doit soulever un doute dans l'esprit du juge.
+

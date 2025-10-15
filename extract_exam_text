@@ -1,0 +1,67 @@
+# extract_bar_exam_questions_v2_fixed.py
+import re
+import os
+import json
+import pdfplumber
+
+input_path = "data_exams/raw_pdfs/A20 - Jour 1 - O - Questionnaire.pdf"
+output_path = "data_exams/json/A20_Jour1_questions.json"
+
+# --- Step 1: Extract text ---
+text = ""
+with pdfplumber.open(input_path) as pdf:
+    for page in pdf.pages:
+        page_text = page.extract_text()
+        if page_text:
+            text += page_text + "\n"
+
+text = re.sub(r'\n+', '\n', text)
+text = re.sub(r'\s+', ' ', text)
+
+# --- Step 2: Split out pre-question intro (for Q1 context) ---
+intro_match = re.split(r"QUESTION\s+\d+", text, 1)
+initial_context = intro_match[0].strip() if len(intro_match) > 1 else ""
+
+# --- Step 3: Extract question blocks ---
+pattern = re.compile(r'(?:QUESTION\s+(\d+))(.*?)(?=QUESTION\s+\d+|$)', re.DOTALL | re.IGNORECASE)
+matches = pattern.findall(text)
+
+questions = []
+previous_context = initial_context  # <- NEW
+
+for num, content in matches:
+    num = num.strip()
+    content = content.strip()
+
+    # Choices (a-g)
+    choices = re.findall(r'([a-g]\))\s*(.*?)(?=\s*[a-g]\)|$)', content)
+    formatted_choices = [f"{c[0]} {c[1].strip()}" for c in choices]
+
+    # Question text
+    qsplit = re.split(r"[a-g]\)", content, 1)
+    question_text = qsplit[0].strip() if len(qsplit) > 1 else content
+
+    # Attach previous context (for Q1 = intro, for others = previous FAITS section)
+    context = previous_context.strip()
+
+    # Look for next "Faits complémentaires" to update context
+    next_context = ""
+    if "FAITS COMPLÉMENTAIRES" in content:
+        next_context = content.split("FAITS COMPLÉMENTAIRES")[-1].strip()
+
+    questions.append({
+        "number": num,
+        "context": context,
+        "question": question_text,
+        "choices": formatted_choices
+    })
+
+    previous_context = next_context
+
+print(f"✅ Extracted {len(questions)} questions")
+
+os.makedirs(os.path.dirname(output_path), exist_ok=True)
+with open(output_path, "w", encoding="utf-8") as f:
+    json.dump(questions, f, indent=2, ensure_ascii=False)
+
+print(f"✅ Saved to {output_path}")

@@ -1,0 +1,520 @@
+PRIORITÉS ET HYPOTHÈQUES  CORRIGÉS  
+ 
+Recours hypothécaires  et publicité des droits  | Corrigés  1  
+RECOURS HYPOTHÉCAIRES  
+ET PUBLICITÉ DES DROITS  
+ 
+EXERCICE 1  
+ 
+DOSSIER BANQUE DU PEUPLE  : CORRIGÉ  
+ 
+ 
+1. Indiquez la ou les seules personnes à qui le préavis d’exercice d’un droit hypothécaire doit 
+être signifié. Motivez votre réponse.  
+ 
+À Paul Jobin seulement, puisqu’il est le débiteur, le constituant et la personne contre qui le 
+droit hypothécaire est exercé (art. 2757 C.c.Q.).  
+ 
+On aurait pu penser que le préavis doive aussi être signifié à Charles Henry, le locataire mais 
+il n’est pas le débiteur ni le constituant; il n’est pas non plus une personne contre qui le droit 
+hypothécaire est exercé car il n’est que locataire et ne sera pas touché par l’exercice du droit 
+hypothécaire (ar t. 1937 C.c.Q.) . 
+ 
+En matière de bail commercial, la réponse est la même sauf que le locataire commercial ne 
+sera pas touché par l’exercice du droit hypothécaire uniquement si le bail est publié (art. 1887 
+C.c.Q.).  
+ 
+ 
+2. Indiquez ce que devra contenir le préavis. Motivez votre réponse.  
+ 
+L’article 2758 C.c.Q. prévoit que le préavis doit contenir les éléments suivants  : 
+ 
+- dénonciation de tout défaut par le débiteur d’exécuter ses obligations  :  
+ 
+ En l’espèce suivant l’acte d’hypothèque, Paul Jobin semble au ssi insolvable (clause 22 a); 
+Paul Jobin est en défaut de faire ses paiements périodiques depuis le 17 juin 0004  
+(clauses  4 et 22  d), de payer ses taxes foncières (clauses  8 et 22  d), de faire radier les 
+hypothèques légales de la construction (clause  22 c), d’avoir effectué des modifications à 
+
+ CORRIGÉS  
+ 
+Recours hypothécaires  et publicité des droits  | Corrigés  2 l’immeuble sans avoir obtenu le consentement préalable du prêteur et sans lui avoir 
+fourni un «  Consentement à priorité d’hypothèque  » (clauses  14 et 22  d);  
+ 
+ Il est important de faire état de tous les défauts car le  débiteur a le droit d’y remédier 
+suite au préavis; si tous les défauts ne sont pas mentionnés et que le débiteur remédie 
+aux défauts mentionnés au préavis, le créancier devra faire un nouveau préavis contenant 
+les autres défauts;  
+ 
+- rappel du droit de re médier au défaut, le cas échéant  : 
+ 
+ En l’espèce, les deux derniers défauts sont irréversibles et Paul Jobin ne pourrait pas y 
+remédier pour faire échec à l’exercice des droits hypothécaires de la banque suivant 
+l’article 2761 C.c.Q.;  
+ 
+- indication du mont ant de la créance  : 87 000 $ en capital plus des intérêts de 867,60  $; 
+ 
+- indication de la nature du droit hypothécaire que le créancier entend exercer  : prise en 
+paiement;  
+ 
+- description du bien hypothéqué  : lot 2  458 210 du cadastre du Québec, circonscription 
+foncière de Terrebonne (art. 3032, 3033 et 2981.1 C.c.Q.);  
+ 
+- sommation de délaisser le bien avant l’expiration du délai imparti  : 60 jours, en l’espèce 
+(art. 2758, al.  2 C.c.Q.).  
+ 
+Comme le préavis doit être publié au registre foncier en ve rtu de l’article 2757 C.c.Q., il doit 
+aussi contenir la désignation du titulaire, Banque du Peuple, et du constituant, Paul Jobin, 
+ainsi que les mentions prescrites par règlement selon l’article 2981 C.c.Q.  
+ 
+L’article 41 du Règlement sur la publicité fonci ère ajoute que les avis doivent indiquer  : 
+ 
+- la date et le lieu où le préavis est fait;  
+ 
+- la désignation et la signature de l’avocat qui donne le préavis pour le bénéficiaire, Banque 
+du Peuple;  
+ 
+- la nature de l’avis, soit un préavis d’exercice d’un droi t hypothécaire;  
+ 
+ CORRIGÉS  
+ 
+Recours hypothécaires  et publicité des droits  | Corrigés  3 - le numéro d’inscription de l’hypothèque concernée par ce préavis, soit 16  215 312.  
+ 
+De plus, le préavis doit être attesté par avocat selon l’article 2991 C.c.Q. ou par deux témoins 
+dont l’un sous serment en vertu de l’article 2995 C.c.Q.  Cette attestation se trouve à la fin du 
+préavis selon l’article 54 du règlement.  
+ 
+ 
+3. Indiquez les étapes à suivre et les autres formalités à accomplir pour exercer la prise en 
+paiement. Motivez votre réponse.  
+ 
+Inscrire le préavis (art.  2757 C.c.Q.) avec la preuve de sa signification.  Depuis le 8 novembre 
+2021 le préavis d’exercice ne peut être inscrit qu’ en version électronique au bureau de la 
+publicité ( Loi visant à moderniser certaines règles relatives à la publicité foncière et à favoriser 
+la diffusion  de l’information géospatiale , L.Q. 2020, c. 17).  
+ 
+Il faut attendre l’expiration du délai de 60  jours  à compter de la date d’inscription , suivant les 
+articles  2749 et 2758, al.  2 C.c.Q. , sauf si l’on est dans un cas de l’article  2767 C.c.Q., ce qui 
+n’est p as le cas ici.  
+ 
+Il faut obtenir le délaiss ement volontaire ou forcé (art.  2763 et s. C.c.Q.).  
+ 
+Après l’expiration du délai imparti pour délaisser, il faut faire une demande introductive 
+d’instance (en délaissement forcé et pour prise en paiement ) (art.  100 et 467  C.p.c)  s’il n’y a 
+pas eu de délaissement volontaire. Dans le présent cas, aucune autorisation du tribunal n’est 
+nécessaire, car la moitié  ou plus  de l’obligation n’a pas été  remboursée (art.  2778 C.c.Q.).  
+ 
+L’acte de délaissement volontaire ou le jugement constitue le titre de propriété du créancier 
+hypothécaire (art.  2764, al.  2 et 2781 C.c.Q.). Après avoir signifié le jugement au défendeur 
+et obtenu un certificat de non appel , le créancier doit publ ier son titre (art.  2938, al.  1 C.c.Q.)  
+en publiant le jugement . En même temps, il demande à l’officier  de radier son hypothèque 
+éteinte , le préavis d’exercice  (art.  2801, 3069 et 3075.1 C.c.Q.)  et les hypothèques publiées 
+après la sienne (art. 2783 C.c.Q.) . 
+ 
+ 
+ CORRIGÉS  
+ 
+Recours hypothécaires  et publicité des droits  | Corrigés  4 4. En attendant que la prise en paiement soit effectivement exercée, indiquez si d’autres 
+droits pourraient être exercés afin que la banque touche plus rapidement de l’argent. 
+Motivez votre réponse.  
+ 
+Comme l’acte d’hypothèque comporte une clause d’hypothèque de loyers (clause  10), la 
+banque pourrait percevoir ces loyers suivant les articles 2743 et s. C.c.Q.  
+ 
+Elle devra retirer l’autorisation de percevoir donnée à l’acte d’hypothèque  (clause 10)  en 
+suivant les formalités prescrites à l’article 2745 C.c.Q. Elle  devra notifier le constituant, Paul 
+Jobin, et le débiteur des droits hypothéqués, Charles Henr y, qu’elle percevra désormais elle -
+même les loyers. Elle devra inscrire au registre foncier ce retrait d’autorisation.  
+ 
+Selon la Cour d’appel dans l’affaire Bouc her c.  Capitale (La), Centre du Québec  inc., 2003 QCCA 
+47930, la notification et la publication de l’avis de retrait d’autorisation de percevoir 
+constituent les seules exigences pour permettre au créancier hypothécaire de percevoir les 
+loyers. En pratique,  le créancier joindra à l’avis de retrait signifié aux locataires une copie de 
+l’acte d’hypothèque pour rendre son hypothèque opposable aux locataires en vertu des 
+articles 2710, al.  2 et 1641 et suivants C.c.Q. et éviter une contestation pour ce motif.  
+ 
+Dans la même décision, la Cour d’appel ajoute qu’il n’est pas nécessaire de donner le préavis 
+prévu à l’article 2757 C.c.Q. car la perception des créances n’est pas l’exercice d’un droit 
+hypothécaire.  
+ 
+*  *  *  *  *  
+ 
+5. L’Officier de la publicité foncière  avait-il l’obligation d’aviser Manon Lafrance de 
+l’inscription du préavis d’exercice d’un droit hypothécaire compte tenu qu’elle a fait publier 
+une déclaration de résidence familiale? Motivez votre réponse.  
+ 
+Non, parce qu’elle n’a pas publié d’avis d’adresse comme le permet l’article 3022 C.c.Q. 
+L’officier notifie l’inscription à ceux qui ont inscrit leur adresse selon l’article 3017, al.  1 C.c.Q.  
+ 
+ 
+6. a) En date du 12  septembre 0004, Fenêtres Commerciales inc. détient -elle une 
+hypothèque légale de c onstruction? Motivez votre réponse.  
+ 
+Non, parce que tous les matériaux ont été fournis avant la dénonciation écrite au 
+propriétaire (art. 2728 C.c.Q.).  
+ CORRIGÉS  
+ 
+Recours hypothécaires  et publicité des droits  | Corrigés  5  
+NOTA  : - La Cour d’appel, dans l’affaire Muridal inc. c.  Commission scolaire des 
+Navigateurs,  2006 QCCA  4, a décidé que le tribunal peut soulever d’office la 
+tardiveté de la dénonciation dans le cadre d’une demande en radiation 
+présentée par la propriétaire même si cet argument n’a pas été soulevé par 
+la demanderesse.  
+ 
+- On peut se demander si l’e xigence d’une dénonciation écrite est absolue; la 
+jurisprudence majoritaire mais relativement ancienne va dans ce sens  (ce 
+que semble aussi confirmer Groupe Atwill -Morin inc. c. SA Construction Inc, 
+2018 QCCS 2102 ), mais on a déjà conclue que la dénonciati on était valable 
+lorsque le propriétaire était présent lors de la négociation et de la signature 
+du contrat et qu’il en a même dicté le contenu et qu’il a participé activement 
+au déroulement des travaux; est -ce que la jurispru dence ira jusqu’à accepter 
+une dénonciation verbale  comme elle le fait pour l’article 1739 C.c.Q.? Quoi 
+qu’il en soit, cela soulèvera des problèmes de preuve qu’il vaut mieux éviter 
+en respectant l’exigence d’une dénonciation écrite.  
+ 
+b) En date du 12 septembre 0004 , Claude Michon inc.  détient -elle une hypothèque légale 
+de construction? Choisissez la bonne réponse parmi celles énoncées ci -dessous et 
+motivez votre réponse.  
+ 
+(i) Oui, parce qu’elle a dénoncé par écrit son contrat avant d’exécuter ses travaux et 
+qu’elle a fait signifier et a inscrit un avis de conservation avant l’expiration du délai 
+de 30  jours de la fin des travaux.  
+ 
+(ii) Non, en raison de la renonciation contenue au contrat du 4  mars 0004.  
+ 
+(iii) Oui, parce que l’intervenant de la construction bénéficie toujours d’une hypothèque 
+légale pour garantir le paiement de sa créance lorsque celle -ci n’excède pas la plus -
+value résultant des travaux.  
+ 
+(iv) Non, parce que l’avis de conservation de l’hypothèque légale de la construction n’a 
+pas été publié dans le délai prescrit.  
+ 
+La bonne réponse est (i). Oui, parce qu’elle a dénoncé par écrit son contrat avant 
+d’exécuter ses travaux et qu’elle a fait signifier et a inscrit un avis de conservation avant 
+ CORRIGÉS  
+ 
+Recours hypothécaires  et publicité des droits  | Corrigés  6 l’expiration du délai de 30  jours de la fin des travaux, soit le 2 mai 0004 (art. 2727 et 2728 
+C.c.Q.).  
+ 
+La date de la fin des travaux est le 26 avril 0004 . Il n’y a qu’une seule fin des travaux pour 
+l’ensemble du projet de construction. La fin des travaux est définie à l’article 2110, al.  1 
+C.c.Q.  
+ 
+Bien que la deuxième formalité de conservation, soit l’inscription d’un préavis ou d’une 
+action, n’ait pas été faite, le délai pour ce faire n’est pas expiré (six  mois de la fin des 
+travaux, art.  2727 C.c.Q.).  
+ 
+La renonciation faite par Construction des Laurentides inc. ne vaut pas à l’ égard de Claude 
+Michon inc.  qui est un tiers au contrat (art. 1440 C.c.Q.)  
+ 
+c) En date du 12 septembre 0004 , Peintres Experts inc. détient -elle une hypothèque légale 
+de construction? Choisissez la bonne r éponse parmi celles énoncées ci -dessous et 
+motivez v otre réponse.  
+ 
+(i) Oui, parce qu’elle a fait signifier et a inscrit un avis de conservation avant 
+l’expiration du délai de 30  jours de la fin des travaux.  
+ 
+(ii) Non, parce qu’elle n’a pas dénoncé son contrat par écrit au propriétaire.  
+ 
+(iii) Oui, parce que  l’intervenant de la construction bénéficie toujours d’une hypothèque 
+légale pour garantir le paiem ent de sa créance lorsque celle -ci n’excède pas la plus -
+value résultant des travaux.  
+ 
+(iv) Non, parce que l’avis de conservation de  l’hypothèque légale de la  cons truction n’a 
+pas été publié dans le délai prescrit.  
+ 
+La bonne réponse est (i). Oui, parce qu’elle a fait signifier et a inscrit un avis de 
+conservation avant l’expiration du délai de 30  jours de la fin des travaux  (art. 2727 et 2728 
+C.c.Q.) .  
+ 
+Peintres Experts inc. n’avait pas à dénoncer son contrat ayant contracté directement avec 
+le propriétaire (article  2728 C.c.Q.)  
+ 
+ 
+ CORRIGÉS  
+ 
+Recours hypothécaires  et publicité des droits  | Corrigés  7 7. Dans l’hypothèse où Banque du Peuple inscrirait, le 1er décembre 0004, un jugement 
+ordonnant le délaissement pour prise en paiement prononcé en sa faveur, la municipalité 
+de Prévost conserverait -elle sa priorité pour les taxes foncières impayées? Motivez votre 
+réponse.  
+ 
+ Tenez pour acquis que la municipalité de Prévost serait toujours impayée en date du 
+1er décembre 0004.  
+ 
+Oui, car cette priorité constitue un droit réel qui permet de suivre le bien dans le patrimoine 
+de la banque (art. 2654.1 C.c.Q.).  
+  
+ CORRIGÉS  
+ 
+Recours hypothécaires  et publicité des droits  | Corrigés  8 EXERCICE 2  
+ 
+DOSSIER POULIN  : CORRIGÉ  
+ 
+ 
+1. En date du 5  février  0004, Luc  Poulin est -il tenu d’accepter l’offre de Guy Dion?  Motivez 
+votre réponse.  
+ 
+Non, le contrat renferme une clause de déchéance du bénéfice du terme, ce qui rend 
+l’obligation immédia tement exigible selon l’article  1515 C.c.Q. et comme il s’agit d’une action 
+personnelle et non d’un recours hypothécaire, l’arti cle 2761 C.c.Q. ne trouve pas application.  
+ 
+*  *  *  *  *  
+ 
+2. En date du 9  février 0004, Luc  Poulin peut -il exercer un recours hypothécaire relativement 
+à la motomarine et la motocyclette? Si  oui, indiquez lesquels, les formalités préalables et 
+le délai du  préavis. Si  non, dites pourquoi. Motivez votre réponse.  
+ 
+Quant à la motomarine  : 
+ 
+Oui, parce que cette hypothèque, qui ne peut pas être inscrite sur une fiche établie sous la 
+description du bien (art. 15 du Règlement sur le registre des droits personnels et réels mobiliers ), 
+doit être conservée au mo yen de l’avis prévu à l’article  2700 C.c.Q. qui doit être inscrit dans les 
+15 jours qui suivent le 29 janvier 0004 , date de réception de la lettre de Guy Dion . Luc Poulin 
+est toujours dans les délais pour inscr ire cet avis.  
+ 
+Quant à la motocyclette  : 
+ 
+Oui, parce qu’il s’agit d’un véhicule routier qui ne né cessite pas l’avis de l’article  2700 C.c.Q., 
+car cette hypothèque est inscrite sur une fi che descriptive selon l’article  15 du Règlement sur 
+le registre des dr oits personnels et réels mobiliers . 
+ 
+L’hypothèque est opposable aux tiers et les recours hypothécaires peuvent être exercés. Il y 
+aurait lieu de signifier  le préavis  à Guy  Dion  (le débiteur et constituant)  et Sports Rive -Sud ltée 
+(propriétaire contre qui l e droit hypothécaire est exercé) et de l ’inscrire (art.  2757 C.c.Q.). Il 
+faudrait attendre le délai imparti pour délaisser de 20  jours (art.  2749 et 2758, al.  2 C.c.Q.), 
+obtenir le délaissement volontaire ou forcé (art. 2763 et s. C.c.Q.) et exercer le rec ours 
+hypothécaire indiqué au préavis. La vente sous contrôle de justice ou la prise en paiement sont 
+les deux seules possibilités , car il ne s’agit pas de biens d’entreprise (art.  2773 et 2784 C.c.Q.).  
+La prise en paiement sur ces deux seuls biens n’est pe ut-être pas recommandée compte tenu 
+ CORRIGÉS  
+ 
+Recours hypothécaires  et publicité des droits  | Corrigés  9 que leur valeur semble inférieure à la dette et que la prise en paiement éteint l’obligation (at. 
+2782 C.c.Q.)  
+ 
+NOTA  : Guy Dion n’a pas respecté l’article 1723 , al. 2 C.c.Q. ce qui ouvrirait la possibilité 
+d’un recours d e Sports Rive -Sud ltée contre Guy Dion afin de lui réclamer la perte 
+qu’il subira par l’exercice des droits hypothécaires de Luc Poulin.  
+ 
+*  *  *  *  *  
+ 
+3. Dans l’hypothèse où une vente par huissier serait faite le 5  avril 0004 en exécution d’une 
+saisie mobilière pratiquée à la demande de votre client, indiquez comment serait distribué 
+le produit de la vente de l’automobile. Motivez votre réponse. Tenez pour acquis ce qui 
+suit : 
+ 
+- l’automobile serait vendue 7  000 $; 
+ 
+- tous les intéressés feraient dûment  valoir leurs droits;  
+ 
+- le coût total des frais de justice et des dépenses faites dans l’intérêt commun s’élèverait 
+à la somme de 1  000 $. 
+ 
+Le produit de la vente de 7  000 $ serait distribué comme suit  : 
+ 
+- frais de justice et dépenses faites dans l’intér êt commun (art. 2651, al.  1, par. 1 et 2657, 
+al. 1 C.c.Q.; art. 766, al.  2 (1) C.p.c.)  : 1 000 $; 
+ 
+- Luc Poulin, en vertu de sa priorité de vendeur (art. 2651, al.  1, par. 2 et 2657, al.  1 C.c.Q.; 
+art. 766, al.  2 (2) C.p.c.)  : 6 000 $. 
+ 
+NOTA  : bien que Luc  Poulin détienne une hypothèque mobilière sur l’auto mobile, il est 
+plus avantageux pour lui, puisque le bien est demeuré dans le patrimoine de 
+l’acheteur, d’invoquer sa priorité de vendeur, qui lui permet d’être colloqué 
+avant la priorité de l’État pour c réance fiscale (art. 2651, al.  1, par. 4 C.c.Q.).  
+ 
+*  *  *  *  *  
+ 
+ CORRIGÉS  
+ 
+Recours hypothécaires  et publicité des droits  | Corrigés  10 4. Banque Financière peut -elle s’opposer à cette saisie? Motivez votre réponse.  
+ 
+Non, un créancier du débiteur ne peut pas s’opposer à la saisie en vertu de l’article 735, al.  2 
+C.p.c.  
+ 
+*  *  *  *  *  
+ 
+5. a) Dans l’hypothèse où le terrain serait valablement vendu par l’huissier, le 7  octobre 
+0004, en exécution de la saisie immobilière pratiquée à la demande de Luc Poulin le 
+2 août 0004, la créance de Luc Poulin prendrait -elle rang, lors de la distribution du 
+produit de la vente, avant ou après celle de Banque Financière dont l’hypothèque a été 
+publiée le 4  mars 0004? Motivez votre réponse.  
+ 
+ Tenez pour acquis que tous les intéressés feraient dûment valoir leurs droits.  
+ 
+La créance de Luc Poulin  prendrait rang après la créance de Banque Financière parce que 
+celle -ci détient une hypothèque (art. 2660 C.c.Q.) sur cet immeuble alors que Luc Poulin 
+est un créancier chirographaire quant à l’immeuble (art. 766, al.  2 (3) et (4) C.p.c.).  
+ 
+La situation s erait inversée si Luc Poulin avait  inscrit un avis d’hypothèque légale pour une 
+créance qui résulte d’un jugement en vertu de l’article 2730 C.c.Q. dès le 18 février 0004 . 
+ 
+ b) Dans l’hypothèse où le terrain serait valablement vendu par l’huissier le 7 octobre 0004 
+en exécution de la saisie immobilière pratiquée à la demande de Luc Poulin le 2  août 
+0004, la créance de Luc Poulin prendrait -elle rang, lors de la distribution du produit de 
+la vente, avant ou après celle de l’État dont l’hypothèque légale a été publiée le 10  août 
+0004? Motivez votre réponse.  
+ 
+ Tenez pour acquis que tous les intéressés feraient dûment valoir leurs droits.  
+ 
+La créance de Luc Poulin prendrait le même rang que la créance du ministre du Revenu 
+qui a publié son hypothèque légale après l a saisie, ce qui la rend inoppo sable au créancier 
+saisissant en vertu de l’article 2958 C.c.Q. Le ministre du Revenu ne pourrait participer à 
+la collocation qu’à titre de créancier chirographaire (art. 766, al.  2 (4) C.p.c.)  tout comme 
+Luc Poulin . Selon l’article 2646, al.  2 C.c.Q., la distribution du prix se fait en proportion de 
+leur créance puisqu’ils sont tous deux créanciers chirographaires.  
+  
+ CORRIGÉS  
+ 
+Recours hypothécaires  et publicité des droits  | Corrigés  11 EXERCICE 3 
+ 
+DOSSIER BIJOUTERIE DE LUXE INC.  : CORRIGÉ  
+ 
+ 
+1. À qui Denise Dubois devra -t-elle payer les 2  800 $ qu’elle doit à Bijouterie De Luxe  inc., le 
+22 septembre 0004? Motivez votre réponse.  
+ 
+Denise Dubois devra payer les 2800  $ à la Caisse du peuple qui bénéficie d’une hypothèque 
+de premier rang sur les comptes à recevoir, car elle a publié son hy pothèque la première 
+(art.  2945 et 2950 C.c.Q.). De plus, elle a retiré son autorisation de percevoir et rendu son 
+hypothèque opposable à Denise avant que la dette de cette dernière ne soit payée (art. 1641, 
+1642, 2710, al.  2 et 2745 C.c.Q.).  
+ 
+*  *  *  *  * 
+ 
+2. Dans les circonstances, la Caisse du peuple devrait -elle exercer un droit hypothécaire de 
+prise en paiement ou de vente sous contrôle de justice des biens en stock de Bijouterie De 
+Luxe  inc.? Motivez votre réponse, en précisant quels sont les effets de l’exercice de chacun 
+de ces recours sur chacun des créanciers en présence.  
+ 
+La vente sous contrôle de justice aurait pour effet d’amener une collocation (art. 2793 C.c.Q.; 
+art. 742 et 766 C.p.c.).  
+ 
+La Caisse du peuple serait colloquée après les créanciers prioritaires selon les articles 2650 et 
+2657 C.c.Q., soit les frais de justice (art.  2651, par.  1 C.c.Q.) et la créance prioritaire de l’État 
+pour la dette fiscale de 10  000 $ (art. 2651, par.  4 C.c.Q.).  
+ 
+La Caisse du peuple serait colloquée ava nt la Banque du coin car elle a inscrit son hypothèque 
+la première (art. 2950 C.c.Q.).  
+ 
+Elle pourrait recevoir moins de 20  000 $ pour sa créance de 25  000 $. Elle devrait prendre 
+une action personnelle pour le solde ou utiliser son hypothèque sur l’univers alité des 
+comptes à recevoir.  
+ 
+La prise en paiement par la Caisse du peuple aurait pour effet d’éteindre sa créance (art. 2782 
+C.c.Q.). Elle ne pourrait plus percevoir les créances.  
+ 
+ CORRIGÉS  
+ 
+Recours hypothécaires  et publicité des droits  | Corrigés  12 Cependant, elle anéantirait la priorité de l’État, faute de droit de suit e (Québec (Sous -ministre 
+du Revenu) c.  Banque Nationale du Canada , [1999] R.J.Q. 950, C.A.) . En effet, dans un 
+contexte de prise en paiement, les créanciers prioritaires perdent leur priorité (sauf les 
+municipalités et les commissions scolaires pour taxes municipales et scolaires selon 
+l’article  2654.1 C.c.Q.) car ils n’ont pas de droit de suite et que la prise en paiement provoque 
+un transfert du bien en faveur du créancier, sans qu’il y ait vente formelle et paiement d’un 
+prix de vente.  
+ 
+Elle anéantirait également l’hypothèque de deuxième rang de la Banque du coin (art. 2783, 
+al. 1 C.c.Q.).  
+ 
+En conséquence, la Caisse du peuple prendrait des biens d’une valeur de 30  000 $ en 
+paiement d’une créance de 25  000 $. Elle conserverait la totalité de la somme qu’el le 
+obtiendrait à la suite de la vente des biens. Dans les circonstances, la prise en paiement 
+s’avère le meilleur recours.  
+ 
+En cette matière, les éléments suivants sont essentiels pour prendre la bonne décision  : 1) les 
+montants des créances; 2) la valeur des biens hypothéquées et leurs prix de vente anticipés 
+et 3) le rang de chaque créancier.  
+  
+ CORRIGÉS  
+ 
+Recours hypothécaires  et publicité des droits  | Corrigés  13 EXERCICE 4  
+ 
+DOSSIER BUREAU  : CORRIGÉ  
+ 
+ 
+Comment se fera la distribution du produit de la vente? Indiquez le rang de chacun des 
+créanciers et le montant qui sera attribué à chacun. Motivez votre réponse.  
+ 
+L’article  2793 C.c.Q. prévoit que la personne chargée de vendre le bien est tenue de suivre les 
+règles prescrites au Code de procédure civile. En vertu de l’article 766 C.p.c., elle doit dresser 
+l’état de collocation.  
+ 
+L’article  766, al.  2 (1) C.p.c. prévoit que les frais de justice doivent être colloqués d’abord  : ces 
+frais de même que les dépenses faites dans l’intérêt commun bénéficient d’une  priorité en vertu 
+de l’article  2651, par.  1 C.c.Q. Les créance s prioritaires prennent rang avant les créances 
+hypothécaires selon les articles 2650 et 2657 C.c.Q.  
+ 
+Selon l’article  766, al.  2 (2) et (3) C.p.c., les autres créanciers sont colloqués selon leur rang.  
+ 
+Les impôts fonciers dus à la ville et à la commission  scolaire constituent également des créances 
+priori taires en vertu de l’article  2651, par.  5 C.c.Q. Ces deux créanciers seront donc colloqués 
+immédiatement après les frais de justice.  
+ 
+Seront ensuite colloqués les créanciers hypothécaires suivant leur rang . L’hypothèque 
+conventionnelle de la caisse populaire prendra rang le 20 février 0003 , soit la date d’inscription 
+de l’acte de vente, selon la règle prévue à l’article 2948 C.c.Q.  
+ 
+L’hypothèque légale pour une créance résultant d’un jugement , inscrite en v ertu de l’article 2730 
+C.c.Q. ainsi que la créance de l’État pour les sommes dues en vertu des lois fiscales conformément 
+à l’article 2725 C.c.Q. prendront rang à la date de leur inscription en vertu de la règle générale de 
+l’article 2945 C.c.Q. En vertu d e l’article 2653 C.c.Q., la créance de l’État pour les sommes dues 
+en vertu des lois fiscales n’est pas prioritaire pour la distribution du produit de vente d’un 
+immeuble.  
+ 
+Quant à l’hypothèque légale en faveur de l’entrepreneur, elle existe sans qu’il soi t nécessaire de 
+la publier en vertu de l’article 2726 C.c.Q.  
+ 
+Selon l’article 2727, al.  1 et 2  C.c.Q. , elle doit être conservée par l’inscription d’un avis avant 
+l’expiration d’un délai de 30  jours qui suivent la fin des travaux. De plus, l’article 2727, a l. 3 C.c.Q. 
+prévoit une autre formalité de conservation, soit l’inscription d’un préavis ou la publication d’une 
+ CORRIGÉS  
+ 
+Recours hypothécaires  et publicité des droits  | Corrigés  14 action contre le propriétaire avant l’expiration d’un délai de six  mois à compter de la fin des 
+travaux.  
+ 
+Contrairement à l’abandon des travaux  (sans intention de les reprendre), l a suspension des 
+travaux n’amène pas automatiquement la fin des travaux et cette hypothèque légale est toujours 
+valable.  
+ 
+En vertu de l’article 2952 C.c.Q., l’hypothèque légale en faveur des personnes qui ont participé à 
+la construction ou à la rénovation d’un immeuble prend rang avant les autres hypothèques pour 
+la plus -value apportée à l’immeuble.  
+ 
+Il s’agit d’une exception à la règle générale de l’article 2945 C.c.Q.  
+ 
+Selon la jurisprudence et la doctrine, il n’y a qu’une seule plus -value résultant de l’ensemble des 
+travaux et on doit procéder à l’établissement de la plus -value relative en ventilant le prix de vente 
+lorsque le produit de la vente est insuffisant pour payer toutes les créances de l’ensemble des 
+créanc iers qui ont valablement fait leur réclamation. Cette ventilation se  fait tel que prévu à 
+l’article  768 C.p.c. Dans le présent cas, il faut procéder au calcul de la plus -value relative puisque 
+le prix de vente est de 315  000 $ et que le total des créances est de 367  500 $. 
+ 
+La plus -value relative se calcule suivant la formule donnée par Me Denise Pratte dans la Collection 
+de droit  : 
+ 
+(Prix de vente - Créances prioritaires) X Plus -value  = Plus -value relative  
+ (juste valeur marchande de l’immeuble)  
+ 
+(315  000 $ - 15 000 $) X 10  000 $ = 9 375 $ 
+ 320 000 $ 
+ 
+ CORRIGÉS  
+ 
+Recours hypothécaires  et publicité des droits  | Corrigés  15 L’ordre de collocation sera donc le suivant  : 
+ 
+- Frais de justice et autres dépenses  
+ faites dans l’intérêt commun  : 5 000 $ 
+ 
+- Ville de Longueuil pour les taxes foncières  : 8 000 $ 
+ 
+- Commission scolaire pour  les taxes scolaires  : 2 000 $ 
+ 
+- Construction A.C. inc.  : 9 375 $ 
+ 
+- Caisse populaire Laporte  : 258 000 $ 
+ 
+- Revenu Québec  : 32 625 $ 
+ 
+- Finance ABC inc.  :  0 $ 
+ _________  
+Total  : 315 000 $ 

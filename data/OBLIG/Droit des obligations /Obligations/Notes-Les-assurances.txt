@@ -1,0 +1,214 @@
+LES OBLIGATIONS – LES ASSURANCES
+Section 1 : Le contrat d’assurance
+Le C.c.Q. définit le contrat d’assurance à l’art. 2389 C.c.Q : « Le contrat d’assurance est celui par lequel l’assureur, moyennant une prime ou une cotisation, s’oblige à verser au preneur ou à un tiers une prestation dans le cas où un risque couvert par l’assurance se réalise ».
+Verser : sens large et non seulement une somme d’argent. À l’art. 2494 C.c.Q. par exemple il est question de réparer, reconstruire…, art. 2503 C.c.Q. oblige l’assureur à prendre la défense de l’assuré
+Le preneur : est la personne qui prend, qui contracte ou qui souscrit le contrat d’assurance
+Ou à un tiers : peut être un cessionnaire du contrat d’assurance comme le permet l’art. 2475 C.c.Q., aussi un bénéficiaire désigné dans le cas d’une assurance vie ou d’un adhérent en matière d’assurance collective
+Risque : futur et soudain. Si on veut se protéger contre la détérioration inévitable d’un bien, ce ne sera pas par un contrat d’assurance puisque le bien se détériore par sa nature même. Ce sera plutôt un contrat de garantie complémentaire
+Cet article ne le mentionne pas, mais il s’agit d’un contrat mutuel. Le preneur a aussi des obligations par exemple : (art. 2493 C.c.Q.) où le preneur doit suffisamment assuré le bien sinon la prestation de l’assureur sera réduite, (art. 2408 C.c.Q.) où le preneur a l’obligation de déclarer toutes les circonstances qui sont de nature à influencer l’assureur dans l’établissement du risque, dans la détermination de la prime et dans la décision d’émettre le contrat d’assurance
+Il y a une différence entre la définition civile et la notion administrative : par exemple, le cautionnement en droit civil n’est pas un contrat d’assurance. Toutefois, selon la loi sur les assurances, le cautionnement peut être associé à une catégorie d’assurance. 
+Termes propres au contrat d’assurance :
+Preneur : définit ci-haut
+L’assuré : aussi le preneur surtout en assurance de bien c’est lui qui a un intérêt assurable. 
+Exemple : propriétaire de ma résidence, j’ai un intérêt à l’assuré. Je serais donc simultanément l’assuré et le preneur. 
+**Cependant, en assurance de personne le preneur et l’assuré sont souvent des personnes différentes. Par exemple : je souscrit une assurance sur la vie de mon enfant, je serais le preneur et l’enfant l’assuré**
+Le cessionnaire :
+En matière d’assurance de dommages (art. 2475 C.c.Q.) : la cession du contrat d’assurance est prévue, donc le cessionnaire sera la personne à qui le preneur ou l’assuré transfert le contrat d’assurance. 
+Le titulaire subrogé
+Surtout en matière d’assurance vie individuelle. De la personne désignée par le preneur pour continuer le contrat d’assurance en cas de décès du preneur. 
+Ex : si P souscrit une assurance sur la vie de A et désigne O en tant que titulaire subrogé. Si P décède en premier, si un bénéficiaire a été nommé par P, O devra continué le contrat d’assurance. Si aucun bénéficiaire n’a été nommé, O touchera le capital prévue à ce contrat d’assurance. 
+Le titulaire du contrat
+En matière d’assurance de personnes, il s’agit du preneur, du cessionnaire ou du titulaire subrogé (art. 2445, al.1 et 2 C.c.Q.). 
+L’adhérent
+Principalement en assurance collective, donc la personne dont la vie ou la santé est assurée.
+Ex : si l’employeur souscrit à une assurance collective pour la santé de ses employés et de leur famille. L’adhérent sera donc l’employé, son conjoint ou ses enfants. 
+En cas de sinistre ira à l’adhérent en cas d’assurance portant sur la santé et celle portant sur la vie ira à la succession ou au bénéficiaire nommé.
+Bénéficiaire
+ C’est la personne spécifiquement nommée par le titulaire dans la police ou l’adhérent pour recevoir le capital en cas de décès de l’assuré.
+Ex : Pierre assure la vie d’Alice, au décès d’Alice, Pierre ou, s’il est prédécédé, sa succession, aura droit au versement du capital. Ni Pierre, ni sa succession n’est dans la position d’un bénéficiaire désigné. 
+Ex : Pierre assure sa vie (ou celle d’Alice) et désigne Bertrand qui doit recevoir le capital en cas de décès de la personne assurée (Pierre ou Alice, selon le cas). Bertrand est le bénéficiaire désigné. 
+Vrai/Faux
+Une personne qui est couverte par une assurance collective se désigne comme un adhérent et non comme un assuré.
+Vrai, l’adhérent est la personne qui devient membre d’un groupe qui bénéficie d’une couverture d’assurance collective. Le groupe est composé la plupart du temps d’employés d’un même employeur ou d’une même industrie. Les termes et conditions de la couverture d’assurance ont été préalablement négociés. 
+Le régime normatif du contrat d’assurance
+(Arts. 2389-2414C.c.Q.) : règles générales applicable à tous les contrat d’assurance
+(Arts. 2415-2462 C.c.Q.) : règles applicables exclusivement aux assurances de personnes
+(Arts. 2463-2504C.c.Q.): règles ne s’appliquant qu’aux assurances de dommages. Cette section en assurance de dommages se divise en 3 parties : (1) les dispositions générales en matière d’assurance de dommages aux arts. 2463-2479.1 C.c.Q. s’appliquant au bien et à la responsabilité, (2) l’assurance de bien aux arts. 2480-2497 C.c.Q. et (3) l’assurance en responsabilité aux arts. 2498-2504C.c.Q.
+De plus, la section sur les assurances de dommages couvrent notamment certains contrats d’assurance particulier qui ne sont pas ni de l’assurance de bien ou de responsabilité. L’assurance protection juridique couvert par les dispositions générales du contrat d’assurance et les dispositions sur l’assurance de dommages. 
+(Arts. 2505-2628 C.c.Q.) : assurance maritime 
+(Arts. 2389-2504 C.c.Q.) : assurance terrestre est couverte de plein droit sans qu’il soit nécessaire de le prévoir dans le contrat d’assurance. Par contre, certaines clauses doivent se trouver dans la police d’assurance pour avoir effet, notamment la clause d’exclusion du suicide pour une période de 2 ans (art. 2441,al.1 C.c.Q.). 
+(Art. 1377, al.1 C.c.Q.) : le contrat d’assurance est un contrat nommé alors, il est soumis aux règles générales des contrats. À défaut de réponse, on pourra consulter les arts. 1371-1707 C.c.Q. et particulièrement les règles d’interprétation des contrats aux arts. 1425-1432 C.c.Q.
+L’existence du contrat de réassurance lorsque le risque est trop important et souhaite le partagé avec un autre assureur. Il existe une controverse à savoir si le contrat de réassurance est un contrat couvert par les dispositions particulières du contrat d’assurance. 
+Le caractère particulier du contrat d’assurance
+Les arts. 2389-2504 C.c.Q. concernant l’assurance terrestre sont d’ordre public de protection (ou ordre public relatif = synonyme) selon l’art. 2414, al.1 C.c.Q.). La notion d’ordre public de protection vise des intérêts particuliers : le plus faible vs le plus fort. 
+L’art. 2414, al.2 C.c.Q. pour sa part établi que certaines notions sont d’ordre public de direction (protège d’avantage les intérêts généraux). Par exemple : d’intérêt d’assurance, protection de tiers lésés en matière d’assurance responsabilité. 
+Aux termes de l’art. 2473 C.c.Q., l’assureur de dommages doit payer l’indemnité dans les 60 jours suivant la réception de la déclaration de sinistre ou, s’il en a fait la demande, de la réception des renseignements pertinents et des pièces justificatives. 
+Ex : La clause de la police qui stipule un délai de 90 jours serait donc illégale. Mais serait valable la clause prévoyant que l’assureur devra payer dans un délais de 30 jours. 
+Contrairement à l’art. 2425 C.c.Q., qui prévoit que le contrat d’assurance-vie ne prend effet qu’au moment du paiement de la première prime, les contractants peuvent, par une stipulation non équivoque, écarter cette exigence, en tout ou en partie. 
+La formation du contrat d’assurance
+(art. 2398 C.c.Q.) : Le contrat d’assurance est formé dès que l’assureur accepte la proposition du preneur. 
+Le preneur n’a ainsi pas à recevoir un document attestant de cette acceptation et ce contrairement à la règle générale de l’art. 1387 C.c.Q. 
+Le contrat sera conclu en droit dès que l’assureur accepter la proposition du preneur. La proposition d’assurance est une offre de contractée au sens de l’art. 1388 C.c.Q. et constitue un acte juridique dont la preuve s’effectuera en respectant les règles générales de la preuve, soit les art. 2863 C.c.Q. prohibant la preuve testimoniale pour contredire les termes d’un écrit.
+La proposition d’assurance en ligne est valide et pourra donc donné naissance à un contrat d’assurance valide. Le traitement sera considéré comme une proposition écrite, ce qui fait en sorte que les règles générales du contrat d’assurance s’appliquent.
+C’est également un contrat consensuel en vertu de l’art. 1385, al.1 C.c.Q. tout comme les modifications conventionnelles pouvant être apportées par la suite tant qu’elles favorisent les droits du preneur de l’assurance. 
+La police d’assurance n’est pas le contrat, mais un document prouvant l’existence du contrat (art. 2399 C.c.Q.). L’assureur devra délivrer la police au preneur (art. 2400 C.c.Q.) et le preneur collectif dans le cas d’une assurance collective (art. 2401 C.c.Q.).
+La remise de la police d’assurance est opposable aux adhérents mêmes s’ils n’en ont pas connaissance. Si l’assureur ne remet pas la police au preneur en cas de litige alors, le juge pourra déclarer non-opposable au preneur les clauses qui ne sont pas obligatoires par la loi telles que les clauses d’exclusion de garantie et les clauses d’engagement pris par le preneur.
+La question des divergences 
+(art. 2398 C.c.Q.) : le contenu du contrat d’assurance est établi par la proposition d’assurance
+Que se passe-t-il lorsque la police n’est pas conforme à la proposition ?
+= C’est la proposition qui l’emporte sauf si l’assureur (art. 2400, al.2 C.c.Q.) : En cas de divergence entre la police et la proposition, cette dernière fait foi du contrat, à moins que l’assureur n’ait, dans un document séparé, indiqué par écrit au preneur les éléments sur lesquels il y a divergence. 
+Déterminer ce que constitue une divergence, car toute différence ne constitue pas nécessairement une divergence
+Exemples de divergences : une modification formelle, une contradiction dans les termes de la police et de la proposition (ex : utilisation valeur à neuf par opposition avec méthode de remplacement avec des prestations), le proposant a une idée précise de la couverture désirée par rapport au rétrécissement de la portée de l’assurance de sorte que de façon non-équivoque il y a une divergence sur la couverture, le critère le plus déterminant est celui du caractère surprenant ou non par rapport à la police à la proposition (exigence pour la qualification pour le pilotage d’un avion = pas une divergence).
+La prise d’effet du contrat d’assurance 
+Le contrat d’assurance général 
+Il prend effet au moment de sa formation ou à la date que les parties conviennent en autant que le risque est débuté. La date de prise d’effet vaut pour tous et pour le début de la prise de paiement de la police. Il serait cependant permis de convenir du report de la prise d’effet jusqu’au paiement de la prime.
+L’art. 2414 C.c.Q. par contre empêche de restreindre les droits alors, il ne serait pas possible par exemple d’ajouter des conditions telle que par exemple, le contrat prendra effet à la réception de la police. 
+Le contrat d’assurance de personnes – Sur la vie
+L’art. 2425 C.c.Q. précise les exigences cumulatives doivant être rencontrées :
+La proposition du preneur est acceptée par l’assureur sans modification
+La première prime est versée
+Il n’y a pas eu de changement dans le caractère assurable du risque
+Le contrat d’assurance de personnes - Maladie ou accident 
+Il prend effet au moment de la délivrance de la police au preneur, même si cette délivrance n’est pas le fait d’un représentant de l’assureur (art. 2426, al.1 C.c.Q.). L’alinéa 2 présume la délivrance de la police si elle est valablement délivrée conformément à la proposition et remise par un représentant au preneur
+En raison de l’art. 2427 C.c.Q., le non-paiement de la prime ne retarde pas la prise d’effet du contrat d’assurance.
+Vrai/Faux
+Pour qu’une assurance vie prenne effet, il faut qu’au moins une de ces conditions soit satisfaite, à savoir, que la proposition ait été acceptée sans modification, que la première prime ait été versée ou qu’aucun changement ne soit survenu dans le caractère assurable du risque depuis la signature de la proposition.
+Faux, dans l’arrêt Trust Général du Canada c. Artisans Coopvie, Société Coopérative d’assurance-vie, [1996] 1 R.C.S. 1, la Cour suprême a décidé que les trois conditions énoncées à l’art. 2425 C.c.Q. doivent être remplies en même temps.
+L’interprétation du contrat d’assurance
+Règles générales : (arts. 1425-1432 C.c.Q.)
+On y joint le critère de l’attente raisonnable et vraisemblable du preneur ordinaire. Ce dernier critère ne s’applique qu’en cas d’ambiguïté la CSC en 2016. 
+Pour appliquer les principes d’interprétation, on doit se trouver dans un véritable cas d’ambiguïté. Si les principes ne suffisent pas on appliquera l’art. 1432 C.c.Q. S’il s’agit d’un contrat d’adhésion, on interprétera le contrat en faveur du preneur. Par contre, si le contrat n’est pas qualifié de contrat d’adhésion, le contrat est interprété contre le créancier alors, cela peut bien être le preneur.
+La clause d’ambiguïté doit être lu de son contexte littéral et en tenant compte des circonstance. 
+Ex : une clause d’exclusion ne peut pas être interprété de manière plus large que son libellé. 
+Ex : la clause de soin et de contrôle du bien = interprété à l’effet que l’assuré a un pouvoir de préservation, de conservation, de protection, de protection ou de domination sur le bien. 
+Section 2 : L’intérêt d’assurance (arts. 2481-2484 C.c.Q.) 
+Le concept de l’intérêt d’assurance fait partie des aspects précontractuels du contrat d’assurance en ce sens qu’il est nécessaire à l’existence même du contrat. Sans intérêt d’assurance, la police ne peut tout simplement pas exister.
+*Condition de validité du contrat d’assurance*
+L’intérêt doit être présent tout au long du contrat (arts. 2481-2484 C.c.Q.).
+En assurance de biens
+(art. 2481, al.1 C.c.Q.) : Une personne a un intérêt d’assurance dans un bien lorsque la perte de celui-ci peut lui causer un préjudice direct et immédiat. 
+La CSC a indiqué qu’un intérêt d’assurance existe même en l’absence d’un droit réel, mais à condition que l’assuré possède un lien étroit avec la chose. 
+Elle a aussi développé la théorie de l’attente factuelle. Par exemple : un actionnaire unique d’une société subit un préjudice évident suite à la perte du bien appartenant à la société. Un locataire commercial a intérêt d’assurance sur le bien loué s’il doit rendre compte au bailleur des détérioration de ce bien. Locataire qui s’engage envers son bailleur à assurer le bien loué, à la location d’un véhicule à long terme. Aussi, le cas de l’achat à tempérament qui sans avoir de droit réel a un intérêt à l’assuré dès la signature du contrat. 
+La Cour a aussi décidé que des personnes mariés en situation de séparation de biens, soit un mari avait un intérêt a assuré l’immeuble de son épouse. En matière de séparation de corps, le conjoint toujours débiteur du prêt hypothèque dispose d’un intérêt même s’il n’habite plus l’immeuble en question. La personne cependant agissant à titre de prête-nom n’a pas l’intérêt requis. 
+En assurance de personnes (arts. 2418 et 2419 C.c.Q.) 
+L’intérêt se mesure lors de la souscription du contrat, il n’a pas besoin de se poursuivre au sinistre, soit au décès ou à un accident. C’Est la différence fondamentale avec l’assurance de bien. 
+L’art. 2419 C.c.Q. établie une présomption d’assurance pour certaines personnes : dans sa propre vie et sa propre santé, ainsi que dans la vie et la santé de son conjoint (art. 61.1 loi d’interprétation : personnes mariées, les personnes unies civilement et même des conjoints de faits) de ses descendants et des descendants de son conjoint ou des personnes qui contribuent à son soutien ou à son éducation (al.1 ). Elle a aussi un intérêt dans la vie et la santé de ses préposés et de son personnel, ou des personnes dont la vie et la santé présentent pour elle un intérêt moral ou pécuniaire (al.2). 
+Si nous ne sommes pas dans un cas de l’ art. 2419 C.c.Q., le contrat sera nul à moins que l’assuré avait consenti par écrit à cette assurance. 
+En cas de cession, le cessionnaire doit avoir l’intérêt d’assurance requis (art. 2418, al.2 C.c.Q.) 
+ Art. 2418 C.c.Q.: 
+Le contrat d’assurance individuelle est nul si, au moment où il est conclu, le preneur n’a pas un intérêt susceptible d’assurance dans la vie ou la santé de l’assuré, à moins que ce dernier n’y consente par écrit.
+Sous cette même réserve, la cession d’un tel contrat est aussi nulle lorsque, au moment où elle est consentie, le cessionnaire n’a pas l’intérêt requis.
+Art. 2419 C.c.Q. :
+ Une personne a un intérêt susceptible d’assurance dans sa propre vie et sa propre santé, ainsi que dans la vie et la santé de son conjoint, de ses descendants et des descendants de son conjoint ou des personnes qui contribuent à son soutien ou à son éducation.
+Elle a aussi un intérêt dans la vie et la santé de ses préposés et de son personnel, ou des personnes dont la vie et la santé présentent pour elle un intérêt moral ou pécuniaire.
+Vrai/Faux
+La police d’assurance individuelle contractée sur la vie d’une personne sur laquelle nous n’avons aucun intérêt d’assurance est nulle.
+Faux, l’art. 2418 C.c.Q. prévoit une exception à l’intérêt d’assurance. En effet, si l’assuré pour lequel nous avons souscrit un contrat d’assurance-vie individuel a consenti par écrit à la souscription du contrat, il est alors permis au preneur d’obtenir une telle police sur la vie d’un individu à l’égard duquel il n’aurait aucun intérêt d’assurance.
+Section 3 : Le risque
+Le risque est l’élément fondamental qui caractérise l’assurance (art. 2389 C.c.Q.). Sans risque, il n’y a pas d’assurance !
+C’est un événement :
+Futur
+Incertain : caractère aléatoire
+Je peux assurer ma vie même s’il est certain que je vais mourir un jour. Cependant, je ne peux pas assurer l’immeuble s’il est certain qu’il va passer au feu.
+L’usure ou la détérioration par l’effet du temps n’est pas assurable
+Pour que la perte soit couverte, la perte doit être physique
+Indépendant de la volonté de l’assuré ou de l’assureur
+En l’absence d’un événement (sinon appelé sinistre), il n’y aura pas de couverture d’assurance.
+La faute intentionnelle
+L’événement doit être survenu indépendamment de la volonté de l’assuré ou de l’assureur. Il s’agit d’un acte désiré tant au niveau de son accomplissement, que de son effet ou des dommages pouvant être entrainer.
+L’art. 2464, al.1 C.c.Q.: L’assureur n’est toutefois jamais tenu de réparer le préjudice qui résulte de la faute intentionnelle de l’assuré. 
+Toutefois, L’assureur est tenu de réparer le préjudice causé par une force majeure ou par la faute de l’assuré, à moins qu’une exclusion ne soit expressément et limitativement stipulée dans le contrat (art. 2464, al.1 C.c.Q.). La négligence grossière est donc incluse sauf exclusion dans la police. 
+Si l’assuré est une société, l’assureur devra prouver que l’acte a été causé par l’âme dirigeante de cette société. L’assuré doit avoir été dans un état lui permettant de mesurer l’intention et les conséquences de son acte. Par contre, si cet état a été causé volontairement par l’accusé (drogue ou alcool), l’exclusion de l’acte continue de s’appliquer.
+En cas de pluralité d’assurés, l’obligation de garantie demeure à l’égard des assurés qui n’ont pas commis de faute intentionnelle (art. 2464, al.1 in fine C.c.Q.).
+Dans le cas d’un coassuré n’ayant pas commis d’acte intentionnel, il continu d’être couvert par l’assurance. 
+La preuve de cet acte intentionnel, il revient à l’assureur de le prouver selon la règle de la prépondérance de preuve même si l’acte est un acte criminel. Cette preuve peut se faire au moyen de présomption telle que l’art. 2849 C.c.Q. tant que ces présomptions sont graves, précises et concordantes. Cette exclusion de faute intentionnelle couverte toutes les types de contrats d’assurance même en l’absence de disposition le précisant dans le C.c.Q.
+L’acte criminel 
+Il peut être exclu contractuellement :
+Soit par un clause expresse à cet égard dans le contrat d’assurance (art. 2402, al.2 C.c.Q.)
+L’assureur devra prouver un lien de causalité entre la survenance de l’acte criminel et la participation de l’assuré au danger
+Exemple pour la clause expresse à cet égard dans le contrat d’assurance : Une victime conduisant une moto et décédant puisqu’elle coupe un autre usager de la route n’est pas l’unique personne à créer le danger. 
+Soit par une exclusion générale de violation de la loi (art. 2402 C.c.Q.) : l’assuré devra avoir participé à l’acte criminel pour que l’assureur puisse invoquer l’exclusion 
+L’assureur devra prouver qu’il s’agit d’un acte criminel poursuivi par voie de mise en accusation. 
+Le suicide
+Pour être une cause d’exclusion, il doit avoir une clause claire à cet effet. L’art. 2441 C.c.Q. précise que cette exclusion ne sera plus valable après deux ans d’existence ininterrompue. 
+Suicide : acte commis intentionnellement par un personne saine d’esprit.
+S’il est prouvé qu’il n’était pas sain d’esprit et qu’il ne pouvait pas avoir l’intention de se suicider, il ne sera pas considéré dans l’exclusion et l’assureur devra payer le montant prévu au contrat d’assurance. 
+La déclaration initiale de risque
+Art. 2408 C.c.Q.:
+Le preneur, de même que l’assuré si l’assureur le demande, est tenu de déclarer toutes les circonstances connues de lui qui sont de nature à influencer de façon importante un assureur dans l’établissement de la prime, l’appréciation du risque ou la décision de l’accepter, mais il n’est pas tenu de déclarer les circonstances que l’assureur connaît ou est présumé connaître en raison de leur notoriété, sauf en réponse aux questions posées. 
+L’assuré est tenu à la plus haute bonne foi (art. 1375 C.c.Q.) et s’il transgresse ses obligations, il s’expose à ce que le contrat soit annulé (art. 2410 C.c.Q.) sous réserve des arts. 2411 C.c.Q. et en matière d’assurance de personnes l’art. 2424 C.c.Q.
+Que doit déclarer le preneur :
+Les faits qu’il connait 
+Les faits doivent être pertinents selon une analyse objective et subjective : doit déclarer si un assureur a refusé de l’assuré en raison d’un risque, mais non si le refus est inhérent à l’assureur
+Les formulaires des assureurs que les assurés doivent remplir ne limite pas l’obligation de l’assuré à ses simples questions, mais si les questions laissent supposer qu’un fait n’est pas important, le preneur pourrait avoir gain de cause (art. 2409 C.c.Q.)
+ (art. 2408 in fine C.c.Q.) pas tenu de déclarer les circonstances que l’assureur connaît ou est présumé connaître en raison de leur notoriété, sauf en réponse aux questions posées :
+L’existence de rapport de recherche de la santé
+L’existence de catastrophe naturelle connue par tous
+Vrai/Faux
+L’assuré est tenu de dénoncer à l’assureur tous risques, autant à l’égard de sa personne que du bien à assurer, même en l’absence de question directe de l’assureur.
+Vrai, chaque fois qu’un individu sait qu’un aspect de sa vie ou du bien à assurer présente un risque accru par rapport à la moyenne, il doit le dénoncer, même en l’absence de questionnement direct de l’assureur. C’est à l’assuré que revient l’obligation première de déclarer l’étendue du risque puisque c’est lui seul qui connaît sa situation factuelle.
+Les conséquences du manquement à l’obligation de déclarer
+L’assureur devra objectivement démontrer que le comportement du preneur a joué un rôle important dans la décision de l’assureur (1) au niveau de l’appréciation du risque : si l’assureur avait su il aurait exigé un engagement. Également, (2) de la décision d’accepter le risque si l’assureur avait su il aurait refusé d’assurer le risque et (3) du montant de la prime, avoir su il aurait exigé une prime supérieure.
+Lorsque c’est trois éléments sont prouvés, une sanction peut être imposée.
+ Selon l’art. 2410 C.c.Q., la nullité pourra être prononcé à moins de dispositions spécifiques dans une loi particulière.
+Par exemple : l’art. 92 Loi sur l’assurance automobile prévoit que pour obtenir l’annulation, l’assureur doit démontrer qu’avoir su il n’aurait pas accepté le risque. 
+En assurance-dommage l’art. 2410 C.c.Q. doit FORTEMENT être tempéré par l’art. 2411 C.c.Q. prévoyant : à moins que la mauvaise foi du preneur ne soit établie ou qu’il ne soit démontré que le risque n’aurait pas été accepté par l’assureur s’il avait connu les circonstances en cause, ce dernier demeure tenu de l’indemnité envers l’assuré, dans le rapport de la prime perçue à celle qu’il aurait dû percevoir. 
+L’assureur ne peut prouver la mauvaise foi du preneur et s’il n’avait pas assuré le risque de manière subjective et objective, il devra verser l’indemnité proportionnelle selon la prime qu’il a réellement perçue. S’il l’avait assuré à un montant deux fois plus élevé, cela signifie que la prime sera deux fois moins élevée.
+La preuve requise de l’assureur est la vraisemblance du refus d’assurance, la pertinence du manquement et son importance aux yeux d’un assureur raisonnable. L’art. 2411 C.c.Q. doit se lire en conjonction avec l’art. 2408 C.c.Q.
+En assurance de personnes, que si le contrat est en vigueur de plus de deux sauf les cas de fraude lors de la souscription de l’assurance (art. 2424 C.c.Q.). Dans le cas d’une déclaration inexacte, elle n’entraine pas une présomption de faute, l’assureur devra prouver la faute. 
+L’art. 2409 C.c.Q. prévoit que l’obligation relative aux déclarations est réputée correctement exécutée lorsque les déclarations faites sont celles d’un assuré normalement prévoyant, qu’elles ont été faites sans qu’il y ait de réticence importante et que les circonstances en cause sont, en substance, conformes à la déclaration qui en est faite. 
+Si l’assureur passe le test de l’art. 2408 C.c.Q. quant à l’importance du manquement aux yeux de l’assureur raisonnable. 
+Un assuré n’est pas normalement prévoyant s’il joue sur les mots 
+Section 4 : Les assurance de dommages
+Il devient parfois important de se prémunir contre les pertes pouvant être causées par les dommages occasionnés à certains biens.
+L’avis de sinistre
+Une fois le risqué réalisé et met en jeu l’assurance, l’assuré à l’obligation de le dénoncé à l’assureur (art. 2470 C.c.Q.). 
+Art. 2470, al.1 C.c.Q.: L’assuré doit déclarer à l’assureur tout sinistre de nature à mettre en jeu la garantie, dès qu’il en a eu connaissance. Tout intéressé peut faire cette déclaration.
+Alors, l’assureur pourra prendre les mesures nécessaires pour que le préjudice ne se dégrade pas. L’art. 2470, al.2 C.c.Q. constitue la sanction lorsque l’assureur n’a pas été ainsi informé et qu’il en a subi un préjudice, il est admis à invoquer, contre l’assuré, toute clause de la police qui prévoit la déchéance du droit à l’indemnisation dans un tel cas. 
+La police devra prévoir ce droit à l’indemnisation. 
+L’assureur devra démontrer qu’il a subi un préjudice et tant qu’il n’en subi pas un préjudice, l’assuré aura toujours le temps de dénoncé le sinistre.
+Si l’assuré est empêché de faire une dénonciation pour des motifs raisonnables, il ne perdra pas son droit à l’indemnisation (art. 2471, al.2 C.c.Q.) .
+La preuve de perte
+(art. 2472, al.1 C.c.Q.) : Toute déclaration mensongère entraîne pour son auteur la déchéance de son droit à l’indemnisation à l’égard du risque auquel se rattache ladite déclaration.
+Pour qu’elle soit mensongère, elle doit être fait avec l’intention de frauder : prendre la forme de l’exagération d’une perte réelle ou l’invention d’une perte
+2 types = (1) Distingue la déclaration mensongère accidentelle ou de bonne foi (2) de la déclaration mensongère faite avec l’intention de frauder. 
+Déclaration mensongère relative à un vol ne permet pas l’octroi d’une indemnisation, mais celle relative à un sinistre causé par un incendie oui (In fine « à l’égard du risque auquel se rattache ladite déclaration)
+(art. 2472, al.2 C.c.Q.)Toutefois, si la réalisation du risque a entraîné la perte à la fois de biens mobiliers et immobiliers, ou à la fois de biens à usage professionnel et à usage personnel, la déchéance ne vaut qu’à l’égard de la catégorie de biens à laquelle se rattache la déclaration mensongère. 
+Tous les biens sont perdus et il ment concernant le bien à usage professionnel. Alors, l’indemnisation sera perdue quant à ce bien uniquement. 
+(art. 2473 C.c.Q.) : L’assureur est tenu de payer l’indemnité dans les 60 jours suivant la réception de la déclaration de sinistre ou, s’il en a fait la demande, des renseignements pertinents et des pièces justificatives. 
+À compter de l’expiration de ce délai, il sera en demeure de plein droit et les intérêt comme à courir sur l’indemnité 
+Le retard d’un assuré à fournir : les circonstances entourant le sinistre, y compris sa cause probable, la nature et l’étendue des dommages, l’emplacement du bien, les droits des tiers et les assurances concurrentes (art. 2471, al.1 C.c.Q.) = n’entraine pas en principe la déchéance de l’indemnisation du contrat d’assurance. 
+Les créanciers prioritaires et hypothécaires
+Leurs statuts sont protégés en vertu de l’art. 2797 C.c.Q. : L’hypothèque s’éteint par l’extinction de l’obligation dont elle garantit l’exécution. Cependant, dans le cas d’une ouverture de crédit et dans tout autre cas où le débiteur s’oblige à nouveau en vertu d’une stipulation dans l’acte constitutif d’hypothèque, celle-ci subsiste malgré l’extinction de l’obligation, à moins qu’elle n’ait été radiée.
+L’art. 2797 C.c.Q. doit se lire en conjonction avec l’art. 2494 C.c.Q. : Sous réserve des droits des créanciers prioritaires et hypothécaires, l’assureur peut se réserver la faculté de réparer, de reconstruire ou de remplacer le bien assuré à la place de l’indemnisation. Il bénéficie alors du droit au sauvetage et peut récupérer le bien. 
+Dans ces cas (2797), l’assureur paiera le fournisseur qui répare ou reconstruit ou remplace le bien. Par contre, si le bien ne peut pas faire l’objet de l’une de ces réparations, il devra indemniser les créanciers hypothécaires prioritaires qui seront mentionnés à la police d’assurance ou qui auront transmis leur déclarations (art. 2497 C.c.Q.). Ils vont recevoir l’indemnité en priorité à l’assuré jusqu’à concurrence de la somme qu’ils leur sont dû (art. 2650 C.c.Q.) et s’il existe un solde il sera remis à l’assureur. 
+Cela est vrai en autant que l’assureur a payé l’indemnité, le contrat pourrait être annulé pour diverses raisons : faute intentionnelle de la part de l’assuré ou une fausse déclaration. Si l’assureur ne doit pas payer, les créanciers ne seront pas payés également, mais à cela deux exceptions :
+ La clause hypothécaire en matière immobilière : oblige l’assureur à payer les sommes dues au créancier hypothécaire même si l’assuré a commis une faute de sorte que quant à lui le contrat d’assurance serait censé être dans les faits annulés
+ Bail mobilier, le bailleur oblige le locataire à prendre une assurance au nom du bailleur
+Le créancier hypothécaire bénéficiant de cette protection doit avertir l’assureur de toute aggravation du risque dont il pourrait avoir connaissance. 
+La subrogation
+Elle s’effectue lorsque l’assureur paie une indemnité (art. 2474 C.c.Q.) : 
+Art. 2474 C.c.Q. :
+L’assureur est subrogé dans les droits de l’assuré contre l’auteur du préjudice, jusqu’à concurrence des indemnités qu’il a payées. Quand, du fait de l’assuré, il ne peut être ainsi subrogé, il peut être libéré, en tout ou en partie, de son obligation envers l’assuré.
+L’assureur ne peut jamais être subrogé contre les personnes qui font partie de la maison de l’assuré.
+Même si cette subrogation légale s’effectue une fois que l’indemnité est payée la Cour a validé que c’était possible lorsque l’assureur a un doute sur l’auteur du sinistre.
+Al.2 : Les proches assurés de cette personne sont aussi protégés contre un recours subrogatoire de l’assureur. Les personnes faisant partie de la maison exclu ceux effectuant des travaux pendant un certain temps, il doit avoir un lien avec l’assuré
+Si l’assuré empêche la subrogation il risque de perdre le droit à l’indemnisation.
+Dès qu’un contrat d’assurance existe (art. 2389 C.c.Q.), l’assureur a le droit à la subrogation même s’il n’est pas un assureur au sens stricte de la loi sur l’assurance. L’assureur peut y renonce, mais l’assuré ne peut pas empêcher celui-ci d’avoir recours à ce droit qu’il possède en vertu de ce contrat.
+Vrai/Faux
+Afin d’être subrogé dans les droits de son assuré à la suite du paiement d’une indemnité, l’assureur doit obtenir l’autorisation écrite de ce dernier, soit par avis de subrogation ou à même une clause à la police d’assurance.
+Faux, l’art. 2474 C.c.Q. prévoit que lorsqu’un assureur paie une indemnité à un assuré, il est subrogé dans les droits de celui-ci contre l’auteur du préjudice. Cette subrogation est automatique et s’opère de plein droit sans nécessité pour l’assuré de signer un document quelconque.
+Section 5 : L’assurance de responsabilité (arts. 2498-2504 C.c.Q.)
+L’assurance de responsabilité civile peut être (1) générale, mais elle peut aussi être (2) professionnelle pour le préjudice causé à un client.
+Exemple générale : assuré en responsabilité civile pour les dommages dans le cas qu’une personne glisserait sur une plaque glacée de mon entré et qui se blesserait à la jambe. 
+Exemple professionnelle : avocat j’ai l’obligation d’avoir une assurance indemnité professionnelle dans le cas ou ma faute soit liée à mon métier d’avocat
+Les recours du tiers lésé
+L’art. 2500 C.c.Q. et contrairement à l’assurance de bien, elle n’est pas destinée à l’assuré, mais exclusivement pour les tiers lésés par la faute de l’assuré. 
+Elle pourra réclamer l’indemnité à l’assureur et/ou à l’assuré (art. 2501 C.c.Q.). L’assureur ne pourra invoquer que les moyens de défenses à sa disposition avant le sinistre (art. 2502 C.c.Q.) : la faute intentionnelle de l’assuré ou la faute lourde ou la négligence grossière, mais dans ces deux derniers cas, ils devront être prévus au contrat d’assurance. L’assureur ne pourra pas imposé le non-respect de l’avis de sinistre ou de la preuve de perte (art. 2470 et 2471 C.c.Q.). 
+L’art. 2502 C.c.Q. ne s’applique donc pas en cas de recours direct du tiers lésé contre l’assureur. Le tiers lésé poursuit l’assuré, obtient un jugement et saisi l’assureur par la suite. 
+L’obligation de défendre
+Dans le cadre de l’assurance responsabilité, l’assureur à l’obligation de défendre l’assuré, de prendre son fait et cause (art. 2503C.c.Q.). Toutefois, si le tiers lésé invoque la faute intentionnelle de l’assuré, (art. 2464 C.c.Q.), l’obligation de l’assureur disparaitra. 
+Cette obligation est très large puisque les frais de la défense devront être assumés par l’assureur (art. 2503, al.2 C.c.Q.) : frais professionnels des avis, de justice, d’expert et les intérêts sur le montant de l’assurance. 
+Advenant que le tiers lésé ait gain de cause, l’assureur devra payer le montant d’indemnisation dans les limites de ce qui est prévu au contrat. 
+Les allégués de la demande introductive d’instance permettront de savoir si l’art. 2502 C.c.Q. est respecté. C’est-à-dire si les faits allégués permettent à l’assureur de soulever ou non l’existence de fait antérieur au sinistre. Les juges ne sont pas prisonniers de ce qui est écrit dans les procédures et peuvent tenir compte de toutes les circonstances. Si les faits permettent de soulever la possibilité d’une faute intentionnelle, l’obligation de défendre pourrait ne pas exister, mais encore cette faute devra être prouvée. 
+Devant le défaut de l’assureur de respecter l’art. 2503C.c.Q., soit l’obligation de défendre, l’assuré pourra intenter un recours en garantie contre l’assureur ou invoquer l’art. 1601C.c.Q., soit une requête en exécution en nature.

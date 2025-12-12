@@ -1,0 +1,1236 @@
+QUESTION 1
+
+Corrigé - K
+
+POUR CONSULTATION PAR LES ÉTUDIANTS
+
+ÉVALUATION FINALE RÉGULIÈRE — JOUR 1 —K
+25 ET 26 MAI 2021
+EXPLICATION DES RÉPONSES
+
+En tenant pour acquis que Maxime Laprade paiera les frais de scolarité directement au
+
+Collège Brébeuf, calculez la pension alimentaire annuelle qu’il devra payer pour les enfants Sarah
+
+Laprade et Léonie Laprade dans l’éventualité où une ordonnance parentale serait rendue
+
+attribuant l’exercice du temps parental à Cindy Martial pendant les jours de la semaine et à Maxime
+
+Laprade, toutes les fins de semaine du vendredi 18 h au dimanche 18 h. Noïircissez LA CASE qui
+
+correspond à la bonne réponse sur votre feuillet de réponses.
+
+a)  16134,99$
+b) 13169,53$
+c)  12572,63$
+d)  11504,81$
+e) 10674,99$
+f) _9607,17$
+
+Réponse : f).
+Explications de la bonne réponse :
+
+300 Revenus des 2 parents :
+
+301 Moins déduction de base :
+
+303 Moins déduction cotisation professionnelle :
+305 Revenus disponibles pour chaque parent :
+306 Revenus disponibles des 2 parents
+
+307 Pourcentage pour chaque parent :
+
+400 Nombre d'enfants :
+
+401 Contribution alimentaire de base :
+
+402 Contribution de base selon % :
+
+406 Total des frais aux enfants :
+
+407 Contribution aux frais selon % :
+
+Maxime
+130 000,00 $
+11 965,00 $
+945,00 $
+117 090,00 $
+
+65,2446 %
+
+12 572,63 $
+
+3 562,365
+
+514 Contribution alimentaire annuelle des 2 parents :
+
+515 Pourcentage du temps de garde (104 jours) :
+516 Compensation pour droit de visite :
+517 Contribution annuelle ajustée :
+
+= 8,4932%
+
+518 Pension alimentaire à payer par le parent gardien :
+
+518.1 ajustement
+(moins 5 460,00 $)
+Réponses erronées :
+
+179 463,00 $
+
+Z
+19 270,00 $
+
+5 460,00 $
+
+24 730,00 $
+28,4932 %
+1636,64$
+23 093,36 $
+15067,17$
+
+9607,17$
+
+Cindy
+74 800,00 $ |
+11 965,00 $
+
+462,00 $
+
+62 373,00 $
+
+34,7554 %
+
+6697,37$
+
+1 897,645
+
+a) IUn’y a pas d’ajustement pour les 104 jours de temps parental au père et il n’y a pas d’ajustement
+pour les frais particuliers payés par le père.
+PÈRE MÈRE
+Ligne 511 24 730,00 $
+Ligne 512 16 134,99$S
+b) L’ajustement de la pension alimentaire est erroné, car au lieu de déduire Le montant total des frais
+particuliers de 5 460 $, il y a déduction de la portion de La mère de 1 897,64 $.
+PÈRE MÈRE
+Ligne 518 15 067,17 $
+Ligne 518.1 ajustement
+(moins 1 897,64 S) 13 169,53 $
+c) IUn’y a pas d'ajustement pour les 104 jours de temps parental au père et il n’y a pas les frais
+
+https://ecolebarreau.sviesolutions.com/Web/Workspaces/DocumentDisplay?id=OTyAuf5x9D%2fSmOPSrHrmGw%3d%3d&&bID=1cxhKcu4kohfauayT…
+
+particuliers. | |
+PÈRE MÈRE
+
+Ligne 511 19 270,00 $
+
+Ligne 512 12 572,63$
+
+1/1
+
+6/16/2021
+
+https://ecolebarreau.sviesolutions.com/Web/Workspaces/DocumentDisplay?id=OTyAuf5x9D%2fSmOPSrHrmGw%3d%3d&&bID=1cxhKcu4kohfauayT…
+
+Corrigé - K
+
+d) L’ajustement de la pension alimentaire est erroné car au lieu de déduire le montant total des frais
+particuliers de 5 460 $, il y a déduction de la portion du père de 3 562,36 $.
+
+PÈRE MÈRE
+Ligne 518 15 067,17 $
+Ligne 518.1 ajustement
+(moins 3 562,36 $) 11 504,81 $
+
+e) IUn’y a pas d’ajustement pour Les 104 jours de temps parental au père et l'ajustement pour les frais
+particuliers payés par Le père est correctement traité.
+
+PÈRE MÈRE
+Ligne 511 24 730,00 $
+Ligne 512 16 134,99 $
+Ligne 512.1 10 674,99 $
+
+QUESTION 2
+
+Dans l’éventualité où Billy Laprade entreprendrait des procédures contre ses parents pour
+demander une pension alimentaire, parmi les affirmations suivantes, indiquez laquelle est FAUSSE.
+Noircissez LA CASE qui correspond à la bonne réponse sur votre feuillet de réponses.
+
+a) Billy Laprade devra produire un état des revenus et dépenses et bilan.
+b) Billy Laprade devra produire une déclaration conformément à l’article 444 C.p.c.
+
+c) La pension alimentaire pour Billy Laprade sera fixée conformément au Règlement sur la
+fixation des pensions alimentaires pour enfants.
+
+d) La demande de pension alimentaire de Billy Laprade sera jugée d’urgence.
+
+e) À la suite d’un jugement, la pension alimentaire payable à Billy Laprade sera perçue par le
+ministère du Revenu suivant la Loi facilitant le paiement des pensions alimentaires.
+
+Réponse : c).
+
+Explications de la bonne réponse :
+
+c) Cette affirmation est fausse: la pension alimentaire sera fixée en fonction des revenus des parents et
+des besoins de Billy.
+
+Réponses erronées :
+
+Les affirmations suivantes sont vraies
+
+a) Article 413, al. 2 C.p.c. pour l’état des revenus et dépenses et bilan.
+
+b) Article 444 C.p.c. pour la déclaration des parties.
+
+d) Articles 411 C.p.c. et 82 C.p.c. : il s’agit d’une demande qui sera traitée d’urgence.
+
+e) Article 1 de la Loi facilitant le paiement des pensions alimentaires, soit pour tout jugement
+exécutoire au Québec. La pension sera fixée en fonction des revenus des parents et des besoins de
+l'enfant.
+
+1/1
+
+6/16/2021
+
+Corrigé - K
+
+QUESTION 3
+Dans le cadre du partage du patrimoine familial, quelle est la créance de Cindy Martial en rapport
+avec la résidence familiale? Noircissez LA CASE qui correspond à la bonne réponse sur votre feuillet
+de réponses.
+
+a)  149152,18$
+b) 157517,86$
+c) 187 391,30 $
+d) 298 304,35 $
+e) 307 892,86 $
+f) _315035,72$
+g) 596 608,70 $
+
+Réponse : f).
+
+Explications de la bonne réponse :
+
+valeur marchande : 862 000,00 $
+
+Dette : 78 000,00 $
+
+Valeur nette : 784 000,00 $
+
+Déduction de Maxime : 153 928,57 $
+
+Valeur partageable : 630 071,43 $
+
+Part de Cindy : 315 035,72 $ soit le montant de sa créance.
+
+Détail du calcul de déduction :
+
+Art. 418, al. 1: montant de l’héritage investi : 80 000,00 $
+
+Art. 418, al. 2: + value
+862 000 S - 448 000 $ (soit 368 000 $ + 80 000 S)
+414000$ X 80000 $
+
+448 000 $ = 73 928,57 $
+Total déduction : 153 928,57 $
+
+Réponses erronées :
+
+a) Représente la moitié de la créance de 298 304,35 $ avec erreur dans le calcul de déduction, c’est-à-
+dire sans ajouter les 80 000 $ à La valeur de l’immeuble avant les améliorations, tant dans le calcul
+de la + value que dans celui de la proportion.
+
+Détail du calcul de déduction :
+
+Art. 418, al. 1: montant de l’héritage investi : 80 000,00 $
+
+Art. 418, al. 2: + value
+
+862 000 $ - 368 000 $ (soit sans ajout des 80 000 $) = 494 000 $
+
+494000 $ X 80000
+
+368 000 $ = 107 391,30 $
+Total déduction dans la résidence : 187 391,30 $
+Valeur marchande : 862 000,00 $
+Dette : 78 000,00 $
+Valeur nette : 784 000,00 $
+Déduction de Maxime : 187 391,30$
+Valeur partageable : 596 608,70 $
+Part de Cindy : 298 304,35$ +2=149152,18S
+
+b) Représente la moitié de la créance de La bonne réponse, soit 315 035,72 $ + 2= 157 517,86$.
+
+c) Représente le montant de la déduction et non de la créance, avec erreur dans le calcul, c’est-à-dire
+sans ajouter les 80 000 $ à La valeur de l’immeuble avant Les améliorations, tant dans La + value que
+dans la proportion, c’est-à-dire :
+
+Détail du calcul de déduction :
+
+Art. 418, al. 1: montant de l’héritage investi : 80 000,00 $
+
+Art. 418, al. 2: + value
+
+862 000 $ - 368 000 $ (soit sans ajout des 80 000 S)
+
+494000 $ X  80000$
+
+368 000 $ = 107 391,30 $
+Total déduction dans la résidence : 187 391,30 $
+
+d) Représente le montant que serait la créance avec l’erreur dans le calcul de déduction, soit sans
+ajouter les 80 000 $ tant dans la + value que dans la proportion. Voir Le calcul de la déduction à la
+
+réponse c).
+valeur marchande : 862 000,00 $
+Dette : 78 000,00 S
+Valeur nette : 784 000,00 $
+Déduction de Maxime : 187 391,30 S
+Valeur partageable : 596 608,70 $
+Part de Cindy (2) 298 304,35 $ soit le montant de sa créance.
+
+https://ecolebarreau.sviesolutions.com/Web/Workspaces/DocumentDisplay?id=OTyAuf5x9D%2fSmOPSrHrmGw%3d%3d&&blD=1cxhKcu4kohfau4JT... 1/1
+
+6/16/2021
+
+https://ecolebarreau.sviesolutions.com/Web/Workspaces/DocumentDisplay?id=OTyAuf5x9D%2fSmOPSrHrmGw%3d%3d&&bID=1cxhKcu4kohfauayT…
+
+Corrigé - K
+
+€) Représente le montant que serait la créance avec l'erreur dans Le calcul de déduction, c’est-à-dire
+sans ajouter Les 80 000 $ dans Le calcul de La + value, mais en l’ajoutant pour établir la proportion.
+Valeur marchande : 862 000,00 $
+
+Dette : 78 000,00 S
+
+Valeur nette : 784 000,00 $
+
+Déduction de Maxime : 168 214,29 S
+
+Valeur partageable : 615 785,71 $
+
+Part de Cindy : 307 892,86 $ soit le montant de sa créance.
+
+Détail du calcul de déduction :
+
+Art. 418, al. 1: montant de l’héritage investi : 80 000,00 $
+
+Art. 418, al. 2: + value
+862 000 $ - 368 000 $ (sans l’ajout des 80 000 $)
+494000 $ X 80000
+448 000 $ = 88 214,29S
+Total déduction : 168 214,29 $
+
+g) Représente le montant de la valeur partageable, et non de la créance avec calcul de déduction erroné,
+soit sans l'ajout des 80 000 $ tant dans la + value que dans le calcul de la proportion. Voir détail du
+calcul à la réponse d).
+
+QUESTION 4
+
+Cindy Martial peut-elle donner à sa sœur Liliane Martial le chalet de Saint-Michel-des-Saints reçu
+en héritage de son père, et ce, à l’insu de Maxime Laprade? Noircissez LA CASE qui correspond à
+la bonne réponse sur votre feuillet de réponses.
+
+a) Le chalet est un propre de Cindy Martial et elle peut le donner à sa sœur Liliane Martial à
+l’insu de Maxime Laprade.
+
+b) Le chalet est un propre de Cindy Martial, mais elle ne peut pas le donner à sa sœur
+Liliane Martial à l’insu de Maxime Laprade.
+
+c) Le chalet est un acquêt de Cindy Martial et elle peut le donner à sa sœur Liliane Martial à
+l’insu de Maxime Laprade.
+
+d) Le chalet est un acquêt de Cindy Martial, mais elle ne peut pas le donner à sa sœur
+Liliane Martial à l’insu de Maxime Laprade.
+
+e) Cindy Martial est seule propriétaire du chalet de Saint-Michel-des-Saints et, à ce titre, elle
+peut donner le chalet à sa sœur Liliane Martial à l’insu de Maxime Laprade.
+
+Réponse : d).
+
+Explications de la bonne réponse :
+
+Le chalet est un acquêt de Cindy Martial, mais elle ne peut pas Le donner à sa sœur Liliane Martial à l’insu
+de Maxime Laprade.
+
+Le chalet était un propre suivant l’article 450 (1) C.c.Q. car elle en avait La propriété au début du mariage.
+Le montant de 25 000 $ investi lors de l’agrandissement est acquêt puisqu'il s’agit d'économies accumulées
+durant le mariage suivant l’article 449 (2) C.c.Q.
+
+Ainsi, selon l’article 455, al. 2 C.c.Q., lors de l’agrandissement, le bien est devenu un acquêt, car la valeur
+des acquêts utilisés est égale ou supérieure à celle du bien propre.
+
+Les 25 000 $ d’acquêts utilisés pour agrandir sont = aux 25 000 $ de la valeur du bien propre, donc le bien
+devient acquêt.
+
+Suivant l’article 462 C.c.Q., un époux ne peut sans Le consentement de son conjoint disposer de ses acquêts
+entre vifs à titre gratuit et donc, Cindy a besoin du consentement de Maxime pour donner le chalet à sa
+sœur Liliane, car il ne s’agit pas d’un bien de peu de valeur ou d’un cadeau d’usage.
+
+Réponses erronées :
+
+a) Le chalet n’est pas un propre, il est un acquêt de Cindy.
+
+b) Le chalet n’est pas un propre, il est un acquêt de Cindy.
+
+c) Cindy ne peut donner un acquêt entre vifs à titre gratuit sans le consentement de Maxime.
+Art. 462, al. 1 C.c.Q.
+
+e) Même si Cindy est propriétaire, elle ne peut donner un acquêt entre vifs à titre gratuit sans le
+consentement de Maxime. Art. 462, al. 1 C.c.Q.
+
+1/1
+
+6/16/2021
+
+Corrigé - K
+
+QUESTION 5
+
+Parmi les biens ci-dessous mentionnés dont Maxime Laprade était propriétaire, indiquez les biens
+
+de catégorie 2 partageables en vertu des règles du patrimoine familial. Noircissez TOUTES LES
+
+CASES qui correspondent à la bonne réponse sur votre feuillet de réponses.
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+8)
+
+h)
+
+Un compte d’épargne libre d’impôt (CELI) d’une valeur de 34 000 $, accumulé depuis le
+
+mariage et détenu à la Banque du Vallon.
+
+Un régime enregistré d’épargne retraite (REER) d’une valeur de 5 000 $ lors du mariage,
+
+accumulé avant le mariage et détenu à la Banque du Vallon.
+
+Des intérêts de 12 000 $ accumulés durant le mariage sur ce régime enregistré d'épargne
+
+retraite détenu à la Banque du Vallon.
+
+Un régime enregistré d'épargne retraite d’une valeur de 83 000 $ sans les intérêts, souscrit
+
+durant le mariage à la Banque des Champs.
+
+Des intérêts de 13 000 $ accumulés durant le mariage sur ce régime enregistré d'épargne
+retraite détenu à la Banque des Champs.
+
+Des obligations d'épargne du Canada d’une valeur de 7 000 $, achetées durant le mariage.
+
+Des droits accumulés avant le mariage dans le Régime de retraite des employés de
+
+Les professionnels CPA, d’une valeur de 58 000 $.
+
+Des droits accumulés durant le mariage dans le Régime de retraite des employés de
+Les professionnels CPA, d’une valeur de 194 000 $.
+
+Réponse : d) et e).
+
+Explications de la bonne réponse :
+
+Sont des biens de catégorie 2 qui font partie du patrimoine familial et qui sont partageables, et ce, malgré
+le décès.
+
+Réponses erronées :
+
+https://ecolebarreau.sviesolutions.com/Web/Workspaces/DocumentDisplay?id=OTyAuf5x9D%2fSmOPSrHrmGw%3d%3d&&bID=1cxhKcu4kohfauayT…
+
+Non, le CELI n’est pas un bien qui fait partie du patrimoine familial.
+
+Non, le REER d’avant mariage ne fait pas partie du patrimoine familial.
+
+Non, les intérêts sur un REER d’avant mariage ne font pas partie du patrimoine familial.
+
+Non, Les obligations d'épargne ne sont pas un bien qui fait partie du patrimoine familial.
+
+Non, Les droits accumulés avant Le mariage dans Le régime de retraite ne font pas partie du patrimoine
+familial. Art. 415, al. 1 C.c.Q.
+
+Non, ces droits accumulés durant le mariage dans le régime de retraite sont exclus du patrimoine
+familial, puisque Cindy aura droit à des prestations de décès. Art. 415, al. 3 C.c.Q.
+
+1/1
+
+6/16/2021
+
+https://ecolebarreau.sviesolutions.com/Web/Workspaces/DocumentDisplay?id=OTyAuf5x9D%2fSmOPSrHrmGw%3d%3d&&bID=1cxhKcu4kohfauayT…
+
+Corrigé - K
+
+QUESTION 6
+
+Dans le cadre du partage de la société d’acquêts, quelle est la qualification de la partie indivise de
+l’immeuble à revenus de la rue Payette à Montréal dont feu Maxime Laprade était propriétaire? Y
+a-t-il lieu à récompense? Si oui, pour quel montant et en faveur de quelle masse? Noircissez LA
+CASE qui correspond à la bonne réponse sur votre feuillet de réponse.
+
+a) Ce bien est propre et il y a lieu à une récompense de 51 162,79 $ en faveur de la masse des
+acquêts.
+
+b) Ce bien est acquêt et il y a lieu à une récompense de 51 162,79 $ en faveur de la masse des
+
+propres.
+
+c) Ce bien est propre et il y a lieu à une récompense de 102 325,58 $ en faveur de la masse des
+acquêts.
+
+d) Ce bien est acquêt et il y a lieu à une récompense de 102 325,58 $ en faveur de la masse
+des propres.
+
+e) Ce bien est propre et il y a lieu à une récompense de 165 000 $ en faveur de la masse des
+
+acquêts.
+
+f) Ce bien est acquêt et il y a lieu à une récompense de 165 000 $ en faveur de la masse des
+
+propres.
+
+g) Ce bien est propre et il y a lieu à une récompense de 168 837,21 $ en faveur de la masse des
+acquêts.
+
+h) Ce bien est acquêt et il y a lieu à une récompense de 168 837,21 $ en faveur de la masse
+des propres.
+
+Réponse : g).
+
+Explications de la bonne réponse :
+
+La part indivise de Maxime est un propre, car il la possède au moment du mariage selon
+l’article 450 (1) C.c.Q.
+
+Lors de l’acquisition de la part de son frère Georges, suivant l’article 452, al. 2 C.c.Q., le bien demeure un
+propre car :
+
+la part de chacun = à 215 000 $ (1/4 de 860 000 $) que Maxime paie avec 50 000 $ de l'héritage reçu de son
+père, ce qui est un propre, art. 450 (2) C.c.Q. et 165 000 $ d’hypothèque, ce qui est un acquêt, art. 449 et
+459 C.c.Q.
+
+Ainsi, suivant l’article 452, al. 2 C.c.Q., la valeur des acquêts utilisés est moindre que la moitié de la valeur
+du bien dont Maxime est devenu propriétaire. Soit :
+
+165 000 $ n’est pas égal ou supérieur à 215 000 $ (/2 de La valeur du bien dont Maxime devient propriétaire
+soit > de 430 000 $) donc le bien reste propre mais à charge de récompense.
+
+La récompense est de :
+
+165000 $ X 440000$ (2/4 de 880 000 $)
+
+430 000 $ = 168837,21$
+
+Réponses erronées :
+
+a) Erreur dans le calcul de la récompense fait avec les 50 000 $ d’héritage :
+50 000 $
+430 000$ X 440 000 $ = 51 162,79 $
+
+b) Le bien n’est pas acquêt, voir explications à la réponse g) et il y a erreur dans le calcul de la
+récompense. Voir Le calcul à la réponse a).
+
+c) Erreur dans le calcul de La récompense fait avec Les 50 000 $ d’héritage et sans ajout du montant de
+la part acquise pour obtenir la véritable proportion :
+50 000 $
+215 000$ X 440000$ = 102 325,58 $
+
+d) Le bien n’est pas acquêt, voir explications à la réponse g) et il y a erreur dans Le calcul de récompense.
+Voir Le calcul à La réponse c).
+
+e) Erreur dans le calcul de La récompense fait sans proportionnalité, que Les 165 000 $.
+
+f) Le bien n’est pas acquêt, voir explications à la réponse g) et il y a erreur dans le calcul de récompense.
+Voir explications à la réponse e).
+
+h) Le bien n’est pas acquêt, mais il y a un bon calcul de la récompense.
+
+1/1
+
+6/16/2021
+
+https://ecolebarreau.sviesolutions.com/Web/Workspaces/DocumentDisplay?id=OTyAuf5x9D%2fSmOPSrHrmGw%3d%3d&&bID=1cxhKcu4kohfauayT…
+
+Corrigé - K
+
+QUESTION 7
+Karine Dubreuil et Bilal Lamari pourront-ils valablement se marier au Québec le 12 juin 2021?
+Noircissez LA CASE qui correspond à la bonne réponse sur votre feuillet de réponses.
+
+a) Oui, pour autant que Bilal Lamari produise un certificat de non-appel du jugement de divorce
+du 28 avril 2020.
+
+b) Oui, car le jugement de divorce du 28 avril 2020 prononcé au Maroc est automatiquement
+valable et reconnu au Québec.
+
+c) Oui, à la condition que le jugement de divorce du 28 avril 2020 soit enregistré à Alger, en
+Algérie, pour être reconnu au Québec.
+
+d) Non, car le jugement de divorce du 28 avril 2020 prononcé au Maroc est nul au Québec.
+
+e) Non, car le jugement de divorce du 28 avril 2020 prononcé au Maroc doit être enregistré au
+Québec pour être reconnu.
+
+Réponse : d).
+
+Explications de la bonne réponse :
+
+d) L'article 22 (1) de la Loi sur Le divorce prévoit La reconnaissance des divorces étrangers à la condition
+que l’un des ex-époux ait résidé habituellement dans ce pays étranger (Maroc) pendant au moins
+l’année précédant l’introduction de l’instance.
+
+Par ailleurs, suivant l’article 3 de la Loi sur le divorce, la Cour supérieure du Québec n’aura pas
+compétence pour instruire une demande de divorce, car Bilal n’a pas résidé à Montréal, au Québec
+pendant un an avant l'introduction d’une instance.
+
+QUESTION 8
+
+Quelle sera l’étape suivante du processus d’accréditation? Noircissez LA CASE qui correspond à la
+bonne réponse sur votre feuillet de réponses.
+
+a) L’agent de relations du travail accréditera la Centrale des travailleuses et travailleurs.
+
+b)  L’agent de relations du travail accréditera le Syndicat des techniciennes et techniciens de
+surface.
+
+c) Les membres des deux associations seront invités à voter sur la description de l’unité à
+privilégier.
+
+d) Le Tribunal administratif du travail ordonnera le vote au scrutin secret des salariés sur leur
+adhésion syndicale.
+
+e) L’agent de relations du travail fera rapport au Tribunal administratif du travail.
+
+f) Le Syndicat des techniciennes et techniciens de surface fera parvenir un avis de négociation
+à l'employeur.
+
+Réponse : e).
+
+Explications de la bonne réponse :
+
+IL y a plus d’une association requérante, chacune des deux associations représente entre 35 et 50 % des
+salariés de l’unité proposée ET il y a entente sur les personnes. IL y a toutefois désaccord sur l’unité de
+négociation. C’est donc l’article 28 e) C.t. qui s’applique.
+
+Par ailleurs, l'employeur a fait connaître son opposition aux unités proposées dans Le délai de 15 jours de
+la réception de la copie des requêtes en accréditation, art. 28 c) C.t. Elle est donc recevable.
+
+L'ART ne peut donc pas accréditer l’une ou l’autre des associations ni procéder au scrutin secret : il doit
+faire rapport au TAT qui lui déterminera d’abord l’unité de négociation appropriée suivant l’audience des
+parties (2 associations et l’employeur) et les critères établis par La jurisprudence.
+
+L'avis de négociation ne pourra être transmis à l'employeur qu’après que l’une ou l’autre des associations
+sera accréditée par Le TAT, art. 52 C.t.
+
+Réponses erronées :
+
+a)etb) Ces réponses sont erronées puisqu'il y a désaccord sur l’unité de négociation et que l'opposition
+de l’employeur a été déposée au TAT dans les délais et est donc recevable. L'ART ne pourra donc
+pas procéder au vote ni accréditer l’une ou l’autre des associations requérantes, art. 28 a) et
+b) C.t.
+
+c) Cette réponse est erronée puisque les membres ne sont pas autorisés à se prononcer sur l’unité
+appropriée, art. 32 C.t. Seuls Les associations requérantes et l’employeur pourront faire des
+représentations auprès du TAT.
+
+d) Cette réponse n’est pas valable puisque le TAT doit d’abord déterminer l’unité de négociation
+appropriée, art. 32 C.t., et ensuite seulement il ordonnera le vote au scrutin secret, art. 37 C.t.
+f) Cette réponse est erronée puisque même si La STTS présente un pourcentage plus élevé
+
+d’adhésions, elle n’a pas la majorité absolue. De plus le TAT doit d’abord trancher la question de
+l'unité de négociation valable puis ordonner la tenue d’un vote au scrutin secret.
+
+1/1
+
+6/16/2021
+
+https://ecolebarreau.sviesolutions.com/Web/Workspaces/DocumentDisplay?id=OTyAuf5x9D%2fSmOPSrHrmGw%3d%3d&&bID=1cxhKcu4kohfauayT…
+
+Corrigé - K
+
+QUESTION 9
+
+Qui pourra travailler pendant le lock-out? Noircissez LA CASE qui correspond à la bonne réponse
+sur votre feuillet de réponses.
+
+a) Christian Jones, Gaëlle Monfils, Réjean Dulude, Julianne Favron et GratteCiel inc.
+
+b)  Philémon Faille, Christian Jones, Julianne Favron et GratteCiel inc.
+
+c) Gaëlle Monfils, Réjean Dulude et GratteCiel inc.
+
+d) Christian Jones, Gaëlle Monfils et GratteCiel inc.
+
+e) Aucune de ces réponses : le lock-out est illégal.
+
+Réponse : d).
+
+Explications de la bonne réponse :
+
+Ces trois situations font référence aux articles 109.1 et 109.3 C.t.
+
+Christian Jones peut légalement travailler pendant Le lock-out parce qu’il est un cadre, embauché avant le
+début des négociations et qui travaille à l’établissement en lock-out, art. 109.1 a) C.t.
+
+Gaëlle Monfils peut légalement continuer à travailler puisqu'elle est cadre, travaille dans l’établissement
+en lock-out et embauchée avant Le début des négociations.
+
+Boyer et fils pourra donner ces contrats en sous-traitance à GratteCiel inc. qui les exécutera à l'extérieur
+de l'établissement en lock-out avec son personnel et sa machinerie/outils, art. 109.1 b) C.t.
+
+Réponses erronées :
+
+Les réponses suivantes illustrent des situations illégales au sens du Code du travail :
+
+a)etb) Ce choix est erroné parce que Julianne est une employée cadre qui travaille dans le même
+établissement que les employés en lock-out mais qui a été embauchée après le début des
+négociations (3 décembre 2018), art. 109.1 a) C.t.
+
+a)etc) Ce choix est erroné parce que Réjean est un salarié de l’unité en lock-out, art. 109.1 c) C.t.
+
+b) Ce choix est erroné parce que Philémon est un salarié qui travaille dans l’établissement en Lock-
+out pour remplir les fonctions d’un salarié faisant partie de l’unité de négociation en lock-out,
+art. 109.1 g) C.t.
+
+e) Cette réponse est erronée puisque Le lock-out est légal. L'avis de négociation a été transmis Le
+3 décembre 2018 pour une rencontre le 13 décembre 2018, art. 52.1 C.t. Lorsque le lock-out est
+décrété le 15 mai 2019, il respecte Le délai de 90 jours de l’article 58 C.t. Enfin, Le ministre en est
+avisé, art. 58.1 C.t.
+
+QUESTION 10
+
+Dans l’éventualité où aucun avis de négociation n’est transmis, aucune nouvelle convention
+
+collective n’est conclue et aucun différend n’est soumis à l’arbitrage, à compter de quelle date
+
+une autre association pourrait-elle valablement déposer une requête en accréditation auprès du
+
+Tribunal administratif du travail? Noircissez LA CASE qui correspond à la bonne réponse sur votre
+
+feuillet de réponses.
+
+a) 20 avril 2021.
+
+b) 21 mai 2021.
+
+c) 21 janvier 2022.
+
+d) 14 décembre 2023.
+
+e) 13 avril 2024,
+
+f) Aucune de ces réponses : cette vente n’entraînera pas le transfert de la convention
+collective auprès de 1234-3456 Québec inc.
+
+Réponse : c).
+
+Explications de la bonne réponse :
+
+Le 20 avril 2021, il y a concession partielle de l’entreprise au sens de l’article 45 (1) et (2) C.t.
+
+La convention collective est donc réputée expirer au moment de la concession partielle,
+art. 45.2, par. 1 C.t., et l’avis de négociation peut être transmis dans les 30 jours de la concession partielle,
+ant 222200
+
+Dans ce contexte, une demande d’accréditation pourra être déposée par un autre syndicat/association après
+neuf mois de la date d’expiration (ou de l’expiration présumée, soit Le 20 avril 2021) de la convention
+collective, article 22 c) C.t.
+
+Réponses erronées :
+
+a) Bien que la convention soit expirée à partir de cette date, on doit quand même prévoir Le délai prévu
+à l’article 22 c) C.t.
+
+b) Cette période est erronée puisqu'elle renvoie notamment à l’avis de négociation de
+L'article 52, al. 4 C.t. pour La transmission de l’avis de négociation, ce qui n’est pas Le cas en l'espèce.
+
+d) Cette date est erronée puisqu’elle renvoie à La période de maraudage d’une convention collective de
+plus de trois ans, mais ne s’applique pas en raison de la concession partielle de l’entreprise.
+
+e) Cette date est erronée puisqu'elle renvoie à la période de maraudage d’une convention collective
+trois ans ou moins.
+
+f) L'ensemble des conditions pour une concession partielle sont satisfaites et Les articles 45(1) et (2) C.t.
+s'appliquent. IL y à notamment transfert des employés et des moyens de production. La convention
+collective qui couvre les conditions de travail des employés de cette section sera donc transférée
+chez 1234-3456 Québec inc.
+
+1/1
+
+6/16/2021
+
+https://ecolebarreau.sviesolutions.com/Web/Workspaces/DocumentDisplay?id=OTyAuf5x9D%2fSmOPSrHrmGw%3d%3d&&bID=1cxhKcu4kohfauayT…
+
+Corrigé - K
+
+QUESTION 11
+Le 22 mai 2021, Pierre Drolet vous demande s’il a un recours dans les circonstances. Noircissez
+LA CASE qui correspond à la bonne réponse sur votre feuillet de réponses.
+
+a) Pierre Drolet n’a aucun recours.
+
+b) Pierre Drolet peut déposer une plainte auprès de la Commission des normes, de l’équité, de
+la santé et de la sécurité du travail, s’il démontre qu’il n’a pas déposé de grief, et le Tribunal
+administratif du travail entendra sa plainte.
+
+c) Pierre Drolet peut déposer un recours auprès de la Cour supérieure.
+
+d) Pierre Drolet aurait pu déposer une plainte auprès de la Commission des normes, de l’équité,
+de la santé et de la sécurité du travail, mais son recours est prescrit.
+
+e) Pierre Drolet peut déposer une plainte auprès de la Commission des normes, de l’équité, de
+la santé et de la sécurité du travail et la plainte sera soumise soit à la Cour du Québec, soit
+à la Cour supérieure, selon le montant de la réclamation.
+
+Réponse : b).
+
+Explications de la bonne réponse :
+
+IUs’agit d’une situation de disparité de traitement liée aux avantages sociaux : art. 87.1 et 121.1 L.n.t.
+
+Malgré Le fait que Pierre soit un employé syndiqué, il peut à son choix déposer un grief avec son syndicat
+
+OÙ une plainte à la CNESST qui Le représentera, art. 121.1 L.n.t., et 93 L.n.t. qui prévoit que Les normes de
+la L.n.t. sont d'ordre public.
+
+Réponses erronées :
+
+a) Cette réponse est erronée puisque Pierre a des recours possibles, soit auprès de son syndicat ou de la
+CNESST, art. 100 C.t., art. 87.1 et 121.1 L.n.t.
+
+c) Cette réponse n’est pas valable parce que Pierre doit déposer une plainte auprès de son syndicat ou
+auprès de La CNESST, art. 100 C.t., art. 87.1 et 121.1 L.n.t.
+
+d) Cette réponse est erronée parce que Le délai de prescription est de 12 mois de La connaissance de la
+distinction par Le salarié, art. 121.1 L.n.t.
+
+e) Cette réponse est erronée parce que si la plainte est déposée par Pierre auprès de La CNESST, Le litige
+sera soumis au TAT et non à un tribunal de droit commun, art. 121.1 L.n.t.
+
+QUESTION 12
+Parmi les énoncés suivants, indiquez lequel est VRAI. Noircissez LA CASE qui correspond à la bonne
+réponse sur votre feuillet de réponses.
+
+a) Pierre Drolet peut déposer un grief auprès du Tribunal administratif du travail qui désignera
+un arbitre de grief.
+
+b) Pierre Drolet peut déposer une plainte pour harcèlement psychologique auprès de la
+Commission des normes, de l’équité, de la santé et de la sécurité du travail et sa plainte sera
+entendue par un juge du Tribunal administratif du travail.
+
+c) Pierre Drolet peut déposer une plainte auprès du Tribunal administratif du travail pour
+contester le refus du syndicat de le défendre et demander que sa plainte soit déférée à un
+arbitre de grief.
+
+d) Pierre Drolet n’a aucun recours parce que la convention collective ne prévoit rien à ce sujet.
+
+e) Pierre Drolet peut déposer une plainte auprès du ministre du Travail, de l’Emploi et de la
+Solidarité sociale qui désignera un arbitre de grief.
+
+Réponse : c).
+
+Explications de la bonne réponse :
+
+L'article 81.20 L.n.t. prévoit que les dispositions de La L.n.t. liées au harcèlement psychologique sont
+réputées faire partie intégrante de toute convention collective et qu’un salarié syndiqué doit exercer Les
+recours qui y sont prévus, en l’occurrence par Le dépôt d’un grief.
+
+L'article 93 L.n.t. s’applique également, soit que La L.n.t. est d’ordre public.
+
+De plus, le syndicat ne peut refuser, sans raison valable, de soumettre un grief d’un salarié à l’arbitrage,
+art. 47.3 C.t. Le salarié peut donc porter plainte au TAT et demander que sa réclamation soit déférée à
+l'arbitrage. Le TAT pourra décider d’entendre le dossier mais Le plus souvent, il désignera un arbitre de grief.
+
+Réponses erronées :
+
+a) Cette réponse n’est pas valable puisqu’un grief ne peut être déposé que par Le syndicat. Lorsque ce
+dernier refuse d’agir sans raison valable, Le salarié doit d’abord contester cette décision par une
+requête en vertu de l’article 47.2 C.t. S'il s’agit d’une situation de harcèlement psychologique comme
+en l’espèce, il pourra demander que le TAT ordonne que sa réclamation soit déferrée à l'arbitrage,
+art. 47.3 C.t.
+
+b) Cette réponse n’est pas valide parce que Pierre est syndiqué et que La convention collective est en
+vigueur. IL doit donc respecter l’article 81.20 L.n.t. et déposer un grief auprès de son syndicat ou
+contester le refus du syndicat par l’article 47.2 C.t.
+
+d) Cette réponse est erronée parce que même si La convention collective est muette à l’égard d’une
+situation de harcèlement psychologique et aux recours qui en découlent, la L.n.t. prévoit que Les
+dispositions de la L.n.t. sont réputées faire partie de toute convention collective, art. 81.20 et
+93/ Ent.
+
+e) Cette réponse est erronée parce que Le ministre du Travail, de l'Emploi et de la Solidarité sociale n’a
+pas compétence dans une telle situation pour désigner un arbitre de grief, art. 74 et s. C.t.
+
+1/1
+
+6/16/2021
+
+Corrigé - K
+
+QUESTION 13
+
+Si l’année de référence de l’employeur est du 1 janvier au 31 décembre, quelle somme la
+Commission des normes, de l’équité, de la santé et de la sécurité du travail sera-t-elle en droit de
+réclamer au bénéfice de Marlène Garnier à titre d’indemnité de congé annuel? Noircissez LA CASE
+
+qui correspond à la bonne réponse sur votre feuillet de réponses.
+
+a)  129%5$
+b) 19445
+c)  2881,73$
+d) 3271,15$
+
+e)  3660,58$
+f) 4 050 $
+Réponse : c).
+
+Explications de la bonne réponse :
+
+Calcul des vacances selon Le 2° paragraphe de l’article 74 L.n.t.
+
+En date du 4 janvier 2021, Marlène est à l’emploi depuis plus de trois ans (12 décembre 2017 au 4 janvier
+2021).
+
+Pendant la période de référence, Marlène a travaillé 24 semaines, elle à été en absence pour maladie
+10 semaines, en congé sans solde 10 semaines et en congé parental 5 semaines.
+
+Les semaines en congé sans solde ou en congé parental ne peuvent être considérées pour le calcul des
+vacances.
+
+Salaire moyen gagné pendant la période travaillée :
+
+Salaire total/nombre de semaines effectivement travaillées = 32 400 $/24 semaines = 1 350 $ par semaine.
+Si elle avait travaillé toute l’année de référence 2020, elle aurait eu droit à 3 semaines de vacances :
+article 69 L.n.t. Aussi, l’indemnité de vacances ne pourra être supérieure à 3 X 1 350 $ = 4 050$.
+
+Le calcul de l’indemnité doit se faire de La façon suivante :
+
+4 050 $ x 37 semaines (24 travaillées et 13 en maladie) divisé par 52 semaines pour l’année = 2 881,73 $
+
+Réponses erronées :
+
+a) 1 296$ : représente 4 % de 24 semaines de travail (32 400 $).
+
+b) 1 944 $ : représente 6 % de 24 semaines de travail (32 400 $).
+
+d) 3 271,15 $ : ce calcul inclut Les 5 semaines de congé parental.
+e) 3 660,58 $ : ce calcul inclut Les 10 semaines de congé sans solde.
+f) 4 050 $ : représente 3 semaines de vacances à 1 350 $ chacune.
+
+QUESTION 14
+
+Parmi les accusations suivantes, laquelle est NON FONDÉE? Noircissez LA CASE qui correspond à la
+
+bonne réponse sur votre feuillet de réponses.
+
+a) Agression sexuelle.
+
+b) Contacts sexuels.
+
+c) Agression sexuelle armée.
+
+d) incitation à des contacts sexuels.
+
+e) Intimidation.
+
+Réponse : d).
+Explications de la bonne réponse :
+d) Non fondée, car l’enfant n’a pas été invité ou engagé au sens de l’article 152 C.cr.
+
+Réponses erronées :
+a)etb) Les infractions des articles 271 et 151 C.cr. sont clairement établies par les faits en cause.
+
+c) L’infraction prévue à l’article 272 (1) C.cr. est clairement établie par l’utilisation de l’imitation
+d'arme.
+e) L’intimidation dont Lucas a été l’objet correspond à l'infraction de l’article 423 (1) b) C.cr.
+10
+
+https://ecolebarreau.sviesolutions.com/Web/Workspaces/DocumentDisplay?id=OTyAuf5x9D%2fSmOPSrHrmGw%3d%3d&&blD=1cxhKcu4kohfau4JT... 1/1
+
+6/16/2021
+
+https://ecolebarreau.sviesolutions.com/Web/Workspaces/DocumentDisplay?id=OTyAuf5x9D%2fSmOPSrHrmGw%3d%3d&&bID=1cxhKcu4kohfauayT…
+
+Corrigé - K
+
+QUESTION 15
+
+Quel est le moyen légal dont dispose le sergent Louis Dugré pour la saisie de l’arme jouet?
+Noircissez LA CASE qui correspond à la bonne réponse sur votre feuillet de réponses.
+
+a) Obtenir un mandat de perquisition pour saisir l’arme jouet.
+b) Obtenir un mandat d’entrée afin de pénétrer dans la résidence de Charles Frigon, la fouiller
+et y saisir l’arme jouet de façon accessoire à l’arrestation de Charles Frigon.
+
+c)  Pénétrer en urgence dans le lieu et y saisir l’arme jouet, sans mandat.
+
+d) Obtenir un mandat de perquisition avec une autorisation d’entrée puisque la fouille est
+effectuée dans une résidence privée.
+
+e) Saisir l’arme jouet sans mandat au sens de l’article 117.02 du Code criminel.
+
+Réponse : a).
+
+Explications de la bonne réponse :
+
+a) Un mandat en vertu de l’article 487 C.cr. est nécessaire afin de saisir l’objet jouet qui se trouve dans
+la résidence privée de Charles.
+
+Réponses erronées :
+
+b) Un mandat d’entrée, art. 529.1 C.cr. (R. c. Feeney, [1997] 2 R.C.S. 13), peut être requis afin de
+pénétrer dans un lieu afin de procéder à l’arrestation d’un individu. Cependant, il n’autorise pas
+l'agent de la paix à fouiller et à saisir des objets dans un lieu. La fouille de la résidence de Charles à
+la recherche de l’arme jouet ne peut se faire sur la base d’une fouille accessoire à une arrestation.
+Un mandat de perquisition est nécessaire.
+
+c) Bien que le sergent Dugré soit pressé de saisir l’objet, cela ne peut être considéré comme une urgence
+d’agir et ainsi agir sans autorisation judiciaire.
+
+d) Une autorisation d’entrée (R. c. Feeney, [1997] 2 R.C.S. 13) accompagne un mandat d’arrestation,
+art. 529 C.cr., ou est une autorisation donnée dans Le but de pénétrer dans un lieu afin de procéder
+à une arrestation, art. 529.1 C.cr. Elle n’est pas nécessaire lorsqu'un mandat de perquisition en vertu
+de l’article 487 C.cr. est délivré; l’autorisation de perquisitionner un lieu comprend l'autorisation d’y
+
+pénétrer.
+
+e) Cet article ne s'applique pas notamment dans le cas d’une saisie sans mandat dans une maison
+d'habitation.
+
+QUESTION 16
+
+Quelle demande M° Martine Beaupré, procureure aux poursuites criminelles et pénales, devrait-
+elle formuler au tribunal à cette étape des procédures et quel fardeau de la preuve devra-t-elle
+assumer afin que le tribunal acquiesce à sa demande? Noircissez LA CASE qui correspond à la bonne
+réponse sur votre feuillet de réponses.
+
+a) Demander l’incarcération dans un hôpital pour la durée de l’évaluation (cinq jours); la
+poursuite devra démontrer que la détention est souhaitable, le temps de l’évaluation.
+
+b) Demander au tribunal de déclarer Charles Frigon inapte à subir son procès, selon la
+prépondérance des probabilités.
+
+c) Demander une évaluation sur l’aptitude de Charles Frigon à comparaître; la poursuite devra
+démontrer qu’elle a des motifs de mettre en doute l’aptitude de l’accusé à subir son procès.
+
+d) Demander au tribunal de reporter la comparution de Charles Frigon et de tenir une audience
+au plus tard deux ans après la date du report. Il appartient alors à la poursuite de démontrer
+qu’elle a des motifs qui permettent de douter de la capacité de l’accusé de comparaître.
+
+e) La poursuite ne peut formuler aucune demande, ce sera à l’avocat de Charles Frigon de
+soulever son aptitude à subir un procès.
+
+Réponse : c).
+
+Explications de la bonne réponse :
+
+c) Une demande en vertu de l’article 672.11 a) C.cr. devrait être formulée dans les circonstances. Bien
+
+que Charles soit ici à l’étape de La comparution, la question de l’aptitude peut se poser, et ce, à
+toute étape des procédures.
+
+Réponses erronées :
+
+a) La promesse de comparaître remise à Charles demeure valide. IL est en liberté. La poursuite aurait
+pu démontrer qu’il était nécessaire que les conditions de mise en liberté soient modifiées,
+art. 672.18 C.cr. La priorité est la mise en liberté, art. 672.16 C.cr. Aucun motif ne justifie la
+détention de l'accusé.
+
+b) Cette demande est prématurée à ce stade-ci des procédures puisqu’aucune évaluation n’a été
+demandée, art. 672.11 a) C.cr., et l’accusé n’a pas d’avocat, art. 672.24 (1) C.cr.
+
+d) L’audition en vertu de l’article 672.33 C.cr. peut être tenue alors qu’un verdict d’inaptitude à subir
+son procès a été rendu.
+
+e) Faux, l’article 672.11 C.cr. et plus particulièrement l’article 672.12 (2) C.cr. autorisent la poursuite
+à formuler une telle demande au tribunal.
+
+11
+
+1/1
+
+6/16/2021
+
+https://ecolebarreau.sviesolutions.com/Web/Workspaces/DocumentDisplay?id=OTyAuf5x9D%2fSmOPSrHrmGw%3d%3d&&bID=1cxhKcu4kohfauayT…
+
+Corrigé - K
+
+QUESTION 17
+
+Quelle sera la stratégie de M° Martine Beaupré, procureure aux poursuites criminelles et pénales,
+pour établir la preuve des infractions? Noircissez LA CASE qui correspond à la bonne réponse sur
+
+votre feuillet de réponses.
+
+a) Elle fera entendre Lucas Frigon, mais en compagnie de sa psychologue.
+b) Lucas Frigon sera accompagné de sa mère lors de son témoignage.
+
+c) Lucas Frigon témoignera dans une autre salle par visio-conférence pour éviter qu’il soit en
+présence de son grand-père.
+
+d) Elle tiendra un voir-dire afin de demander au juge de lui permettre de mettre en preuve les
+verbalisations faites par Lucas Frigon à sa mère et aux enquêteurs selon les critères de
+nécessité et de fiabilité et qui feront preuve de leur contenu.
+
+e) Elle déclarera ne pas avoir de preuve à soumettre au tribunal.
+
+Réponse : d).
+
+Explications de la bonne réponse :
+
+M° Beaupré, procureure de la poursuite pourra, à la suite d’un voir-dire, convaincre Le tribunal que Le critère
+de nécessité est rempli, car Lucas ne peut témoigner en raison de l’expertise qui conclut qu’il serait
+préjudiciable qu’il soit obligé de témoigner quant aux dommages que lui causeraient ce témoignage et que
+le critère de fiabilité est rempli en raison des verbalisations faites à sa mère Le lendemain.
+
+Réponses erronées :
+a)etb) Cette possibilité existe, en vertu de l’article 486.1 C.cr. mais cela irait à l’encontre des
+recommandations de la psychologue.
+
+c) Cette possibilité existe, en vertu de l’article 486.2 (1) C.cr. mais cela irait à l'encontre des
+recommandations de la psychologue.
+
+e) Voir la réponse d).
+
+QUESTION 18
+
+Quelle demande M° Martine Beaupré, procureure aux poursuites criminelles et pénales, peut-elle
+faire à la cour à ce stade-ci des procédures? Noircissez LA CASE qui correspond à la bonne réponse
+
+sur votre feuillet de réponses.
+
+a) Demander la permission à la cour de poser des questions suggestives à Lucas Frigon.
+
+b) Demander à déposer en preuve l’enregistrement vidéo réalisé par Lucas Frigon, puisqu'il est
+nécessaire de le faire et que cet enregistrement est fiable.
+
+c) Demander à ce que l’enregistrement vidéo soit déposé en preuve pour faire preuve de son
+contenu si Lucas Frigon, dans son témoignage, confirme le contenu de l’enregistrement.
+
+d) Demander à ce que le témoignage de Lucas Frigon soit suspendu, le temps que les policiers
+soient entendus à la cour afin d’établir que Lucas Frigon, à un moment donné, a fourni une
+déclaration détaillée des événements; demander que cette déclaration fasse preuve de son
+contenu.
+
+e) Demander à la mère de Lucas Frigon de relater les verbalisations reçues de son fils.
+
+Réponse : c).
+
+Explications de la bonne réponse :
+
+c) Cette situation est spécifiquement prévue à l’article 715.1 C.cr. pour faciliter le témoignage des
+enfants.
+
+Réponses erronées :
+
+a) IUne s’agit pas d’un cas d’application de l’article 9 de La Loi sur la preuve.
+
+b) ete) Comme Lucas est entendu comme témoin, il ne s’agit pas d’un cas où la déclaration peut être
+introduite en preuve selon Le principe de nécessité et fiabilité.
+
+d) La mémoire de Lucas aurait pu être rafraichie par le témoignage des policiers qui témoignent sur
+le contenu de la déclaration qu’il a donnée antérieurement, mais ne pourrait faire preuve de son
+contenu puisqu'il s’agit de ouï-dire.
+
+12
+
+1/1
+
+6/16/2021
+
+https://ecolebarreau.sviesolutions.com/Web/Workspaces/DocumentDisplay?id=OTyAuf5x9D%2fSmOPSrHrmGw%3d%3d&&bID=1cxhKcu4kohfauayT…
+
+Corrigé - K
+
+QUESTION 19
+
+Quels éléments pourront être considérés par le tribunal pour déterminer la peine appropriée dans
+les circonstances? Noircissez TOUTES LES CASES qui correspondent à la bonne réponse sur votre
+
+feuillet de réponses.
+
+a) Les propos de Charles Frigon recueillis par l’agent de probation quant aux remords qu’il
+entretient.
+
+b) Les conséquences du crime sur Lucas Frigon par le biais du témoignage de sa mère.
+c) L’évaluation du risque de récidive que présente Charles Frigon.
+
+d) Le fait que Charles Frigon ait demandé la tenue de son procès, ce qui a rendu le témoignage
+de Lucas Frigon nécessaire.
+
+e) Le fait que Charles Frigon a déjà fait l’objet d’une enquête policière pour des gestes à
+caractère sexuel.
+
+Réponse : a), b) et c).
+
+Explications de la bonne réponse :
+
+a) Le rapport de l’agent de probation doit notamment inclure l’état d’esprit de l’accusé face aux gestes
+commis, art. 721 (3) a) C.cr. Comme le rapport est produit à la suite d’une ordonnance de la cour,
+les paroles prononcées par l’accusé peuvent être introduites en preuve, sans autre formalité.
+
+b) Le témoignage d’un proche est admis pour établir le préjudice subi par la victime, (R. c. Friesen,
+2020 CSC 9), art. 722 (5) d) C.cr.
+
+c) C’est le rôle de l’agent de probation de fournir une évaluation professionnelle à laquelle Le tribunal
+pourra se fier, art. 721 (3) C.cr.; (R. c. Junkert, (2010) 259 CCC (3d) 14 (CA Ont.)).
+
+Réponses erronées :
+
+d) Un plaidoyer de culpabilité peut être considéré comme facteur atténuant. Par contre, Le tribunal ne
+peut retenir comme élément aggravant le fait que Charles ait choisi de se prévaloir de son droit d’être
+jugé devant la cour.
+
+e) Le rapport présentenciel doit comporter les antécédents judiciaires et non pas les enquêtes non
+judiciarisées (assimilable à une preuve de mauvaise moralité), art. 721 (3) b) C.cr.
+
+QUESTION 20
+
+En matière de droit d’appel, lequel des énoncés suivants est FAUX? Noircissez LA CASE qui
+
+correspond à la bonne réponse sur votre feuillet de réponses.
+
+a) Un accusé ne peut pas en appeler d’une décision interlocutoire qui met en cause son droit
+d’être représenté par l’avocat de son choix.
+
+b) Le droit d'appel du poursuivant à l’encontre d’un verdict d’acquittement à l’égard de
+procédures sur acte d’accusation est limité aux questions de droit seulement.
+
+c) Le poursuivant ne peut en appeler d’un verdict d’acquittement à l’égard de procédures
+poursuivies par voie sommaire.
+
+d)  L’accusé qui porte en appel un verdict de culpabilité peut demander à la Cour d’appel sa
+mise en liberté en attente de la décision de la Cour d’appel.
+
+e) Tant la poursuite que l’accusé qui ne respecte pas le délai pour porter une décision en appel
+peut demander à la Cour d’appel la prolongation de ce délai d’appel.
+
+Réponse : c).
+Explications de la bonne réponse :
+c) Faux, article 676 (1.1) C.cr.
+
+Réponses erronées :
+
+a) Vrai, l’appel interlocutoire n’est pas possible dans un tel cas, il ne sera possible qu’au terme du
+procès, (R. c. Druken, 1 R.C.S. 978).
+
+b) Vrai, article 676 (1) C.cr.
+
+d) Vrai, en respectant Les règles prévues à l’article 31 R.C.a.Q.
+
+e) Vrai, article 678 (2) et 815 (2) C.cr.
+
+13
+
+1/1
+

@@ -1,0 +1,123 @@
+LA MISE EN LIBERTÉ PROVISOIRE PAR VOIE JUDICIAIRE, L’ENQUÊTE PRÉLIMINAIRE, LES REQUÊTES ET LES PLAIDOYERS
+Section 1 : La tenue de l’enquête pour mise en liberté
+Lorsqu’un prévenu est arrêté avec ou sans mandat et qu’il n’a pas été remis en liberté, l’agent de la paix doit le faire comparaître, devant un juge de paix. En principe, l’accusé doit être remis en liberté. Le juge de paix devra évaluer la possibilité d’une mise en liberté.
+Mise en liberté par voie judiciaire – Remarques préliminaires 
+2 éléments sont importants quand le juge s’apprête à prendre une décision judiciaire pour remettre une personne en liberté : 
+La personne doit être détenue (art. 515 C.cr.)
+Le DPCP doit s’objecter à la remise en liberté sinon le juge est tenu de remettre en liberté l’individu par le biais d’une promesse à comparaitre 
+Les deux parties peuvent demander à ce que l’enquête soit remise (art. 516 (1) C.cr.). Lorsque c’est le poursuivant qui demande la remise, il doit respecter un délai de 3 jours francs (art. 516 (1) C.cr.) = 5 jours puisque le premier jour où l’on fait cette demande n’est pas compté et le jour à laquelle on remet cette requête n’est pas compté. L’obligation quant au délai ne s’applique pas au prévenu par contre, il peut remettre en tout temps à un délai plus long puisqu’il demeure détenu pendant cette période. 
+Si pendant cette période, le juge peut imposer des conditions avant la tenue de l’enquête à la demande de la poursuite, dont par exemple une interdiction de communiquer avec telle ou telle personne (art. 516 (2) C.cr.). C’est le cas aussi en matière de détention ordonnée en vertu de l’art. 515 (11) C.cr., soit pour une infraction de l’art. 469 C.cr.
+Les raisons pour reporter une enquête sur remise en liberté : L’art. 518 (1) C.cr. fait part de quelques éléments pouvant être mis de l’avant lors de l’enquête et donc peuvent constituer des raisons de report
+La poursuite : de nouvelles plaintes sont portés contre le même individu, veut entendre des témoins, pour des fins de vérifications d’antécédents judiciaires
+La défense : stratégiquement ses chances de succès sont faibles à l’égard du juge siégeant et report est avantageux, l’accusé a un problème de consommation alors la remise serait avantageuse avec un suivi thérapeutique
+Tel que mentionné, avant que se tienne l’enquête sur remise en liberté, le juge peut imposer des conditions à respecter lors de sa détention (art.  516 (1) et (2) C.cr.).L’art.  516 (3) C.cr. précise la durée de l’ordonnance. 
+Art.  516 (3) C.cr:
+Toute ordonnance rendue au titre du paragraphe (2) demeure en vigueur, selon le cas :
+jusqu’à sa modification ou sa révocation;
+jusqu’à ce qu’une ordonnance soit rendue au titre de l’article 515 à l’égard du prévenu (deviendra caduque);
+jusqu’à l’acquittement du prévenu, le cas échéant;
+jusqu’au prononcé de la peine du prévenu, le cas échéant.
+Les règles de preuve (art.  518 C.cr.) 
+Ces règles s’appliquent peu importe le forum à qui on adresse une demande de remise en liberté, soit en révision ou autrement. Ce sont des règles plus souples que dans le cadre d’un procès. La preuve par ouï-dire est acceptée, les antécédents judiciaires sont acceptés, les causes en suspens (art. 518 (1) c) C.cr.). S’il remet l’individu en liberté, va-t-il respecter les conditions imposées ? Le juge peut même contraindre le prévenu à témoigner et lui poser des questions relativement aux faits concernant l’infraction commise à l’origine de l’enquête (non, il peut seulement poser des questions sur la relations sociale, travail, etc.). Son avocat lui posera alors des questions relativement à sa situation sociale, mais il ne pourra pas faire l’objet d’un contre-interrogatoire (art. 518 (1) a) et b) C.cr.). C’est un cadre exceptionnel puisqu’en droit criminel, l’accusé habituellement ne peut pas être contraint à témoigner à l’enquête préliminaire et à son procès. 
+L’art. 518 (1) d) C.cr.: le juge de paix peut prendre en considération toutes questions pertinentes sur lesquelles se sont entendus le poursuivant et le prévenu ou son avocat. Les parties avant l’audition se sont préalablement rencontrées pour savoir si le PPCP s’objecte et si oui, négocier avec lui une façon pour que le prévenu soit libéré sous certaines conditions. 
+Lors que l’audition, le juge doit être informé de la manière que le crime a été commis, de la peine et s’il y a une peine minimale… Cependant, les seuls motifs que le juge peut tenir compte pour décider de détenir sous garde se retrouvent à l’art. 515 (10) C.cr.
+À cette étape judiciaire, nous ne sommes pas tenus de déposer une déclaration extrajudiciaire et ainsi de faire un voir-dire comme c’est le cas par exemple à l’enquête préliminaire et au procès. 
+Le fardeau de preuve repose majoritairement sur les épaules du poursuivant (art.  515 (1) C.cr.) et de la balance des probabilités par prépondérance de preuve sauf quand le fardeau est renversé et repose à la défense (art.  515 (6) C.cr.).
+Vrai/Faux
+Puisque le prévenu est contraignable lors de l’enquête sur sa remise en liberté, le juge de paix a le pouvoir de lui poser toute question relative aux faits concernant l’infraction à l’égard de laquelle on tient présentement une enquête sur sa remise en liberté.
+Faux, le juge de paix peut contraindre et interroger le prévenu. Cependant, il ne doit pas poser de question relativement aux faits concernant l’infraction à l’égard de laquelle on tient présentement une enquête sur la remise en liberté (art. 518 (1) a) et b) C.cr.).
+La décision
+Le juge présidant l’enquête doit s’assurer que sa décision rencontre l’un des motifs de l’art. 515 (1) C.cr. 
+Par exemple, l’art.  515 (10) c) C.cr. quant à la confiance du public envers l’administration de la justice a été une question importante lors de la décision de remettre en liberté le Dr Turcotte. Cette décision de la Cour supérieure a d’ailleurs été portée en appel et la Cour d’appel a affirmé que les sondages, les opinions ou encore le fait que certaines personnes se sentent inconfortables ne doit pas être considérées et la demande a été rejetée. 
+Lorsque le juge décide de détenir l’individu, il devra déposer un mandat de dépôt ( art. 515 (11) C.cr.). À la demande de la poursuite, le juge peut imposer des conditions (art. 516 (2) C.cr.). Lorsqu’il y a eu la menace de violence ou la commission de certains types d’infraction, l’art. 515 (4.1) C.cr. prévoit que le juge rend une ordonnance d’interdiction d’armes à feu et substances explosives. Si le juge ne la rendait pas, il doit donner des motifs justifiant sa décision. 
+Quiz - Trouvez l'intrus
+Le juge de paix doit considérer les critères suivants afin de fonder sa décision sur la détention sous garde du prévenu :
+La détention est nécessaire, car le prévenu a des causes pendantes
+La détention est nécessaire pour assurer la présence du détenu
+La détention est nécessaire pour la protection et la sécurité du public, de la victime et des témoins de l’infraction  
+La détention est nécessaire, car le prévenu a un casier judiciaire
+La détention est nécessaire pour ne pas miner la confiance du public envers l’administration de la justice
+b), c) et e)
+a), d) et e)
+g) a), d) et e), le législateur a prévu trois motifs sur lesquels le juge de paix peut se fonder pour déterminer si la détention sous garde est justifiée :
+• La détention est nécessaire pour assurer la présence du détenu
+• La détention est nécessaire pour la protection et la sécurité du public, de la victime et des témoins de l’infraction
+• La détention est nécessaire pour ne pas miner la confiance du public envers l’administration de la justice
+La révision formelle et la révision informelle
+Lorsqu’une décision en première instance a été rendue et que l’on se retrouve devant un juge de la cour du Québec ou de la cour supérieure pour un acte criminel (art. 469 C.cr.), nous avons une possibilité de révision de cette décision. Lorsqu’il s’agit d’un acte criminel autre que ceux mentionnés à l’art. 469 C.cr., la révision se fait devant un juge de la Cour supérieure et ses pouvoirs de révision formelle se retrouvent aux arts. 520 C.cr. pour le prévenu et l’art. 521 C.cr. pour le poursuivant.
+Il faut également que le prévenu ou le poursuivant transmette une requête au juge concerné et un avis à l’autre partie (arts. 520 (1) (2) et 521 (1) (2) C.cr.).
+En ce qui concerne la révision pour des actes criminels prévus à l’art. 469 C.cr., l’art. 522 C.cr. mentionne que c’est un juge de la Cour supérieure. 
+Dans les jours suivants de la décision de première instance, nous pouvons déposé une demande en révision. 
+Pour la révision informelle, il y a deux moments : si ce n’est pas une infraction de l’art. 469 C.cr.
+Lorsqu’il y a possibilité de faire une enquête préliminaire, à la fin de l’enquête, on peut demander au juge de paix de réviser la décision rendue par l’un de ces collèges (art. 523.1 b) C.cr.)
+De consentement entre les parties, on va donner juridiction au juge ou au juge de paix pour changer les conditions initialement prévues (art. 523 (2) c) C.cr.)
+Section 2 : L’enquête préliminaire
+L’enquête préliminaire exprime certaines valeurs inhérentes à la philosophie procédurale antérieure au procès. L’enquête préliminaire est en fait l’examen du caractère suffisant de la preuve de la poursuite qui permet ainsi de renseigner l’accusé et de lui fournir une occasion préliminaire de se libérer des accusations portées contre lui.
+S’il s’agit d’un acte criminel prévu à l’art. 469 C.cr. ou un autre acte criminel qui n’est pas prévu à l’art. 469 C.cr. ou à l’art. 553 C.cr., l’art. 536 (2) C.cr. prévoit que le prévenu à 3 possibilités. Dans deux de ces cas de figure, soit celui d’être jugé par un juge seul ou avec un juge avec jury, il sera possible d’avoir une enquête préliminaire lorsque :
+La peine attribuable est de 14 ans et plus (arts. 535 et 536 (2) C.cr.) 
+L’une ou l’autre des parties doit demander l’enquête préliminaire (art. 536 (4) C.cr.)
+Des déclarations doivent être faites par les parties : quels sont les témoins que l’on prévoit assigner et quelles sont les points faisant l’objet de témoignages suivant l’art. 536.3 et 536.4 C.cr. 
+L’inscription sur la dénonciation lorsque c’est un acte de 14 ans et plus de sa demande de subir une enquête préliminaire (art.  536 (4.11) C.cr.) et pour les autres infractions non-visées à l’art. 469 et 553 C.cr. dont une peine de 14 ans et plus est prévue, inscrire sur la dénonciation la nature du choix du prévenu, qu’il soit réel ou réputé ou du fait qu’il n’a pas fait de choix (art. 536 (4.12) C.cr.)
+Le juge présidant l’enquête est tenu de limiter la preuve entendue puisque les parties aurons rempli une déclaration (art.  537 (1.01) C.cr.). 
+Si les parties n’arrivent pas à s’entendre, on peut demander au juge de régler le différend (art.  537 (1) i)C.cr.). 
+Vrai/Faux
+La tenue d’une enquête préliminaire est possible dans la mesure où l’acte criminel se retrouve à l’art. 469 C.cr.
+Faux : Il faut que cet acte criminel soit passible d’une peine d’emprisonnement de 14 ans ou plus pour avoir droit de demander une enquête préliminaire selon les arts. 535 et 536 (2.1) C.cr.
+Les pouvoirs des juges de paix à l’enquête préliminaire (art. 537(1) C.cr.). Il n’existe pas d’autres pouvoirs que ceux prévus à cette disposition. Il ne peut pas sanctionner une violation de la Charte.
+Les raisons de demander une enquête préliminaire
+La défense peut demander une enquête pour :
+Évaluer la preuve de la poursuite : vérifier si tous les éléments essentiels de l’infraction sont présents
+Tenter de faire libérer le prévenu 
+Entendre la version des témoins et obtenir les notes sténographier suivant l’enquête pour valider lors du procès si les versions ont changé (arts. 10 et 11 LPC) : pour commercer à préparer une future requête en vertu de la Charte aussi qui sera déposée ultérieurement
+Pour la poursuite :
+Évaluer et/ou conserver sa preuve 
+Évaluer le sérieux de la plainte : l’art. 715 C.cr. permet sans autre preuve de déposer la preuve recueillie à l’enquête lorsqu’un témoin refuse de venir retémoigner au procès en raison de son absence au Canada, de son décès…
+Provoquer un plaidoyer de culpabilité 
+La preuve à l’enquête préliminaire
+Le fardeau de la preuve est celui de la suffisance de la preuve pour que l’accusé soit amené à procès. Il ne tient pas compte de la crédibilité, mais retient des témoignage qu’il y avait suffisamment d’éléments de preuves pour les citer à procès. 
+Le règles de preuve s’applique à l’enquête préliminaire alors, si je veux mettre en preuve une déclaration extrajudiciaire ou une confession, il faut remplir les règles de preuve du procès = Hors de tout doute raisonnable.
+En vertu de l’art.  548 C.cr., le juge décide de la suffisance de la preuve sur chaque chef d’accusation et cite l’individu ou non à subir son procès. 
+L’admissibilité de certains preuves par le juge est prévue à l’art. 540 (7) C.cr, soit de déposer une déclaration intérieure pour valoir quant à son contenu à la demande de l’une des parties. C’est le cas par exemple en matière de violence conjugale lorsqu’une des parties décide de ne plus témoigner à l’enquête préliminaire. La poursuite pourrait déposer le déclaration extrajudiciaire antérieure si le juge la considère plausibles ou digne de foi. 
+L’examen volontaire (arts. 541 et ss C.cr.)
+Une fois que la Couronne a déclaré sa preuve clause, le juge se tourne vers l’accusé et exerce l’examen volontaire. L’examen se déroule lorsque l’accusé n’est pas représenté par avocat s’il entend répondre et lui faisant la lecture de (art. 541 (2) C.cr.). Ensuite, il lui demande s’il désire faire entendre des témoins (art. 541 (4) C.cr.). S’il est représenté par avocat, il y a ainsi une renonciation à la lecture l’art. 541 (2) C.cr. 
+Dans la majorité des cas, il n’y pas de témoin entendu à l’enquête par la défense sauf si la poursuite n’a pas fait entendre un témoin et qu’il veut obtenir l’enregistrement de sa version. 
+Après l’examen volontaire, l’avocat de la défense peut demander une révision informelle s’il veut que la décision de ne pas remettre en liberté le prévenu ou les conditions de remise en liberté soit révisé (art. 523(2)b) C.cr.)
+Le fardeau de preuve
+La suffisance de la preuve pour nécessité une citation à procès. Le juge regarde s’il y a suffisance de preuve indépendamment de la crédibilité qu’il peut accorder aux témoins entendues. 
+La contestation de la décision du juge de paix
+Si le juge a cité à procès et que cette citation semble problématique par l’avocat du prévenu. Ce n’est pas des décisions pouvant être portée en appel. 
+Le seul pouvoir de l’avocat de la défense sera de déposer un brief de certiorari à un juge de la Cour supérieure de juridiction criminelle lorsque le juge a excédé sa juridiction à l’égard d’éléments essentiels absents de la preuve présentée devant lui. Il ne s’agit pas d’un appel ! 
+Section 3 : Les requêtes préliminaires et les plaidoyers
+Avant le début du procès, il est possible de présenter des requêtes préliminaires afin de faire des demandes autant sur le plan de la gestion de l’instance qu’à propos de l’acte d’accusation.
+Dans le cadre de son procès, l’accusé devra enregistrer son plaidoyer, ce qui aura un impact sur le procès.
+Requêtes préliminaires
+Avant l’audition des témoins, l’audition des requêtes préliminaires peut avoir lieu. Habituellement, l’audition se fait de manière verbale. Cependant, le tribunal peut toujours imposer le dépôt d’une requête écrite pour que le débat soit bien encadré et les conclusions recherchées. 
+La requête pour procès distinct (art. 591 (3) C.cr.)
+Avantageux pour la poursuite de réunir l’ensemble des chefs dans un acte d’accusation. À partir du moment où il y a un certain nombre de chefs qui sont préjudiciables à l’accusé, ce dernier peut déposer une requête pour procès distinct. La défense demande de retirer un ou plusieurs chefs puisque ça cause préjudice à l’accusé et qu’il avait prévu de témoigner au procès quant à l’autre chef. Par exemple, lors d’un procès devant jury lorsque la preuve porte à confusion quant à un autre chef. 
+Exemple : ex juge Jacques Bélisle, accusé du meurtre de son épouse et un second chef pour possession d’une arme à autorisation restreinte. Lorsque le procès a débuté, la défense a déposé une requête pour procès distinct en raison du fait que l’accusé voulait témoigner dans le cadre du procès et que ce dernier ne voulait pas donner des explications quant à l’arme dont il était en possession. Il prévoyait un préjudice. Le juge présidant le procès a scindé les chefs. 
+Requête pour procès séparé (art. 591(4) C.cr.)
+Plus facile si on les accuse conjointement. À partir du moment où on décide de les poursuivre conjointement pour une aventure commune, donc pour les mêmes infractions, la poursuite renonce à entendre les présumés complices l’un contre l’autre et peut aussi provoquer chez la défense un préjudice quelconque. 
+Exemple : si un co-accusé a fait une déclaration extrajudiciaire aux policiers dans laquelle il admet sa participation et parle de celle de ses collègues à cette aventure commune. Préjudice aux autres participants n’ayant pour leur part pas fait de déclaration. Lorsque l’on se retrouve devant un jury, il y a un danger de confusion. 
+Ça peut être aussi être le cas lorsque l’un des présumés complices a une part différente de responsabilité que les autres. 
+La requête pour changement de venue (art. 599 C.cr.)
+La cause entendue a provoqué une réaction médiatique fort importante dans un district donné. Il sera ainsi difficile voire impossible de trouver un jury de 12 personnes qui n’ont pas été contaminées par la couverture médiatique. Dans cette situation, nous pouvons demander que le procès se tienne dans un autre district pour que l’accusé ait droit à un défense pleine et entière. Ce n’est pas uniquement en matière de jury, mais lorsque l’intérêt de la justice le prime.
+La requête pour le rejet de l’acte d’accusation
+Avant que le plaidoyer soit enregistré. C’est le cas lorsque les éléments constitutifs de l’infraction ne se retrouve pas dans le libellé de l’acte d’accusation de tel sorte qu’il y a des vices importants ne pouvant justifier un verdict de culpabilité. Cela provoque un rejet de l’acte d’accusation. Il ne provoque pas un acquittement puisque l’individu n’avait pas plaider coupable, mais un nouvel acte peut à ce moment-là être transmis avec les corrections apportées. 
+Ce type de requête est de plus en plus difficile puisque les actes sont préparés par l’entremise de logiciel. 
+La requête pour modification de l’acte d’accusation (art.  601 C.cr.)
+L’acte est erroné en raison de vices de forme (dates modifiées par les témoignages des personnes), de lieu, 
+Vrai/Faux
+L’accusé qui veut présenter une requête en rejet de l’acte d’accusation pourra le faire uniquement avant l’enregistrement de son plaidoyer.
+Faux, si l’accusé veut présenter une telle requête après l’enregistrement de son plaidoyer, il devra obtenir le consentement de la cour (art. 601 C.cr.).
+Les plaidoyers
+La situation va varier en fonction qu’il s’agisse :
+d’une déclaration sommaire de culpabilité (art.  785 et ss C.cr.) : l’accusé sera appelé à enregistrer un plaidoyer (art. 801 (1) a) C.cr.)
+d’une déclaration par acte criminel pour une infraction figurant à l’art. 553 C.cr. : doit aussi enregistrer un plaidoyer lorsqu’on lui li la dénonciation. Dans cette situation la dénonciation vaut un acte d’accusation. Lorsqu’il est question de la juridiction d’un juge de la Cour provinciale pour un acte criminel sous l’art. 553 C.cr., on doit se référer à l’art. 536 (3) C.cr. mentionnant que la lecture de la dénonciation équivaut à un acte d’accusation. 
+d’une déclaration pour un acte criminel autre que ceux de l’art. 469 C.cr. et de l’art. 553 C.cr. : permet d’avoir le triple choix de procès. Lorsque le choix est porté pour un juge avec jury et juge sans jury, la personne comparaissant n’est pas face à une dénonciation équivalente à un plaidoyer. Elle n’est pas en situation de danger puisqu’on va lui lire la dénonciation et lui demander de faire un choix de procès. Un peu plus tard dans le temps, l’accusé pourra enregistrer son plaidoyer afin qu’il puisse rendre connaissance de la preuve. Lorsqu’il s’agit d’un acte criminel qui nécessite une enquête préliminaire ou pas, l’acte criminel devient un acte d’accusation lorsqu’on est devant un juge avec jury ou sans et que le PPCP déposera l’acte d’accusation. Une fois la lecture de l’acte sera faite, l’accusé déposera son plaidoyer. Pour le choix d’être jugé par un juge avec jury ou non, les arts pertinents quant au dépôt de l’acte d’accusation (arts.  566 et 568 C.cr.).
+La chose jugée 
+Nous reprochons à une personne des infractions, mais comportant sensiblement les mêmes éléments essentiels. Il est donc impossible que la personne soit reconnue coupable de ces mêmes gestes en les divisant en plusieurs infractions. Principe de l’arrêt Kienapple **
+Exemple : Je peux être arrêté pour conduite avec les capacités affaiblies (art. 253 C.cr.) et d’avoir plus de 80 mg/100ml de sang au moment de cette même conduite (essentiellement, les règle de preuves sont différente, mais en principe nous voulons accuser la personne d’avoir conduit avec les facultés affaiblies). Par contre, après que l’accusé plaide coupable au premier chef, le juge va prononcer un arrêt des procédures sur le second. (C’est l’une ou l’autre)
+Exemple : Accusé de vol et de recel. Preuve souvent par la preuve de la possession récente alors si la possession est trop proche du vol, le juge ne pourra pas punir l’individu pour ces deux infractions constituants les mêmes éléments essentiels (puisque le vol implique necessairement la possession de l’objet volé). Prononcera un verdict de culpabilité sur le vol ou le recel en fonction de la preuve et un retrait sur l’autre chef. 
+Vrai/Faux
+L’accusé peut plaider coupable à une autre infraction que celle pour laquelle il est inculpé, si l’infraction pour laquelle il se déclare coupable est moindre et incluse à l’acte reproché par l’acte d’accusation.
+Vrai, l’accusé peut plaider non coupable relativement à l’acte criminel, mais plaider coupable à une autre infraction ou à une infraction moindre et incluse. Le tribunal n’est pas tenu d’accepter le plaidoyer de culpabilité relatif à l’infraction moindre et incluse ou une autre infraction, mais il peut, à sa discrétion et avec le consentement du poursuivant, accepter un tel plaidoyer (art. 606 (4) C.cr.).

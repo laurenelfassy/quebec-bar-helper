@@ -1,0 +1,797 @@
+DROIT ADMINISTRATIF – LA JUSTICE ADMINISTRATIVE
+Introduction 
+Arts. 1-13 Loi sur la justice administrative (LJA) : il a des règles particulières qui vont s’appliquer à des instances judiciaires particulières. Ce cadre général, ne s’applique pas à toutes les instances. 
+Section 1 : Les pouvoirs
+L’étude du pouvoir qu’exerce l’Administration publique, et à la suite duquel elle rend une décision, permet de mettre en perspective la différence faite dans la Loi sur la justice administrative entre la fonction administrative et la fonction juridictionnelle. Cette loi prévoit que les règles de procédure diffèrent, selon que les décisions sont prises dans l’exercice de l’une ou l’autre de ces fonctions. Elle ne fait pas référence à la classification des pouvoirs, soit le pouvoir lié, pouvoir discrétionnaire et pouvoir quasi-judiciaire.
+Pouvoir lié ou pouvoir non-discrétionnaire – fait peu appel ou pas appel au jugement.
+Aucune liberté au décideur lorsque les conditions émises dans la loi son objectivement remplies. Il n’y a pas de marge de manœuvre, pas de discrétion. L’exercice de ce pouvoir fait peut appel ou pas appel au jugement. 
+Exemple : demande de permis à la SAAQ
+C’est lors d’un pouvoir lié que l’on peut en contrôle judiciaire enjoindre une personne à commettre un acte (donc un décideur qui omet d’accomplir l’act). 
+Art. 529, al.1 (3) C.p.c.:
+La Cour supérieure saisie d’un pourvoi en contrôle judiciaire peut, selon l’objet du pourvoi, prononcer l’une ou l’autre des conclusions suivantes :
+3°	enjoindre à une personne qui occupe une fonction au sein d’un organisme public, d’une personne morale, d’une société ou d’une association ou d’un autre groupement sans personnalité juridique d’accomplir un acte auquel la loi l’oblige s’il n’est pas de nature purement privée;
+Art. 530 C.p.c.: 
+La demande de pourvoi en contrôle judiciaire est présentée à la Cour supérieure à la date indiquée dans l’avis de présentation qui y est joint, laquelle ne peut être fixée à moins de 15 jours de la signification de la demande. Elle est instruite par priorité.
+La demande n’opère pas sursis des procédures pendantes devant une autre juridiction ou l’exécution d’un jugement rendu ou d’une décision prise par une personne ou un organisme assujetti à ce contrôle à moins que le tribunal n’en décide autrement. S’il y a lieu, le tribunal ordonne que les pièces du dossier qu’il détermine soient transmises sans délai au greffier.
+Le jugement qui fait droit à la demande est signifié aux parties s’il ordonne d’accomplir ou de ne pas accomplir un acte.
+Pouvoir discrétionnaire ou pouvoir administratif – appréciation du décideur
+C‘est tout le contraire que le pouvoir lié puisque le décideur a une marge de manœuvre. Pouvoir qui varie en fonction de ce qui est prévu dans la loi. Il n’a pas à rendre une décision unique comme c’est le cas du pouvoir lié puisqu’il a plusieurs décisions possibles. Un modèle qui ressemble au processus judiciaire. 
+Exemple : évaluation d’indemnité ou d’une relation causale
+Exemple : art. 23 Charte des droits et libertés de la personne
+Art. 23 Charte des droits et libertés de la personne : 
+Toute personne a droit, en pleine égalité, à une audition publique et impartiale de sa cause par un tribunal indépendant et qui ne soit pas préjugé, qu’il s’agisse de la détermination de ses droits et obligations ou du bien-fondé de toute accusation portée contre elle.
+Le tribunal peut toutefois ordonner le huis clos dans l’intérêt de la morale ou de l’ordre public.
+Audition publique, impartial, tribunal indépendant. On se réfère à l’art. 56 définissant la notion de tribunal
+Art. 56 Charte des droits et libertés de la personne :
+1.	Dans les articles 9, 23, 30, 31, 34 et 38, dans le chapitre III de la partie II ainsi que dans la partie IV, le mot «tribunal» inclut un coroner, un commissaire-enquêteur sur les incendies, une commission d’enquête et une personne ou un organisme exerçant des fonctions quasi judiciaires.
+2.	Dans l’article 19, les mots «traitement» et «salaire» incluent les compensations ou avantages à valeur pécuniaire se rapportant à l’emploi.
+3.	Dans la Charte, le mot «loi» inclut un règlement, un décret, une ordonnance ou un arrêté en conseil pris sous l’autorité d’une loi.
+**Un organisme exerçant des fonctions quasi judiciaire, c’est donc dire, si je peux qualifier le pouvoir, enjeu de pouvoir quasi-judiciaire (donc pouvoir discrétionnaire ou à une décision qui porte atteinte aux droits des parties et qui suit un modèle qui ressemble au processus judiciaire, et bien comme personne je vais avoir droit de réclamer une audition publique, impartiale de ma cause et je pourrais réclamer une instance indépendante)**
+Vrai/Faux 
+La notion de pouvoir discrétionnaire s’applique dans les cas où le droit ne dicte pas une décision précise ou quand le décideur se trouve devant un choix d’options à l’intérieur de limites imposées par la loi.
+= Vrai, Baker c. Ministre de la Citoyenneté et de l’Immigration du Canada, [1999] 2 R.C.S. 817, par. 52, REJB 1999-13279
+Pouvoir quasi-judiciaire 
+Rien vu pour le pouvoir quasi-judiciaire… sauf article 56 (1) « tribunal » Charte québécoise.
+Section 2 : Le processus décisionnel en matière administrative
+Le processus décisionnel en matière administrative peut prendre plusieurs avenues. Il est possible que cette décision provienne de l’Administration publique et que cette dernière soit finale. L’avocat devra alors qualifier cette décision pour déterminer les garanties que doit offrir l’Administration. Dans d’autres situations, ces règles issues de l’équité procédurale s’ajouteront à celles contenues dans la loi constituant l’organisme ou à celles issues de l’application de la Loi sur la justice administrative.
+Voici le modèle procédural que l’on retrouve majoritairement dans les lois habilitantes
+Exemple : (1) décision initiale de la SAAQ, soit l’organisme administratif. Si à la suite de l’événement la SAAQ refusait ma réclamation et bien j’aurais toujours la possibilité selon la loi habilitante de (2) demander une révision administrative de cette décision initiale. À la suite de cette demande de révision, il y aura une (3) décision. (4) Il y aura la possibilité de contester cette seconde décision devant le tribunal administratif du Québec. C’est à cette étape que les parties ont habituellement le véritable droit d’être entendu par une instance (de témoigner, de présenter toute la preuve, de présenter des témoins, de contre-interroger, etc.), ce qui ressemble le plus à un processus judiciaire. À la suite de cette décision du tribunal administratif du Québec (5), la loi habilitante de ces tribunaux prévoit la possibilité la révision interne, de s’adresser à un nouveau banc du tribunal administratif. (6) Il y aura une nouvelle décision de révision selon des paramètre. (7). Possibilité de révision de cette décision interne dans des cas exceptionnels (8). Fin du processus administratif. 
+On doit se demander s’il y a un droit d’appel par la Cour du Québec prévue par la loi Si c’est le cas, je dois passer par la Cour du Québec avant de demander un contrôle judiciaire. S’il n’y a pas de droit d’appel prévu par la loi, nous allons directement en contrôle judiciaire à la Cour supérieure Art 529 du C.p.c.
+Parfois, la loi habilitante ne prévoit aucune possibilité de demander une révision et à la place, il est prévu de se diriger directement en appel. Si le cadre général de la LJA ne s’applique pas, on se rapporte aux règles particulières de la loi habilitante ainsi qu’à ses règlements. Si le législateur n’a rien prévu, on pourra toujours invoquer le respect d’agir équitablement.
+Si le législateur prévoit une révision et une contestation devant un tribunal administratif ET BIEN L’ENSEMBLE DE CES ÉTAPES SONT OBLIGATOIRES. 
+Le cadre général établi par le législateur dans la LJA
+Art. 1 LJA : La présente loi a pour objet d’affirmer la spécificité de la justice administrative et d’en assurer la qualité, la célérité et l’accessibilité, de même que d’assurer le respect des droits fondamentaux des administrés.
+Elle établit les règles générales de procédure applicables aux décisions individuelles (critère 1) prises à l’égard d’un administré. Ces règles de procédure diffèrent selon que les décisions sont prises dans l’exercice d’une fonction administrative ou d’une fonction juridictionnelle. Elles sont, s’il y a lieu, complétées par des règles particulières établies par la loi ou sous l’autorité de celle-ci.
+La présente loi institue également le Tribunal administratif du Québec et le Conseil de la justice administrative.
+al.1 précise la spécificité de la justice administrative
+al.2 divise les 2 fonctions et à leurs règles propres et les règles ne s’appliquent qu’aux décisions individuelles en opposition aux décisions politiques et collectives. Administré : large portée. Règles particulières se rapporte à la loi habilitante et sous l’autorité à ses règlements
+al.3 ce qui concerne le Conseil de la justice n’est pas évalué à l’école du Barreau 
+Fonction administrative (Arts. 2-8 LJA)
+Art.2 LJA : 
+Les procédures menant à une décision individuelle prise à l’égard d’un administré par l’Administration gouvernementale, en application des normes prescrites par la loi, sont conduites dans le respect du devoir d’agir équitablement.
+Décision individuelle (reprend le critère de l’art. 1 LJA)
+Administration gouvernementale est définit à l’art.3 LJA
+Toutes les instances qui rendent des décisions qui relèvent de la fonction administrative se voit imposer un premier devoir, soit d’agir équitablement.
+Art. 3 LJA :
+L’Administration gouvernementale est constituée des ministères et organismes gouvernementaux dont le gouvernement ou un ministre nomme la majorité des membres et dont le personnel est nommé suivant la Loi sur la fonction publique (chapitre F‐3.1.1).
+Et lire comme un ou entre constituée des ministères et organismes gouvernementaux
+Tous les ministères font partie de l’administration gouvernementale, mais quels sont les organismes gouvernementaux qui font aussi partie de l’administration gouvernementale ?
+Il existe 2 conditions pour les organismes : (1) un gouvernement ou un ministre nomme la majorité des membres (2) le personnel est nommé suivant la Loi sur la fonction publique. Comment on fait pour savoir cela ? On doit retourner dans la loi habilitante de l’instance en question pour vérifier si les deux conditions sont présentes ou non. Si pour un organisme je ne retrouve pas ces deux conditions dans la loi habilitante, cet organisme n’aura pas l’obligation et ne se verra pas imposer les règles aux arts. 2-8 LJA. 
+Exemples d’inapplicabilité de la LJA : une commission scolaire, un centre hospitalier, une municipalité
+Art. 4 LJA :
+L’Administration gouvernementale prend les mesures appropriées pour s’assurer:
+1°	que les procédures sont conduites dans le respect des normes législatives et administratives, ainsi que des autres règles de droit applicables, suivant des règles simples, souples et sans formalisme et avec respect, prudence et célérité, conformément aux normes d’éthique et de discipline qui régissent ses agents, et selon les exigences de la bonne foi;
+2°	que l’administré a eu l’occasion de fournir les renseignements utiles à la prise de la décision et, le cas échéant, de compléter son dossier;
+3°	que les décisions sont prises avec diligence, qu’elles sont communiquées à l’administré concerné en termes clairs et concis et que les renseignements pour communiquer avec elle lui sont fournis;
+4°	que les directives à l’endroit des agents chargés de prendre la décision sont conformes aux principes et obligations prévus au présent chapitre et qu’elles peuvent être consultées par l’administré.
+(4) Le règlement sur la diffusion de l’information et sur la protection des renseignements personnels imposent à l’organisme public de diffuser sur le site internet, les directions, les politiques et tout documentations qui a pu servir à la prise de décision. 
+Art. 5 LJA :
+L’autorité administrative ne peut prendre une ordonnance de faire ou de ne pas faire ou une décision défavorable portant sur un permis ou une autre autorisation de même nature, sans au préalable:
+1°	avoir informé l’administré de son intention ainsi que des motifs sur lesquels celle-ci est fondée;
+2°	avoir informé celui-ci, le cas échéant, de la teneur des plaintes et oppositions qui le concernent;
+3°	lui avoir donné l’occasion de présenter ses observations et, s’il y a lieu, de produire des documents pour compléter son dossier.
+Il est fait exception à ces obligations préalables lorsque l’ordonnance ou la décision est prise dans un contexte d’urgence ou en vue d’éviter qu’un préjudice irréparable ne soit causé aux personnes, à leurs biens ou à l’environnement et que, de plus, la loi autorise l’autorité à réexaminer la situation ou à réviser la décision.
+L’autorité administrative ne peut rendre une ordonnance de faire en matière de permis si elle n’a pas informé l’administré de son intention et des motifs sur lesquels elle se fonde ainsi que de la teneur des plaintes et des oppositions qui le concernent. De plus, elle doit donner à l’administré l’occasion de présenter ses observations.
+Exemples ordre de faire ou de ne pas faire : ordre de démolition, la fermeture d’un bar
+Exemples autorisation de même nature : brevet, certificat
+3 étapes à suivre avant de prendre une décision
+Exception si urgence ou éviter un préjudice irréparable
+Art. 6 LJA :
+L’autorité administrative qui, en matière d’indemnité ou de prestation, s’apprête à prendre une décision défavorable à l’administré, est tenue de s’assurer que celui-ci a eu l’information appropriée pour communiquer avec elle et que son dossier contient les renseignements utiles à la prise de décision. Si elle constate que tel n’est pas le cas ou que le dossier est incomplet, elle retarde sa décision le temps nécessaire pour communiquer avec l’administré et lui donner l’occasion de fournir les renseignements ou les documents pertinents pour compléter son dossier.
+Elle doit aussi, lorsqu’elle communique la décision, informer, le cas échéant, l’administré de son droit d’obtenir, dans le délai indiqué, que la décision soit révisée par l’autorité administrative.
+Exemple : décision initiale en matière d’indemnité de prestation et si un tel droit existe de demander une révision administrative dans la loi habilitante, et bien l’autorité administrative a l’obligation de vous informer que ce droit existe dans la loi.
+Art. 7 LJA :
+Lorsqu’une situation est réexaminée ou une décision révisée à la demande de l’administré, l’autorité administrative donne à ce dernier l’occasion de présenter ses observations et, s’il y a lieu, de produire des documents pour compléter son dossier.
+Règles particulière lorsqu’on est dans le processus de la révision administrative initiale. À la SAAQ #2. 
+Art. 8 LJA :
+L’autorité administrative motive les décisions défavorables qu’elle prend et indique, le cas échéant, les recours autres que judiciaires prévus par la loi, ainsi que les délais de recours.
+Pas d’obligation de décision écrite alors qu’il s’agit d’une obligation pour la fonction juridictionnelle
+Toutefois, en pratique, l’autorité administrative rend tout de même sa décision par écrit. 
+Recours autres que judiciaires : première décision par organisme, révision par l’organisme, contestation au TAAQ, contestation. Fin du processus. Possibilité d’appel ensuite ou en contrôle, il s’agit de procédures judiciaires. La SAAQ #2 lorsqu’elle décide en révision de confirmer la décision initiale devrait vous informer du recours au TAAQ et des délais pour porter cette décision à une autre instance. 
+Fonction juridictionnelle (Arts. 9-13 LJA)
+Art. 9 LJA :
+Les procédures menant à une décision prise par le Tribunal administratif du Québec ou par un autre organisme de l’ordre administratif chargé de trancher des litiges opposant un administré à une autorité administrative ou à une autorité décentralisée sont conduites, de manière à permettre un débat loyal, dans le respect du devoir d’agir de façon impartiale.
+Qui exerce une fonction juridictionnelle : TAAQ ou tous les tribunaux administratifs qui possèdent l’autorité de décider d’un rapport régissant un administré et un organisme administratif. Cela exclu tous les rapports privés par exemple la régie du logement (un locateur et un locataire).
+Liste publiée dans la Gazette officielle pour le savoir, mais si nous ne l’avons pas, nous n’avons qu’à nous questionner sur la compétence du tribunal en question, quels genres de litiges tranches-t-ils. 
+Exemple : La commission d’accès à l’information. Elle a une fonction de surveillance qui ne touche en rien au litige entre l’administré et une autorité. Cependant, elle occupe tout de même une fonction juridictionnelle. Si dans le cas d’un accident d’auto, l’administré s’adresse à la SAAQ pour obtenir un rapport d’événement, le rapport policier ou encore son dossier médical, mais la SAAQ refuse et il va naître un litige entre l’accidenté et l’organisme. L’administré va donc pouvoir contester ce refus à la commission d’accès à l’information ce refus devant la commission d’accès à l’information.
+Exemple : Le tribunal administratif du travail. La division santé et sécurité du travail va trancher des litiges entre l’accidenté, soit l’administré et la CNESST. Toutefois, sa division relation de travail va trancher des litiges entre employeur et employé alors, on ne se retrouve plus devant un ordre administratif exerçant une fonction juridictionnelle.
+Exemple : La commission municipale du Québec. Tranche des litiges entre un administré et la municipalité.
+Exemple : le Tribunal administratif des marchés financiers. Tranche des litige entre administré et les marchés financiers.
+**Les autres tribunaux n’occupant pas une fonction juridictionnelle ne se verront pas appliquer les arts. 9-13 LJA, mais on doit retourner à la loi habilitante. Dans tous les cas, on doit garder en tête l’art. 23 de la Charte des droits et libertés mentionnant le droit dans certain cas à une audition publique, impartiale et devant un tribunal indépendant. En référence à l’art. 56 de la Charte des droits et libertés auquel il est fait mention de la possibilité d’exercer ce droit devant un organisme quasi-judiciaire**
+Ce serait le cas par exemple de la régie du logement, de la division des relations de travail du tribunal administratif du travail. Dans l’obligation de respecter l’art 23 de la Charte des droits et libertés puisque cette décision d’une part porte atteinte aux droits et d’autre part ressemble au processus judiciaire.
+Art. 10 LJA :
+L’organisme est tenu de donner aux parties l’occasion d’être entendues.
+Les audiences sont publiques. Toutefois, le huis clos peut être ordonné, même d’office, lorsque cela est nécessaire pour préserver l’ordre public.
+Art. 11 LJA :
+L’organisme est maître, dans le cadre de la loi, de la conduite de l’audience. Il doit mener les débats avec souplesse et de façon à faire apparaître le droit et à en assurer la sanction.
+Il (tribunal administratif) décide de la recevabilité des éléments et des moyens de preuve et il peut, à cette fin, suivre les règles ordinaires de la preuve en matière civile. Il doit toutefois, même d’office, rejeter tout élément de preuve obtenu dans des conditions qui portent atteinte aux droits et libertés fondamentaux et dont l’utilisation est susceptible de déconsidérer l’administration de la justice. 
+L’utilisation d’une preuve obtenue par la violation du droit au respect du secret professionnel est réputée déconsidérer l’administration de la justice.
+Art. 12 LJA : 
+L’organisme est tenu:
+1°	de prendre des mesures pour délimiter le débat et, s’il y a lieu, pour favoriser le rapprochement des parties (permettre conciliation, médiation);
+2°	de donner aux parties l’occasion de prouver les faits au soutien de leurs prétentions et d’en débattre (témoin, de la documentation, contre-interroger);
+3°	si nécessaire, d’apporter à chacune des parties, lors de l’audience, un secours équitable et impartial (organisme qui est appelé à trancher un litige entre un administré, qui se représente seul et l’organise de l’administration qui amène ses avocats experts en la matière, informe du droit d’être représenté);
+4°	de permettre à chacune des parties d’être assistée ou représentée par les personnes habilitées par la loi à cet effet (devant le TAAQ peut être possible d’être représenté par une personne de choix autre qu’un avocat).
+Art. 13 LJA :
+Toute décision rendue par l’organisme doit être communiquée en termes clairs et concis aux parties et aux autres personnes indiquées dans la loi.
+La décision terminant une affaire doit être écrite et motivée, même si elle a été portée oralement à la connaissance des parties.
+Distinction avec la fonction administrative. 
+Section 3 : la décision et la révision
+Il doit s’agir d’organisme exerçant une fonction administrative afin que les arts. 2-8 LJA s’appliquent conformément aux deux conditions de l’art. 3 LJA.
+L’art.7 LJA mentionne « lorsqu’une situation est réexaminée ou une décision révisée à la demande de l’administré » : 
+Habituellement, si on parle d’une autre étape, on parle d’une révision administrative, mais que chacune des instances, à chaque étape, pourrait réexaminer sa décision
+Le même organisme que celui initial pourrait décider de réexaminer une situation, la confusion née du fait que le législateur interchange révision, réexamen et reconsidération donc retenons : peut être assimilée à un appel
+Section 4 : Le recours en contestation devant un Tribunal administratif du Québec
+À l’étape de la contestation de la décision rendue par l’organisme en révision administrative. La décision 2 de l’organisme contestée devant le TAQ.
+Art 14 LJA :
+Est institué le «Tribunal administratif du Québec».
+Il a pour fonction, dans les cas prévus par la loi (référence à l’art.9 LJA) de statuer sur les recours formés contre une autorité administrative ou une autorité décentralisée.
+Sauf disposition contraire de la loi, il exerce sa compétence à l’exclusion de tout autre tribunal ou organisme juridictionnel.
+Art. 15 LJA :
+Le Tribunal a le pouvoir de décider toute question de droit ou de fait nécessaire à l’exercice de sa compétence.
+Lorsqu’il s’agit de la contestation d’une décision (rendue par l’organisme administratif en révision par la SAAQ #2 par exemple), il peut confirmer, modifier ou infirmer la décision contestée et, s’il y a lieu, rendre la décision qui, à son avis, aurait dû être prise en premier lieu.
+Le TAQ n’est pas lié par les décisions prises par les instances précédentes.
+Attention, le législateur dans la loi habilitante peut prévoir des tenants et aboutissants différents en matière de contestation de la décision révisée par l’organisme.
+**Si les arts 1-13 LJA s’appliquent aux organismes se conformant à l’art.3 LJA, les arts 14 et ss LJA ne s’appliquent qu’au TAQ.**
+Vrai/Faux
+Lorsqu’il s’agit de la contestation d’une décision, le Tribunal administratif du Québec a le pouvoir de confirmer ou d'infirmer la décision contestée. Dans ce dernier cas, il doit retourner à l’autorité administrative le dossier afin qu’une autre décision soit rendue.
+= Faux, le Tribunal administratif du Québec peut rendre la décision qui, à son avis, aurait dû être prise en premier lieu (art. 15, al.2 LJA.).
+Section 5 : le pouvoir du Tribunal administratif du Québec, survol des règles de preuve et de la procédure
+La Loi sur la justice administrative établit un ensemble de règles de procédure afin que le Tribunal administratif du Québec puisse statuer sur une affaire sous sa juridiction.
+Art. 17 LJA :
+Le Tribunal comporte quatre sections:
+la section des affaires sociales;
+la section des affaires immobilières;
+la section du territoire et de l’environnement;
+la section des affaires économiques.
+On doit se rapporter aux annexes pour connaitre ce que la section comprend comme recours
+Art. 99 LJA :
+Le présent chapitre édicte des règles de base qui complètent les règles générales du chapitre II du titre I propres aux décisions qui relèvent de l’exercice d’une fonction juridictionnelle.
+Art. 74 LJA :
+Le Tribunal et ses membres sont investis des pouvoirs et de l’immunité des commissaires nommés en vertu de la Loi sur les commissions d’enquête (chapitre C‐37), sauf du pouvoir d’ordonner l’emprisonnement.
+Ils ont en outre tous les pouvoirs nécessaires à l’exercice de leurs fonctions; ils peuvent notamment rendre toutes ordonnances qu’ils estiment propres à sauvegarder les droits des parties.
+Ils ne peuvent être poursuivis en justice en raison d’un acte accompli de bonne foi dans l’exercice de leurs fonctions.
+Faire une référence à l’art. 108 LJA
+Art. 108 LJA :
+En l’absence de dispositions applicables à un cas particulier, le Tribunal peut y suppléer par toute procédure compatible avec la loi ou ses règles de procédure.
+Art. 99 LJA : règles particulières au TAQ SEULEMENT
+Le présent chapitre édicte des règles de base qui complètent les règles générales du chapitre II du titre I propres aux décisions qui relèvent de l’exercice d’une fonction juridictionnelle.
+On applique les règles générales + celles particulières
+Art. 11 LJA
+Art. 100 LJA :
+Le Tribunal ne peut statuer sur une affaire sans que les parties aient été entendues ou appelées.
+Il est dispensé de cette obligation envers une partie pour faire droit à une requête non contestée. Il l’est également lorsque toutes les parties consentent à ce qu’il procède sur dossier, sous réserve de pouvoir les appeler pour les entendre.
+En outre, si une partie appelée ne se présente pas au temps fixé pour l’audience sans avoir valablement justifié son absence ou, s’étant présentée, refuse de se faire entendre, le Tribunal peut néanmoins procéder et rendre une décision.
+En cas de violation, d’un tel droit à l’al.1 : je peux invoquer l’art.10 LJA ou de manière plus particulière l’art.100 LJA
+Art. 102 LJA :
+Les parties peuvent se faire représenter par une personne de leur choix devant la section des affaires sociales, s’il s’agit d’un recours formé en vertu de la Loi visant à favoriser le civisme (chapitre C-20) ou de la Loi visant à aider les personnes victimes d’infractions criminelles et à favoriser leur rétablissement (chapitre P-9.2.1), d’un recours formé en vertu de l’article 65 de la Loi sur les accidents du travail (chapitre A-3) ou d’un recours formé en vertu de l’article 12 de la Loi sur l’indemnisation des victimes d’amiantose ou de silicose dans les mines et les carrières (chapitre I-7); néanmoins le professionnel radié, déclaré inhabile à exercer sa profession ou dont le droit d’exercer des activités professionnelles a été limité ou suspendu en application du Code des professions (chapitre C-26) ou d’une loi professionnelle ne peut agir comme représentant.
+Le ministre de l’Emploi et de la Solidarité sociale ou un organisme qui est son délégataire dans l’application de la Loi sur l’aide aux personnes et aux familles (chapitre A-13.1.1) peut se faire représenter par une personne de son choix devant la section des affaires sociales, s’il s’agit d’un recours exercé en vertu de cette loi ou de la présente loi en matière de sécurité ou soutien du revenu, d’aide et d’allocations sociales.
+Le requérant peut, devant la section des affaires sociales s’il s’agit d’un recours en matière d’immigration, se faire représenter par un parent ou par un organisme sans but lucratif voué à la défense ou aux intérêts des immigrants, s’il ne peut se présenter lui-même du fait qu’il ne se trouve pas au Québec. Dans ce dernier cas, le mandataire doit fournir au Tribunal un mandat écrit, signé par la personne qu’il représente, indiquant la gratuité du mandat.
+al.1 : Autre qu’un avocat. On peut penser à l’art. 34 de la Charte des droits et libertés 
+Art. 34 de la Charte des droits et libertés :
+Toute personne a droit de se faire représenter par un avocat ou d’en être assistée devant tout tribunal.
+Art. 106 LJA : 
+Le Tribunal peut relever une partie du défaut de respecter un délai prescrit par la loi si cette partie lui démontre qu’elle n’a pu, pour des motifs raisonnables, agir plus tôt et si, à son avis, aucune autre partie n’en subit de préjudice grave.
+Art. 107 LJA :
+Un recours formé devant le Tribunal ne suspend pas l’exécution de la décision contestée, à moins qu’une disposition de la loi ne prévoie le contraire ou que, sur requête instruite et jugée d’urgence, un membre du Tribunal n’en ordonne autrement en raison de l’urgence ou du risque d’un préjudice sérieux et irréparable.
+Si la loi prévoit que le recours suspend l’exécution de la décision ou si le Tribunal rend une telle ordonnance, le recours est instruit et jugé d’urgence.
+Pensons à la décision rendue en révision par l’organisme, soit la décision #2. Cependant, il serait possible sous requête de demander que les coûts soient suspendus. 
+Art. 108 LJA :
+En l’absence de dispositions applicables à un cas particulier, le Tribunal peut y suppléer par toute procédure compatible avec la loi ou ses règles de procédure.
+Art. 109 LJA : 
+Le Tribunal peut, par règlement adopté à la majorité de ses membres, édicter des règles de procédure précisant les modalités d’application des règles établies par le présent chapitre ou par les lois particulières en vertu desquelles les recours sont formés.
+Ces règles de procédure peuvent différer selon les sections ou, dans le cas de la section des affaires sociales, selon les matières auxquelles elles s’appliquent.
+Le règlement est soumis à l’approbation du gouvernement.
+Cette disposition habilite le TAQ à adopter des règlements
+Les règles de procédure du TAQ se trouvent au règlement
+Lorsque l’on réfère à un règlement d’un organisme, je dois regarder (1) sa loi habilitante (2) ses règlements (3) le cadre général s’il s’applique à la LJA et sinon à la Charte si elle s’applique
+Art. 5 RPTAQ :
+Lorsque la date fixée pour accomplir un acte tombe un jour férié, il peut être valablement fait le premier jour ouvrable suivant.
+Art. 6 RPTAQ :
+Dans le calcul des délais, le jour qui marque le point de départ n’est pas compté et celui de l’échéance l’est. Le délai expire le dernier jour à 24 h.
+Les jours fériés sont comptés mais le délai qui expirerait normalement un tel jour est prolongé jusqu’au premier jour ouvrable qui suit.
+Art. 33 RPTAQ :
+La partie qui a l’intention de produire un document en preuve lors de l’audience doit, au plus tard 15 jours avant celle-ci, transmettre copie du document aux parties ainsi qu’à chacun des membres du Tribunal (dons deux copies) qui composent la formation chargée de l’affaire. Une copie supplémentaire est produite s’il s’agit d’un recours relevant de la section des affaires immobilières. Les copies destinées au Tribunal sont déposées au secrétariat du Tribunal.
+Dans le cas du rapport d’un expert ou d’un document technologique au sens de la Loi concernant le cadre juridique des technologies de l’information (chapitre C-1.1), la transmission doit se faire au plus tard 30 jours avant la date de l’audience. Un avis écrit doit être joint au document technologique, indiquant à chaque partie qu’elle n’est pas tenue d’accepter le document sur un support autre que papier et qu’elle dispose de 5 jours suivant sa réception pour demander que le document lui soit transmis sur support papier. Le document sur support papier doit alors lui être transmis dans les 10 jours de la réception de la demande.
+Sauf avec la permission du Tribunal, nul témoin expert n’est entendu à moins que son rapport n’ait été produit dans les délais.
+Le Tribunal peut décider de délais différents pour assurer la bonne administration de la justice, si aucune des parties n’en subit de préjudice grave.
+Art. 110 LJA :
+Le recours au Tribunal est formé par requête déposée au secrétariat du Tribunal dans les 30 jours qui suivent la notification au requérant de la décision contestée ou qui suivent les faits qui y donnent ouverture; ce délai est cependant de 60 jours lorsque le recours concerne des matières traitées par la section des affaires sociales. Aucun délai n’est applicable dans le cas d’un recours résultant du défaut de l’autorité administrative de disposer d’une demande de révision dans le délai fixé par la loi.
+Cette requête peut également être déposée dans tout greffe de la Cour du Québec, auquel cas le greffier transmet sans délai la requête au secrétaire du Tribunal.
+Étape de la révision administrative, soit de la décision #2 de la SAAQ et je me demande dans quel délai je peux contester cette décision au TAQ. 60 jours pour contester celle de la SAAQ puisqu’elle fait partie de l’Annexe 1
+Art. 112 LJA :
+Les règles relatives aux avis prévus par les articles 76 et 77 du Code de procédure civile (chapitre C-25.01) s’appliquent, compte tenu des adaptations nécessaires, à une demande présentée au Tribunal.
+Nécessité d’aviser le procureur général 
+Art. 76 C.p.c :
+Dans une affaire civile, administrative, pénale ou criminelle, la personne qui entend mettre en question le caractère opérant, l’applicabilité constitutionnelle ou la validité d’une disposition d’une loi du Québec ou du Canada, de tout règlement pris sous leur autorité, d’un décret gouvernemental ou d’un arrêté ministériel ou de toute autre règle de droit doit en aviser le procureur général du Québec.
+Elle est aussi tenue de le faire lorsqu’elle demande, à l’encontre de l’État, de l’un de ses organismes ou d’une personne morale de droit public, une réparation fondée sur la violation ou la négation de ses droits et libertés fondamentaux prévus par la Charte des droits et libertés de la personne (chapitre C-12) ou la Charte canadienne des droits et libertés (Partie I de l’annexe B de la Loi sur le Canada, chapitre 11 du recueil des lois du Parlement du Royaume-Uni pour l’année 1982).
+Elle est enfin tenue de le faire lorsque, dans une instance, elle met en question la navigabilité ou la flottabilité d’un lac ou d’un cours d’eau ou le droit de propriété du lit ou des rives.
+Il ne peut être statué sur aucune de ces demandes sans que cet avis ait été valablement donné et le tribunal ne peut se prononcer que sur les moyens qui y sont exposés.
+Notification au procureur général de Québec ou Montréal (art. 126 C.p.c.)
+Art. 77 C.p.c. :
+L’avis au procureur général doit, pour être valablement donné, exposer de manière précise les prétentions que la personne entend faire valoir et les moyens qui les justifient et être signifié au procureur général par huissier aussitôt que possible dans l’instance, mais au plus tard 30 jours avant la mise en état de l’affaire en matière civile ou, dans les autres matières, 30 jours avant l’instruction; il doit également être accompagné de tous les actes de procédure déjà versés au dossier. Le procureur général devient alors, sans formalités, partie à l’instance et, s’il y a lieu, il peut soumettre ses conclusions sur lesquelles le tribunal doit se prononcer.
+Le procureur général peut seul renoncer au délai prévu.
+L’avis au procureur général doit également être signifié au procureur général du Canada lorsque la règle de droit ou la disposition concernée ressortit à la compétence fédérale; de même, il est notifié au directeur des poursuites criminelles et pénales si la règle ou la disposition concerne une matière criminelle ou pénale.
+Art. 115 LJA :
+Le Tribunal peut, sur requête, rejeter un recours qu’il juge abusif ou dilatoire ou l’assujettir à certaines conditions.
+Les arts. 119.6-124 LJA traitent de la possibilité de conciliation. Les arts. 125-127 LJA possibilité de tenir une conférence préparatoire. À l’art. 128 LJA on arrive à l’audience. 
+Art. 129 LJA :
+Un avis est transmis aux parties dans un délai raisonnable avant l’audience ou dans celui fixé à la loi, mentionnant:
+1°	l’objet, la date, l’heure et le lieu de l’audience;
+2°	le droit des parties d’y être assistées ou représentées, et précisant les catégories de personnes habilitées par la loi à le faire devant le Tribunal;
+3°	le pouvoir du Tribunal de procéder, sans autre avis ni délai, malgré le défaut d’une partie de se présenter au temps et au lieu fixés, s’il n’est pas justifié valablement.
+Délai raisonnable n’est pas déterminé, mais on va se demander si la personne peut raisonnablement avoir eu suffisamment de temps pour rassembler la documentation ou même d’être représenté si c’est son désir.
+Art. 131 LJA :
+Le Tribunal peut, d’office ou sur demande d’une partie, interdire ou restreindre la divulgation, la publication ou la diffusion de renseignements ou de documents qu’il indique, lorsque cela est nécessaire pour préserver l’ordre public ou si le respect de leur caractère confidentiel le requiert pour assurer la bonne administration de la justice.
+Art. 10 LJA : audition public, mais que le huit clos est possible. Art. 131 LJA complète. 
+Art. 133 LJA :
+Aucun témoin ne peut refuser, sans raison valable, de répondre aux questions qui lui sont légalement posées par le Tribunal ou par les parties.
+Toutefois, il ne peut être contraint à répondre dans les cas et aux conditions prévus par les articles 282 à 284 du Code de procédure civile (chapitre C‐25.01).
+Art. 282 C.p.c :Communication entre conjoint
+Art. 283 C.p.c. : Témoignage d’un fonctionnaire de l’État si la communication de renseignement est contraire à l’intérêt public
+Art. 284 C.p.c : Témoignage viole le secret professionnel
+Art. 134 LJA :
+Le Tribunal peut ajourner l’audience, aux conditions qu’il détermine, s’il est d’avis que l’ajournement ne causera pas de retard déraisonnable à l’instance et n’entraînera pas un déni de justice, notamment en vue de favoriser un règlement à l’amiable.
+On est devant le TAQ et un règlement est envisageable. L’ajournement pourrait permettre de favoriser une conciliation ou la conclusion d’un règlement. 
+Art. 137 LJA :
+Toute partie peut présenter tout moyen pertinent de droit ou de fait pour la détermination de ses droits et obligations.
+Art. 138 LJA :
+Le Tribunal peut subordonner la recevabilité de la preuve à des règles de communication préalable.
+Renvoi à l’art. 33 R sur la procédure du TAQ quant au dépôt d’un rapport d’expert. 
+Art. 139 LJA :
+Le Tribunal peut refuser de recevoir toute preuve qui n’est pas pertinente ou qui n’est pas de nature à servir les intérêts de la justice.
+Art. 140 LJA :
+Outre les faits dont la notoriété rend l’existence raisonnablement incontestable, le Tribunal doit, dans les domaines relevant de sa compétence, prendre connaissance d’office du droit en vigueur au Québec. Sauf dispositions contraires de la loi, doivent cependant être allégués les textes d’application d’une loi qui ne sont pas publiés à la Gazette officielle du Québec ou d’une autre manière prévue par la loi.
+Art. 141 LJA :
+Un membre prend connaissance d’office des faits généralement reconnus, des opinions et des renseignements qui ressortissent à sa spécialisation ou à celle de la section à laquelle il est affecté.
+Art. 142 LJA :
+Le Tribunal ne peut retenir, dans sa décision, un élément de preuve que si les parties ont été à même d’en commenter ou d’en contredire la substance.
+Sauf pour les faits qui doivent être admis d’office en application de l’article 140, le Tribunal ne peut fonder sa décision sur les moyens de droit ou de fait relevés d’office par un membre sans avoir au préalable invité les parties à présenter leurs observations, sauf celles d’entre elles qui ont renoncé à exposer leurs prétentions.
+Preuves ultra vires, celles non présentée.
+Les arts. 143-144 LJA récusation d’un membre. 
+L’art. 182 LJA : toute personne peut faire une plainte pour manquement déontologique. 
+Section 6 : la décision du Tribunal administratif du Québec
+Art. 145 LJA : 
+Lorsqu’une affaire est entendue par plus d’un membre, la décision est prise à la majorité des membres qui l’ont entendue. Si l’un d’eux est dissident, les motifs de son désaccord doivent y être consignés.
+Lorsque les opinions se partagent également sur une question, celle-ci est déférée au président, au vice-président responsable de la section concernée ou à un membre désigné par l’un d’eux parmi les membres pour qu’il en décide selon la loi.
+Pour le quorum, on doit se référer aux règles particulières de la section visée. 
+Art. 153 LJA :
+La décision entachée d’une erreur d’écriture ou de calcul ou de quelque autre erreur matérielle peut être rectifiée, sur dossier et sans autre formalité, par le membre qui l’a rendue.
+Si le membre est empêché ou a cessé d’exercer ses fonctions, un autre membre désigné par le président du Tribunal ou par le vice-président responsable de la section concernée peut, sur demande d’une partie, rectifier la décision.
+Art. 154 LJA :
+Le Tribunal peut, sur demande, réviser ou révoquer toute décision qu’il a rendue:
+1°	lorsqu’est découvert un fait nouveau qui, s’il avait été connu en temps utile, aurait pu justifier une décision différente;
+2°	lorsqu’une partie n’a pu, pour des raisons jugées suffisantes, se faire entendre;
+3°	lorsqu’un vice de fond ou de procédure est de nature à invalider la décision.
+Dans le cas visé au paragraphe 3°, la décision ne peut être révisée ou révoquée par les membres qui l’ont rendue.
+Révision interne de la décision du TAQ. On retrouve ce même contenu à l’art. 49 de la Loi sur le tribunal administratif du travail et dans bien d’autres lois habilitantes
+*Vice de fond*: la jurisprudence interprète comme une erreur manifeste de fait ou de droit qui a un effet déterminant sur l’issu du litige. Par exemple : absence totale de motivation, le fait d’écarter une règle de droit clair, le fait pour le TAQ de ne pas tenir compte d’une preuve pertinente. Aussi, le fait de fonder sa décision sur un élément non prouvé devant le tribunal. L’omission pour le TAQ de trancher une question en litige. De rendre une ordonnance illégale.
+Il pourra prendre diverses décisions quant à la décision #1 du TAQ, soit l’annuler, la révoquer, la remplacer, retourner le dossier au greffe du tribunal si dans le cas (2), soit qu’on juge que la partie n’a pas été entendue afin qu’une nouvelle audition soit obtenue devant un nouveau juge. Peut aussi déclarer et mettre fin au litige dans le cas de la SAAQ et affirmer par exemple que l’affaire n’est pas couverte par l’assurance automobile.
+**Possible parfois de demande une 3ème révision, soit une 2ème de celle interne et les motifs sont les même que ceux de l’art.154 LJA**
+Art. 155 LJA :
+Le recours en révision ou en révocation est formé par requête déposée au secrétariat du Tribunal dans un délai raisonnable à partir de la décision visée ou de la connaissance du fait nouveau susceptible de justifier une décision différente. La requête indique la décision visée et les motifs invoqués à son soutien. Elle contient tout autre renseignement exigé par les règles de procédure du Tribunal et indique, le cas échéant, le nom, l’adresse, ainsi que le numéro de téléphone et de télécopieur du représentant du requérant.
+Le secrétaire du Tribunal transmet copie de la requête aux autres parties qui peuvent y répondre, par écrit, dans un délai de 30 jours de sa réception.
+Le Tribunal procède sur dossier; il peut cependant, s’il le juge approprié ou si l’une des parties le demande, les entendre.
+Révision de la décision à l’interne du TAQ
+La décision visée : celle du TAQ rendue initialement
+Délai raisonnable : la jurisprudence mentionne que c’est le même délai que celui initialement pour contester devant le TAQ en référence à l’art. 110 LJA, soit un délai de 30 jours sauf pour la section des affaires sociales de 60 jours
+**Si le législateur n’avait pas prévue une telle révision : dans Chandler c Alberta Association of Archiects mentionne que pour un organisme exerçant un pouvoir quasi-judiciaire, s’il n’y a pas de texte de loi, il sera toujours possible pour cet organisme de réexaminer sa propre décision s’il y a lactus, si elle est nulle de nullité absolue, s’il y a erreur manifeste dans l’expression dans l’intention du décideur, s’il y a une omission de trancher à une question soulevée à bon droit et surtout quand il n’existe aucun appel prévue à la loi et qu’il a lieu dans l’intérêt de la justice d’offrir un redressement. Pour la LJA tournons-nous vers l’art. 159 LJA.**
+Art. 159 LJA :
+Les décisions rendues par le Tribunal dans les matières traitées par la section des affaires immobilières, de même que celles rendues en matière de protection du territoire agricole, peuvent, quel que soit le montant en cause, faire l’objet d’un appel à la Cour du Québec, sur permission d’un juge, lorsque la question en jeu en est une qui devrait être soumise à la Cour.
+Pour ces matières c’est possible, mais par exemple pour les affaires sociales, elles sont finales et sans appel
+Appel sur permission et non de plein droit (arts. 160-162 LJA) : la demande pour permission d’appeler ne suspend pas la décision. Un juge de la Cour du Québec pourrait tout de même décider de la suspend par contre.
+Selon la Cour d’appel, il n’y a pas d’appel possible d’un décision de la Cour du Québec. Si vous demandez d’aller en appel de la décision de la Cour du Québec ce n’est pas possible. Vous pouvez toujours décider d’aller en contrôle judiciaire devant la Cour supérieure. Il n’y a pas de permission octroyée pour une décision interlocutoire du TAQ sauf peut-être si cette décision a un effet définitif et final.
+Vrai/Faux
+Le Tribunal administratif du Québec peut utiliser son expertise et celle de ses membres; il pourra baser sa décision sur un élément de preuve que les parties n’ont pas été en mesure de commenter ou de contredire.
+Faux, le Tribunal administratif du Québec ne peut retenir, dans sa décision, un élément de preuve que si les parties ont été à même d’en commenter ou d’en contredire la substance (art. 142 LJA).
+Conclusion :
+LJA prévoit un cadre général qui s’applique à certaines instances, on doit toujours retourner aux critères.
+Distinction entre la fonction administrative des arts. 2-8 LJA et la fonction juridictionnelle des arts.9-13 LJA. 
+LJA créée le tribunal administratif (arts.14-200 LJA). Les règles de preuves ne s’appliquent qu’au TAQ et on doit s’en remettre à la loi habilitante de chaque instance pour connaitre les règles et procédures particulières de l’organisme en question. 
+DROITS ADMINISTRATIF -LES DROITS ET LIBERTÉS FONDAMENTAUX
+Section 1 : la protection législative des droits fondamentaux
+L’adoption de la déclaration canadienne des droits a inspiré les États de se doter d’instruments pour protéger ses citoyens. 
+Il existe 4 instruments fondamentaux :
+La Déclaration canadienne des droits, adoptée en 1960. L’art. 5(3) précise que ce ne sont que les matières de compétence législative du Parlement du Canada qui sont visées. La déclaration va rendre inopérante toute loi fédérale incompative avec elle. Si le législateur veut y déroger, il devra le prévoir expressément. S’applique tant aux lois fédérales qu’à l’administration fédérale. Son application demeure controversée entre le droit privée et le droit public. À l’art. 1a) on va trouver le droit à la jouissance des biens et de ne pas s’en voir priver. L’art. 2e) octroi le droit à une audition impartiale de sa cause
+La Charte québécoise, adoptée en 1975. Elle se situe au sommet de la hiérarchie législative. Elle s’applique tant à l’administration québécoise qu’au domaine privé de la province. 
+La Loi Canadienne sur les droits de la personne, adoptée en 1977. C’est une loi fédérale qui vient compléter la déclaration canadienne. Elle pour objet de combattre la discrimination et de combattre l’inégalité. La loi crée le tribunal canadien des droits de la personne. Elle s’applique à l’administration fédérale ainsi qu’aux rapports de droit privé qui s’établissent dans les domaines de compétences fédérales. Si la discrimination est le fait d’une loi du parlement fédéral il se pourrait que la loi canadienne ne s’applique pas, car la loi canadienne par d’acte discriminatoire. 
+La Charte canadienne des droits et libertés, adoptée en 1982. Elle fait partie intégrante de la constitution. Elle va avoir préséance sur toute autre loi, inclusion des 3 autres instruments précédemment mentionnés. La jurisprudence va avoir une grande influence sur les 3 autres instruments. 
+Quiz 
+Laquelle ou lesquelles de ces lois est (ou sont) partie intégrante de la constitution ?
+Déclaration canadienne des droits
+Charte canadienne des droits et libertés
+Charte des droits et libertés de la personne
+Déclaration canadienne des droits ET Charte canadienne des droits et libertés
+Charte canadienne des droits et libertés ET Charte des droits et libertés de la personne
+b), la Charte canadienne des droits et libertés, entrée en vigueur le 17 avril 1982, fait partie intégrante de la Constitution du Canada (art. 52 (2) de la Loi constitutionnelle de 1982). Ce trait distinctif de la Charte canadienne lui confère une préséance sur toute loi, y compris les autres lois sur les droits de la personne.
+Section 2 : L’objet, la nature et l’interprétation des chartes des droits
+La Charte canadienne est un document constitutionnel tandis que la Charte québécoise est un document que l’on qualifie de quasi-constitutionnel. L’art. 52 de la Charte canadienne que celle-ci a préséance sur toute autre loi. 
+Les arts. 1-38 de la Charte canadienne on préséance sur toute autre loi, en référence à l’art. 52 de la Charte canadienne 
+Les arts 39 et ss possible d’y déroger sans mention expresse
+Pour interpréter un droit ou une liberté, on doit d’abord définir son objet, soit les intérêts tend à protéger en tenant compte de son contexte. On va porter une attention sur 4 éléments afin d’identifier son objet tel qu’établie par la Cour suprême dans R c Big M Drug Mart Ltd. : 
+La nature et les objectifs de la Charte elle-même : par exemple la promotion de la démocratie, le respect de la dignité…
+Les origines historiques du droit ou de la liberté en cause
+Les termes de la disposition à interpréter
+Les autres droits ou libertés garantis.
+L’interprétation doit être large et libérale, doit permettre d’atteindre l’objet de la garantie et permettre notamment que le citoyen bénéficie pleinement de la protection accordée par cette garantie. 
+Le contexte permet de déterminer les limites de l’application de la Charte. Par exemple l’art. 8 de la Charte : Chacun a droit à la protection contre les fouilles, les perquisitions ou les saisies abusives. Cette protection doit être analysés sous l’angle du droit de propriété, mais également de manière à protéger la vie privée. 
+Section 3 : Les domaines d’application des chartes des droits
+Compte tenu de la préséance qui est reconnue à la Charte canadienne du fait de son statut pleinement constitutionnel, on pourrait croire que les droits qu’elle protège s’imposent à toute personne. Il n’en est rien.
+La Charte des droits et libertés de la personne 
+Elle ne vise que les matière de la compétence législative du Québec. 
+Art. 55 Charte canadienne des droits et libertés de la personne :
+La Charte vise les matières qui sont de la compétence législative du Québec.
+Elle va s’appliquer pour les rapports de droit privé entre particuliers. Par exemple : entre un commerce et un client, un locataire et un locateur et un employé et son employeur
+Art. 54 Charte canadienne des droits et libertés de la personne :
+La Charte lie l’État.
+Elle s’applique donc aussi à l’État, le gouvernement, soit les ministres, les fonctionnaires, les sociétés d’État (loto Qc, Hydro-Québec), les organismes publics (les hôpitaux, les commissions scolaires, les Universités), les tribunaux administratifs et judiciaires.
+Art. 52 Charte canadienne des droits et libertés de la personne :
+Aucune disposition d’une loi, même postérieure à la Charte, ne peut déroger aux articles 1 à 38, sauf dans la mesure prévue par ces articles, à moins que cette loi n’énonce expressément que cette disposition s’applique malgré la Charte.
+Toutes les lois du Québec sont assujetties à la charte
+Vrai/Faux
+Le Charte des droits et libertés de la personne s’applique uniquement à l’action gouvernementale.
+Faux, les termes du cinquième « Considérant » du préambule de la Charte québécoise témoignent de la volonté du législateur de protéger les droits et libertés de la personne « contre toute violation ». Plusieurs dispositions de la Charte québécoise ne laissent aucun doute sur leur application au secteur privé.
+La Charte canadienne des droits et libertés 
+Art. 32 (2) Charte canadienne des droits et libertés
+La présente charte s’applique :
+au Parlement et au gouvernement du Canada, pour tous les domaines relevant du Parlement, y compris ceux qui concernent le territoire du Yukon et les territoires du Nord-Ouest;
+à la législature et au gouvernement de chaque province, pour tous les domaines relevant de cette législature.
+(2) Par dérogation au paragraphe (1), l’article 15 n’a d’effet que trois ans après l’entrée en vigueur du présent article.
+Le Sénat, l’Assemblée générale sont aussi liés par la charte sauf si l’atteinte qu’ils portent aux droits et libertés découlent de l’exercice d’un privilège parlementaire constitutionnel. Exceptionnellement, la Charte va pouvoir s’appliquer aux rapports privés des particuliers lorsque l’acte accompli est fondé sur la loi ou lorsque l’acte a été posé à la demande ou avec l’assistance d’un acteur gouvernemental. 
+Dans Eldridge c Procureur général de la Colombie-Britannique, la Cour suprême a proposé un test en deux étapes :
+1ère étape  L’entité elle-même fait-elle partie du gouvernement en raison :
+De sa nature même ? Selon sa loi habilitante
+Du contrôle gouvernementale exercé sur elle. Par exemple : si je vois dans la loi que les membres sont nommés par un ministre, qu’un devoir pour l’entité de se conformer aux instructions d’un ministre
+Si je conclu que l’entité fait partie du gouvernement et bien, elle sera assujettie pour l’ensemble de ses activités à la Charte canadienne
+Si je n’ai pas pu conclure à ceci, je passe à l’étape 2
+2ème étape : est-ce que l’acte posé par l’entité est une fonction de nature gouvernementale 
+Par exemple : un acte qui va être posé pour la mise en œuvre d’une politique gouvernementale ou sous contrainte de la loi ou à la demande d’un ministre.
+Si l’acte est de nature gouvernementale, l’entité sera assujettie pour l’acte seulement à la charte canadienne.
+Les tribunaux judiciaires ne sont pas des entités couvertes par l’art. 32 de la Charte. Les ordonnances qu’elles donnent entre particulier ne sont donc pas assujettis. Cependant, certaines ordonnances pourraient l’être si elle a un effet sur l’ensemble des citoyens tel que des ordonnance de non-publication, celle pour protéger l’intérêt public, aussi les ordonnances pour outrage au tribunal. 
+Section 4 : Les droits et libertés dans le contexte civil 
+Art. 49 de la charte des droits et libertés de la personne :
+Une atteinte illicite à un droit ou à une liberté reconnu par la présente Charte confère à la victime le droit d’obtenir la cessation de cette atteinte et la réparation du préjudice moral ou matériel qui en résulte.
+En cas d’atteinte illicite et intentionnelle, le tribunal peut en outre condamner son auteur à des dommages-intérêts punitifs.
+4 volets :
+L’application : est-ce que le texte est applicable ? Ensuite, on va regarder le droit et la liberté en cause et on va vérifier si cette garantie est toujours valable. Dans le cas par exemple d’une renonciation ou d’une indication par le législateur à l’égard d’une dérogation expresse.
+Est-ce qu’il y a une atteinte à cette liberté ou à ce droit en cause ?
+Est-ce que cette atteinte est justifiée ?
+Si cette atteinte n’est pas justifiée, quelles sont les réparations qui peuvent être apportées ?
+Tant une conduite individuelle qu’une règle de droit peut être contraire à la Charte, soit parce que son but sont contraires ou encore ses effets inattendues. Les bonnes intentions ne pourront être tenues compte qu’au moment de la réparation. 
+Certains droits ne concernent que le droit des personnes physiques telles que le droit à la vie et à l’égalité. Un syndicat peut toutefois invoquer des droits garantis à des personnes individuelles avec leurs autorisations. Lors de poursuites criminelles, une personne morale pourra invoquer des droits qui sont ordinairement rattachés à une personne physique. 
+Section 5 :la vie, la sécurité et la liberté 
+Art. 7 de la Charte canadienne et art. 1 québécoise :
+Chacun a droit à la vie, à la liberté et à la sécurité de sa personne; il ne peut être porté atteinte à ce droit qu’en conformité avec les principes de justice fondamentale.
+L’art. 1 de la Charte québécoise à une portée plus vase
+Droit à la vie pas reconnu au fœtus 
+Droit à la liberté comporte deux volets : physique (celle de se déplacer à sa guise) et à l’autonomie (de faire des choix pour soi). Dans la Charte canadienne la portée est plus vaste puisqu’elle inclue le domaine de la vie privée. La vie privée dans la charte québécoise possède sa propre disposition à l’art. 5. 
+Droit à la sécurité ou droit à la sûreté selon la Charte québécoise : atteinte grave, équilibre physique, émotif et psychologique
+Il faut noter que la Charte canadienne garantie en outre un droit à l’intégrité, que ce soit physique ou psychologique et qu’elle se retrouve également à son art. 1 de la charte québécoise
+Art. 1 de la Charte québécoise :
+Tout être humain a droit à la vie, ainsi qu’à la sûreté, à l’intégrité et à la liberté de sa personne.
+Il possède également la personnalité juridique.
+Art. 5 de la Charte québécoise:
+Toute personne a droit au respect de sa vie privée.
+Section 6 : La nature des droits de la personnalité prévus à la Charte québécoise
+Ils visent à assurer protection de l’individualité de la personne. 
+Art. 9.1 Charte des droits et libertés de la personne :
+Les libertés et droits fondamentaux s’exercent dans le respect des valeurs démocratiques, de la laïcité de l’État, de l’ordre public et du bien-être général des citoyens du Québec.
+La loi peut, à cet égard, en fixer la portée et en aménager l’exercice.
+En harmonie avec la Charte, le C.p.c. va établir les principes de justice civile.
+Ces droits sont incessibles, non-transmissibles et on ne peut pas y renoncer sauf des exceptions relativement à l’art par exemple. Ces droits vont cesser au moment du décès. Pour un enfant pas encore né par exemple, on ne pourra pas invoquer ses droits puisqu’il n’est pas encore une personne. 
+Art. 1610 C.c.Q. :
+Le droit du créancier à des dommages-intérêts, même punitifs, est cessible et transmissible.
+Il est fait exception à cette règle lorsque le droit du créancier résulte de la violation d’un droit de la personnalité; en ce cas, son droit à des dommages-intérêts est incessible, et il n’est transmissible qu’à ses héritiers.
+Section 7 : Les différents droits de la personnalité 
+Droit à la dignité 
+Art. 4 de la Charte québécoise :
+Toute personne a droit à la sauvegarde de sa dignité, de son honneur et de sa réputation.
+Dépasse le droit au respect puisqu’il s’y rattache la sauvegarde de ce droit 
+Appréciation objective
+Droit à l’autonomie
+Pas prévu dans la Charte, mais une création de la jurisprudence. Pour les personnes vulnérables, il existe l’art. 257 C.c.Q. 
+Caractère volontaire de la personne, car elle peut mesurer les conséquences de ses actes
+Droit à la vie
+Art. 1 de la Charte québécoise et
+Art. 3 C.c.Q. :
+Toute personne est titulaire de droits de la personnalité, tels le droit à la vie, à l’inviolabilité et à l’intégrité de sa personne, au respect de son nom, de sa réputation et de sa vie privée.
+Ces droits sont incessibles.
+Droit à l’intégrité
+Art. 1 de la Charte québécoise et
+Art. 3 et 10 C.c.Q. :
+Toute personne est inviolable et a droit à son intégrité.
+Sauf dans les cas prévus par la loi, nul ne peut lui porter atteinte sans son consentement libre et éclairé.
+Ça prend un consentement libre et éclairé ou une autorisation de la loi 
+Elle peut être le fait de la personne elle-même par sa déficience
+Droit à l’inviolabilité
+Art. 3 et 10 C.c.Q.
+Se rattache aux droits à l’intégrité et à l’autonomie
+Est le fait d’une tierce personne
+Les exceptions légales à ce droit se justifie par le droit de l’individu à préserver son intégrité
+Les droits à la sécurité et à la sûreté
+Art. 1 Charte québécoise pour la sûreté 
+Art. 39 Charte québécoise protection de l’enfant 
+Art. 48 Charte québécoise protection des personnes âgées
+Droit à la liberté 
+Art. 1 Charte québécoise
+Art. 24 Charte québécoise :
+Nul ne peut être privé de sa liberté ou de ses droits, sauf pour les motifs prévus par la loi et suivant la procédure prescrite.
+Droit au respect de la vie privée
+Art. 5 Charte québécoise
+Art. 3 et 35 et ss C.c.Q. :
+Toute personne a droit au respect de sa réputation et de sa vie privée.
+Nulle atteinte ne peut être portée à la vie privée d’une personne sans que celle-ci y consente ou sans que la loi l’autorise.
+Art. 36 C.c.Q. 
+Peuvent être notamment considérés comme des atteintes à la vie privée d’une personne les actes suivants:
+1°	Pénétrer chez elle ou y prendre quoi que ce soit;
+2°	Intercepter ou utiliser volontairement une communication privée;
+3°	Capter ou utiliser son image ou sa voix lorsqu’elle se trouve dans des lieux privés;
+4°	Surveiller sa vie privée par quelque moyen que ce soit;
+5°	Utiliser son nom, son image, sa ressemblance ou sa voix à toute autre fin que l’information légitime du public;
+6°	Utiliser sa correspondance, ses manuscrits ou ses autres documents personnels.
+Ce droit peut être restreint par la liberté d’expression et d’opinion, par le droit du public à l’information. 
+Droit à l’image 
+Lié au respect à la vie privée, aux droits à la dignité, à l’honneur et à la réputation. Cependant, il n’est pas reconnu législativement.
+Ce droit peut être limité par la liberté d’expression, pas le droit à l’information et pas l’intérêt public. 
+Droits à l’honneur et à la réputation
+Art. 4 Charte québécoise
+Lié à la dignité. Devoir de sauvegarde qui s’impose alors dépasse le simple respect. 
+Peut être limité par labilité d’expression, de presse, le droit du public à l’information
+Considéré de manière indissociable.
+L’honneur : perception que la personne a d’elle-même, évaluation subjective et pas de l’opinion publique
+Réputation mentionnée aux arts. 3 et 35 C.c.Q. Fait appel à l’opinion publique, à l’idée de renommée
+Droit au nom et au respect du nom
+Un élément de la personnalité, mais aussi de l’état. 
+Art. 3 et 55 C.c.Q.
+Peut être cessible et transmissible lorsqu’il a atteint un caractère commercial
+Droit à la jouissance et à la libre disposition de ses biens 
+Art. 6 Charte québécoise :
+Toute personne a droit à la jouissance paisible et à la libre disposition de ses biens, sauf dans la mesure prévue par la loi.
+Droit moindre que les autres, car il est assujetti à une limitation. Peut être utile pour déterminer le régime de protection ne plus adaptée pour une personne vulnérable.
+Section 8 : Les libertés fondamentales
+La liberté d’expression 
+Art. 3 Charte québécoise :
+Toute personne est titulaire des libertés fondamentales telles la liberté de conscience, la liberté de religion, la liberté d’opinion, la liberté d’expression, la liberté de réunion pacifique et la liberté d’association.
+Protège celui qui reçoit ou qui veut y avoir accès. Toutes les formes sont protégées sauf la violence ou la fonction où l’on souhaite l’exprimer demeure incompatible avec l’expression. Par exemple, si on souhaite s’exprimer dans l’enceinte de propriétés gouvernementales. 
+État a une obligation de non-ingérence, mais dans certaines situations le gouvernement peut se voir offrir aux gens une meilleure accessibilité 
+La liberté de religion 
+De croire ce que l’on veut, de propager ses croyances et de respecter la croyance subjective et objective. Par exemple, le port de vêtement religieux, jour à caractère religieux, ne pas se voir imposer les croyances et pratiques d’une autre religion. 
+Il faut que la personne prouve une croyance est sincère, objectivement observable 
+La liberté d’association
+Droit de constituer une association et protège les activités de celle-ci. Aussi, le droit de ne pas s’associer dans le cas où une institution imp0oserait une contrainte idéologique substantielle sur un individu. 
+Section 9 : Les droits à l’égalité
+Art. 10 Charte québécoise :
+Toute personne a droit à la reconnaissance et à l’exercice, en pleine égalité, des droits et libertés de la personne, sans distinction, exclusion ou préférence fondée sur la race, la couleur, le sexe, l’identité ou l’expression de genre, la grossesse, l’orientation sexuelle, l’état civil, l’âge sauf dans la mesure prévue par la loi, la religion, les convictions politiques, la langue, l’origine ethnique ou nationale, la condition sociale, le handicap ou l’utilisation d’un moyen pour pallier ce handicap.
+Il y a discrimination lorsqu’une telle distinction, exclusion ou préférence a pour effet de détruire ou de compromettre ce droit
+Art. 15 (1) Charte canadienne :
+15 (1) La loi ne fait acception de personne et s’applique également à tous, et tous ont droit à la même protection et au même bénéfice de la loi, indépendamment de toute discrimination, notamment des discriminations fondées sur la race, l’origine nationale ou ethnique, la couleur, la religion, le sexe, l’âge ou les déficiences mentales ou physiques.
+Une personne qui estime être victime de discrimination doit prouver 3 éléments :
+Doit prouver qu’elle a fait l’objet d’une préférence, d’une distinction ou d’une exclusion
+Doit déterminer que cette préférence, distinction ou exclusion est fondé sur un des motifs énumérés à l’art. 10 ou sur l’un des motifs énumérés ou analogues de l’art. 15
+La personne s’estimant victime doit déterminer qu’il en ai résulté un préjudice.
+Une atteinte à la dignité n’est plus nécessaire depuis 2018 pour déterminer s’il y a eu une atteinte à l’égalité. 
+Art. 15(2) Charte québécoise :
+Le paragraphe (1) n’a pas pour effet d’interdire les lois, programmes ou activités destinés à améliorer la situation d’individus ou de groupes défavorisés, notamment du fait de leur race, de leur origine nationale ou ethnique, de leur couleur, de leur religion, de leur sexe, de leur âge ou de leurs déficiences mentales ou physiques.
+Ne seront ainsi pas jugé discriminatoire à leur tour ! 
+Vrai/Faux
+Le principe d’égalité limite la capacité du gouvernement à légiférer et à octroyer des accommodements à un groupe d’individus afin d’amoindrir les inconvénients vécus en raison d’un handicap, par exemple.
+Faux, le paragraphe 15 (2) de la Charte québécoise des droits et libertés prévoit que le droit constitutionnel à l’égalité « n’a pas pour effet d’interdire les lois, programmes ou activités destinés à améliorer la situation d’individus ou de groupes défavorisés, notamment du fait de leur race, de leur origine nationale ou ethnique, de leur couleur, de leur religion, de leur sexe, de leur âge ou de leurs déficiences mentales ou physiques ».
+Section 10 : les limites aux droits et libertés
+Possible d’y renoncer : de manière libre, éclairé, sans équivoque et volontaire. Le législateur peut décider d’y déroger. La Charte québécoise lui octroie ce pouvoir à l’art 52 et en ce qui concerne la Charte canadienne, l’art. 33 aux arts 2 et 7-15. Dans tous les cas, la dérogation devra être faite au moyen d’une disposition législative expresse. À défaut d’une telle dérogation expresse, toutes les lois doivent être compatibles sous peine d’être déclarée inopérante. 
+Le gouvernent pourrait tenter de justifier une atteinte au regard de Oakes ou encore de la jurisprudence qui découle de l’art. 9.1 de Charte québécoise :
+Il y a 5 critères :
+Est-ce qu’il existe ou non une véritable « règle de droit » ou « loi » ? 
+Exclu les politiques et les règlements internes 
+Quelle est l’importance de l’objectif de la règle de droit contestée ?
+Est-ce qu’il existe un lien rationnel entre cet objectif et les moyens législatifs pris pour l’atteindre ? 
+En quoi consiste la nature de l’atteinte aux droits, laquelle doit être minimale ?
+La proportionnalité entre les effets préjudiciables et les effets bénéfiques de la règle de droit contestée, eu égard à l’importance de l’objectif qu’elle poursuit. 
+Dans le cas où l’atteinte ne provient pas d’une règle de droit, mais par exemple d’une conduite administrative, le test de l’art. 1 ne s’applique pas. 
+En ce qui concerne la Charte québécoise, l’art. 9.1 ne s’applique qu’aux arts. 1-9 de la Charte. De plus, tout comme la Charte canadienne si l’atteinte ne concerne pas une règle de droit et bien, les tribunaux devront réaliser un examen pondéré des effets. 
+Section 11 : La mise en œuvre des droits et libertés en vertu de la Charte québécoise 
+Art. 49 Charte québécoise :
+Une atteinte illicite à un droit ou à une liberté reconnu par la présente Charte confère à la victime le droit d’obtenir la cessation de cette atteinte et la réparation du préjudice moral ou matériel qui en résulte.
+En cas d’atteinte illicite et intentionnelle, le tribunal peut en outre condamner son auteur à des dommages-intérêts punitifs.
+Faute, préjudice et lien de causalité 
+Possibilité d’obtenir une ordonnance d’agir dans un sens déterminer même en l’absence de faute 
+al.2 : voulu causer le préjudice ou une connaissances des conséquences fortement probables. Dommages peuvent être obtenu indépendamment.
+Exclusion de la preuve pas possible en vertu de la Charte.
+Art. 2858 C.c.Q. :
+Le tribunal doit, même d’office, rejeter tout élément de preuve obtenu dans des conditions qui portent atteinte aux droits et libertés fondamentaux et dont l’utilisation est susceptible de déconsidérer l’administration de la justice.
+Il n’est pas tenu compte de ce dernier critère lorsqu’il s’agit d’une violation du droit au respect du secret professionnel.
+Tribunaux doivent pondérés deux valeurs : la recherche de la vérité et la protection des droits fondamentaux
+Plus la violation est grave, plus les tribunaux seront enclins d’exclure un élément de preuve
+Art. 52 Charte canadienne :
+Permet de faire déclarer inopérante une loi. 
+Une loi déclarée inopérante en vertu de la Charte québécoise n’aura pas pour effet contrairement à celle canadienne de l’annuler. 
+Pour faire une plainte en matière de discrimination le demandeur doit suivre l’art. 74 et 78 de la Charte québécoise. 
+Art. 74 Charte québécoise :
+Peut porter plainte à la Commission toute personne qui se croit victime d’une violation des droits relevant de la compétence d’enquête de la Commission. Peuvent se regrouper pour porter plainte, plusieurs personnes qui se croient victimes d’une telle violation dans des circonstances analogues.
+La plainte doit être faite par écrit.
+La plainte peut être portée, pour le compte de la victime ou d’un groupe de victimes, par un organisme voué à la défense des droits et libertés de la personne ou au bien-être d’un groupement. Le consentement écrit de la victime ou des victimes est nécessaire, sauf s’il s’agit d’un cas d’exploitation de personnes âgées ou handicapées prévu au premier alinéa de l’article 48.
+Une fois la plainte déposer, la Commission des droits de la personne et de la jeunesse vont procéder à un examen préliminaire de la plainte en discrimination pour savoir si elle est recevable en vertu de l’art. 78. 
+Si la plainte est recevable, la commission va procéder à des mesures de redressement. Si l’auteur de la discrimination n’agit pas, la Commission pourra saisir le tribunal des droits de la personne et ce n’est que la Commission qui peut saisir le tribunal en vertu de l’art. 111 de la Charte québécoise.
+Ce jugement du tribunal est sujet à un appel sur permission à la Cour du Québec en vertu de l’art. 132 de la Charte québécoise 
+L’art. 84, al.2 Charte québécoise prévoit un contexte dans lequel la victime pourrait saisir le tribunal lorsque la Commission avait jugé que la plainte était suffisante, la preuve suffisante et qu’il y avait discrimination, mais que pour une quelconque raison, ça ne s’est pas rendue au tribunal
+Dans tous les cas, la victime conserve ses recours en droit commun. Le cumul des recours n’est pas permis, mais que le dépôt d’une plainte à la Commission suspend les délais ordinaires. 
+Vrai/Faux
+En matière de dommages, la Cour doit nécessairement accorder des dommages-intérêts compensatoires avant d’accorder des dommages-intérêts punitifs.
+Faux, des dommages-intérêts punitifs peuvent être attribués même dans des cas où il n’y a pas lieu d’octroyer des dommages-intérêts compensatoires (de Montigny c. Brossard (Succession), [2010] 3 R.C.S. 64).
+Art. 24 Charte canadienne :
+(1) Toute personne, victime de violation ou de négation des droits ou libertés qui lui sont garantis par la présente charte, peut s’adresser à un tribunal compétent pour obtenir la réparation que le tribunal estime convenable et juste eu égard aux circonstances.
+(2) Lorsque, dans une instance visée au paragraphe (1), le tribunal a conclu que des éléments de preuve ont été obtenus dans des conditions qui portent atteinte aux droits ou libertés garantis par la présente charte, ces éléments de preuve sont écartés s’il est établi, eu égard aux circonstances, que leur utilisation est susceptible de déconsidérer l’administration de la justice.
+S’apparente à l’art. 49 de la Charte québécoise sauf que son statut constitutionnel est meilleur que celui civil
+Comme dans le cas de l’art. 2858 C.c.Q., le (2) n’octroie pas une exclusion automatique. 
+Une réparation convenable et juste nécessite une analyse de 5 éléments :
+La réparation doit permettre de défendre efficacement les droits constitutionnels
+En fonction de la nature du droit violé et l’expérience vécu par le demandeur
+La réparation doit fait appel à des moyens légitimes tout en respectant la séparation des pouvoirs législatifs, exécutifs et judiciaires
+La réparation doit être judiciaire et mettre à contribution le rôle et les pouvoirs du tribunal tout en tenant compte de ses limites de ses capacités institutionnelles
+La réparation doit être équitable pour la partie visée par l’ordonnance
+Les tribunaux doivent favoriser une approche judiciaire, novatrice et souple. 
+Dans certaines circonstances, la réparation adéquate sera l’octroi de dommages et intérêts alors que dans d’autres cas, ce sera une déclaration de nullité d’une décision rendue par l’autorité de son pouvoir discrétionnaire. C’est possible notamment de prononcer une ordonnance enjoignant à un représentant de l’État d’exercer sa discrétion en conformité avec la Charte canadienne. Finalement, le tribunal pourrait se limiter à déclarer qu’un droit a été violé. 
+Art. 52 (1) Charte canadienne :
+La Constitution du Canada est la loi suprême du Canada; elle rend inopérantes les dispositions incompatibles de toute autre règle de droit.
+Permet de neutraliser la disposition déclarée inopérante
+Les tribunaux hésitent à donner un effet rétroactif à leur décision. Possible que la réparation n’ait un effet seulement pour l’avenir. On doit se demander s’il y a eu une modification fondamentale du droit et si oui est-ce que le gouvernement a interprété de bonne foi cette disposition invalidée. Deuxièmement, on va se demander si ce n’est pas plus équitable pour les parties de limiter la rétroactivité de la réparation. Troisièmement, on va se demander si l’octroi d’une réparation rétroactive empiète sur les droits de l’État. Quoi qu’il en soit une loi peut être déclarée invalide ou inopérante à cause de son contenu même ou la loi omet des dispositions requises
+Les tribunaux pourraient ainsi décider d’annuler en tout ou en partie la loi, privilégié une interprétation large de la loi ou une interprétation atténuée
+Enfin, le tribunal pourra suspendre l’effet de la déclaration d’invalidité. 
+Section 12 : Les tribunaux administratifs et les Chartes 
+Les tribunaux administratifs ont généralement le pouvoir de se prononcer sur une atteinte protégées par les Chartes. Dès qu’un tribunal administratif prévoit qu’il peut trancher une question de droit, on va présumer que ce tribunal peut se prononcer sur l’ensemble du droit. 
+Si ce pouvoir de trancher des questions de droit n’apparait pas expressément à la loi habilitante, on doit vérifier s’il ne s’infère pas de la nature et des fonctions du tribunal en cause, du mandat, son expertise et sur la procédure applicable. Si on le prive, est-ce qu’il pourrait tout de même accomplir sa mission ? 
+La décision d’invalider une loi n’équivaut pas à une déclaration d’invalidité par la cour supérieure ! La décision ne lie que les parties à l’instance. Si le demandeur recherche une réparation personnelle devra chercher à savoir si le tribunal a le pouvoir de l’octroyer.
+DROITS ADMINISTRATIF – LE CONTRÔLE JUDICIAIRE ET LES RECOURS EN DROIT QUÉBÉCOIS
+Section 1 : L’historique et les fondements du contrôle judiciaire
+Le contrôle judiciaire de l’Administration constitue l’un des principes fondamentaux du droit public. Il est reconnu dans les lois constitutionnelles ainsi que dans la Charte des droits et libertés de la personne. Les grands principes sont tirés par la Common law. 
+Le droit en vigueur en matière de contrôle judiciaire évolue constamment. En 2008, il y a eu la décision Dunsmuir c Nouveau-Brunswick et ensuite Vavilov en 2019 est le droit applicable. 
+Au Québec, c’est la Cour supérieure qui s’occupe du contrôle judiciaire. 
+Dunsmuir :
+Simplification de la détermination de la norme de contrôle en deux étapes : vérifier si dans la jurisprudence, les tribunaux ont déjà tranchés le litige quant à la norme de contrôle. C’est cette recherche demeurait infructueuses, il y avait une seconde étape en analysant plusieurs facteurs
+On a passé à 3 normes de contrôle alors qu’avant il y avait la norme de contrôle correct, simplicitaire, manifestement déraisonnable, raisonnable…
+Vavilov :
+Interprétation de la Loi sur la citoyenneté. Vavilov n’étant pas satisfait de la décision de la greffière de la citoyenneté canadienne a porté sa décision en contrôle judiciaire devant la Cour fédérale. La Cour fédérale a jonglé entre la norme de la décision correcte et la norme de la décision raisonnable et a rejeté la demande de contrôle judiciaire. Vavilov porte appel de cette décision à la Cour d’appel fédérale. Celle-ci renverse la décision de la Cour fédérale et le ministre de la citoyenneté fédérale a porté cette décision à la Cour suprême.
+Contrôle judiciaire : ne cherche pas si c’est la bonne décision, mais si la décision a été rendue conformément à la loi. 
+La Cour suprême tente de resimplifier la détermination de la norme de contrôle
+En matière de contrôle judiciaire, l’art. 34 C.p.c. mentionne qu’il s’agit d’un pouvoir partagé.
+Art. 34 C.p.c. : 
+La Cour supérieure est investie d’un pouvoir général de contrôle judiciaire sur les tribunaux du Québec autres que la Cour d’appel, sur les organismes publics, sur les personnes morales de droit public ou de droit privé, les sociétés et les associations et les autres groupements sans personnalité juridique.
+Ce pouvoir ne peut s’exercer dans les cas que la loi exclut ou qu’elle déclare être du ressort exclusif de ces tribunaux, personnes, organismes ou groupements, sauf s’il y a défaut ou excès de compétence.
+La cour est saisie au moyen d’un pourvoi en contrôle judiciaire.
+En certaines matières comme c’est le cas de l’office fédéral, et bien ce sera la Cour fédéral et la Cour d’appel fédéral qui seront investi de ce pouvoir général. Cependant, ce sera tout de même la Cour supérieure demeurera détentrice du pouvoir général de contrôle judiciaire pour les questions d’habeas corpus, lorsque le droit à la liberté physique est en jeu ou pour des questions purement constitutionnelles. 
+3 grandes catégories menant à l’ouverture d’un pourvoi en contrôle judiciaire :
+L’absence de compétence
+La violation des garanties procédurales
+L’illégalité relative au contenu de la décision
+Section 2 : L’absence de compétence (Catégorie 1)
+En suivant une démarche qui suit les phases du processus décisionnel de l’Administration, on peut ranger l’absence de compétence en 3 catégories :
+ 1 -	L’absence de compétence matérielle
+ 2 -	L’absence de compétence personnelle
+ 3 -	Les autres cas d’absence de compétence
+L’absence de compétence matérielle
+C’est dans les textes de lois que l’on peut valider si l’instance a la compétence. Quels sont les domaines d’intervention et quels pouvoirs peuvent être exécutés. D’abord, on va regarder si la disposition est suffisamment précise. 
+L’absence de compétence personnelle et les autres cas d’absence de compétence
+Le décideur est habileté à agir. D’abord, on va regarder les qualités et l’expérience du décideur. Ensuite, de l’absence de conflit d’intérêt et de son indépendance en parallèle avec l’art. 23 de la Charte québécoise.
+Art. 23 Charte québécoise :
+Toute personne a droit, en pleine égalité, à une audition publique et impartiale de sa cause par un tribunal indépendant et qui ne soit pas préjugé, qu’il s’agisse de la détermination de ses droits et obligations ou du bien-fondé de toute accusation portée contre elle.
+Le tribunal peut toutefois ordonner le huis clos dans l’intérêt de la morale ou de l’ordre public.
+Art. 56 Charte québécoise :
+1.	Dans les articles 9, 23, 30, 31, 34 et 38, dans le chapitre III de la partie II ainsi que dans la partie IV, le mot «tribunal» inclut un coroner, un commissaire-enquêteur sur les incendies, une commission d’enquête et une personne ou un organisme exerçant des fonctions quasi judiciaires.
+2.	Dans l’article 19, les mots «traitement» et « salaire » incluent les compensations ou avantages à valeur pécuniaire se rapportant à l’emploi.
+3.	Dans la Charte, le mot «loi» inclut un règlement, un décret, une ordonnance ou un arrêté en conseil pris sous l’autorité d’une loi.
+Ensuite, je dois m’assurer du respect du mode de nomination des membres ou des décideurs du tribunal administratif. Aussi, je dois m’assurer du respect des règles encadrant la composition d’une formation collégiale et du quorum prévu par la loi. Par exemple dans la LJA, le TAQ en matière d’indemnisation nécessite la présence de trois décideurs, dont l’un médecin, l’autre avocat et d’un dernier notaire. (Art 40 de la LJA)
+Si le décideur ne possède pas l’une des deux compétences (matérielle ou professionnelle), ce sera un levier vers un contrôle judiciaire en Cour supérieure. 
+Il y a aussi d’autres considérations pouvant être prises en compte, soit des considération de formes, de lieu et de temps. La forme : si les dispositions imposent certaines procédures préalables. De lieu : compétence limitée à un certain territoire parfois. De temps : la norme applique doit être valide en tout temps. En tout temps le décideur doit avoir la compétence pour agir et prendre sa décision. 
+Section 3 : La violation des garanties procédurales (Catégorie 2)
+La portée de l’exigence de la procédure contradictoire
+Avant de recourir aux Chartes et aux principes généraux du droit qui exigent une procédure contradictoire, il faut vérifier la loi et les règlements ou les règles de procédure ainsi que la Loi sur la justice administrative.
+Dans Vavilov, la Cour n’aborde par cette violation alors, on doit en comprendre que l’état du droit n’a pas changé quant à celle-ci. Ce sera la norme de la décision correcte qui s’appliquera ou son équivalent. 
+Ces garanties se trouvent dans les dispositions applicables en commençant avec la LJA, ensuite la loi habilitante et les Chartes ainsi que les principes généraux de droit et de justice procédurale
+S’il s’agit d’un pouvoir juridictionnelle, je vais d’abord dans la LJA aux arts. 9-13 LJA
+Si je ne trouve pas de garantie procédurale dans la LJA ou qu’elle n’est pas applicable, je me réfère au Chartes (art.11 Charte canadienne ou art. 23 Charte québécoise)
+Et si rien d’applicable, je me tourne vers les principes généraux de droit et de justice procédurale (common law et d’équité procédurale). Si je suis devant un pouvoir quasi-judiciaire, ses garanties procédurales seront davantage contraignantes alors que si c’est un pouvoir discrétionnaire, l’autorité n’aura qu’à démontrer qu’elle a agi équitablement pour valider l’acte.
+Plusieurs facteurs permettent d’établir la contraignabilité grâce à l’arrêt Baker. Ces facteurs doivent être mis en balance et aucun de ceux-ci n’a plus de poids que les autres.
+La nature de la décision et le processus pour y parvenir;
+Le régime législatif et les termes de la loi régissant le décideur;
+L’impact de la décision pour la personne visée;
+Les attentes légitimes de cette personne;
+L’instance établie à la base des règles du jeux alors, la personne s’attends à ce que l’instance les respectent. 
+La seule réparation sera d’ordre procédurale. 
+Le choix de procédure par le décideur.
+Les garanties sont en place afin que la personne puisse exposer son point de vue même de manière informelle. Le législateur pourrait adopter une disposition expresse écarter l’application d’une violation d’une garantie procédure et c’est pour ça que l’on doit se référer aux dispositions applicables.
+Le contenu des garanties procédurales
+b.1.	Le droit d’être entendu 
+De manière formelle ou informelle. C’est beaucoup plus que simplement lui permettre de faire ses observations, on va s’assurer que l’autorité administrative a donné un avis relativement à l’audience et que cet avis est suffisamment clair pour localiser l’autorité administrative et pour connaitre la procédure. Aussi, qu’il a bien été mis au courant des faits et des preuves qui seront utilisés contre lui. L’administré pourra à son tour présenté des faits et être entendues. En ce sens, l’art. 34 charte québécoise trouve application puisque l’autorité devra informer l’administré qu’il a le droit d’être représenté si c’est son désir. Le droit d’être entendue englobe le droit de l’administré de présenter toute preuve pertinence sans que le décideur sans motif valable d’écarter ceux-ci. Ce sera également le droit de l’administré d’interroger, de contre-interrogé et soulever toute contradiction déposée en preuve. Le droit de l’administré de recevoir une décision, qui elle devra être motivée ou justifiée. Il y a une différence entre la suffisance de motif et l’absence de motif. C’est SEULEMENT en cas d’absence de motivation qu’il y aura l’ouverture d’un contrôle judiciaire. Ce sera sous la norme de la décision correcte que cette violation sera évaluée. 
+Voici deux exemples tirées de la LJA.
+Art. 5 LJA :
+L’autorité administrative ne peut prendre une ordonnance de faire ou de ne pas faire ou une décision défavorable portant sur un permis ou une autre autorisation de même nature, sans au préalable:
+[…]
+3°	lui avoir donné l’occasion de présenter ses observations et, s’il y a lieu, de produire des documents pour compléter son dossier.
+[…]
+Art. 6 LJA :
+L’autorité administrative qui, en matière d’indemnité ou de prestation, s’apprête à prendre une décision défavorable à l’administré, est tenue de s’assurer que celui-ci a eu l’information appropriée pour communiquer avec elle et que son dossier contient les renseignements utiles à la prise de décision. Si elle constate que tel n’est pas le cas ou que le dossier est incomplet, elle retarde sa décision le temps nécessaire pour communiquer avec l’administré et lui donner l’occasion de fournir les renseignements ou les documents pertinents pour compléter son dossier.
+Elle doit aussi, lorsqu’elle communique la décision, informer, le cas échéant, l’administré de son droit d’obtenir, dans le délai indiqué, que la décision soit révisée par l’autorité administrative.
+Art. 10 LJA : fonction juridictionnelle
+L’organisme est tenu de donner aux parties l’occasion d’être entendues.
+Les audiences sont publiques. Toutefois, le huis clos peut être ordonné, même d’office, lorsque cela est nécessaire pour préserver l’ordre public.
+Le TAQ devra accorder à l’administré une audience. 
+Qu’est-ce qui se passe si l’autorité administrative qui exerce un pouvoir quasi-judicaire ne répond pas aux critères de l’art. 9 LJA ? 
+Pas de souci, je me réfère à l’art. 23 de la Charte québécoise, qui lui prévoit le droit à une audience public devant un tribunal indépendant. Aussi, à l’art. 56 Charte québécoise précise que le mot tribunal énoncé à l’art. 23 inclue une autorité exerçant une autorité quasi-judiciaire. 
+Les règles de preuves sont garantes d’une certaine souplesse. Le TAQ accepte la preuve par ouï-dire, mais le décideur ne pourra se servir de cette seule pour motiver sa décision. 
+L’impartialité du décideur (arts.7 et 11 Charte canadienne et art.23 Charte québécoise). À partir du moment que j’ai une crainte de partialité je pourrais soulever ce moyen de procédure en contrôle judiciaire. Ça prend des faits sérieux puisque les décideurs possèdent une présomption d’impartialité. Le fardeau requis est assez lourd et cette crainte doit être soulevée à la première occasion.
+Par exemple : décision dictée par un tiers, si la décision du décideur fait suite à une réunion pléniaire qui a retardé le sort de la décision. (On regarde seulement l’apparence de l’impartialité, pas l’impartialité réel)
+Autres vices de formes : on peut penser à l’absence d’une enquête au préalable ou au défaut d’une signature. 
+Vrai/Faux
+La preuve par ouï-dire n’est pas admise par un tribunal administratif.
+Faux, la preuve par ouï-dire pourra être admise par un tribunal administratif. Il faudra cependant que cette preuve ne soit pas le fondement essentiel de la décision. (Thibault c. Tribunal administratif du Québec, REJB 2003-47695, C.S.)
+Les cas d’exception
+L’état d’urgence ou de nécessité
+L’abandon d’un droit : une partie pourrait renoncée à soulever une garantie procédurale. Si une partie ne soulève pas suffisamment tôt par exemple sa crainte de partialité et bien, la cour pourrait en inférer qu’elle a renoncé au droit de la soulever et ainsi elle ne pourrait pas non plus l’invoquer comme motif en contrôle judiciaire. Si c’est la cour d’appel qui est choisi expressément dans la loi et bien celle-ci devra faire preuve d’une grande retenue. 
+Section 4 : L’illégalité relative au contenu de la décision (Catégorie 3)
+En plus des questions portant sur la compétence du décideur et la procédure suivie, le contrôle judiciaire s’étend également à la légalité interne des actes administratifs.
+Dans Vavilov, il y a maintenant une présomption à l’effet que c’est la norme de la décision raisonnable qui s’applique dans le cadre d’un contrôle judiciaire SAUF EXCEPTIONS. On pourra toujours par contre se référer aux décisions antérieures pour analyser la raisonnabilité d’une décision.
+L’existence ou l’inexistence d’une clause privative
+Le gouvernement ou le législateur ne peuvent pas abolir le contrôle judiciaire. Toutefois, il peut limiter la portée du contrôle judiciaire par des clauses privatives. Par exemple, l’art. 158 LJA. 
+Art. 158 LJA :
+Sauf sur une question de compétence, aucun pourvoi en contrôle judiciaire prévu au Code de procédure civile (chapitre C‐25.01) ne peut être exercé, ni aucune injonction accordée contre le Tribunal ou l’un de ses membres agissant en sa qualité officielle.
+Tout juge de la Cour d’appel peut, sur demande, annuler par procédure sommaire les jugements, ordonnances ou injonctions prononcés à l’encontre du présent article.
+Plus grande déférence de la cour de contrôle en présence d’une clause privative. Ici, on vise l’absence de compétence, l’excès de compétence qui constitue le 2ème cas d’ouverture en violation des garantie procédurale et le 3ème cas est l’illégalité relative au contenu
+Section 5 : Les normes de contrôle
+Depuis l’arrêt Dunsmuir, la Cour suprême a réduit de 3 à 2 le nombre de normes de contrôle, soit la décision correcte et la décision raisonnable.
+Il existe une présomption à l’effet que ce sera la norme de la raisonnabilité qui trouve application. Voici les deux cadres d’exceptions à l’application de la norme de la décision raisonnable :
+Le législateur a par l’adoption d’une disposition législative prévue l’application d’une norme autre que celle de la raisonnabilité. Le législateur a prévu un processus d’appel. À ce moment-là, on affirme que la norme de la raisonnabilité ne trouve pas application.
+La catégorie des questions touchant les principes de droit général. Ce cadre a été divisé en 3 sous-catégories :
+Les questions constitutionnelles  Application de la norme de la décision correcte
+Les questions de droit général ayant une importance capitale pour le système juridique dans son ensemble  Application de la norme de la décision correcte
+La délimitation des compétences entre deux organismes administratifs distinct  Application de la norme de la décision correcte
+Quand nous avons la norme de décision correcte qui s’applique, la cour de contrôle doit se poser la question « Est-ce que l’instance administrative a rendu la bonne décision? » --- non? elle doit corriger le tir pour rendre la bonne décision. 
+La norme de la décision raisonnable
+Fusion de la norme simplicitaire et de la norme manifestement déraisonnable. Présomption de l’application de la norme de la raisonnabilité. 
+Le décideur a devant lui un large spectre de décision au quelle il peut opter. Le décideur devra choisir l’une ou l’autre tant qu’il justifie de manière raisonnable sa décision. On regarde non seulement la conclusion, mais également les motifs. 
+Si le législateur a confié à des instances administratives certaines question, alors les cours de contrôle doivent agir avec une certaine retenu dans les instances et intervenir seulement dans des rare cas exceptionnels.
+Une plus grande déférence est demandée aux instances administratives. L’objectif n’est pas de se substituer, mais de vérifier si la décision rendue est conforme à la loi lorsque la cour de contrôle exerce la NDR, pas de voir si nous avons rendu la bonne décision. 
+Exemples :
+Questions de faits;
+L’abus de pouvoir discrétionnaire;
+Questions mixtes de faits et de droit;
+Questions de compétences matérielles et personnelles qu’il ne faut pas confondre avec questions délimitant la compétence entre 2 organismes; Donc erreur de compétence dans l’interprétation de la loi.
+Dès que l’instance interprète sa propre loi constitutive;
+La norme de la décision correcte
+Le contrôle visera à répondre à la question : l’instance a-t-elle répondue correctement à la question ?
+Si c’est non = la cour de contrôle ne fera preuve d’aucune déférence et substituera la bonne décision. 
+Exemples :
+Appel judiciaire prévu dans la loi
+Les 3 sous-catégories mentionnées précédemment
+*Puisque les garanties procédurales ne sont pas abordées dans l’arrêt Vavilov, ce sera la norme de la décision correcte qui trouve application.* ????? NON raisonnable, car pas dans les 3 cas d’exceptions
+L’abus de pouvoir discrétionnaire et le contrôle des erreurs de fait
+En cas d’abus de pouvoir ou d’utilisation du pouvoir dans un but autre que celui prévu à la loi. Ce sera la norme de la décision raisonnable qui s’appliquera en raison de la présomption avec la plus grande déférence. Quand les faits retenus sont non pertinents, sont faux ou encore plus que les faits pertinents n’ont pas été tenues compte dans les motifs de sa décision.
+La notion de discrimination en matière administrative prévoit que l’autorité ne pourra pas discriminer deux personnes qui se retrouvent dans la même catégorie juridique SAUF si le loi lui donne le droit de le faire. Cette discrimination devra est justifié par les tenants et aboutissants de la disposition législative. 
+Erreur de fait = NDR applicable (exemple : quand le décideur à retenu des éléments de preuve faux; ou non pertinent; ou pas retenu des faits pertinent présenté)
+Vrai/Faux
+Lorsque le tribunal de révision est demandé pour faire l’appréciation des faits dans une affaire, il devra faire preuve d’un grand degré de retenue dans l’évaluation des faits.
+Vrai, l’appréciation des faits entraîne un plus grand degré de retenue que les erreurs de droit et, de ce fait, elle sera exceptionnelle. Les erreurs de faits devraient être révisables suivant la norme de la décision raisonnable.
+Section 6 : Les recours en droit québécois
+De quels moyens dispose le justiciable pour attaquer la légalité de l’action gouvernementale, qu’il s’agisse de décisions à portée individuelle ou d’actes à caractère général et impersonnel ?
+Les considérations générales :
+L’intérêt pour agir (art.85, al.2 C.p.c) : suffisant et personnel avec d’intenter son recours. L’intérêt public ne se présume pas. 
+Art.85, al.2 C.p.c :
+La personne qui forme une demande en justice doit y avoir un intérêt suffisant.
+L’intérêt du demandeur qui entend soulever une question d’intérêt public s’apprécie en tenant compte de son intérêt véritable, de l’existence d’une question sérieuse qui puisse être valablement résolue par le tribunal et de l’absence d’un autre moyen efficace de saisir celui-ci de la question.
+Ça prend ainsi 3 conditions pour que l’intérêt public soit suffisant et c’est d’ailleurs ce qui est repris par la cour suprême.
+Le délai pour agir (art. 529 in fine C.p.c.) : délai raisonnable, ce qui signifie qu’un délai en dessous de 30 jours est raisonnable selon la jurisprudence. Si je dépasse ce délai , je devrais alléguer dans ma demande les motifs justifiant ce dépassement. La Cour supérieure évaluera la diligence de l’administré. 
+Les pouvoirs inhérents (art. 49 C.p.c) : nous avons vu qu’en vertu de l’art. 34 C.p.c., la Cour supérieure possèdent les pouvoirs de surveillance et de contrôle comme c’est le cas par exemple en matière d’outrage au tribunal.
+Le pouvoir discrétionnaire de surveillance et de contrôle : la Cour supérieure a le loisir d’intervenir ou non. La cour va vérifier si l’erreur allégée cause un déni de justice a citoyen. S’il n’y en a pas, c’est possible que la cour d’intervienne pas. 
+La procédure à suivre (sursis des procédures) : en matière de contrôle judiciaire, contrairement à l’appel que le sursis est prévu à l’art. 355 C.p.c., la demande pourvoi en contrôle judiciaire ne suspend pas automatiquement les faits attaqués. Si elle désire suspendre, la partie devra faire la demande à la cour de contrôle par l’entremise d’une ordonnance de sursis avec l’art. 531 C.p.c. Les critères pour juger l’ordonnance de sursis seront ceux de l’ordonnance interlocutoire, à savoir (4) : (1) la présence d’une question sérieuse, (2) le préjudice irréparable et (3) la balance des inconvénients ajoutée à (4) l’intérêt public. 
+La procédure à suivre (avis au procureur général) (art. 76 C.p.c): requis dès le moment où je demande au gouvernement une réparation en vertu des Chartes ou lorsque j’attaque la constitutionnalité ou l’opérabilité d’une disposition ou d’un décret. En vertu de l’art. 77 C.p.c., l’avis doit être suffisamment détaillé pour aviser le PGQ des moyens de preuve au soutien de la demande sinon l’absence de cette mention est fatale pour le recours. Le TAQ prévoit à l’art. 112 LJA qu’un avis est nécessaire comme plusieurs autres lois. 
+Quiz
+Quels sont les critères à considérer pour déterminer si une personne qui entend soulever une question d’intérêt public a l’intérêt pour agir dans une affaire ?
+L’intérêt véritable de la personne
+L’existence d’une question sérieuse
+L’absence d’autre moyen efficace à faire trancher la question
+Toutes ces réponses
+d), l’art 85, al. 2 C.p.c. définit la notion d’intérêt public. La disposition reprend les trois critères qui avaient été établis par la Cour suprême du Canada.
+L’appel devant un tribunal judiciaire d’une décision administrative
+Distinction entre l’appel judiciaire et le contrôle judiciaire. Si l’appel judiciaire existe dans la loi et bien on doit prendre cette route avant d’aller en contrôle judiciaire. Vavilov précise que les normes sont différentes, ce seront donc les normes d’appel qui s’appliqueront en appel d’une décision administrative. Sinon, je pourrais toujours regarder la disposition législative au cas où le législateur aurait prévu une norme différente. 
+Le pourvoi en contrôle judiciaire
+Art. 529 C.p.c.:
+La Cour supérieure saisie d’un pourvoi en contrôle judiciaire peut, selon l’objet du pourvoi, prononcer l’une ou l’autre des conclusions suivantes:
+1°	déclarer inapplicable, invalide ou inopérante une disposition d’une loi du Québec ou du Canada, un règlement pris sous leur autorité, un décret gouvernemental ou un arrêté ministériel ou toute autre règle de droit;
+2°	évoquer, à la demande d’une partie, une affaire pendante devant une juridiction ou réviser ou annuler le jugement rendu par une telle juridiction ou une décision prise par un organisme ou une personne qui relève de la compétence du Parlement du Québec si la juridiction, l’organisme ou la personne a agi sans compétence ou l’a excédée ou si la procédure suivie est entachée de quelque irrégularité grave;
+3°	enjoindre à une personne qui occupe une fonction au sein d’un organisme public, d’une personne morale, d’une société ou d’une association ou d’un autre groupement sans personnalité juridique d’accomplir un acte auquel la loi l’oblige s’il n’est pas de nature purement privée;
+4°	destituer de sa fonction une personne qui, sans droit, occupe ou exerce une fonction publique ou une fonction au sein d’un organisme public, d’une personne morale, d’une société ou d’une association ou d’un autre groupement sans personnalité juridique.
+Ce pourvoi n’est ouvert que si le jugement ou la décision qui en fait l’objet n’est pas susceptible d’appel ou de contestation, sauf dans le cas où il y a défaut ou excès de compétence.
+Le pourvoi doit être signifié dans un délai raisonnable à partir de l’acte ou du fait qui lui donne ouverture.
+Permet de savoir l’objet du pourvoi et ce que la cour va faire
+Si je suis dans le cadre du (1), l’avis au PGQ sera requis en vertu des arts 76 et 77 C.p.c.
+Art. 530 C.p.c.:
+La demande de pourvoi en contrôle judiciaire est présentée à la Cour supérieure à la date indiquée dans l’avis de présentation qui y est joint, laquelle ne peut être fixée à moins de 15 jours de la signification de la demande. Elle est instruite par priorité.
+La demande n’opère pas sursis des procédures pendantes devant une autre juridiction ou l’exécution d’un jugement rendu ou d’une décision prise par une personne ou un organisme assujetti à ce contrôle à moins que le tribunal n’en décide autrement. S’il y a lieu, le tribunal ordonne que les pièces du dossier qu’il détermine soient transmises sans délai au greffier.
+Le jugement qui fait droit à la demande est signifié aux parties s’il ordonne d’accomplir ou de ne pas accomplir un acte.
+Demande en pourvoi judiciaire + avis de présentation + avis de signification (art. 145 C.p.c.) + Déclaration assermentée pour les pièces suffisamment détaillées au dossier (art. 106 C.p.c.) + Mémoire d’au plus 10 pages devra être divisé en 5 sections (résumé des faits/ question en litige/ norme applicable/ les motifs au soutien de ma demande de révision/ liste des autorités que j’entends soulevée au soutient de demande), ce n’est qu’avec ce mémoire que je pourrais demander une date d’audition au Me des rôles.
+Al.2 Pourvoi en contrôle ne suspend pas les faits de la décision attaquée à moins de présenter une demande comme décrit à la section 6 point 5. 
+Quiz - Trouvez l'intrus
+La Cour supérieure saisie d’un pourvoi en contrôle judiciaire peut rendre les conclusions suivantes :
+Déclarer inapplicable, invalide ou inopérant une disposition législative, un règlement, un décret, un arrêté ministériel ou toute autre règle de droit
+Condamner une des parties à payer des dommages et intérêts compensatoires  
+Empêcher une juridiction d’excéder sa compétence ou annuler une décision déjà rendue
+Enjoindre à une personne d’accomplir un acte auquel la loi l’oblige et qui n’est pas de nature purement privée
+Destituer une personne qui occupe une fonction sans droit
+b), l’art. 529 C.p.c. prévoit les conclusions que la Cour supérieure peut prononcer dans le cadre d’un pourvoi en contrôle judiciaire.
+La demande en justice en jugement déclinatoire 
+Peut servir à interpréter un document légal. Je ne peux pas utiliser cette procédure pour solutionner une question de compétence administrative. La Cour supérieure refusera de donner un jugement déclinatoire dans ce cas.
+Art. 142 C.p.c. :
+La demande en justice peut avoir pour objet d’obtenir, même en l’absence de litige, un jugement déclaratoire déterminant, pour solutionner une difficulté réelle, l’état du demandeur ou un droit, un pouvoir ou une obligation lui résultant d’un acte juridique.
+L’injonction
+Art. 509-515 C.p.c. 
+Art. 509 C.p.c.: 
+L’injonction est une ordonnance de la Cour supérieure enjoignant à une personne ou, dans le cas d’une personne morale, d’une société ou d’une association ou d’un autre groupement sans personnalité juridique, à ses dirigeants ou représentants, de ne pas faire ou de cesser de faire quelque chose ou d’accomplir un acte déterminé.
+Une telle injonction peut enjoindre à une personne physique de ne pas faire ou de cesser de faire quelque chose ou d’accomplir un acte déterminé en vue de protéger une autre personne physique dont la vie, la santé ou la sécurité est menacée. Une telle injonction, dite ordonnance de protection, peut être obtenue, notamment dans un contexte de violences, par exemple de violences basées sur une conception de l’honneur. L’ordonnance de protection ne peut être prononcée que pour le temps et aux conditions déterminés par le tribunal, et pour une durée qui ne peut excéder trois ans.
+L’ordonnance de protection peut également être demandée par une autre personne ou un organisme si la personne menacée y consent ou, à défaut, sur autorisation du tribunal.
+Tout jugement qui prononce une injonction est signifié aux parties et aux autres personnes qui y sont identifiées.
+Al.1 : l’injonction peut être prohibitive (cesser d’accomplir l’acte) ou mandataire (forcer à ce qu’un acte soit accompli).
+Injonction est une mesure provisionnelle alors on doit se référer à l’art. 81 C.p.c.
+Art. 81 C.p.c. :
+Les tribunaux ne peuvent prononcer aucune mesure provisionnelle ni aucune sanction, ni exercer un pouvoir de contrôle judiciaire contre le gouvernement, l’un de ses ministres ou une personne, qu’elle soit ou non fonctionnaire de l’État, agissant sous leur autorité ou sur leurs instructions relativement à une matière qui se rapporte à l’exercice de leur fonction ou de l’autorité qui leur est conférée par une loi. Il peut être fait exception à cette règle s’il leur est démontré qu’il y avait défaut ou excès de compétence.
+Comme une clause privative nous empêchant de demander une injonction contre ces intervenants listés.
+Art. 513 C.p.c. :
+Une injonction ne peut en aucun cas être prononcée pour empêcher des procédures judiciaires, ni pour faire obstacle à l’exercice d’une fonction au sein d’une personne morale de droit public ou de droit privé, si ce n’est dans les cas prévus à l’article 329 du Code civil.
+En matière civile, elle pourra être permanente ou interlocutoire
+Permanente : lorsque l’injonction sera l’objet même du litige, donc le fond. 
+Interlocutoire : lorsqu’elle sera présentée dans le cadre d’une autre demande en justice, soit à titre accessoire. Elle devra répondre à certains critères de l’art. 511 C.p.c.
+Art. 511, al.1 C.p.c. :
+L’injonction interlocutoire peut être accordée si celui qui la demande paraît y avoir droit et si elle est jugée nécessaire pour empêcher qu’un préjudice sérieux ou irréparable ne lui soit causé ou qu’un état de fait ou de droit de nature à rendre le jugement au fond inefficace ne soit créé.
+Le tribunal peut assujettir la délivrance de l’injonction à un cautionnement pour compenser les frais et le préjudice qui peut en résulter.
+Il peut suspendre ou renouveler une injonction interlocutoire, pour le temps et aux conditions qu’il détermine.
+Ce sont les mêmes critères que celles de la demande de sursis
+Elle peut être dite provisoire : demande en injonction interlocutoire provisoire. On ajoute aux éléments de 511 un élément d’urgence (art. 510, al.2 C.p.c.)
+Art. 510, al.2 C.p.c. :
+Dans les cas d’urgence, le tribunal peut y faire droit provisoirement, même avant la signification. L’injonction provisoire ne peut en aucun cas, sans le consentement des parties, excéder 10 jours.
+Comme dans le cas d’une demande de pourvoi en contrôle judiciaire doit se faire au soutien d’une déclaration assermentée suffisamment détaillée. 
+Les recours en droit fédéral
+La loi sur les cours fédérales 
+Art. 28 (1) LCF :
+La Cour d’appel fédérale a compétence pour connaître des demandes de contrôle judiciaire visant les offices fédéraux suivants :
+b) la commission de révision prorogée par le paragraphe 27(1) de la Loi sur les sanctions administratives pécuniaires en matière d’agriculture et d’agroalimentaire;
+b.1) le commissaire aux conflits d’intérêts et à l’éthique nommé en vertu de l’article 81 de la Loi sur le Parlement du Canada;
+c) le Conseil de la radiodiffusion et des télécommunications canadiennes constitué par la Loi sur le Conseil de la radiodiffusion et des télécommunications canadiennes;
+e) le Tribunal canadien du commerce extérieur constitué par la Loi sur le Tribunal canadien du commerce extérieur;
+f) la Régie canadienne de l’énergie constituée par la Loi sur la Régie canadienne de l’énergie;
+g) le gouverneur en conseil, quand il prend un décret en vertu du paragraphe 186(1) de la Loi sur la Régie canadienne de l’énergie;
+g) la division d’appel du Tribunal de la sécurité sociale, constitué par l’article 44 de la Loi sur le ministère de l’Emploi et du Développement social, sauf dans le cas d’une décision qui est rendue au titre du paragraphe 57(2) ou de l’article 58 de cette loi ou qui vise soit un appel interjeté au titre du paragraphe 53(3) de cette loi, soit un appel concernant une décision relative au délai supplémentaire visée au paragraphe 52(2) de cette loi, à l’article 81 du Régime de pensions du Canada, à l’article 27.1 de la Loi sur la sécurité de la vieillesse ou à l’article 112 de la Loi sur l’assurance-emploi;
+h) le Conseil canadien des relations industrielles au sens du Code canadien du travail;
+i) la Commission des relations de travail et de l’emploi dans le secteur public fédéral visée par le paragraphe 4(1) de la Loi sur la Commission des relations de travail et de l’emploi dans le secteur public fédéral;
+i.1) les arbitres de grief, au sens du paragraphe 2(1) de la Loi sur les relations de travail dans le secteur public fédéral;
+j) la Commission du droit d’auteur constituée par la Loi sur le droit d’auteur;
+k) l’Office des transports du Canada constitué par la Loi sur les transports au Canada;
+n) le Tribunal de la concurrence constitué par la Loi sur le Tribunal de la concurrence;
+o) les évaluateurs nommés en application de la Loi sur la Société d’assurance-dépôts du Canada;
+q) le Tribunal de la protection des fonctionnaires divulgateurs d’actes répréhensibles constitué par la Loi sur la protection des fonctionnaires divulgateurs d’actes répréhensibles;
+r) le Tribunal des revendications particulières constitué par la Loi sur le Tribunal des revendications particulières.
+Art. 28 LCF : descriptions des offices fédérales. Si ne fait pas partie de ça on se tourne vers l’art. 18.5 LCF : le contrôle judiciaire est bien encadré. À partir du moment ou un appel est prévu, le contrôle est exclu en premier et il doit passer d’abord à la Cour du Québec en appel. Après à l’art. 18 (1) LCF. 
+Art. 18 (1) LCF :
+Sous réserve de l’article 28, la Cour fédérale a compétence exclusive, en première instance, pour :
+décerner une injonction, un bref de certiorari, de mandamus, de prohibition ou de quo warranto, ou pour rendre un jugement déclaratoire contre tout office fédéral;
+connaître de toute demande de réparation de la nature visée par l’alinéa a), et notamment de toute procédure engagée contre le procureur général du Canada afin d’obtenir réparation de la part d’un office fédéral.
+a) ressemble à l’art. 529 C.p.c.
+Art. 18.1 (1) LCF :
+Une demande de contrôle judiciaire peut être présentée par le procureur général du Canada ou par quiconque est directement touché par l’objet de la demande.
+En droit québécois, la seule personne est l’une des parties à l’instance qui peut présenter une demande en contrôle judiciaire. Ici, on réfère à « quiconque est direction touché » alors beaucoup plus large
+Art. 18.1(3) LCF : 
+Sur présentation d’une demande de contrôle judiciaire, la Cour fédérale peut :
+ordonner à l’office fédéral en cause d’accomplir tout acte qu’il a illégalement omis ou refusé d’accomplir ou dont il a retardé l’exécution de manière déraisonnable;
+déclarer nul ou illégal, ou annuler, ou infirmer et renvoyer pour jugement conformément aux instructions qu’elle estime appropriées, ou prohiber ou encore restreindre toute décision, ordonnance, procédure ou tout autre acte de l’office fédéral.
+Les pouvoirs de la cour fédéral en matière de contrôle judiciaire sont assez précis
+Art. 18.1 (4) LCF : les motifs au soutien d’une demande en contrôle sont mentionnés 
+Art. 18.1 (5) LCF :
+La Cour fédérale peut rejeter toute demande de contrôle judiciaire fondée uniquement sur un vice de forme si elle estime qu’en l’occurrence le vice n’entraîne aucun dommage important ni déni de justice et, le cas échéant, valider la décision ou l’ordonnance entachée du vice et donner effet à celle-ci selon les modalités de temps et autres qu’elle estime indiquées.
+Codifie les vices de formes
+Le recours en indemnisation contre l’État
+Art. 1376 C.c.Q.: 
+Les règles du présent livre s’appliquent à l’État, ainsi qu’à ses organismes et à toute autre personne morale de droit public, sous réserve des autres règles de droit qui leur sont applicables.
+Art. 74 LJA: 
+Le Tribunal et ses membres sont investis des pouvoirs et de l’immunité des commissaires nommés en vertu de la Loi sur les commissions d’enquête (chapitre C‐37), sauf du pouvoir d’ordonner l’emprisonnement.
+Ils ont en outre tous les pouvoirs nécessaires à l’exercice de leurs fonctions; ils peuvent notamment rendre toutes ordonnances qu’ils estiment propres à sauvegarder les droits des parties.
+Ils ne peuvent être poursuivis en justice en raison d’un acte accompli de bonne foi dans l’exercice de leurs fonctions.
+Ensuite on va purger dans la Common Law
+L’immunité tombe dans le cadre d’un acte commis de mauvaise foi. 
+Acte posé dans la sphère opérationnel par l’autorité publique ne sera pas immunisé et pourra faire l’objet d’un recours en dommage pour l’acte posé.
+L’autorité fédérale sera soumise à notre droit québécois si l’acte commis est réalisé au Québec. Je pourrais m’adresser aux tribunaux québécois ou aux cours fédérales pour mon recours en indemnisation.

@@ -1,0 +1,559 @@
+CHAPITRE I-ORGANISATION DES TRIBUNAUX
+Généralités
+Compétence fédéral du DC: 91(27) LC 1867
+Procédure criminelle est  en principe orale
+Compétences de CS et de la CS en matière d’acte criminel
+La CS a 
+une « compétence exclusive » en matière de 469
+une compétence pour les autres acte criminel 468/Holliday
+ Malgré la compétence absolue de Cour du Québec  a une « compétence absolue » pour certains AC (553CCr) , CS reste compétente  dans la mesure où cette expression ne signifie que : 
+l’accusé n’a pas le choix de son mode de procès 
++
+l’accusé ne bénéficie pas de l’option
+compétence de la Cour du Qc en matière d’infraction punissable par voie de procédures sommaires
+lieu : Cour des poursuites sommaires
+type d’infractions : infractions punissable sur « déclaration de culpabilité par voie de procédure sommaires » 785 Ccr
+En pratique : peu nombreuse, souvent ce sont des infraction hybride pour lesquelles la Couronne a fait le choix de poursuivre par voie de procédure sommaire
+Tableaux
+Appel
+Juges de paix
+Chapitre II-  COMPETENCE DES TRIBUNAUX
+Généralités
+Compétence territoriale
+Canada
+Acte criminel commis sur le territoire  juridiction de compétence canadienne
+6(2) Ccr
+Exceptions
+Infraction ayant un lien réel et important avec le Canada (libman)
+Infractions prévues à 7 Ccr (infractions à bord d’un avion, tourisme sexuel…)
+Complot fomenté à l’étranger visant commission d’infraction au Canada 465(4)
+Québec
+Principe de territorialité (470 Ccr)  juridiction uniquement pour infraction commise au Qc
+Détermination de la juridiction territoriale d’une cour selon un de deux critères :
+prévenu est arrêté, trouvé ou mis sous garde dans la juridiction d’une cour donnée 470 a) Ccr
+prévenu est renvoyé devant cette cour (536(1) Ccr) ou ordonné d’y être jugé (470 b) Ccr)
+Exceptions
+Infractions à bord d’un avion (476 Ccr)
+Infractions dans la MT ou eaux intérieures (477.1(1) Cr)
+Poursuite dans une autre province 
+SSI pas un infraction de 469+ accusé plaide coupable+ consentement du PG du district  où accusé se trouve+ infraction entièrement  commise dans l’autre province) 478(3) Ccr
+Poursuite  dans un autre district judicaire de Qc (479 Ccr)
+Mêmes conditions SAUF celle relative à 469
+Changement de venue (599 Ccr) et renvoi (531 Ccr)
+Tableaux
+Détermination du mode de procès en fonction du type d’infraction
+Modalité de la réoption
+Chapitre III- PROCEDURES PREALABLES AU PROCES CRIMINEL
+Arrestation
+Généralités
+Pouvoir incident à l’arrestation (stop and search)
+Dans l’objectif de protection du policier 
+Pas la peine d’avoir de motif raisonnable de croire que sa sécurité est en danger pour pouvoir opérer
+Mandat d’arrestation et d’entrée dans une habitation
+Mandat d’arrestation quand la personne est dans une habitation 529
+Mandat d’entrée alors que mandat d’arrestation déjà émis (529.1)
+Dans les deux cas
+Une dénonciation sous serment
+ policier doit avoir motif raisonnable de croire que la personne est chez lui avant de l’exécuter, sauf dans les cas de 529.1 b Ccr
+policier doit annoncer sa présence
+sauf motifs raisonnables de croire qu’il y a un danger de lésion corporelles/destruction de la preuve
+Exceptions dans le cas où
+cas d’urgence, policier peut pénétrer  dans une maison sans être muni d’un mandat 529.3 Ccr
+une prise en chasse ininterrompue par un policier, même si en partie réalisée par un citoyen
+motif raisonnable de soupçonner qu’il est nécessaire d’entrer pour éviter qu’une personne subisse lésion corporelles/ la mort
+motifs raisonnable que des éléments de la commission d’une infraction et qu’il est nécessaire d’y entrer pour éviter la perte /destruction imminente  529.4
+Les obligations du policier lors de arrestation
+Informer la personne arrêtée la personne arrêtée sur le motif de son arrestation 
+Informer la personne arrêtée de son droit d’avoir recours sans délai à l’assistance d’un avocat et faciliter l’exercice de ce droit
+Tableaux 
+Arrestation sans mandat
+Exemples d’arrestation avec mandat
+« Fouille » (d’une personne) et « perquisition » (d’un lieu)
+Comparution
+Généralités
+Mode de comparution est fonction du 
+du mode d’arrestation
+du type d’infraction
+de facteurs particuliers (risque de fuite du prévenu, intérêt public) 
+Documents contraignant à comparaître (citation, sommation, enggt, promesse) émanant d’un policier/fonctionnaire resp. 
+contenu obligatoire
+501(1)(2)+145(5)(6)
+501(3) bertillonnage en cas d’accusation d’un acte criminel ou d’une infraction hybride (34 LIF)
+défaut de respecter
+Sanction : mandat d’arrestation (502) + poursuite en vertu de 145(5), 507(7), 508
+Fin de leurs effets juridiques
+Absence de révision judiciaire possible
+Juge peut toujours annuler/remplacer un acte de comparution d’un policier/fonctionnaire resp (par sommation/mandat) 
+508(1)b)ii
+Dans cas d’une promesse, demande de révision des conditions possible à initiative
+Prévenu 499(3)+ 503(2.2)
+ poursuite  503(2.3) et 499(4)
+Arrestation sans mandat
+Arrestation avec mandat
+Dénonciation
+Généralités
+Qui +auprés de qui ? 504
+Peut dénoncer un crime :
+Toute personne (507.1(1)+93-95CQ)
+Policier/fonctionnaire resp. 
+ Auprès du juge de paix
+Condition minimale au dépôt d’une dénonciation 504 Ccr
+Motifs raisonnable et probable qu’une personne a commis une infraction 
+Conditions à la délivrance d’une sommation/Mandat 507.1(3)
+Allégations du dénonciateur+ dépositions des témoins ont été entendues
+Juge est convaincu
+que le procureur général a reçu une copie de la dénonciation
+PG a été avisé de la tenue de l’audience
+PG a eu la possibilité d’assister à l’audience
+Délai au dépôt d’une dénonciation
+Elle doit être effectuée avant :
+prescription de la poursuite pénale
+délai fixé à 496, 497 et 505 
+(= avant la date de comparution)
+Décision 
+Juge de paix décide 
+une sommation (préférentiellement 507(4)/mandat d’arrestation ou rien 507(1)
+si accusation criminelle, bertillonnage 509
+contenu de la sommation  509(1), 510, 145(4)
+contenu du mandat (511(1)
+Exécution du mandat (528)  <> suspension 511(3)  mise sous garde du prévenu jusqu’à comparution devant le juge de paix
+mandat visé (499) pour une infraction autre que celles de 522
+Malgré la décision affirmative du juge, le directeur des poursuites pénales peut déposer un nolli proséqui 
+confirmer la citation, promesse, enggt délivré par policier/fonctionnaire responsable 
+508
+modifier/rejeter le document délivré par le policier/fonctionnaire resp pour en adopter un autre 508
+Défaut du prévenu de comparaître
+ Juge décerne un mandat d’arrestation 
+508(1)b)i), 512(2), 524(1)a) et 572
+Remise en liberté (« REL/voie judiciaire »)
+Généralités
+Notion
+Le juge de paix peut rendre une ordonnance de remise en liberté, sur simple promesse ou sans conditions 515 (1)
+SAUF poursuivant, sur base d’une objection, démontre que la sécurité publique serait menacée
+ Une détention 515(11) et 519(3)
+avec, en outre, possible interdiction de communiquer avec quelqu’un/tout le monde 515(12)
+REL conditions dans le cadre d’une objection
+Critères guidant décision du juge
+510(10)
+Si le juge décide que la détention n’est justifié sur aucun des trois motifs « core »  REL (sur simple promesse, ou assorties de conditions) 515(4)
+Type d’ordonnance de REL que juge peut ordonner
+Gradation
+512(2)
+lire encadré p. 64
+Type de conditions rattachables a promesse/engagement
+515(4)
+Dans le cas de certaines infractions, des conditions particulières doivent obligatoirement assortir la REL
+Moment
+Lors de la comparution, une fois que le prévenu a réalisé son plaidoyer (« plaider coupable/non coupable »)
+Scénarios
+Plaidoyer de culpabilité  Juge doit statuer sur sa REL ou pas 518(2)
+Plaidoyer de non culpabilité  REL telle que prévue par 515 et s
+!!!!ABSENCE de REL pour crime de 469, 511(11)
+Cas du prévenu arrêté sans mandat pour une infraction commise hors de la circonscription territoriale 503(3) 
+Mécanisme
+Si absence d’entente entre poursuite et défense pour suggérer des conditions de remise en liberté, le tribunal tient une « enquête sur la remise en liberté » et peut ajourner l’enquête 516 
+Règle de preuve
+Fardeau est à la Couronne SAUF
+infraction de 469 522
+situations visées par 515(6)
+OD est permis 518(1)a ou e)
+Accusé est contraignable, mais pas sur les faits de l’infraction 518(1)a et b
+Type de preuve admise 518(1)c
+Par casier judiciaire
+Preuve par témoin
+Preuve sur la personnalité, style de vie du prévenu
+Type de MD
+Témoignage de l’accusé (stabilité de résidence, occupations, emplois…)
+Autres témoins
+Enquête sur la REL
+Ordonnance de non publication
+Juge peut ordonner non publicité de preuve, renseignements, observations réalisés lors de cette enquête 517
+ Portée juridique de l’ordonnance
+Moment de la libération suite à l’enquête
+La fin du procès (en cas d’ordonnance de détention)
+ Sanction en cas de violation
+517(2)
+Révision formelle de l’ordonnance du Juge de paix
+ Auprès de Qui ?
+Juge de C.S 520, 521
+ Par qui ?
+Prévenu 520 
+sur base des documents précis 12, 13 RpCS, 520(2),21RpCS
+par une prépondérance de preuve
+ Facteurs jurisprudentiel autorisant la révision
+Conclusion est basée sur des faits non dévoilées
+Juge a excédé ses pouvoirs
+Erreur de droit
+Grossière erreur de faits
+Révision de l’ordonnance de révision de CS
+Auprès de qui ?
+Juge de C.S sur autorisation OU sans autorisation dans cas expiration d’un délai de 30 jrs de la décision du juge 520(8)
+ Prérequis
+Procès ne doit pas avoir débuté à la date de présentation de la demande
+ Absence d’appel devant CA d’une décision de C.S 
+ Procédure =procédure pour une révision d’ordonnance d’un juge de paix 
+Révision informelle de l’ordonnance de juge de paix
+ Possibilité de soumettre la demande au tribunal, juge du procès  ou juge de paix 523(2)
+ Juge du procès peut à tout moment annuler ordonnance 523(2)a)
+Juge de paix, a la fin de EP, peut annuler ordonnance 523(2)b
+Révision devant la C.S 520(1) et 521(1)
+ Si on ne vise pas une infraction de 469 + consentement PG et défense, alors juge de paix peut annuler ordonnance 
+ Si on vise une infraction de 469, 
+Règle est une demande déposée à CS 522 et 20 + 21 RpCS
+consentement PG et défense, juge de C.S 523(2)c)ii)
+appel de la décision de CS se fait devant C.A. 680
+Consentement PG et défense, juge du procès annuler ordonnance 523(2)c)iii
+Conséquences en cas de non respect des conditions de MEL judiciaire
+ Arrestation, avec ou sans mandat 524(1)(2)
+ Incarcération ou révision des conditions 524(4)-(5)
+Condamnation pour la commission d’une infraction 145(2)-(5)
+Confiscation au profit de l’Etat des enggts/cautions 762-773) 
+Enquête préliminaire (EP)
+Généralités
+Fondement
+Partie XVIII Ccr
+Objectif
+Examen du bien-fondé de la poursuite
+Donner à la défense une possibilité d’évaluer la preuve de la poursuite
+ Avantage = permette de se libérer des accusations car le juge de paix (CQ) doit déterminer s’il y a une preuve suffisante pour citer l’accusé à procès
+Procédure
+EP a lieu à la demande de défense OU poursuite 536(2)(4)(4.2), 536.1(2)(4.1)
+Déposition sténographiée lors EP
+Si les conditions de 715 rencontrées, on peut déposer au procès le témoignage rendu lors de EP, SAUF
+La défense établit qu’elle n’a pas eu l’occasion de c. interroger le témoin lors de EP
+Pouvoir du juge de paix
+536
+537(1)j.1)
+486
+486.2
+486.3
+539
+486.4
+672.11
+écandré p. 72
+Contenue EP 536.3
+La partie qui la demande doit
+Circonscrire les questions +
+Préciser les témoins qui seront entendus
+Effets de EP
+ Pour la défense
+Connaître les accusations et force des témoins de la poursuite
+MAIS pas toute sa preuve, seulement celle pertinente
+L’émission d’une « réserve » quant au choix du mode de procès
+la décision pourra se faire à la lueur de la force des éléments de la poursuite, soit demander
+« EP complète avec assignation des témoins »
+« Demander d’entendre certains témoins afin d’évaluer leur crédibilité, et renoncer ensuite au reste de l’EP »
+« Renoncer complément l’EP »
+OU « Inscrire un plaidoyer de culpabilité »
+ Pour la poursuite
+Tester la force de sa plainte+ crédibilité de ses témoins
+Utilisation ultérieure possible de notes sténo
+Obtenir un plaidoyer de culpabilité
+Conférence préparatoire
+625.1
+Schémas
+Procédures criminelles pendant procès
+Preuve pénale
+Généralités
+Sources 
+La loi créatrice de l’infraction
+La loi sur la preuve
+Pour administration de la preuve (habilité, contraignabilité, serment)
+CL en raison de 8(2) Ccr
+Administration de la preuve
+Fardeau de la preuve
+ Poursuite en mode HTRD en raison du principe de présomption d’innocence (6(1) Ccr+ 11d) Charte
+ la naissance d’un doute raisonnable à l’esprit du juge/jury sera suffisant pour disculper l’accusé (i.e contradiction de la preuve, manque de preuve)
+ Accusé a droit de garder le silence et à ne pas concourir à la preuve de sa culpabilité
+Accusé ne saurait être contraint de témoigner contre lui 11c Charte
+Mais possibilité de le contraindre dans le cadre d’un procès qui ne serait pas le sien
+Protection contre l’utilisation de témoignage qu’il a rendu en vu de s’incriminer 13 Charte
+Protection plus large sous le couvert de la justice fondamentale de 7 Charte
+Fardeau de présentation
+La partie qui entend prouver un fait devant le tribunal devra produire une preuve pour l’établir 
+Poursuite devra prouver tous les éléments essentiels de l’infraction, en mode HTRD
+Poursuite a donc d’office un fardeau de présentation qui vient avec un fardeau de persuasion HTDR
+ Malgré le principe que l’accusé à zéro fardeau, ce dernier peut légalement avoir un fardeau de présentation (présomption légale) ET/OU vouloir invoquer un moyen de défense, en mode soulever un doute raisonnable)
+ Présomption légale se matérialise dans le droit par 
+« en l’absence de toute preuve contraire »  accusé n’a qu’à soulever un doute raisonnable
+« qu’il établisse, qu’il prouve un fait »  accusé doit prouver par prépondérance de preuve
+Déroulement de la preuve
+Principe de base : obligation de divulgation de la poursuite
+ Poursuite a l’obligation de divulguer sa preuve
+on vise « tout renseignement pertinent dont la non-divulgation peut raisonnablement porter atteinte au droit de l’accusé de présenter une défense pleine et entière »
+ Cette obligation est assujettie au pouvoir discrétionnaire de la poursuite aussi bien en matière de contenu qu’en matière de divulgation
+ Sanction en cas de violation de l’obligation de divulgation
+ordonnance de divulgation en vue de communiquer le renseignement + ajournement
+exclusion de la preuve (rare) si
+communication de la preuve tardive rend le procès inéquitable et ne peut y être remédié 
+nécessaire pour maintenir l’intégrité du système de justice 
+limite
+cas des indicateurs de police
+cas des dossiers médicaux dans le cas de poursuites d’infraction sexuelle 278.1-278.91 C.cr
+ETAPE I : La preuve principale de la poursuite
+ Poursuite débute en présentant sa preuve relative à chacun des éléments essentiels de l’infraction
+ On procède à « interrogatoire des témoins », puis « c. interrogatoire » par la défense, puis dans cas où faits nouveaux sont abordés, la poursuite peut demander de réinterroger le témoins
+La poursuite est maître de son dossier
+elle décide de l’ordre de passage des témoins
+elle n’est pas liée par la liste de témoins communiquée à la défense
+LIMITE : « scinder sa preuve »
+Elle doit faire toute sa preuve avant de la « déclarer close »
+ETAPE II : La défense
+ Une fois la preuve de la poursuite close, la défense évalue l’opportunité de produire une défense (cas où elle n’a pas fardeau de présentation issu d’une présomption légale)
+Si la preuve de la poursuite semble rencontrer le fardeau de persuasion (HTDR), et que la défense n’a pas réussi a soulevé un doute raisonnable lors de c. interrogatoire, alors la production d’une défense est adéquate 
+RQ : le silence de l’accusé ne peut être utilisé à titre d’éléments de preuve inculpatoire
+ Tendance jurisprudentielle
+En matière de meurtre
+Poursuite n’a pas à prouver que l’accusé avait une occasion exclusive de commettre l’acte criminel
+Preuve de mobile et d’occasion pourra suffire pour disculper
+Occasion exclusive de commettre l’infraction suffit
+En matière agression sexuelle, si
+Crime ancien+ incohérence et contradiction de la victime seule à témoigner+ absence de défense de l’accusé  culpabilité retenue
+En cas de témoignage de l’accusé
+La poursuite a droit de c.interroger sur les antécédents judiciaire (12 LP)  un cout négatif pour l’accusé
+Preuve circonstancielle+ silence de l’accuser  pas un verdict de culpabilité
+La réouverture d’enquête
+Objectif
+poursuite/ défense peuvent demander au juge (autorisation) cette procédure dans cas où omission de prouver un élément pertinent
+ Critères guidant la décision du juge
+Omission par mégarde
++ Absence de « préjudice » pour l’accusé
+Notion de préjudice « la réouverture de l’enquête ne doit pas crée d’injustice ni de préjudice à l’accusé »
+Indicateurs
+Moment de la demande, nota si elle est fait par la poursuite après que l’accusé a clos sa défense (+++ rejet de la demande)
+La contre-preuve
+Principe
+Poursuite peut demander (autorisation du juge) de faire une contre-preuve pour réfuter des faits  nouveaux soulevés dans la défense de l’accusé
+ Critère guidant décision du juge
+Nouvelles questions ou des faits nouveaux pertinentes aux litiges  (« élément de pertinence ») que la poursuite ne pouvait raisonnablement prévoir (« élément de prévisibilité ») lors de sa preuve principale
+Admissibilité de la preuve
+Principe de pertinence
+<> Notion d’admissibilité car un fait pertinent pourrait ne pas être admissible en raison
+Principe logique
+ Rapport entre le fait prouvé en l’espèce et le fait à prouver en droit
+Pertinence légale
+Elément de preuve doit être admissible
+Moyen de preuve exclut : 
+OD (sauf EP)
+Témoignage d’opinion (sauf expert)
+La preuve de propension
+La preuve de caractère
+La preuve préconstituée
+Discrétion judiciaire
+ juge garde un pouvoir discrétionnaire
+Même si élément de preuve est pertinent + admissible, il peut décider de l’exclure
+ Critère guidant le juge
+Rapport cou/bénéfice de l’élément contesté
+« est-ce que la valeur probante de cet élément est préjudiciable, et si oui,  est-ce dans une mesure justifiant son exclusion ?»
+ Moment de cette analyse
+avant que la partie qui invoque élément contesté ne déclare sa preuve close
+Preuve obtenue en violation d’un droit de la Charte
+ Fardeau du requérant (accusé)
+ étape I : prouver la violation à un droit de la Charte
+ Etape II : prouver que cette violation ne peut faire l’objet d’une justification sous 24(2) 
+Il faut prouver que son utilisation est susceptible de déconsidérer l’administration de la justice
+Critère de 24(2) 
+La gravité de la conduite attentatoire
+L’incidence de la violation sur les droits de l’accusé garantis par la Charte
+Intérêt de la société a ce que l’affaire soit jugée au fond
+Types de preuve
+Preuve testimoniale
+ Principe
+Témoin assigné par une des parties qui vient déposée en salle d’audience
+Ce moyen de preuve est le seul moyen de couler au dossier
+la preuve matérielle
+la preuve documentaire
+SAUF partie adverse dispense de requérir un témoignage à cet effet
+ Capacité à témoigner
+Capacité mentale est requise
+Capacité à relater les faits devant le tribunal
+Obligation de soit 14-15(2) LP
+Prêter serment 
+affirmation solennel  qu’il dira rien que la vérité, toute la vérité, rien que la vérité
+sanction en cas de faux témoignage
+parjure 132 Ccr
+témoignage contradictoire 136 Ccr
+cas des enfants
+enfant > 14 ans 16 LP
+ procédure spécial SI « motif raisonnable de douter de la capacité de ce témoin de comprendre la nature du serment/affirmation solennelle »
+juge fait une enquête
+Si enquête est positive, c’est le tribunal qui assermente l’enfant
+enfants < 14 ans 16.1 LP
+présomption d’habilité à témoigner de tout enfant dès lors qu’il a la capacité de comprendre les questions+ peut y répondre
+ cela pourra fait l’objet d’une attaque de la partie adverse de la crédibilité de l’enfant
+absence de distinction entre le témoignage d’un enfant et celui d’un adulte 16.1(8)LP
+ Habilité et contraignabilité des témoins
+principe
+toute personne susceptible de fournir une preuve pertinente et admissible est habile à témoigner
+Règles relatives à l’accusé/coaccusés
+Un accusé est habile (3LP) à témoigner MAIS n’est pas contraignable à son propre procès par aucune des parties 11c) Charte + 4(1)LP
+TOUTEFOIS, en cas de témoignage de son propre grès, ce dernier devient un témoin ordinaire pour les fins du c.interrogatoire 
+= obliger de répondre à toutes les questions, même celles l’incriminant 
+Solution afin de rendre contraignable un coaccusé
+Requête en procès séparé
+MAIS un accusé devenu contraignable suite à une telle requête pourra se prévaloire de 13 et 7 Charte 
+= interdiction de la poursuite d’utiliser ces déclarations contre lui dans le cadre d’un nouveau procès
+Le coaccusé que l’on souhaite faire témoigner plaide coupable 
+Il cesse d ‘être un accusé pour être considérer comme un témoin ordinaire (habile+ contraignable)
+Règles relatives au conjoint
+Principe 4(1) LP
+Inhabile+ non contraignable par la poursuite
+Notion de « conjoint »
+une personne unie par les liens du mariage au moment où le procès a lieu
+=> en cas de divorce, possibilité de contraindre l’ex-conjoint à témoigner 
+Objectif double
+Protection de l’harmonie conjugale
+Indigne de forcer un conjoint à participer au procès contre son partenaire
+Exception 
+Crime à connotation sexuelle 4(2) LP
+Crimes dont la victime > 14 ans 4(4) LP
+Crime portant atteinte à intégrité physique ou liberté du conjoint 4(5) LP
+Règles relatives au témoin ordinaire
+Principe
+Habile+ contraignable
+Témoignage doit portait sur des faits pertinents aux litiges
+Règle du OD : barrière à l’admissibilité d’un élément de preuve 
+Principe
+Témoin dépose que sur des faits perçus directement, et pas porté à sa connaissance par un tiers, qu’il ait eu directement ou pas connaissance du fait rapporté
+Justification à l’utilisation d’une preuve par OD : « méthode d’analyse raisonnée »
+Test basé sur deux critères
+« Nécessité »
+On vise la nécessité de recourir à une preuve par OD dans la mesure où il est impossible de faire témoigner la personne qui a personnellement eu connaissance des faits 
+« Fiabilité »	
+On vise la fiabilité de la déclaration, notamment parce que corroborant d’autres éléments de preuve (ie test ADN)
+Limite : contourner une autre règle de preuve via cette analyse jurisprudentielle
+i.e contourner la non contraignabilité d’un témoin (conjoint/coaccusé) via un OD que l’on tenterait de faire admettre par cette méthode
+Nuance: « OD circonstanciel » est admissible
+Une preuve par OD qui a pour but d’expliquer un comportement, et non utiliser afin de faire preuve de son contenu
+« Exceptions » au OD
+« déclaration spontanée et contemporaine » (Res gestae)
+Notion
+déclaration faite de façon spontanée
+par l’accusé, la victime, un tiers
+décrivant 
+« spontanément » un évènement dont il est l’auteur/a été le témoin (spontanéité)
+et de manière « contemporaine » à cet événement (contemporanéité)
+Portée
+Elle peut être admissible qu’elle soit en faveur ou en défaveur de l’accusé
+Elle est opposable aux autres coaccusés 
+«  actes et déclarations des coconspirateurs »
+principe
+possibilité de mettre en preuve contre un accusé des faits et gestes de ses coconspirateurs accomplis dans la poursuite du but commun
+Infractions visés
+Complot
+Infraction faisant l’objet d’une entente
+Infraction dérivée
+« déclaration contraire à l’intérêt de son auteur »
+principe
+mise en preuve d’une déclaration contre l’intérêt pénal de l’accusé
+émanant d’une personne décédée/ou d’une personne ne pouvant être assigné
+Règles relatives à un « témoin expert »
+Principe
+Possibilité de déposer sur des faits dont il n’a pas eu personnellement connaissance (expert fournit une opinion à la Cour) et qu’on lui a rapporté
+ si les faits portés à sa connaissance ont une crédibilité limitée, son expertise aura une crédibilité tout aussi limitée
+Conditions
+Utilité de faire usage d’un expert
+Soit la possession de connaissance particulière et approfondies sur des sujets étrangers à l’expérience usuelle du citoyen (= donc du juge)
+Qualification du témoin expert assignée
+Convaincre le juge qu’il y a devant lui un véritable expert susceptible d’apporter un précieux éclairage
+Nombre 7 LP
+Chaque partie peut faire entendre jusqu’à 5 experts et même un nombre plus important si le tribunal l’autorise 
+Preuve matérielle
+Notion
+Elément de preuve qui peut être directement produit au tribunal afin que le juge prenne connaissance de son existence et de ses caractéristiques (observations sensorielles du juge)
+i.e arme du crime, objet volé, vêtement maculé de sang, drogue trouvé en la possession de l’accusé, photographie, plans/croquis de la scène du crime, enregistrement audio
+En matière de preuve, Poursuite devra respecter une « chaine de possession » clairement établie
+Fardeau de la poursuite de démontrer par témoins le cheminement de l’objet depuis sa saisie et jusqu’à sa production devant le tribunal
+Stratégie de la défense : 
+la preuve de la chaine de possession est essentielle car elle démontre que l’objet soumis au juge est bien celui saisie sans aucune altération quant à sa forme et a son identité
+Discrétion du juge
+Possibilité d’interdire la production de certains éléments de preuve matérielle dont l’effet préjudiciable l’emporterait sur une preuve probante (test force probante/effet préjudiciable)
+Disposition légale
+Décision du juge de remettre des objets saisis avant le procès 489.1 et s
+Une attention particulière devra être porté par le juge à ne pas priver l’accusé de son droit à une contre-expertise, auquel cas un arrêt des procédures pourra être ordonné en vertu de 7 Charte
+Preuve documentaire
+Notion
+La preuve d’un écrit (art. 2 Ccr) pour établir son contenu et son existence
+Règle de la « meilleure preuve » 8LP
+Principe
+On produit l’original 
+Dont on prouve en outre l’authenticité, notamment
+Par preuve « directe »
+i.e témoignage de la confection et de la signature du doc
+Par preuve « circonstancielle »
+Comparaison d’écriture par témoin
+Exceptions
+« preuve secondaire »
+Copie ou témoignage est admissible s’il est impossible de produire l’original sans que cette impossibilité découle de la partie qui souhaite produire le document
+Articles  dans LP
+19-31 LP
+en matière de preuve document électroniques 31.1-6 LP
+mode alternatif de preuve 36 LP
+Déclaration de l’accusé
+Déclaration extrajudiciaire
+Cas visé
+En théorie, toute déclaration de l’accusé hors cour
+En pratique, on vise toute déclaration hors cour de l’accusé que la poursuite entend produire dans sa preuve
+Types de déclaration incriminantes
+Déclaration justificative (« self-serving »)
+Principes
+Accusé ne peut mettre en preuve ses déclarations extrajudiciaires disculapatoire
+Exception : Res gestae
+Poursuite ne peut utiliser ce type de déclaration que dans le but d’incriminer l’accusé
+Déclaration protégée
+Fondement légal 672.21 Ccr
+Principe
+On vise les déclarations produites par l’accusé dans le cadre d’une évaluation des troubles mentaux
+Il est possible d’avoir recours à cette déclaration dans l’unique but d’attaquer la crédibilité de l’accusé, et non dans celui de prouver directement sa culpabilité
+Déclaration judiciaire
+Principe
+La présomption d’innocence implique
+Le droit de garder le silence
+Le droit de ne pas s’auto-incriminer 13 Charte ; 5(2) LP
+SAUF s’il décide de témoigner volontairement à son procès 
+toujours tenir compte de la règle des confessions + ne pas scinder la preuve
+EXCEPTION faite de la déclaration judiciaire antérieure pour laquelle l’accusé a refusé de répondre au motif qu’elle pourrait tendre à l’incriminer
+Déclaration d’un témoin
+Les déclarations antérieures du témoin ordinaire sont inadmissibles
+Raison I : interdiction du OD
+Raison II : interdiction preuve préconstituée
+ Bilan : si on a besoin de la déclaration, on n’a qu’à l’assigner pour qu’il dépose en cour
+Exceptions
+Cas de 715.1
+Cas de 715.2
+Cas de 715 Ccr
+i.e Témoin est mort/trop malade/hors du pays/refus de prêter serment/refus de témoigner
+Cas où la partie adverse allègue que la version que la déclaration antérieure est de fabrication récente
+Interrogatoire du témoin
+Règles de preuve particulières
+Preuve de propension
+Notion
+Cette notion couvre une preuve de 
+Réputation
++ de trait de personnalité 
+Principe général : INADMISSIBLE pour la poursuite
+Exceptionnellement, « si une preuve est par ailleurs vraiment pertinente au litige a incidemment pour effet de faire ressortir la mauvaise réputation ou un trait de sa personnalité »
+Types de preuves de propension
+Preuve de mauvaise réputation 
+Au sujet de l’accusé
+Principe
+Poursuite ne peut JAMAIS en faire la preuve
+Exceptions, 
+la nature même du crime reproche à l’accusé n’exige d’en faire la preuve l’autorise
+i.e gangsterisme
+si l’accusé a tenté de faire une preuve de bonne réputation
+possibilité de soulever les antécédents judiciaires de l’accusé 12LP
+SAUF infractions pour lesquels il a été absout + infractions disciplinaires
+Mais le juge possède toujours un pouvoir discretionnaire
+Il va pour ce faire user du test « force probante/préjudice causé à l’accusé » dans l’évaluation de l’admissiion d’une de ces exceptions
+Au sujet d’un témoin ordinaire
+Principe
+Preuve de mauvaise réputation/fréquentation est possible tant que pertinente, sauf dispo contraire
+Attention : absence de contre-preuve possible car ce sont des questions incidentes (ici crédibilité du témoin)
+Preuve de trait de caractère 
+Moyen d’un témoin expert 
+ Pertinence +qualification jouent
+Principe
+Preuve de personnalité par la pousuite n’est JAMAIS possible
+Défense peut faire une preuve de personnalité pour disculper son client
+Moyens de défense

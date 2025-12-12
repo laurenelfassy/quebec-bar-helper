@@ -1,0 +1,179 @@
+RESPONSABILITÉ CIVILE - PRÉJUDICE ET INDEMNISATION
+Section 1 : Notion de préjudice et classification
+Le C.c.Q. par les arts 1457, 1458 et d’autres du C.c.Q. prévoient 3 types de préjudices : moral, corporel et matériel
+Cependant, la Charte québécoise a décidé pour sa part de conserver une division bipartite, ce qui ne pose pas vraiment de problème sauf que cela montre un manque d’uniformité. 
+Vrai/Faux
+Est-il vrai qu'il faut d'abord chercher la nature de l'atteinte première puisque c'est cette atteinte initiale qui permettra de déterminer le type de préjudice subi par la victime ?
+Vrai, dans l'affaire Cinar Corporation c. Robinson, 2013 CSC 73, la Cour suprême du Canada rappelle que pour déterminer s'il s'agit d'un préjudice corporel, « il importe de déterminer si l'acte qui a causé le préjudice était en soi une atteinte à l'intégrité physique de la victime, plutôt que de déterminer si l'acte a eu une incidence sur la santé physique de la victime. »
+Cinar ce fait voler et résulte un préjudice moral alors, la cour de première instance l’a indemnisé. La Cour d’appel est venue dire qu’il ne s’agissait pas d’un préjudice moral, mais plutôt un préjudice corporel. La CSC va adopter l’analyse selon laquelle le préjudice doit être vu non pas dans la conséquence mais dans l’atteinte première. Donc, il s’agissait du vol de ses idées, de son droit d’auteur constituant une violation des droits de propriété de M. (préjudice non pécuniaire découlant d’un préjudice matériel). C’est la violation initiale, plutôt que les conséquences de cette violation qui sert de fondement pour décider du type de préjudice subi. (Ce que nous devons retenir c’est que Cinar a subi une violation matérielle de ses droits d’auteurs, et a ensuite subi un préjudice moral, qui est la conséquence de la violation initiale)
+Pour le préjudice moral, ce serait le harcèlement, aux droits spécifiquement protégés contre les atteintes (ATTENTION, si on fait une dépression à la suite d’un préjudice corporel, ça reste un préjudice moral avec des conséquences pécuniaires ou non-pécuniaire… elle ne devient pas un préjudice corporel !!!)
+Préjudice matériel
+Atteinte première à un bien
+Exemple : mettre le feu à la maison. Il peut en découler des pertes pécuniaires telles que la reconstruction de la maison et aussi des pertes non-pécuniaires pour la souffrance qui en est suivie
+Cinar précise que même si je fais une dépression et qu’il s’en suit un préjudice corporel, ça n’empêche pas qu’il ne s’agit pas de l’atteinte initiale, soit la seule atteinte importante. 
+Aucun plafond d’indemnisation pour les pertes non-pécuniaires résultant du préjudice matériel et les préjudices morales
+Une perte non-pécuniaire = une souffrance morale, perte du travail, atteinte à la réputation, humiliation, etc.
+Préjudice corporel
+Elle touche l’atteinte initiale à l’intégrité physique.
+Il va entrainer comme les autres des pertes pécuniaires et non-pécuniaires subséquemment, mais on doit qualifier le préjudice initial de préjudice corporel. 
+**Préjudice corporel est protégé par plusieurs dispositions du C.c.Q. tels que l’art. 1474, al.2 C.c.Q. (interdiction de clauses limitatives de responsabilité pour le préjudice moral ou corporel), l’art. 1615 C.c.Q. (la réserve de droits), l’art. 1616 C.c.Q. (le droit d’avoir des rentes) et l’art. 2930 C.c.Q. (prescription : les villes ont un pouvoir énorme, mais en matière de préjudice corporel ces limitations n’ont aucune valeur et à ce moment-là le délai de prescription est de 3 ans).**
+Arrêté lors d’une manifestation. Humiliation d’avoir passé une nuit en prison, mais n’a aucune séquelle physique par les menottes ou la force utilisée par les agents. Il ne s’agit donc pas d’un préjudice corporel, mais plutôt d’un préjudice moral il est impératif de poursuivre dans un délai de 6 mois comme le régit la municipalité. Par contre, si les agents avaient laissés des marques sur son corps, elle aurait 3 ans. 
+**Plafond concernant les pertes non-pécuniaires résultant du préjudice corporel.**
+Victimes par ricochet =
+La victime immédiate, qui a reçu le coup a subi un préjudice corporel, mais les gens qui lui sont proches peuvent subir aussi un préjudice par ricochet. Quel est la nature de leur préjudice à eux ? 
+Exemple : M décède à vélo dans la piste cyclable de Mtl et Mme poursuit. A-t-elle subi un préjudice corporel ? Si oui, elle bénéficie de l’art. 2930 C.c.Q., soit de 3 ans pour poursuivre, mais sinon d’un délai de prescription de 6 mois. La Cour d’appel a conclu qu’elle a subi un préjudice corporel alors, elle pouvait poursuivre dans le délai de 3 ans.
+**Protège les victimes par ricochet du préjudice corporel initial subi par la victime qu’elle survive ou qu’elle ne subisse que des blessures.**
+***les victimes par ricochet subissent les mêmes types de préjudices que les victimes immédiate***
+Préjudice moral 
+Atteinte à un droit de la personnalité sauf celle à l’intégrité physique. On parle de l’atteinte à la vie privée, à la diffamation, à l’intégrité, à la réputation et à l’honneur.
+L’atteinte va se transformer en perte pécuniaire par la perte de son emploi, mais peut également se transformer en perte non-pécuniaire par la souffrance, la douleur ou l’humiliation. 
+Même si j’ai fait une dépression majeure et que je n’ai pas pu retourner travailler, ce n’est jamais considéré comme un préjudice moral. 
+Aucun plafond d’indemnisation pour les pertes non-pécuniaires résultant du préjudice moral.
+Section 2 : Le préjudice comme condition de responsabilité
+Le préjudice constitue une condition de responsabilité tant pour le régime de responsabilité civile contractuelle qu'extracontractuelle (arts. 1457 et 1458 C.c.Q.).
+Vrai/Faux
+Étant donné que pour être indemnisé le préjudice doit revêtir un caractère certain, il est donc impossible d'être indemnisé pour un préjudice futur.
+Faux, le préjudice futur sera indemnisé dans la mesure où il peut être évalué au moment du jugement, art. 1611, al.2 C.c.Q.
+Les règles relatives au préjudice admissible
+Direct
+Le préjudice doit être une suite immédiate et directe (art. 1607 C.c.Q.). Qui a droit au recours par ricochet ? Dans une décision, madame se blesse au genou au curling et se fait diagnostiquer une entorse alors qu’il s’agissait d’une fracture alors elle a continué à marcher sur sa jambe et subi des dommages. Elle a poursuivi le médecin et son conjoint va également poursuivre. Le médecin va venir dire que le conjoint ne peut pas poursuivre puisqu’il est autrui, mais la CSC (1978) va clarifier que les victimes par ricochet ont le droit de poursuivre également. La CSC a établi que Mme avait une faute contributoire de 25% et celle-ci sera notamment imposée à son conjoint. 
+Généralement, ce sont des gens dans la communauté de vie de la personne : conjoint, frère, sœur, enfants, parents… Ça doit être limité ! L’oublie par contre, ne crée pas d’interruption à la prescription.
+L’aggravation du préjudice par le fait que la victime puisqu’elle n’a pas suivi de thérapie, de mesures raisonnables pour limiter son préjudice, n’est pas retournée au travail (art. 1479 C.c.Q.). Ce ne sera pas à l’auteur de payer pour cette aggravation.
+Légitime
+Vous avez de la drogue et je me la fais voler, je ne peux pas poursuivre en responsabilité civile, ce serait illégitime. Les gens qui travaillent au noir faisant des déclarations d’impôts fausses, les tribunaux vont généralement prendre ce que le rapport indique. 
+Certain 
+Le préjudice ne doit pas être absolu, mais le juge doit être convaincu selon la balance des probabilités que le préjudice se matérialisera selon les expertises. 
+Emma c St-Sauveur : victime ne pourra jamais travailler alors, indemnisation à la hauteur du salaire d’un jeune homme universitaire. 
+Avec le préjudice futur (art. 1611 C.c.Q.) s’il est prouvé avec la balance des probabilité qu’il aura besoin de médication pour le restant de sa vie et bien, il recevra une indemnisation. 
+Prévisible 
+L’art. 1613 C.c.Q. prévoit cette possibilité au régime contractuel. Au moment de la conclusion du contrat, il était prévisible ou il était normalement prévisible. 
+En matière extracontractuel, c’est tout ce qui a une suite directe et immédiate. Alors, le contractuel est moins avantageux. 
+Pour le préjudice matériel ça va avoir un plus gros impact que celui corporel par exemple. 
+Pour les préjudices corporels, pas nécessaire d’avoir une prévisibilité. 
+Les règles relatives à l’indemnisation du préjudice 
+Caractère compensatoire du préjudice (art. 1611, al.1 C.c.Q.)
+On tend vers la compensation intégrale
+Exemple : bien détruit. On ne pourra pas obtenir la valeur à neuf du bien sauf en matière d’assurance, mais ce n’est pas le cas d’espèce. On va avoir une valeur dépréciée en tant que valeur compensatoire. On ne doit pas s’enrichir normalement en poursuite en responsabilité civile.
+Exemple : si je reçois le montant en capital lors de ma poursuite en dommages et intérêts, soit 5-6 ans après un jugement, il y a un problème en raison d’une sous-indemnisation. On accordera à ce moment-là des dommages moratoires, soit des indemnités additionnels en vertu des arts. 1617 et ss C.c.Q. C’est au demandeur de faire la demande de dommages-intérêts moratoire avec intérêts et l’indemnité additionnelle à partir … À quel moment on calcul les intérêts additionnels ? À partir de la demeure (art. 1617, al.2 C.c.Q.), ce qui peut être de la mise en demeure à condition que les montants réclamés soient spécifiquement mentionnés dans celle-ci (art. 1617, al.3 C.c.Q.). Si un délai est ajouté dans le mise en demeure, on prend en compte le lendemain du délai comme point de départ. Si pas de mise en demeure, car demeure de plein droit, le créancier aura le fardeau de prouver que c’est réellement un cas de l’art. 1597 C.c.Q. Si pas de mise en demeure, la demande en justice peut servir de point de départ et on utilisera la date de la signification. Le tribunal pourrait cependant toujours utilisé son pouvoir discrétionnaire (Art. 1618 C.c.Q.) pour faire démarrer le délai à partir d’une date postérieure. 
+3 exceptions au caractère compensatoire :
+Le cumul qui est permis par l’art. 1608 C.c.Q.
+Art. 1608 C.c.Q. : lorsqu’il y a eu un paiement effectué par un tiers
+L’obligation du débiteur de payer des dommages-intérêts au créancier n’est ni atténuée ni modifiée par le fait que le créancier reçoive une prestation d’un tiers, par suite du préjudice qu’il a subi, sauf dans la mesure où le tiers est subrogé aux droits du créancier.
+La victime obtient de l’argent de l’employeur, des assurances, un organisme gouvernemental…
+Normalement, l’argent reçu d’un tiers ne doit pas avoir d’impact sur le montant réclamé par le débiteur SAUF si le tiers s’est subrogé dans les droits du créancier. Dans ce dernier cas, le tiers se retournera vers le créancier par la suite. Sinon, le débiteur peut exiger le montant contre le créancier même s’il a obtenu de l’argent d’un tiers.
+Exemple : maison brûle, car l’électricien a mal effectuée son travail : 300 000$ de dommages. L’assureur de dommages paie une indemnité de 150 000$ à la victime. Est-ce que la victime dans son recours contre l’électricien ou l’assureur devra tenir compte du montant de 150 000$ versé ? En raison de la subrogation prévue à l’art. 2474 C.c.Q. et de son effet à l’art. 1608 C.c.Q., l’assureur s’est subrogé dans les droits de l’électricien alors, il faut tenir compte du montant versé. Elle ne pourra réclamer que 150 000$ à l’électricien. 
+Art. 2474 C.c.Q. :
+L’assureur est subrogé dans les droits de l’assuré contre l’auteur du préjudice, jusqu’à concurrence des indemnités qu’il a payées. Quand, du fait de l’assuré, il ne peut être ainsi subrogé, il peut être libéré, en tout ou en partie, de son obligation envers l’assuré.
+L’assureur ne peut jamais être subrogé contre les personnes qui font partie de la maison de l’assuré.
+Intéressant lorsque nous sommes en matière d’assurance invalidité et tout ce qui touche la personne. Lorsque le tiers paie et que cette personne est un assureur de personne, il n’a pas de subrogation. 
+Exemple : une personne est blessée et prend des médications à la hauteur de 10 000 $ et l’assureur en médicament ou en invalidité lui paie 8 000$. Techniquement, est-ce que l’assureur est subrogé ? Non, alors elle peut réclamée 10 000$ en plus du 8 000$ reçu et l’assureur ne pourra pas se retourner vers l’auteur du préjudice. 
+Les montants versés par l’État, soit par exemple pour une personne victime d’acte criminel. La CNESST, soit l’État va se subroger et on va devoir tenir compte du montant versé. 
+Les dommages punitifs 
+Le législateur a prévu que des dommages punitifs ne peuvent être octroyés seulement si la loi le prévoit (art. 1621 C.c.Q.). Au contraire, un juge de common law peut en octroyer lorsqu’il est outré par le comportement du défendeur.
+L’abus de droit prévue aux arts 6 et 7 C.c.Q. ne constituent pas un fondement législatifs. Il existe une 15ème de loi : la Charte québécoise, la loi sur la protection du consommateur, la loi sur les arbres, le C.p.c. quant à l’abus de procédure et la liberté d’expression…On doit se référer à la loi pour déterminer les critères.
+L’art. 49(2) de la Charte canadienne prévoit qu’il faut (3) :
+ Une atteinte à un droit protégé, que ce soit le droit à la vie, à l’honneur, à la jouissance des biens…
+ Une atteinte illicite
+ Une atteinte intentionnelle
+La CSC affirme que les dommages punitifs doivent être accordés avec modération. L’art. 1621, al.2 C.c.Q. énonce certains critères servant à la détermination du montant.
+Art. 1621 C.c.Q. :
+Lorsque la loi prévoit l’attribution de dommages-intérêts punitifs, ceux-ci ne peuvent excéder, en valeur, ce qui est suffisant pour assurer leur fonction préventive.
+Ils s’apprécient en tenant compte de toutes les circonstances appropriées, notamment de la gravité de la faute du débiteur, de sa situation patrimoniale ou de l’étendue de la réparation à laquelle il est déjà tenu envers le créancier, ainsi que, le cas échéant, du fait que la prise en charge du paiement réparateur est, en tout ou en partie, assumée par un tiers.
+Lorsqu’on limite conventionnellement l’indemnité 
+Les arts. 1474 et 1475 C.c.Q. limites la portée de la clause lorsqu’il s’agit d’un préjudice corporel, mais rien ne les empêche en ce qui concerne le préjudice moral et matériel. 
+La clause pénale est un autre moyen. 
+Vrai/Faux
+Malgré le caractère compensatoire de l'indemnisation, il est possible d'obtenir un montant d'indemnisation supérieur en vertu d'une clause pénale.
+Vrai, en matière contractuelle, il est possible d'obtenir un montant supérieur d'indemnisation lorsque le contrat prévoit à l'avance l'indemnisation en cas d'inexécution du contrat (art.1622 C.c.Q.).
+Caractère cessible et transmissible de la créance d’indemnisation
+L’art. 1610, al.1 C.c.Q. le mentionne. Par contre, l’al.2 mentionne une exception à cette règle lorsque l’atteinte était un droit de la personnalité (art. 3 C.c.Q.). En ce sens, le droit sera transmissible, mais non cessible. Il ne pourra pas le vendre à quelqu’un sauf que mes héritiers pourront continuer le recours en mon nom. 
+Le caractère définitif de l’indemnisation
+L’autorité de la chose jugée, on ne peut plus remettre en question. La personne est blessée et ne peut plus travailler lors du jugement. 20 ans plus tard, la victime réussit à travailler. Alors, l’auteur ne pourra pas revenir et réclamer ce qu’il lui a donné. 
+Par contre, au moment du procès, parfois il pouvait être difficile de déterminer le montant qui sera accordé *EN MATIÈRE DE PRÉJUDICE CORPOREL SEULEMENT* alors, l’art. 1615 C.c.Q. prévoit que la VICTIME EXCLUSIVEMENT doit demander une réserve pour 3 ans et dans ce cas, si le tribunal accorde la demande, la VICTIME peut revenir dans ce délai devant les tribunaux et prouver que son état s’est aggravé et qu’elle mérite des dommages-intérêts supplémentaires. Les juges sont relativement réticents d’accorder cette demande. 
+Le caractère global de l’indemnisation
+Montant d’argent global (art. 1616, al.1 C.c.Q.). Les rentes ne seront possibles que dans deux situation: 
+Les parties en conviennent (transaction à paiement différé)
+Préjudice corporel et la victime est un mineur (al.2) 
+La possibilité de renoncer à l’indemnisation
+Par une transaction, une quittance ou encore une déclaration. Le C.c.Q. protège cependant certaines victimes. Ça veut dire que si quelqu’un subit un préjudice corporel ou moral, que l’auteur du préjudice lui remet une somme d’argent à titre de dédommagement de manière volontaire et que le débiteur lui dit qu’il a acquitté sa dette envers lui (quittance), cette quittance a aucun effet si elle est donnée dans les 30 jours du fait dommageable et qu’elle est préjudiciable au débiteur (ex: le dédommagement est inférieur à ce que le débiteur pourrait réclamer devant un tribunal) – donc il pourra quand même aller devant les tribunaux et réclamer. Même chose si c’est l’assureur qui dit à l’auteur du préjudice qu’il lui doit plus rien. 
+L’art. 1609 C.c.Q. prévoit que si je renonce par une transaction, une quittance ou une déclaration à la personne qui m’a blessé ou son représentant, lorsqu’il s’agit d’un préjudice moral ou corporel, dans les 30 jours de l’accident, cette renonciation est nulle si elle est préjudiciable.
+Les délais de prescription
+En cas de préjudice corporel, aucune disposition ne peut imposer un délai inférieur à celui prévu au livre du Code en matière de prescription extinctive (art. 2930 C.c.Q.) : délai de droit commun de 3 ans (art. 2925 C.c.Q.), délai de 10 ans (art. 2926.1, al.1 C.c.Q.), ou droit d’action imprescriptible (art. 2926.1, al.1 C.c.Q.).
+Tous les accidents qui surviennent sur des lacs, des cours d’eau… Ils ont été jugés régis par le droit maritime et c’est un délai de ***2 ans qui s’appliquent.***
+L’action en réparation du préjudice corporel « résultant d’un acte pouvant constituer une infraction criminelle se prescrit par 10 ans à compter du jour où la victime a connaissance que son préjudice est attribuable à cet acte » (art. 2926.1 C.c.Q.).
+Le droit d’action est désormais imprescriptible lorsque le préjudice « résulte d’une agression à caractère sexuel, de la violence subie pendant l’enfance, ou de la violence d’un conjoint ou d’un ancien conjoint », en remplacement de l’ancien délai de 30 ans (art. 2926.1, al.1 C.c.Q.).
+Règles particulières :
+Délai de déchéance de 3 ans à compter du décès pour un recours contre la succession de l’auteur de l’acte; NB ce délai ne s’étend pas à un recours intenté contre un défendeur autrement qu’à titre successoral, qui se fonde sur sa propre faute ou sa responsabilité à titre de commettant de l’auteur de l’acte décédé (art. 2926.1, al.2 C.c.Q.).
+Délai de 3 ans à compter du décès de la victime (art. 2926.1, al.2 C.c.Q.);
+Dispositions transitoires (L.Q. 2020 c.55, art. 4 et 5). Nouvelles règles applicables à un recours déjà intenté au 12 juin 2020. Possibilité de présenter une nouvelle demande en cas de recours rejeté avant le 12 juin 2020 au seul motif que la prescription était acquise
+Diffamation (art. 2929 C.c.Q.) doit poursuivre dans l’année
+Loi municipale prévoit des délais plus courts donc attention 
+2 ans, recours maritime
+Frais d’experts encourus pour établir le droit à l’indemnisation et l’étendue du préjudice
+La Cour d’appel a confirmé qu’ils doivent être tenus compte en tant que frais de justice aussi appelés dépens. Celle qui perd le procès paie les frais totaux des experts de sa partie et de l’autre partie. Si le juge conclu que l’expertise de certains n’étaient pas nécessaires, elle pourrait faire supporter sur les épaules de la partie gagnante les frais de l’un de ses experts.
+Section 3 : L'indemnisation du préjudice matériel
+Perte Pécuniaire 
+Remet la personne en état, sans l’enrichir. Parfois des biens prennent de la valeur alors, l’expertise à l’appui sera nécessaire. On prend les prix du marché et des experts. 
+Il peut s’agir aussi de l’indemnisation de la perte de profit lorsqu’un hôtel brule, il ne s’agira pas seulement du prix de l’immeuble, mais des revenus émergents
+Perte non-pécuniaire
+Perte non-pécuniaire dans le cas d’une perte apportant une souffrance à savoir, les cendres du conjoint, de l’animal
+Pas de plafond. 400 000$ dans l’affaire Robinson. 
+Section 4 : L'indemnisation du préjudice moral
+Droit de la personnalité (art. 3 C.c.Q.). 
+Perte Pécuniaire 
+Diffamation donc perte de son emploi ou conséquemment prise de médicament
+Recevoir ce qui est une suite directe et immédiate
+Perte non-pécuniaire
+Pas de plafond d’indemnisation 
+Diffuse une photo sur les réseaux qui a eu pour effet de porter atteinte à sa réputation, une souffrance
+Section 5 : L'indemnisation du préjudice corporel
+De façon générale, l'indemnisation du préjudice corporel est assujettie aux mêmes règles que pour les deux autres catégories de préjudice. Certaines règles diffèrent néanmoins en cas de préjudice corporel (par exemple, arts. 1474, 1609, 1614 à 1616 et 2930 C.c.Q.).
+Vrai/Faux
+C'est en 1978 que la Cour suprême du Canada, dans les affaires Andrews, Thornton et Arnold a fixé les règles visant à guider les tribunaux lors de l'indemnisation d'une victime d'un préjudice corporel.
+Vrai, la plupart des grands principes énoncés dans ces décisions font encore autorité aujourd'hui.
+L’incapacité
+Au moment où la personne est blessée, on doit déterminer l’étendue des blessures, soit le %. Il revient à un médecin de faire cet examen (DAP dans le tableau). Ces pourcentages vont permettre au juge de déterminer l’incapacité. 
+Exemple : incapacité de 15% physique, donc partielle et permanente (IPP). Le 15 % il faut le transformer en perte salariale et de l’autre côté en perte non-pécuniaire tout dépendamment de ce qui touche l’incapacité. Si le 15 % touche le motricité fine d’un chirurgien et bien la perte salariale sera conséquente. On doit faire très attention à IPP et la perte salariale puisque parfois ça n’aura aucun impact. 
+L’expectative de vie 
+Expectative avant et après l’accident peut changer. Doit faire une différence entre les soins et le salaire. Pour le salaire, ce sera l’expectative de vie avant l’accident, soit une retraite vers 64-65 ans. Pour les soins, ce sera l’expectative de vie après l’accident. 
+Les taux d’actualisation
+Le juge est placé devant la tâche de déterminer un montant d’argent aujourd’hui pour les 30-40-60 prochaines années. Les taux sont prévus par règlement (art. 1614 C.c.Q.). Un taux de 3% est prévu pour les soins et salaires et un taux de 3.5 % pour les biens et l’inflation. L’actuaire va calculer les taux obligatoires en fonction de la situation de la personne afin de déterminer le capital nécessaire. 
+Les grands principes 
+Les chefs de dommages qui peuvent être réclamés lorsqu’il y a un préjudice corporel. On doit séparer le tout en pertes pécuniaires et non-pécuniaires.
+Pertes pécuniaires 
+La victime a le droit de retourner à la maison même si elle est gravement blessée. C’est en raison de la dignité humaine et de la réparation totale que ce retour est favorisé de sorte que s’il est nécessaire de refaire et de mettre en place des installations de la maison, elles doivent être réalisées à la place de l’envoyer en centre. Ça peut être des soins à la maison. (art. 248 et 250 C.p.c.) pour la procédure.
+Peut réclamer des soins passés de laboratoires, médication, copie des dossiers, chiropractie, physiothérapie, psychologie à l’appui de facture
+Peut réclamer des soins futurs de traitements, ressources humaines, aide à domicile, aides techniques, adaptation, etc. 
+Si c’est un membre de la famille à la place d’une infirmière, on va lui verser une somme, mais si c’est une avocate d’un grand cabinet qui quitte son emploi on ne va pas lui verser le même salaire auquel elle avait droit. 
+Le tribunal va avec le coût des soins pour déterminer la somme.
+Pour le salaire, ça va être pour le passé et pour le futur. Difficile d’établir le plan de caractère. On regarde quel était le salaire brut pour établir le salaire futur avec les augmentations salariales. C’est vers 63-64 ans que les personnes prennent leur retraite.
+Pour un jeune enfant, c’est difficile à établir, on se fie aux notes, aux parents.
+Si elle est capable de travailler on va lui trancher une partie d’argent résiduaire.
+Les frais de gestions sont importants. Si la victime n’est pas capable de s’occuper de ses affaires ou possède une capacité restreinte, les tribunaux peuvent accorder un montant supplémentaire pour qu’elle bénéficie d’un conseiller. 
+Automne - En ce qui concerne l’impôt, les intérêts cumulés sur les sommes reçues sont imposables alors, un montant d’argent supplémentaire sera calculé par un actuaire ou un fiscaliste à titre de majoration.
+Hiver - Majoration pour impôts : Reçoit une somme en capital alors, ce capital va générer des revenus par les intérêts et le bénéficiaire ne sera pas tenu de payer des impôts sur ces sommes reçues. 
+Drôle parce que les deux femmes ne donnent pas la même réponse dans le Webinaire en automne et en hiver !!
+Pertes non-pécuniaires
+La souffrance, esthétique, perte de jouissance de la vie…
+Plafond 375 000$ aujourd’hui
+3 approches pour aider les juges à déterminer l’indemnité la plus raisonnable :
+Approche conceptuelle : un bras vaut pour tout le monde la même chose (utiliser la jurisprudence comme aide)
+Approche personnelle : pour la personne son bras a eu quel impact (coach potato, ou un sportif, une personne festive)
+Approche fonctionnelle : qu’est-ce que vous allez faire avec l’argent ?
+Brière c Cir : un montant global on le met en perdîmes (5$ par jour pour équivaloir à 82 000$ au global) pour nous permettre de mieux voir le tout. 
+Section 6 : L'indemnisation du préjudice résultant du décès
+2 types de recours s’ouvre lors du décès de la victime :
+Recours à titre d’héritier
+Continu la personnalité du défunt
+Exemple : personne avant de décédé a eu une perte salariale, des soins ou a perdu des biens en raison d’un incendie. La succession pourra réclamer ce qui a été perdu par le défunt avant son décès.
+Si elle est morte sur le coup : aucune souffrance ne pourra être obtenu
+On ne pourra pas obtenir quoique ce soit pour la perte objective de vie, le fait de mourir à 21 ans plutôt qu’à 82 ans ne sont pas compensables. 
+Par contre, si la preuve révèle que la victime a souffert avant de mourir, un montant sera accordé à la succession (mais si on es mort sur le coup, impossible d’obtenir des montants).
+Un recours à titre personnel pour leur propre préjudice en raison du décès de la victime 
+Frère et sœur, enfant, cousin, tante, bonne amie, fiancé… interprétation plus large que dans le Code du bas Canada
+Il va avoir une perte pécuniaire pour les proches : on va regarder le salaire net de l’individu et on va regarder combien d’argent était consacré à la famille. 
+Perte non-pécuniaire : CSC tient contre de plusieurs critères dont, la qualité de la relation, les circonstances de l’accident, l’impact sur l’individu, la publicité 
+On ne peut pas réclamer pour le choc au moment de l’accident et pour les pertes de soutien futurs. La seule chose pouvant être tenu compte est le solotiondolorès 
+La même personne peut potentiellement porter les deux chapeaux et deux recours peuvent en ce sens être portés. 
+L’affaire de la Cour d’appel Demontigny mentionne que les frais funérailles peuvent être réclamés à l’auteur du décès. 
+Mais attention, si la victime avait déjà assumé les frais pour des préarrangements funéraires, la personne n’a pas le droit d’action en absence d’indication que des pertes additionnelles on été encourues à cet égard!

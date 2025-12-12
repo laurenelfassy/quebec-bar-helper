@@ -1,0 +1,355 @@
+LES OBLIGATIONS – LA THÉORIE GÉNÉRALE DES OBLIGATIONS
+Section 1 : Les sources de l’obligation
+Les sources extracontractuelles 
+L’obligation naît du contrat, mais aussi de tout acte ou fait auquel la loi attache d’autorité les effets d’une obligation. C’est la volonté des parties qui permet de distinguer ces deux catégories de sources d’obligation.  En effet, le contrat découle de la volonté de deux personnes d’être liées. Quant à l’acte ou au fait auquel la loi attache d’autorité les effets d’une obligation, il émane plutôt de la volonté du législateur.
+Deux sources (art. 1372, al.1 C.c.Q.)
+Les sources contractuelles 
+Tout acte ou fait auquel la loi attache d’autorité les effets d’une obligation (extracontractuel arts. 1457-1469 C.c.Q. ou des arts 1482-1496 C.c.Q. gestion des affaires, réception de l’indu et de l’enrichissement injustifié)
+La notion de bonne foi est au cœur du C.c.Q. et des obligations (arts.6 et 7 C.c.Q.)
+Art. 1375 C.c.Q. :
+La bonne foi doit gouverner la conduite des parties, tant au moment de la naissance de l’obligation qu’à celui de son exécution ou de son extinction.
+Exemple dans le C.c.Q. de cette obligation de bonne foi (erreur dolosive, la crainte, nécessité d’une mise en demeure préalable ou l’Action en inopposabilité)
+L’existence d’un contrat 
+Les règles particulières des contrats nommés complètent et parfois dérogent aux règles générales des contrats innomés. 
+On doit vérifier si le contrat existe valablement par son contenu et par les personnes qu’il touche.
+L’offre (art. 1388 C.c.Q.)
+Art. 1388 C.c.Q. :
+Est une offre de contracter, la proposition qui comporte tous les éléments essentiels du contrat envisagé et qui indique la volonté de son auteur d’être lié en cas d’acceptation.
+Une offre ne contenant pas une description des produits, des services ou le prix ne serait pas considérée comme une offre
+Pour que l’offre soit acceptée, elle doit faire l’objet d’une acceptation sensiblement conforme à l’offre sinon elle ne sera pas une acceptation mais plutôt une contre-offre (art. 1393 C.c.Q.)
+L’acceptation (art. 1387 C.c.Q.)
+L’acceptation va déterminer le lieu et le moment de la formation du contrat. On doit cependant garder en réserve l’art. 54.2 LPC lorsqu’un contrat est conclu entre un commerçant et un consommateur.
+Le lieu de l’acceptation est essentiel puisqu’il permet de déterminer le lieu d’institution du recours en justice en cas de litige (art. 42 C.p.c.). 
+Le moment est essentiel puisqu’il permet de déterminer si l’offre est toujours valable ou caduque.
+Caduque : 
+Par la révocation de l’offrant (art. 1391 C.c.Q.)
+Par l’écoulement du délai (art. 1392, al.1 C.c.Q.)
+Absence de délai, par l’écoulement d’un délai raisonnable (art. 1392,al.1 C.c.Q.)
+Par le refus du destinataire de l’offre (art. 1392, al.1 in fine C.c.Q.)
+Par le décès (art. 1392, al.2 C.c.Q.)
+Par la faillite (art. 1392, al.2 C.c.Q.)
+Par l’ouverture d’un régime de protection de l’offrant (art. 1392, al.2 C.c.Q.)
+Promesse de contracter
+D’où l’intérêt que l’offre devienne une promesse de contracter et ce sont les critères de l’art. 1396, al.1 C.c.Q. qui sont pertinents. Les effets de la promesse sont plus étendus (art. 1396, al.2 C.c.Q.) aussi.
+Art. 1396 C.c.Q :
+L’offre de contracter, faite à une personne déterminée, constitue une promesse de conclure le contrat envisagé, dès lors que le destinataire manifeste clairement à l’offrant son intention de prendre l’offre en considération et d’y répondre dans un délai raisonnable ou dans celui dont elle est assortie.
+La promesse, à elle seule, n’équivaut pas au contrat envisagé; cependant, lorsque le bénéficiaire de la promesse l’accepte ou lève l’option à lui consentie, il s’oblige alors, de même que le promettant, à conclure le contrat, à moins qu’il ne décide de le conclure immédiatement.
+Donc, la promesse ne tombe pas par l’effet du décès (art. 1441 C.c.Q.). Elle va donner ouverture à l’exécution en nature de l’obligation (art. 1601 C.c.Q.) de sorte qu’en matière de vente elle prend la forme d’une action en passation de titre (art. 1712 C.c.Q.)
+La promesse unilatérale lie uniquement celui qui la présente, elle devient bilatérale lorsque le bénéficiaire l’accepte ou lève l’option qui lui a été consentie.
+Exemple de promesse bilatérale : vente immobilière lorsque les parties s’entendent pour passer le contrat de vente plus tard. La promesse peut être assortie de conditions telles que d’obtenir un financement ou de procéder à une inspection du bien
+Le droit à l’exécution en nature n’est cependant pas illimité. Dans certains cas, le législateur l’interdit et le remplace par l’octroi de dommages-intérêts. 
+Exemples : Promesse de prêt (art. 2316 C.c.Q.), lorsque le bien a été vendu à un tiers (art. 1397, al.1 C.c.Q.) alors que le promettant lui avait promis le bien et il en est de même lors d’un pacte de préférence (art. 1397, al.2 C.c.Q.). À ce moment-là, le tiers de mauvaise foi ainsi que le promettant devront payer des dommages-intérêts contractuels en vertu de l’art. 1458 C.c.Q.
+La validité du contrat 
+Il existe des sanctions au défaut de formation des contrats.
+L’erreur simple (art. 1400 C.c.Q.)
+L’erreur porte soit sur :
+La nature du contrat : dans le cas où je pense signer un contrat de cautionnement alors qu’il s’agit d’un contrat de prêt. 
+L’objet de la prestation du contrat : je crois acheter une maison jumelée alors que j’achète un condo
+Sur un élément essentiel : des limitations non apparentes d’usage d’un immeuble
+L’erreur inexcusable et l’erreur économique ne peuvent pas être invoquées. Cependant, la notion de lésion pourra s’appliquer. 
+L’erreur dolosive (art. 1401 C.c.Q.)
+Application de la notion de bonne foi. Pas de forme particulière puisqu’elle peut résulter d’un acte positif, du silence ou de la réticence provoquée par l’autre partie ou un tiers, mais à la connaissance de cette autre partie. 
+Exemples : ne pas informer un acheteur que la maison n’est pas isolée
+La crainte (art. 1402 C.c.Q.)
+Elle doit être provoquée par l’autre partie ou un tiers, à la connaissance de l’autre partie. Elle doit porter sur un préjudice sérieux. Par exemple, la menace de blessure corporelle si on ne signe pas un contrat 
+Art. 1403 C.c.Q. :
+dans le cas où je pense signer un contrat de cautionnement alors qu’il s’agit d’un contrat de prêt.
+Art. 1404 C.c.Q. :
+N’est pas vicié le consentement à un contrat qui a pour objet de soustraire celui qui le conclut à la crainte d’un préjudice sérieux, lorsque le cocontractant, bien qu’ayant connaissance de l’état de nécessité, est néanmoins de bonne foi.
+Lésion (art. 1405 C.c.Q.)
+Elle ne vicie le consentement que pour les mineurs et les majeurs protégés et dans les cas prévus par la loi. Par exemple : la renonciation du partage familial (art. 424 C.c.Q.), l’acceptation ou la renonciation des acquêts (art. 472C.c.Q.), au partage en matière de succession (art. 897 C.c.Q.), la nullité du prêt d’une somme d’argent (art. 2332 C.c.Q.)
+Lésion objective (art. 1406, al.1 C.c.Q.) : le déséquilibre des prestations des parties 
+Lésion subjective (art. 1406, al.2 C.c.Q.) : analyse l’impact du contrat sur les parties. Elle ne peut être invoquée que les mineurs et les majeurs protégés. 
+*Attention les arts. 8 et 9 LPC permettent à tout consommateur d’un contrat visé par cette loi d’invoquer la lésion objective et subjective*
+Certains préjudices peuvent aussi être assimilés à de la lésion tels que l’art. 1609 C.c.Q. ou les transactions en matière de préjudice corporel ou moral.
+La capacité (art. 1409 C.c.Q.)
+Nous allons en traiter dans les capsules visant le droit de la personne dans une autre formation. 
+La cause (arts.1410 et 1411 C.c.Q.) et l’objet du contrat (arts. 1412 et 1413 C.c.Q.)
+La cause : raison pour laquelle on contracte doit être légale et conforme à l’ordre public.
+L’objet quant à lui : l’opération juridique envisagée par les parties. Aussi, doit être légale et conforme à l’ordre public.
+Les formalités (art. 1414 C.c.Q.)
+Exemple : une hypothèque immobilière, l’art. 2693 C.c.Q. prévoit qu’elle doit être absolument notarié. Une convention de modification de cette hypothèque n’aurait pas être notarié puisqu’elle serait considérée comme son accessoire (art. 2661 C.c.Q.). 
+La promesse de contractée n’est pas soumise à la forme exigée par le contrat (art. 1415 C.c.Q.). 
+*Attention à la LPC lorsqu’elle s’applique puisqu’elle impose de nombreuses conditions de formes additionnelles sans quoi le contrat risque d’être d’annuler*
+Il y a une distinction entre les règles de formes et le défaut de respecter le contrat. La partie peut faire valoir cumulativement ou individuellement l’un de ces recours. 
+Exemple : j’achète un immeuble, je pourrais invoquer une erreur dolosive, mais si le vendeur m’a aussi induite en erreur quant à la qualité d’un bien, je pourrais aussi invoquer la garantie de qualité associée à ce contrat. 
+Les sanctions en cas de défaut de formation du contrat (art. 1416 C.c.Q.)
+La nullité peut être absolue ou relative. Elle est présumée relativement en l’absence d’une disposition claire à l’effet contraire (art. 1421 C.c.Q.)
+Art. 1417 C.c.Q. :
+La nullité d’un contrat est absolue lorsque la condition de formation qu’elle sanctionne s’impose pour la protection de l’intérêt général.
+Peut être invoquée par toute personne ayant un intérêt (art. 1418, al.1 C.c.Q. et art. 85 C.p.c.)
+Peut être soulevé d’office par le tribunal : par exemple une convention de prêt prévoyant un taux d’intérêt supérieur à 60 % serait une convention de prêt qui provoquerait la nullité absolue.
+Art. 1419 C.c.Q.:
+La nullité d’un contrat est relative lorsque la condition de formation qu’elle sanctionne s’impose pour la protection d’intérêts particuliers; il en est ainsi lorsque le consentement des parties ou de l’une d’elles est vicié.
+Soulevée que par la victime ou par le cocontractant le bonne foi, mais elle ne pourra pas être soulevée d’office par le tribunal (art. 1420 C.c.Q.)
+La nullité cause la restitution des prestations respectives des parties (art. 1422, al. 2 C.c.Q. et les arts. 1699-1707 C.c.Q.)
+D’autres sanctions remplacent ou peuvent compléter la nullité tels que les dommages-intérêts sous l’art. 1457 C.c.Q., la réduction de l’obligation équivalente à l’art. 1407 in fine C.c.Q., dans le cas d’un vice de consentement on peut penser à la réduction de l’obligation lors d’une lésion (art. 1408 C.c.Q.) ou la révision des modalités exécution d’un prêt d’argent (art. 2332 C.c.Q.).
+Les parties au contrat (arts. 1378, al.1, 1434, 1440 C.c.Q.)
+Les parties au contrat sont liés, mais d’autres personnes peuvent notamment être liés dans des cas prévus expressément par la loi (art. 1440 C.c.Q.).
+L’art. 1441 C.c.Q. prévoit que les droits et obligations d’une personne passe à ses héritiers en cas de décès. 
+L’art. 1442 C.c.Q. prévoit que les droits et obligations des parties sont transmis à leur ayant-cause s’ils constituent l’accessoire d’un bien ou qu’il lui sont intimement liés à ce bien. C’est le cas de la garantie de qualité qui est attachée à un bien et qui en fait partie. Cette garantie se répercute sur les autres personnes qui ont possédé le bien dans le passé. C’est le cas aussi du fabricant ou du distributeur d’un bien qui sont sujets à une obligation de garantie de qualité (art. 1730 C.c.Q. et art. 53 LPC). 
+Un tiers peut notamment être responsable par l’effet de la responsabilité extracontractuelle (art. 1457 C.c.Q.) s’il encourage une partie à un contrat à manquer à ses obligations. Par exemple, un employeur encourageant son employé à transgresser une clause de non-concurrence alors qu’il est bien au courant de l’existence d’une telle clause. 
+La force obligatoire et le contenu obligationnel du contrat (art. 1434 et 1439 C.c.Q.)
+La force obligatoire du contrat prévue à l’art. 1434 C.c.Q. peut être atténuée par l’effet de l’art. 1439 C.c.Q., soit : (1) par la loi ou (2) par l’accord des parties 
+L’inexécution injustifiée qui entraine la résolution du contrat (arts. 1590, 1504-1506 C.c.Q.) ou à cause d’une force majeure (arts. 1693 et 1694 C.c.Q.).
+L’art. 1434 C.c.Q. mentionne le contenu obligationnel, qui lui nous permet de déterminer, l’intensité des obligations des parties et joue un rôle fondamental quant à qui supporte le fardeau en cas de litige.
+Ensuite, il faut tenir compte des obligations implicites. Elles se retrouvent principalement dans les contrats nommés. 
+Exemples : le locateur doit procurer la jouissance paisible des biens durant toute la durée du louage (art. 1854 C.c.Q.)
+Le contrat contenant des clauses explicites laisse place à interprétation lorsqu’il manque de clarté. À cet égard, nous appliquons les arts. 1425 -1432 C.c.Q. traitant de la recherche de l’intention commune des parties, la nature du contrat, des circonstances et des usages en la matière, de l’ensemble du contrat, adapter les clauses qui procurent un effet, l’interprétation se fait en faveur de celui qui contracte l’obligation. 
+Si le contrat est d’adhésion ou de consommation, il s’interprète en faveur de l’adhérent ou du consommateur. Le contrat d’adhésion est prévu à l’art. 1379 C.c.Q. et le contrat de consommation à l’art. 1384 C.c.Q. Dans de tels contrats, la clause externe renvoyant à d’autres documents que le contrat lui-même est nulle si elle n’a pas été portée à la connaissance de l’adhérent ou du consommateur (art. 1435 C.c.Q.). 
+Toujours dans le contrat de consommation ou d’adhésion, une clause peut être déclarée nulle ou on peut en réduire sa portée lorsqu’elle est illisible ou incompréhensible (art. 1436 C.c.Q.) ou encore abusive (art. 1437 C.c.Q.). 
+Le montant de la pénalité dans une clause pénale doit être raisonnable sinon le tribunal a la faculté de la réduire ou de l’annuler (art. 1623, al.2 C.c.Q.). 
+La promesse de contracter sous condition
+Vrai/Faux
+Une promesse de contracter peut être assortie d’une condition, par exemple celle de l’obtention d’un financement.
+Vrai, l’obligation est alors conditionnelle (art. 1497 C.c.Q.) et lorsque le financement est obtenu, la condition sera accomplie et elle aura alors un effet rétroactif au jour où le débiteur s’est obligé sous telle condition (art. 1506 C.c.Q.).
+Section 2 : Le paiement, la mise en œuvre et la protection du droit à l’exécution
+En temps normal, l’obligation est exécutée volontairement par le débiteur et elle s’éteint par l’effet du paiement. Cette exécution fait l’objet de certaines règles énoncées par le législateur ou prévues par les parties. Lorsqu’un créancier déplore l’inexécution de son débiteur, on parle alors de la mise en œuvre du droit à l’exécution de l’obligation, c’est-à-dire des sanctions à la disposition du créancier.
+L’inexécution de l’obligation
+Les arts. 1553-1589 C.c.Q. donnent des règles relatives à l’exécution de l’obligation. 
+Les règles générales du paiement (art.1553 C.c.Q.) : de n’importe quelle sorte et de n’importe forme
+Les règles relatives à l’imputation des paiements
+Les règles relatives aux offres réelles et à la consignation lorsque le débiteur veut exécuter son obligation, mais le créancier refuse : c’est le cas par exemple d’une mésentente sur la nature ou l’étendue de l’obligation du débiteur. 
+Lorsqu’il y a inexécution, le créancier dispose des sanctions prévues aux arts. 1590, 1625 C.c.Q. et des mécanismes pour protéger ses droits (arts. 1626-1636 C.c.Q.). 
+Inexécution lorsque le débiteur :
+N’offre aucune prestation
+La prestation offerte ne correspond pas aux attributs énumérés, soit lorsqu’elle est partiellement réalisée. L’art. 1590, al.1 C.c.Q. prévoit que l’obligation confère au créancier le droit d’exiger qu’elle soit exécutée entièrement, correctement et sans retard (peut être la livraison d’un bien plus tard que le délai convenu ou la livraison d’un bien différent que celui commandé)
+L’inexécution doit être injustifiée selon l’art. 1590, al.2 C.c.Q. 
+Un événement de force majeure aux arts. 1470 et 1693 C.c.Q. pourraient justifier un inexécution. 
+La mise en demeure (arts. 1590-1598 C.c.Q.)
+Le créancier a l’obligation de s’assurer que son débiteur est en demeure (art.1590, al.2 C.c.Q.). 
+Il existe la traditionnelle lettre de mise en demeure prévue à l’art. 1595 C.c.Q., mais il existe notamment d’autres façons d’être en demeure selon le C.c.Q. :
+Lettre de mise en demeure (art. 1595 C.c.Q.)
+Par les termes du contrat (art. 1594, al.1 C.c.Q.)
+Par une demande en justice (art. 1596 C.c.Q.)
+De plein droit (art. 1597 C.c.Q.) : 
+Art. 1597 C.c.Q :
+Le débiteur est en demeure de plein droit, par le seul effet de la loi, lorsque l’obligation ne pouvait être exécutée utilement que dans un certain temps qu’il a laissé s’écouler ou qu’il ne l’a pas exécutée immédiatement alors qu’il y avait urgence.
+Il est également en demeure de plein droit lorsqu’il a manqué à une obligation de ne pas faire, ou qu’il a, par sa faute, rendu impossible l’exécution en nature de l’obligation; il l’est encore lorsqu’il a clairement manifesté au créancier son intention de ne pas exécuter l’obligation ou, s’il s’agit d’une obligation à exécution successive, qu’il refuse ou néglige de l’exécuter de manière répétée.
+Exemple : débiteur écrivant au créancier qu’il n’exécutera pas son obligation
+Exemple : débiteur qui a chaque mois est en retard de paiement de son loyer
+Exemple : locataire qui ne répare pas une fuite d’eau dans un local commercial
+Le fardeau de la preuve de cette mise en demeure repose sur les épaules du créancier dans tous les cas (art. 1598 C.c.Q.).
+Les moyens de pression à la disposition du créancier
+Ce ne sont pas des sanctions, mais des moyens de pression. Ils peuvent se retrouver dans le C.c.Q., le C.p.c. ou dans des lois particulières. 
+L’exception d’inexécution (art. 1591 C.c.Q.)
+Permet au créancier de ne pas remplir son exécution tant que le débiteur ne l’a pas rempli également.
+Livraison du bien retardée tant que le débiteur ne l’a pas payé à la date prévue
+Le droit de rétention (arts. 1592 et 1593 C.c.Q.)
+Droit de retenir le bien tant que le paiement de la créance relié à ce bien n’a pas été effectué.
+Ce droit fait aussi partie d’une disposition spéciale dans le cas d’un contrat de dépôt à l’art. 2293, al.2 C.c.Q. et d’un contrat de transport à l’art. 2058 C.c.Q. 
+Dans le C.p.c., il y a les dispositions concernant la saisie avant jugement (art. 116 et ss C.p.c.) permettant au créancier de saisir de plein droit dans certains cas et dans d’autres l’intervention des tribunaux sera nécessaire. 
+La résolution du contrat
+L’art. 1590, al.2 C.c.Q. :
+Lorsque le débiteur, sans justification, n’exécute pas son obligation et qu’il est en demeure, le créancier peut, sans préjudice de son droit à l’exécution par équivalent de tout ou partie de l’obligation:
+1°	Forcer l’exécution en nature de l’obligation;
+2°	Obtenir, si l’obligation est contractuelle, la résolution ou la résiliation du contrat ou la réduction de sa propre obligation corrélative;
+3°	Prendre tout autre moyen que la loi prévoit pour la mise en œuvre de son droit à l’exécution de l’obligation.
+Sans préjudice à son droit à l’exécution par équivalent de tout ou partie de l’obligation : référence aux dommages-intérêts prévues aux arts 1457-1480, 1607-1625 C.c.Q.
+(1) référence aux arts 1601-1603 C.c.Q.
+(2) référence aux arts 1604-1606 C.c.Q.
+(3) exemple : art. 1868 C.c.Q. permettant à un locataire commercial d’entreprendre des réparations urgentes et nécessaires sans au préalable se prémunir de l’accord du tribunal.
+C’est le créancier qui choisit la sanction, mais il doit s’assurer que les conditions de la sanctions sont toutes rencontrées. Dans le cas où il n’est pas certain d’obtenir justice, le créancier peut inclure dans ses conclusions des sanctions subsidiaires. 
+Exemple : la résolution et demander subsidiairement la réduction de l’obligation corrélative 
+Certaines sanctions peuvent être versées simultanément : l’exécution par équivalent, soit les dommages-intérêts peuvent s’ajouter à toutes les autres sanctions (art. 1590, al.2 C.c.Q.) Par contre, certaines sanctions sont incompatibles entre-elles (art. 1604, al.1 C.c.Q.) telles que la résolution du contrat et l’exécution en nature. 
+Certaines sanctions ne sont applicables qu’en matière contractuelle : la résolution, réduction de l’obligation corrélative, la résiliation
+Les autres s’appliquent tant au régime contractuel qu’au régime extracontractuel : exécution en nature ou exécution par équivalent
+La résolution et la résiliation du contrat
+Selon les arts. 1604-1606 C.c.Q., si le créancier est d’avis que son débiteur ne remplira pas son contrat et qu’il ne peut pas le forcer par l’exécution en nature, il voudra anéantir ce contrat afin lui aussi de se libérer de ses obligations contractuelles. C’est une sanction sévère.
+L’art.1604, al.2 C.c.Q. exige que l’inexécution soit importante ou répétitive. Cette règle est d’ordre public.
+Pour une obligation de peu d’importance, ce sera la réduction de l’obligation
+La résolution ou la résiliation sont facilitées par l’art. 1605 C.c.Q. qui prévoit qu’elles peuvent avoir lieu sans poursuite judiciaire, de plein droit lorsque le débiteur est en demeure de plein droit par l’effet de l’art. 1597 C.c.Q. 
+Cette règle générale peut être écartée par des règles spécifiques. 
+Exemple : résolution d’une vente immobilière ne peut être que judiciaire et des démarches spécifiques doivent être réalisées (art. 1742 et 1743 C.c.Q.), la résiliation d’un bail commercial doit être prononcée par le tribunal à moins que le bail ne contienne une clause claire à cet effet (art. 1863 C.c.Q.)
+Les conséquences de la résiliation (al.2) et de la résolution (al.1) sont prévues à l’art. 1606 C.c.Q. 
+Vrai/Faux
+Le créancier peut demander à la fois la résolution d’un contrat, à titre principal, et son exécution en nature.
+Faux, il ne pourra le demander que de façon subsidiaire, car, si le contrat est résolu, il ne peut être exécuté (art. 1601 et 1604, al. 1 C.c.Q.).
+Exécution en nature (arts.1601-1603 C.c.Q.)
+L’art. 1601 C.c.Q. précise que ce n’est possible que dans le cas qui le permette. 
+Dans le cas d’une obligation intuitu persona, l’exécution en nature est exclue. 
+Cette exécution en nature peut prendre plusieurs formes :
+L’exécution forcée par le débiteur lui-même (art. 1601 C.c.Q.)
+L’exécution forcée par le créancier ou par un tiers au frais du débiteur (art. 1602 C.c.Q.) : le cas d’un débiteur par exemple qui n’effectue pas les travaux qu’il devait réaliser alors le créancier demande à un tiers de les réaliser aux frais du débiteur
+Le créancier peut sur autorisation du tribunal détruire ou enlever au frais du débiteur ce que ce dernier a fait en contravention d’une obligation de ne pas faire (art. 1603 C.c.Q.)
+L’exécution en nature par le biais du débiteur s’obtient habituellement par l’objet d’une injonction dont les règles sont prévues aux arts 509 et ss C.p.c.
+L’exécution par équivalent (dommages-intérêts)
+Pour l’exécution par équivalent, elle peut accompagner n’importe qu’elle autre sanction (art. 1590, al.2 C.c.Q.) Les arts. 1607-1625 C.c.Q. traite des dommages-intérêts et ont été abordés dans un autre modèle sur la responsabilité.
+Art. 1607 C.c.Q. définit ce qui constitue l’exécution par équivalent : 
+Le créancier a droit à des dommages-intérêts en réparation du préjudice, qu’il soit corporel, moral ou matériel, que lui cause le défaut du débiteur et qui en est une suite immédiate et directe.
+La libération du débiteur et de son cocontractant en cas d’impossibilité d’exécuter
+L’inexécution doit être injustifiée (art. 1590, al.2 C.c.Q.). Le débiteur peut donc invoquer la force majeure pour le pas remplir son obligation (art. 1470, 1693 C.c.Q.). Le débiteur ainsi libéré, libère le créancier de ses obligations. Le créancier aura droit à la restitution de la prestation si elle avait été remplie (art. 1694 C.c.Q.)
+La protection du droit à l’exécution de l’obligation (arts.1626-1636 C.c.Q.)
+Selon l’art. 2644 C.c.Q., tous les créanciers ont un droit de regard sur le patrimoine du débiteur. Ce droit est limité afin que les créanciers n’en abuse pas. Cet encadrement se sépare en 4 :
+La prise de mesure conservatoire à la protection du droit des créanciers : la saisie avant jugement (art. 516 et ss C.p.c.)
+L’action oblique (arts.1627-1630 C.c.Q.) : permet au créancier de prendre une action au nom et à la place du débiteur puisque celui-ci refuse de le faire. 
+L’action en inopposabilité (arts.1631-1636 C.c.Q.) : permet au créancier de rendre inopposable des transactions qui auraient été faite par le débiteur en fraude des droits du créancier (par exemple : faire des transactions pour se rendre insolvable)
+ La déclaration de simulation (arts.1451 et1452 C.c.Q.)
+Section 3 : Les modalités de l’obligation
+La modalité consiste en une particularité qui touche l’obligation dans l’un de ses éléments et lui apporte ainsi une qualification supplémentaire. Il existe différents types de modalités que l’on classe en deux grandes catégories, soit les modalités simples et les modalités complexes.
+Les modalités simples
+Il y a l’obligation conditionnelle et à terme. 
+Obligation conditionnelle
+La condition est définie à l’art. 1497 C.c.Q. : obligation qui dépend d’un événement futur et incertain 
+Art. 1497 C.c.Q. :
+L’obligation est conditionnelle lorsqu’on la fait dépendre d’un événement futur et incertain, soit en suspendant sa naissance jusqu’à ce que l’événement arrive ou qu’il devienne certain qu’il n’arrivera pas, soit en subordonnant son extinction au fait que l’événement arrive ou n’arrive pas.
+Exemples : achat d’une maison conditionnelle à l’obtention d’un financement
+Arts. 1498-1506 C.c.Q.
+Art.1503 C.c.Q. :
+L’obligation conditionnelle a tout son effet lorsque le débiteur obligé sous telle condition en empêche l’accomplissement.
+Nul ne peut invoquer sa propre turpitude
+La condition peut être suspensive ou résolutoire
+Conditions suspensive (art. 1497 C.c.Q.)
+Suspendant sa naissance jusqu’à ce que l’événement arrive ou qu’il devienne certain qu’il n’arrivera pas.
+C’est le caractère incertain qui distingue l’obligation conditionnelle de celle à terme
+Si l’événement ne survient pas, l’obligation suspensive ne naitra jamais. 
+Condition résolutoire (art. 1497 C.c.Q.)
+Elle fait quand même naître l’obligation en subordonnant son extinction au fait que l’événement (condition) arrive ou n’arrive pas. Si l’obligation se réalise, la condition sera anéantie rétroactivement avec l’obligation de restitution (art. 1507,al.2 C.c.Q.).
+La condition résolutoire est différente de la clause résolutoire en ce que la clause est une sanction de l’inexécution de l’obligation. 
+Durant la période d’attente de la réalisation de la condition ou de la défaillance à la réaliser, il y a une incertitude sur ce qui va arriver. 
+Si l’événement ne survient jamais, l’obligation continuera d’exister, mais acquerra un caractère certain.
+Obligation à terme 
+L’obligation à terme est définie à l’art.1508 C.c.Q. : événement futur et certain
+Art. 1508 C.c.Q. :
+L’obligation est à terme suspensif lorsque son exigibilité seule est suspendue jusqu’à l’arrivée d’un événement futur et certain.
+Exemple : le remboursement d’un prêt aura lieu le 1er août 2023 
+Si le terme demeure indéterminé, le tribunal peut le fixer (art. 1512, al.1 C.c.Q.)
+Si l’événement certain ne survient pas, le terme sera le moment où cet événement aurait dû survenir (art. 1510 C.c.Q.). 
+Exemple : prêt remboursable lorsque l’emprunteur aura les moyens
+L’échéance du terme :
+l’obligation devient exigible. À moins que le tribunal permette de proroger le terme ou que les parties y consentent. L’art. 2322 C.c.Q. permet ce cas de figure pour les prêts d’une somme d’argent.
+La renonciation au bénéfice du terme :
+Les parties peuvent convenir à cette renonciation. La personne à qui profite le terme peut également renoncer unilatéralement (art. 1511, al.2 C.c.Q.). 
+L’art. 1511, al.1 C.c.Q. mentionne que le terme profite au débiteur, MAIS s’il résulte de la loi, de la volonté des parties ou des circonstances, il peut en être autrement.
+Exemple : Un prêt avec intérêt est en faveur du créancier et du débiteur
+Tant la loi que le contrat peuvent contenir des dispositions qui permettent le paiement par anticipation, soit avant le terme (art. 93 LPC).
+La déchéance du terme :
+Avantage le créancier qui veut protéger le remboursement de sa créance plus rapidement que prévu à l’origine. 
+La déchéance est légale ou conventionnelle. 
+Art. 1514 C.c.Q. : déchéance légale 
+Le débiteur perd le bénéfice du terme s’il devient insolvable, est déclaré failli, ou diminue, par son fait et sans le consentement du créancier, les sûretés qu’il a consenties à ce dernier.
+Il perd aussi le bénéfice du terme s’il fait défaut de respecter les conditions en considération desquelles ce bénéfice lui avait été accordé.
+Si la déchéance est légale, en cas de pluralité de débiteurs, la perte du bénéfice du terme ne s’applique pas aux autres débiteurs (art. 1516 C.c.Q.).Par contre, la perte du bénéfice pour le débiteur est opposable à la caution (art. 2354 C.c.Q.). Dans le cadre de la LPS ou du bail résidentiel, la déchéance du terme est très restreinte par l’effet de l’art. 104 LPC et de l’art. 1905 C.c.Q.
+En pratique entre créancier et débiteur prévoit presque toujours des clauses de déchéance du terme.
+Le terme suspensif (arts. 1508 et 1513 C.c.Q.)
+L’exigibilité de l’obligation est retardée
+Le terme extinctif (art. 1517 C.c.Q.)
+À l’arrivée du terme fait éteindre les obligations.
+Exemple : cautionner les obligations d’un bail commercial pour une durée de 12 mois à compter de la date de la signature du bail.
+Les modalités complexes – La pluralité de sujets
+Implique plus d’un créancier et plus d’un débiteur. En principe une obligation est conjointe et divisible.
+L’obligation conjointe et divisible de plein droit 
+L’obligation conjointe (arts. 1525 et 1541 a contrario C.c.Q.) et divisible de plein droit (art. 1519 C.c.Q.). Plusieurs débiteurs seront chacun responsables pour leur part. 
+En pratique, on retrouve souvent par contre la solidarité et l’indivisibilité. Elle résulte de la stipulation contractuelle à cet effet ou de la loi. L’indivisibilité ressemble à la solidarité puisqu’elle entraine créance pour le tout entre les cocréanciers et une obligation pour le tout entre les codébiteurs (art. 1520 C.c.Q.). 
+Différences entre la solidarité et l’indivisibilité :
+L’indivisibilité s’applique aux héritiers des créanciers ou des débiteurs (art. 1520, al.1 C.c.Q.), mais pas la solidarité (art. 1540 C.c.Q.)
+L’indivisibilité résulte de l’objet de l’obligation : sur un bien déterminé qui n’est pas divisible en raison d’une stipulation contractuelle à cet effet
+*Le régime de l’indivisibilité est plus simple que celui de la solidarité, mais on reconnait que par analogie on peut appliquer les règles de la solidarité à celui de l’indivisibilité.*
+Exemple : débiteur paie au complet une dette indivisible mais non solidaire pourrait réclamer au codébiteur la moitié en appliquant l’art. 1537 C.c.Q. sur la contribution en part égale
+La solidarité
+Pour qu’existe la solidarité elle doit être dans un contrat ou prévue par la loi. 
+L’art. 1525, al.1 C.c.Q. prévoit qu’elle doit être stipulée expressément sinon elle n’est pas présumée. L’al.2 et 3 de l’art. 1525 C.c.Q. pour leur part indique que dans le cas d’un contrat d’entreprise ou de service, la solidarité est présumée. 
+La solidarité est présumée notamment dans le cas d’une responsabilité extracontractuelle en vertu de l’art. 1526 C.c.Q.
+Le créancier n’aura ainsi pas à faire la preuve de la part de chaque débiteur. Il pourra réclamer toute l’obligation de l’un ou l’autre des débiteurs (arts. 1523 et 1528 C.c.Q.) et ce, même dans le cas d’insolvabilité de l’un (art. 1538 C.c.Q.).
+Art. 1530 C.c.Q. :
+Le débiteur solidaire poursuivi par le créancier peut opposer tous les moyens qui lui sont personnels, ainsi que ceux qui sont communs à tous les codébiteurs; mais il ne peut opposer les moyens qui sont purement personnels à l’un ou à plusieurs des autres codébiteurs.
+Le débiteur pourra sous l’art. 1530 C.c.Q. opposer au créancier tous les moyens qui lui sont personnels (compensation art. 1678 C.c.Q., confusion art.1685 C.c.Q., la remise de dettes art. 1690 C.c.Q. + ainsi que tous les moyens qui sont communs à tous les codébiteurs tel que par exemple la prescription)
+La solidarité a aussi des effets secondaires :
+La mise en demeure extrajudiciaire (art. 1599 C.c.Q.)
+L’interruption ou la suspension de la prescription (arts. 2900 et 2909 C.c.Q.)
+Le débiteur poursuivi pourra intenter un recours récursoire contre les autres codébiteurs pour leur réclamer leur part (art. 1529 C.c.Q.) : concept de la subrogation légale de l’art.1656 (3) C.c.Q.
+Solidarité imparfaite – In solidum :
+Création jurisprudentielle. Pas les mêmes effets secondaires que la solidarité (l’inverse). Il doit avoir ni solidarité parfaite, ni indivision pour que la solidarité imparfaite s’applique. Voir les notes extracontractuelles.
+La renonciation à la solidarité (art. 1532 C.c.Q.) :
+L’art. 1533-1535 C.c.Q. cas de renonciation tacite. 
+La solidarité entre créanciers (art. 1541 C.c.Q.) :
+Le créancier recevant l’argent devra le partager avec les autres créanciers.
+Vrai/Faux
+Antoine, Bernadette et Claude empruntent de Paul une somme de 30 000 $ pour l’exploitation de leur entreprise. Le contrat mentionne qu’ils ont contracté ce prêt de façon solidaire. En cas de défaut de paiement à échéance, Paul ne pourra réclamer que 10 000 $ à Antoine.
+Faux, Paul n’aura pas à établir la part respective de chacun. Il pourra choisir n’importe quel des codébiteurs pour exécuter la totalité de l’obligation (arts. 1523 et 1528 C.c.Q.).
+Les modalités complexes – La pluralité d’objets
+Objet : La prestation que le demandeur doit accomplir au terme de l’obligation. Lorsqu’il y a plus d’un objet comment ça fonctionne ?
+Les arts 1545-1552 C.c.Q. distinguent les obligations alternatives des obligations facultatives. 
+Obligation alternative (arts. 1545-1551 C.c.Q.)
+Elle permet au débiteur de choisir quelle obligation il exécutera pour se libérer. Cependant, les parties peuvent convenir que ce sera au créancier de convenir l’obligation (arts. 1545 et 1546 C.c.Q.) 
+Dans le cas d’impossibilité de remplir l’une ou l’autre, les arts. 1548-1550 C.c.Q. prévoient un cadre particulier.
+Obligation facultative (art.1552 C.c.Q.)
+Une seule prestation principale dont le débiteur peut se libérer en exécutant une autre prestation secondaire. Le créancier ne peut pas exiger l’exécution de l’obligation secondaire. Dans le cas où le débiteur est dans l’impossibilité d’exécuter l’obligation principale sans la faute du débiteur, ce dernier sera libéré.
+L’accessoire suit le principal. Par exemple : si plutôt de payer en argent il peut fournir un service. 
+Section 4 : La transmission et les mutations de l’obligation
+Il existe 3 modes par lesquels l’obligation peut changer de créancier, soit la cession de créance, la subrogation et la novation. 
+Le changement de créancier
+La cession de créance (arts.1637-1650 C.c.Q.)
+Elle n’est pas liée au paiement et elle peut donc intervenir à tout moment pour le montant total de la créance, pour un montant moindre, plus élevé ou gratuitement.
+3 parties impliquées :
+Créancier cédant 
+Créancier cessionnaire : acheteur de la créance 
+Débiteur cédé 
+Le cédant et le cessionnaire vont s’entendre entre eux sans l’intervention du débiteur et de sa caution. 
+L’opposabilité de la cession de créance au débiteur doit respecter les arts. 1641,1642 et 1645 C.c.Q. afin qu’il soit mis au courant de ce transfert. Ces formalités ne sont toutefois pas applicables dans le cas d’une cession de créance constatée par un titre au porteur, car les formalités d’opposabilité sont plus simples (arts.1647-1650 C.c.Q.). 
+L’obligation de ce débiteur ne doit pas être plus onéreuse pour lui et ne doit pas porter atteinte aux droits du débiteur (art. 1637 C.c.Q.). L’art. 1638 C.c.Q. prévoit que la cession d’une créance inclue la cession de ses accessoires. Le débiteur et la caution peuvent opposer au cessionnaire les mêmes moyens de défense que contre le cédant (art. 1637 C.c.Q.). 
+La créance cédée est en partie et en principe garantie lorsque la cession est à titre onéreuse (arts. 1639 et 1640 C.c.Q.). Cette garantie légale peut être réduite, écartée ou augmentée conventionnellement. 
+En cas de cession partielle, le cédant n’a pas de priorité sur le cessionnaire (art. 1646 C.c.Q.), mais le cessionnaire peut avoir une préférence (art. 1646, al.2 C.c.Q.). 
+La subrogation (art. 1651-1659 C.c.Q.)
+C’est un accessoire du paiement. Donc, pas de paiement = pas de subrogation. C’est au moment où le paiement sera effectué que la subrogation pourra intervenir. Aussi, puisqu’elle liée au paiement, les conditions de validité du paiement s’applique à elle. 
+Exemples : rien n’oblige un créancier à accepter d’un tiers un paiement avant terme que le débiteur ne pourrait pas faire lui-même (art. 1651, al.2 C.c.Q.)
+La subrogation peut être conventionnelle ou légale selon l’art. 1652 C.c.Q.
+Conventionnelle : ne peut pas être tacite (art. 1653 C.c.Q.)
+La subrogation entre le débiteur et un tiers est possible et les formalités régissant cette possibilité sont à l’art.1655 C.c.Q. 
+Les cas de subrogation légale les plus fréquents sont prévus à l’art.1656 C.c.Q.
+Déplacement du lien d’obligation vers le tiers subrogé. Il entraine ainsi par le fait même le déplacement des accessoires de la créance (art. 1651 C.c.Q.). Le débiteur et la caution peuvent opposer les mêmes moyens de défense au subrogé (art. 1657 C.c.Q.).
+Exemple : l’art. 1656 (5) C.c.Q. prévoit que la subrogation peut avoir lieu dans n’importe quel cas prévu par la loi. Un de ces cas est l’art. 2474 C.c.Q. en matière d’assurance. L’assuré est victime d’un incendie criminel quant à son immeuble. La victime (créancier #1) aurait un recours contre l’auteur. Étant assuré, l’assureur (créancier #2), va payer l’indemnité prévue au contrat d’assurance. Par l’application de l’art. 2474 C.c.Q., l’assureur deviendra automatiquement subrogé dans les droits du créancier #1. 
+Novation par substitution de créancier
+L’art. 1661 C.c.Q. précise que la novation ne se présume pas. La novation entraine l’extinction de l’obligation par la création d’une nouvelle obligation. 
+Elle peut s’opérer par substitution de créanciers qui nécessite alors l’intervention de toutes les parties OU par substitution des débiteurs qui peut se faire sans l’intervention de l’ancien débiteur (art. 1660 C.c.Q.).
+Les accessoires de l’obligation initiale disparaissent et il en est de même des moyens de défense associés (arts. 1662 et 1663 C.c.Q.). Ces mêmes articles prévoient également des exceptions : différences fondamentales entre la cession de créances et la novation.
+Exemple : créancier # 1, actionnaire unique d’une société pourrait obtenir du débiteur que celui s’engage vis-à-vis de l’actionnaire plutôt que la société. Donc, la première créance entre le débiteur et la société serait éteinte et remplacée par la deuxième créance entre le débiteur et l’actionnaire unique de la société.
+Le changement de débiteur
+Le changement de débiteur peut s’opérer selon 3 concepts :
+La délégation imparfaite 
+Une personne (le délégué) accepte à la demande de l’autre débiteur (le déléguant) de s’engager envers le créancier (art.1667 C.c.Q.).
+Elle est qualifiée d’imparfaite puisqu’il y a l’ajout d’un débiteur additionnel. Le créancier aura le choix d’exercer ses recours contre le débiteur #1 et/ou #2 (art. 1668 C.c.Q.). 
+Exemple : j’achète un immeuble et je veux le revendre, mais je demande au nouvel acheteur de payer le solde du prix de vente à l’ancien propriétaire. Il accepte alors, il y a une délégation imparfaite et je serais notamment tenue à cette obligation. 
+La délégation parfaite
+Le premier débiteur est libéré comparativement à celle imparfaite. L’intention de libérée doit être évidente (art. 1668 C.c.Q.). 
+Exemple : propriétaire d’une maison hypothéquée désire la vendre. L’acheteur pourrait accepter d’assumer le prêt puisqu’il est avantageux. Dans ce cas, le créancier (délégataire) devra manifester son intention de libérer le premier débiteur (délégant) au profit du second débiteur (délégué). Le créancier n’aura qu’une créance envers le délégué. 
+La novation par changement de débiteur
+Elle ne se présume pas (art. 1661C.c.Q.). L’art. 1660, al.1 C.c.Q. mentionne que le débiteur étant libérer, cette substitution peut s’effectuer même sans son consentement. 
+La novation par changement de dette
+Elle est prévue à l’art. 1660, al.1 C.c.Q. et elle ne se présume toujours pas (art. 1661 C.c.Q.). 
+Il faut plus qu’un simple réaménagement de la dette. Les accessoires de l’ancienne dette disparaisse (hypothèque 1662 ou le cautionnement 1665 à moins que les parties conclues une entente à l’effet contraire), de même que les moyens de défenses de l’ancienne. 
+Exemple : contrat de vente avec un solde de prix de vente. Les parties conviennent de remplacer le solde du prix de vente en prêt. Le prix de vente disparait.
+Exemple : créancier prête 5 00$ au débiteur et finalement il a besoin d’un montant additionnel de 10 000$. Les parties conviennent d’annuler le premier prêt de 5000$ et de le remplacer par un second de 15 000$. Le premier ainsi disparait et sera remplacé par un second. 
+Section 5 : L’extinction de l’obligation
+Le paiement, c’est-à-dire l’exécution de l’obligation, constitue le mode normal d’extinction de l’obligation. Toutefois, d’autres modes d’extinction sont énoncés ailleurs dans le Code civil du Québec. Il convient de se pencher brièvement sur 3 modes d’extinction abordés au chapitre que le législateur consacre à l’extinction de l’obligation, soit la compensation, la confusion et la remise.
+Compensation
+Paiement, mais un fictif. La compensation peut être légale, conventionnelle ou judiciaire. 
+Compensation légale
+La compensation légale régit par l’art. 1672, al.1 C.c.Q. exige des dettes réciproques. L’art. 1673, al.1 C.c.Q.) mentionne qu’elles doivent être certaines, liquides, exigibles et ayant pour objet une somme d’argent ou des biens remplaçables. Elle a lieu de plein droit sans que les parties aient besoin d’en convenir et sans l’intervention des tribunaux. 
+Elle constitue ainsi un moyen de défense afin d’éteindre la dette (art. 1671 C.c.Q.).
+Le débiteur qui paie alors qu’une compensation s’opérait, on peut lui reprocher d’avoir renoncé à la compensation légale. 
+Quiz - Trouvez l'intrus
+Certaines conditions sont essentielles pour qu’il y ait compensation légale :
+Des dettes réciproques
+Des dettes qui ont pour objet des sommes d’argent ou des biens fongibles de même espèce
+Des dettes qui sont certaines, liquides et exigibles
+La compensation est demandée par voie de demande reconventionnelle ou de recours distinct
+d) , certaines conditions sont essentielles pour qu’il y ait compensation légale : des dettes réciproques (art. 1672, al. 1 C.c.Q.), qui ont pour objet des sommes d’argent ou des biens fongibles de même espèce et qui sont certaines, liquides et exigibles (art. 1673, al. 1 C.c.Q.). La compensation légale opère de plein droit et il n’est donc pas nécessaire de la demander par voie de demande reconventionnelle ou de recours distinct.
+Compensation judiciaire
+Si les conditions de la compensation légale ne sont pas rencontrées, on devra se tourner vers le tribunal. Ce serait le cas par exemple pour le paiement non-effectué de marchandises vendues qui ferait l’objet d’une demande reconventionnelle en dommages (art. 172 C.p.c.). Le tribunal devra liquider cette réclamation (art. 1673, al.2 C.c.Q.) et ensuite il prononcera la compensation entre les créances et dettes respectives. 
+Compensation conventionnelle
+Elle n’est pas d’ordre public alors les parties peuvent toujours convenir d’opérer une compensation. 
+Les arts. 1671 et 1672 C.c.Q. prévoient qu’elle a pour effet d’éteindre l’obligation. Toutefois, le Code prévoit des exceptions dans le cas de débiteurs solidaires (art.1678, al.1 C.c.Q.), de créanciers solidaire (art. 1678, al.2 C.c.Q.), de cautionnement (art. 1679 C.c.Q.), de cession (art 1680 C.c.Q.). 
+La compensation qui porterait préjudice à un tiers ne pourraient pas avoir lieu (arts.1681 et 1682 C.c.Q.)
+Confusion
+Art. 1683 C.c.Q. confusion du rôle de créancier et de débiteur par exemple en raison de l’effet d’une succession, la fusion de sociétés, d’un locataire qui devient propriétaire de l’immeuble qu’il loue.
+L’extinction de l’obligation sera totale lorsqu’elle concerne toutes les parties et si elle ne concerne pas toutes les parties, elle est partielle et l’art. 1685C.c.Q. prévoit les effets dans une telle situation. 
+Selon les parties impliquées elle peut avoir ou non un effet sur les cautions (art. 1684C.c.Q.).
+Remise
+L’opération par laquelle le créancier libère le débiteur de son obligation (art. 1687, al.1 C.c.Q.). Elle peut être totale ou partielle (art. 1687, al.2 C.c.Q.). Il existe une présomption simple de remise totale. 
+La remise peut être expresse lors d’une transaction lorsque les parties le stipule ou dans le cadre d’un testament. Elle peut aussi être tacite selon (arts. 1688 et 1689 C.c.Q.). 
+La remise expresse supportée par des débiteurs solidaires ne libère les autres codébiteurs qu’en partie (art. 1690, al.1 C.c.Q.). La règle est équivalente pour les créanciers solidaire (art. 1690, al.2 C.c.Q.)
+Section 6 : La restitution des prestations (arts. 1699-1707 C.c.Q.)
+Diverses situations peuvent donner lieu à la restitution des prestations. Par exemple, la résolution du contrat mènera à une remise en état des parties. C’est le cas aussi de la nullité du contrat , de la réalisation d’une clause résolutoire, de l’anéantissement d’un contrat par force majeure ou encore les arts. 1422, 1606, 1694 C.c.Q. 
+La restitution des prestations doit se réaliser en nature habituellement sauf si c’est impossible ou s ‘il y a un inconvénient sérieux à le faire en nature (art. 1700 C.c.Q.). 
+Certaines règles la restitution en cas de perte totale ou d’aliénation du bien (art. 1701 C.c.Q.). En cas de perte partielle du bien (art. 1702 C.c.Q.). En cas de remboursement des impenses fait sur le bien (art. 1703 C.c.Q.). Du statut des fruits et revenus du bien (art. 1704 C.c.Q.) et des frais de restitution assumés par les parties en proportion (art. 1705 C.c.Q.). Les personnes protégés, soit le mineur et le majeur inapte font l’objet d’un traitement particulier (art. 1706 C.c.Q.). Finalement, les tiers de bonne foi qui ont acquis des droits sont soumis à l’art. 1707 C.c.Q. quant à la restitution en fonction qu’il s’agisse d’un titre onéreux, à titre gratuit ou autres. 

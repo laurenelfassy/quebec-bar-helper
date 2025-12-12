@@ -1,0 +1,308 @@
+LA LOI SUR LES ACCIDENTS DU TRAVAIL ET LES MALADIES PROFESSIONNELLES
+La Loi sur les accidents du travail et les maladies professionnelles a été créée afin d'assurer le paiement d’indemnités, de soins médicaux et de services de réadaptation au travailleur qui subit un accident du travail ou qui contracte une maladie professionnelle. Comme il s’agit d’une loi d’ordre public, on ne peut déroger à son application et prévoir des droits moindres que ceux prévus à la loi.
+Section 1 : La détermination des modalités de la loi sur les accidents du travail et les maladies professionnelles
+Vrai/Faux 
+Un employé domicilié au Québec, mais affecté à un emploi hors Québec, n’est jamais couvert par la L.a.t.m.p.
+Faux, l’art. 8 de la L.a.t.m.p. prévoit les conditions d’application des dispositions de la loi à un travailleur domicilié au Québec, mais affecté à un emploi hors Québec, lorsque ce dernier subit un accident du travail ou contracte une maladie professionnelle.
+L’application territoriale de la loi
+Art. 7 Latmp : travail au Québec
+La présente loi s’applique au travailleur victime d’un accident du travail survenu au Québec ou d’une maladie professionnelle contractée au Québec et dont l’employeur a un établissement au Québec lorsque l’accident survient ou la maladie est contractée.
+Art. 8 Latmp : travail à l’étranger
+La présente loi s’applique au travailleur victime d’un accident du travail survenu hors du Québec ou d’une maladie professionnelle contractée hors du Québec si, lorsque l’accident survient ou la maladie est contractée, il est domicilié au Québec et son employeur a un établissement au Québec.
+Cependant, si le travailleur n’est pas domicilié au Québec, la présente loi s’applique si ce travailleur était domicilié au Québec au moment de son affectation hors du Québec, la durée du travail hors du Québec n’excède pas cinq ans au moment où l’accident est survenu ou la maladie a été contractée et son employeur a alors un établissement au Québec.
+Exemple : diplomate affecté pour 3 ans à Paris et qui se blesse pendant son discours
+Art. 452 Latmp : droit d’option
+Si une personne a droit, en raison d’une même lésion professionnelle, à une prestation en vertu de la présente loi et en vertu d’une loi autre qu’une loi du Parlement du Québec, elle doit faire option et en aviser la Commission dans les six mois de l’accident du travail ou de la date où il est médicalement établi et porté à la connaissance du travailleur qu’il est atteint d’une maladie professionnelle ou, le cas échéant, du décès qui résulte de la lésion professionnelle.
+À défaut, elle est présumée renoncer aux prestations prévues par la présente loi.
+Exemple : blessé à l’étranger, il doit choisir en vertu de quelle loi il sera protégé, soit celle de l’état étranger ou celui du Québec
+Les personnes assujetties
+Art. 2 Latmp « travailleur » :
+une personne physique qui exécute un travail pour un employeur, moyennant rémunération, en vertu d’un contrat de travail ou d’apprentissage, à l’exclusion :
+1°	du travailleur domestique qui doit fournir une prestation de travail d’une durée inférieure à 420 heures sur une période d’un an pour un même particulier, sauf s’il peut justifier de 7 semaines consécutives de travail à raison d’au moins 30 heures par semaine au cours de cette période;
+3°	de la personne qui pratique le sport qui constitue sa principale source de revenus;
+4°	du dirigeant d’une personne morale quel que soit le travail qu’il exécute pour cette personne morale;
+5°	de la personne physique lorsqu’elle agit à titre de ressource de type familial ou de ressource intermédiaire (loi sur les services de santé et de services sociaux);
+Nuance avec le mot rémunération : certains bénévoles ou personnes non payées pourront être indemnisées au sens de la loi et entrer dans ce cadre.
+Art. 2 Latmp « dirigeant » : un membre du conseil d’administration d’une personne morale ou une personne qui assume ces pouvoirs, si tous les pouvoirs ont été retirés au conseil d’administration par une convention unanime des membres, qui exerce également une fonction de contrôle et de direction de cette personne morale
+Pour un travailleur domestique exerçant sa prestation de travail dans son logement et bien ce dernier sera considéré comme un établissement au sens de l’art.8.3 Latmp 
+Art. 2 Latmp « travailleur domestique » : 
+une personne physique qui, en vertu d’un contrat de travail conclu avec un particulier et moyennant rémunération, a pour fonction principale:
+1°	d’effectuer des travaux ménagers ou d’entretien, d’assumer la garde ou de prendre soin d’une personne ou d’un animal ou d’accomplir toute autre tâche d’employé de maison au logement d’un particulier; ou
+2°	d’agir pour un particulier à titre de chauffeur ou de garde du corps ou d’accomplir toute autre tâche relevant de la sphère strictement privée de ce particulier;
+Art. 2 Latmp « employeur » :
+une personne qui, en vertu d’un contrat de travail ou d’un contrat d’apprentissage, utilise les services d’un travailleur aux fins de son établissement;
+Personne physique ou morale
+Établissement définit par la loi sur la santé et la sécurité au travail comme le lieu de travail habituel, mais depuis le télétravail, cette notion s’est étendue à la maison dans certaines circonstances : Immeuble à bureaux, usine, installation sportive, magasin ou bureau, y compris le bien-fonds, les bâtiments et les structures qui s’y rattachent. 
+Art. 2 Latmp « travailleur autonome » :
+une personne physique qui fait affaires pour son propre compte, seule ou en société, et qui n’a pas de travailleur à son emploi;
+La personne pour se qualifier de travailleur autonome protégé doit voir art. 9 Latmp
+Art. 9 Latmp : travailleur autonome
+Le travailleur autonome qui, dans le cours de ses affaires, exerce pour une personne des activités similaires ou connexes à celles qui sont exercées dans l’établissement de cette personne est considéré un travailleur à l’emploi de celle-ci, sauf :
+1°	s’il exerce ces activités :
+a)	simultanément pour plusieurs personnes;
+b)	dans le cadre d’un échange de services, rémunérés ou non, avec un autre travailleur autonome exerçant des activités semblables;
+c)	pour plusieurs personnes à tour de rôle, qu’il fournit l’équipement requis et que les travaux pour chaque personne sont de courte durée; ou
+2°	s’il s’agit d’activités qui ne sont que sporadiquement requises par la personne qui retient ses services.
+Art. 10 Latmp : travailleur étudiant
+Sous réserve du paragraphe 4° de l’article 11, est considéré un travailleur à l’emploi de l’établissement d’enseignement dans lequel il poursuit ses études ou, si cet établissement relève d’un centre de services scolaire ou d’une commission scolaire, de ce centre ou de cette commission, l’étudiant qui, sous la responsabilité de cet établissement, effectue un stage non rémunéré d’observation ou de travail dans un établissement ou un autre étudiant, dans les cas déterminés par règlement.
+Exemples : stage d’observation ou de stage de travail réel. S’il est blessé pendant celui-ci, il pourra obtenir des indemnités
+Arts. 11, 12, 12.0.1 Latmp mentionne que des personnes considérées à l’emploi du gouvernement sont travailleurs dans certains cas 
+Exemples : personnes exécutant des travaux compensatoires, des heures de services communautaires, celle qui participe à des activités de sécurité civile ou celle qui porte gratuitement son aide pour l’application des mesures d’urgence 
+Art. 12.1 Latmp : détenu qui exécute un travail rémunéré dans le cadre d’un programme d’activités
+Arts. 13, 14 Latmp : travailleur bénévole 
+Personne qui utilise ses services doit transmettre une déclaration à la Commission 
+Arts. 15,16,17 Latmp : personnes visées dans une entente
+Usagés par exemple : ceux visés par la loi sur la santé et les services sociaux qui effectue un travail en vue de leur rééducation physique, mentale etc. Aussi, certaines personnes qui effectuent un travail dans le cadre d’un projet du gouvernement. Les employés du gouvernement fédéral aussi peuvent couverts tant qu’une entente a été signée avec l’organisme fédéral pour lequel il travail et la Commission. 
+Certaines personnes peuvent s’inscrire directement à la Commission des normes, de l’équité, de la santé et de la sécurité du travail (CNESST) pour que leur travail soit couvert en vertu de la loi. On se réfère à l’art. 18, 20,21 et 23 Latmp. 
+Par exemple le travailleur autonome qui n’entre pas dans la définition de l’art. 9 Latmp et toutes les autres exceptions de l’art. 2 Latmp « travailleur » sont prévus à l’art. 18 Latmp. 
+Un régime sans égard à la faute et une loi d’ordre public
+Vrai/Faux
+Une convention collective peut prévoir des droits moindres que ceux prévus par la L.a.t.m.p.
+Faux, s’agissant d’une loi d’ordre public (art. 4 L.a.t.m.p.), une convention collective ne peut prévoir des droits moindres que ceux prévus à la loi. Cependant, une convention pourrait prévoir des dispositions plus avantageuses. Ce principe est codifié à l’alinéa 2 de l’art. 4 de la loi.
+Art. 4 Latmp :
+La présente loi est d’ordre public.
+Cependant, une convention ou une entente ou un décret qui y donne effet peut prévoir pour un travailleur des dispositions plus avantageuses que celles que prévoit la présente loi.
+Exemple al.2 : certains employeurs vont compenser 10 % de ce que la Commission offre aux travailleurs, soit du 90% du salaire.
+Art. 25 Latmp :
+Les droits conférés par la présente loi le sont sans égard à la responsabilité de quiconque.
+Ça ne nous intéresse pas c’est la faute de qui
+Art. 26 Latmp :
+Un travailleur peut exercer les droits que la présente loi lui confère malgré le défaut de son employeur de se conformer aux obligations que celle-ci lui impose.
+Du travail non déclaré à la demande de l’employeur sera tout de même protégé
+Art. 27 Latmp :
+Une blessure ou une maladie qui survient uniquement à cause de la négligence grossière et volontaire du travailleur qui en est victime n’est pas une lésion professionnelle, à moins qu’elle entraîne le décès du travailleur ou qu’elle lui cause une atteinte permanente grave à son intégrité physique ou psychique.
+Section 2 : La notion de lésion professionnelles, d’accident du travail, de maladie professionnelle et les présomptions de lésions professionnelles
+La lésion professionnelle peut être physique ou psychologique, elle peut aussi être une maladie causée par le travail. Elle est définie comme une blessure ou une maladie qui survient par le fait ou à l’occasion d’un accident du travail, ou une maladie professionnelle, y compris la récidive, la rechute ou l’aggravation. La loi prévoit des présomptions de lésions professionnelles en ce qui concerne les blessures et les maladies professionnelles.
+Lésion professionnelle
+Question 1 
+Quelles sont les conditions qui doivent être démontrées par le travailleur pour bénéficier de la présomption de lésion professionnelle prévue à l’art. 28 de la L.a.t.m.p.?
+Avoir une blessure
+La blessure survient sur les lieux du travail
+La blessure survient alors que le travailleur est à son travail
+Avoir été à l’emploi de l’employeur depuis au moins trois ans lorsque la blessure survient
+Les conditions prévues a)-b) et c) doivent être réunies
+Toutes les conditions doivent être réunies
+e), ces trois conditions doivent être démontrées par le travailleur pour bénéficier de la présomption de l’art. 28 L.a.t.m.p. Une fois les conditions d’application prouvées, le travailleur est dispensé de démontrer un événement imprévu et soudain et un lien entre la blessure et l’événement. La présomption peut toutefois être renversée.
+Art. 2 Latmp « lésion professionnelle » :
+une blessure ou une maladie qui survient par le fait ou à l’occasion d’un accident du travail, ou une maladie professionnelle, y compris la récidive, la rechute ou l’aggravation;
+Art. 28 Latmp : 
+Une blessure qui arrive sur les lieux du travail alors que le travailleur est à son travail est présumée une lésion professionnelle.
+3 conditions d’application à la présomption :
+Le travailleur a subi une blessure physique exclusivement (psychologique non)
+Survenue sur les lieux du travail 
+Il fait une tâche relié à son travail 
+Exemple : Je donne un cours au barreau, je glisse et me casse le bras 
+La présomption peut être renversée si le travailleur déclare être victime d’un accident de travail le lundi matin alors que nous avons la preuve qui s’est blessé le dimanche soir au hockey. La Commission peut amener cette preuve ou l’employeur.
+Accident de travail
+Si l’art. 28 Latmp ne s’applique pas, le travailleur peut toujours invoquer l’accident de travail. 
+Art. 2 Latmp « accident de travail » :
+un événement imprévu et soudain attribuable à toute cause, survenant à une personne par le fait ou à l’occasion de son travail et qui entraîne pour elle une lésion professionnelle;
+4 conditions d’application :
+Un événement imprévu et soudain
+Interprétation large
+Exemple : C’est possible que ce soit une série de petits événements (microtraumatisme par exemple), ou tout simplement une chute. Une série d’effort successifs et inhabituelles
+Attribuable à toute cause
+Exemple : une personne au travail fait une chute à cause de sa crise d’épilepsie et bien on ne porte pas attention à sa condition physique, mais à la chute
+Qui survient par le fait ou à l’occasion du travail
+Interprétation pouvant être contradictoire par les tribunaux
+2 critères nous permettant de savoir s’il survient dans ce contexte :
+Le lien de subordination entre l’employeur et le travailleur au moment de la lésion
+La nature de l’activité au moment de l’accident. Par exemple, il mange au travail pendant les heures de diner, une chute dans le stationnement du travail avant de rentrer. 
+Qui entraine une lésion professionnelle (lien de causalité), soit une blessure ou une maladie
+Le travailleur devra démontrer que les gestes ou l’évènement a entrainé cette lésion 
+Maladie professionnelle
+Lorsque la notion d’accident du travail au sens de l’art. 2 ne peut pas être invoqué, il est toujours possible d’invoquer la maladie professionnelle et de sa présomption de l’art 29 Latmp et ensuite si la présomption ne s’applique pas, on se tourne vers l’art. 30 Latmp. 
+Vrai/Faux 
+Tout comme avec la notion de lésion professionnelle, la L.a.t.m.p. prévoit une présomption pour les maladies professionnelles.
+Vrai, l’art. 29 de la loi crée une présomption de maladie professionnelle lorsque les deux conditions sont remplies, soit :
+Une maladie prévue au Règlement sur les maladies professionnelles (divisé en 8 sections)
+L’exercice d’un travail correspondant à cette maladie
+Règlement sur les maladies professionnelles (https://www.canlii.org/fr/qc/legis/regl/rlrq-c-a-3.001-r-8.1/derniere/rlrq-c-a-3.001-r-8.1.html#document) 
+Ajout d’une section sur les troubles mentaux pour le trouble de stress post-traumatique lors que les conditions particulières sont rencontrées : avoir exercé un travail impliquant une exposition de manière répétée ou extrême à une blessure grave, à de la violence sexuelle, à une menace de mort ou à la mort effective, laquelle n’est pas occasionnée par des causes naturelles.
+S’il n’est pas possible de faire naitre une présomption au sens de l’art. 29 Latmp et de son règlement, nous pouvons toujours nous tourner l’art. 30 Latmp. 
+Art. 30 Latmp :
+Un travailleur qui n’est pas présumé atteint d’une maladie professionnelle en vertu de l’article 29 est considéré atteint d’une maladie professionnelle :
+1°	lorsqu’il est atteint d’une maladie contractée par le fait ou à l’occasion du travail qui ne résulte pas d’un accident du travail ni d’une blessure ou d’une maladie causée par un tel accident;
+2°	lorsqu’il démontre à la Commission que sa maladie est caractéristique d’un travail qu’il a exercé ou qu’elle est reliée directement aux risques particuliers de ce travail.
+L’art. 30 Latmp ne comporte pas de présomption alors, le travailleur devra démontrer par preuve prépondérante d’une maladie professionnelle. 
+La présomption de lésions professionnelle à l’occasion des soins médicaux ou des traitements reçus
+Art. 31 Latmp :
+Est considérée une lésion professionnelle, une blessure ou une maladie qui survient par le fait ou à l’occasion :
+1°	des soins qu’un travailleur reçoit pour une lésion professionnelle ou de l’omission de tels soins;
+2°	d’une activité prescrite au travailleur dans le cadre des traitements médicaux qu’il reçoit pour une lésion professionnelle ou dans le cadre de son plan individualisé de réadaptation.
+Cependant, le premier alinéa ne s’applique pas si la blessure ou la maladie donne lieu à une indemnisation en vertu de la Loi sur l’assurance automobile (chapitre A‐25), de la Loi visant à favoriser le civisme (chapitre C‐20) ou de la Loi visant à aider les personnes victimes d’infractions criminelles et à favoriser leur rétablissement (chapitre P-9.2.1).
+Les lésions psychologiques
+La présomption de l’art. 28 Latmp ne s’appliquera jamais, mais possible d’invoquer un accident de travail au sens de l’art. 2 Latmp. Par exemple : trouble d’adaptation ou une dépression majeure. 
+Le travailleur pourrait choisir d’utiliser la présomption de l’art. 29 Latmp à la place avec la notion de syndrome post-traumatique. Ça peut découler d’une perte de capacité physique suite à un accident de travail et revient au travail. Le harcèlement au travail d’ordre sexuel ou professionnel. Alternativement, il pourra utiliser l’art. 30 de la loi.
+La rechute, récidive ou aggravation
+Exemple : Gilbert tombe au travail et se blesse. Il se fait traité et recommence à travailler. Il y a une résurgence des symptômes de la lésion initiale. Les nouveaux symptômes de Gilbert pourrons être indemnisés par la loi s’il démontre le lien de causalité.
+Synthèse 
+Prouver que la présomption de lésion professionnelle de l’art. 28 Latmp s’applique
+Sinon invoquer la notion d’accident de travail au sens de l’art. 2 Latmp et démontrer les 4 éléments
+Si ce n’est pas possible, on regarde si la personne a été victime d’une maladie professionnelle. On se demande si la présomption de l’art. 29 Latmp et de son règlement s’applique.
+Sinon, est-ce que l’art. 30 Latmp s’applique en matière de maladie professionnelle
+Sinon est-ce un cas de l’art. 31 Latmp
+Sinon être une victime d’une rechute récidive ou d’une aggravation
+On ne va pas regarder si une personne est plus faible, on ne s’attarde pas à la condition de la personne, mais plutôt si elle répond aux diverses conditions prévues par la loi. C’est la théorie du crane fragile. 
+Section 3 : La nature des indemnités
+Une fois la lésion professionnelle reconnue, le salarié a droit à différentes indemnités, et ce, autant pour remplacer son revenu que le soutenir médicalement et socialement. Au terme de la prochaine section, vous serez en mesure de distinguer les indemnités prévues par la loi.
+L’indemnité de remplacement de revenu
+Compenser en proportion de son salaire (arts. 44-77 Latmp).
+Art. 44 Latmp :
+Le travailleur victime d’une lésion professionnelle a droit à une indemnité de remplacement du revenu s’il devient incapable d’exercer son emploi en raison de cette lésion.
+Le travailleur qui n’a plus d’emploi lorsque se manifeste sa lésion professionnelle a droit à cette indemnité s’il devient incapable d’exercer l’emploi qu’il occupait habituellement.
+Art. 45 Latmp :
+L’indemnité de remplacement du revenu est égale à 90% du revenu net retenu que le travailleur tire annuellement de son emploi.
+Art. 46 Latmp :
+Le travailleur est présumé incapable d’exercer son emploi tant que la lésion professionnelle dont il a été victime n’est pas consolidée.
+Art. 2 « consolidation » : la guérison ou la stabilisation d’une lésion professionnelle à la suite de laquelle aucune amélioration de l’état de santé du travailleur victime de cette lésion n’est prévisible
+Exemple : je me casse le bras, je me fais opérer, je reviens avec des limitations. Les traitements ont été donnés au maximum et j’atteins un plateau qui lui est la consolidation.
+Art. 47 Latmp :
+Le travailleur dont la lésion professionnelle est consolidée a droit à l’indemnité de remplacement du revenu prévue par l’article 45 tant qu’il a besoin de réadaptation pour redevenir capable d’exercer son emploi ou, si cet objectif ne peut être atteint, pour devenir capable d’exercer à plein temps un emploi convenable.
+Art. 48, al.1 Latmp :
+Lorsqu’un travailleur victime d’une lésion professionnelle redevient capable d’exercer son emploi après l’expiration du délai pour l’exercice de son droit au retour au travail, il a droit à l’indemnité de remplacement du revenu prévue par l’article 45 jusqu’à ce qu’il réintègre son emploi ou un emploi équivalent ou jusqu’à ce qu’il refuse, sans raison valable, de le faire, mais pendant au plus un an à compter de la date où il redevient capable d’exercer son emploi.
+Art. 171.1 et ss Latmp 
+Art. 2 Latmp « emploi équivalent » : un emploi qui possède des caractéristiques semblables à celles de l’emploi qu’occupait le travailleur au moment de sa lésion professionnelle relativement aux qualifications professionnelles requises, au salaire, aux avantages sociaux, à la durée et aux conditions d’exercice;
+Art. 49. Latmp :
+Lorsqu’un travailleur incapable d’exercer son emploi en raison de sa lésion professionnelle devient capable d’exercer à plein temps un emploi convenable, son indemnité de remplacement du revenu est réduite du revenu net retenu qu’il pourrait tirer de cet emploi convenable.
+Cependant, si cet emploi convenable n’est pas disponible, ce travailleur a droit à l’indemnité de remplacement du revenu prévue par l’article 45 jusqu’à ce qu’il occupe cet emploi ou jusqu’à ce qu’il le refuse sans raison valable, mais pendant au plus un an à compter de la date où il devient capable de l’exercer.
+L’indemnité prévue par le deuxième alinéa est réduite de tout montant versé au travailleur, en raison de sa cessation d’emploi, en vertu d’une loi du Québec ou d’ailleurs, autre que la présente loi.
+Art. 2 Latmp « emploi convenable » emploi déterminé par CNESST : un emploi approprié qui permet au travailleur victime d’une lésion professionnelle d’utiliser sa capacité résiduelle et ses qualifications professionnelles, qui présente une possibilité raisonnable d’embauche et dont les conditions d’exercice ne comportent pas de danger pour la santé, la sécurité ou l’intégrité physique ou psychique du travailleur compte tenu de sa lésion
+Arts. 51 et suivants Latmp prévoient des cas spéciaux d’abandon d’un emploi, lésion subi après l’âge de 50 ans par exemple et auquel cas il y a une révision des indemnités de remplacement de revenues. 
+Arts. 56, 57et 58 Latmp prévoient des modalités de fin d’indemnité de remplacement.
+Art. 59 Latmp prévoit le cas que le travailleur ne manque qu’une journée de travail en raison de la lésion et bien, ce sera à l’employeur ne verser le plein salaire au travailleur.
+Art. 60 Latmp : employeur verse les 14 premiers jours d’indemnité et ensuite ce sera la CNESST qui versera l’argent au travailleur. Les versements faits de l’employeur sont remboursés par la CNESST. 
+Les indemnités pour dommages corporels et décès
+Évaluation des séquelles et de l’atteinte permanente. Ensuite, en fonction des barèmes, la personne pourra obtenir une indemnisation (arts. 83 et ss Latmp)
+Art. 83 Latmp :
+Le travailleur victime d’une lésion professionnelle qui subit une atteinte permanente à son intégrité physique ou psychique a droit, pour chaque accident du travail ou maladie professionnelle pour lequel il réclame à la Commission, à une indemnité pour préjudice corporel qui tient compte du déficit anatomo-physiologique et du préjudice esthétique qui résultent de cette atteinte et des douleurs et de la perte de jouissance de la vie qui résultent de ce déficit ou de ce préjudice.
+Art. 84 et ss Latmp : détaillent comment calculer l’indemnité pour dommages corporels à verser. Il s’agit d’un montant net non imposable. 
+Art. 84. Latmp :
+Le montant de l’indemnité pour préjudice corporel est égal au produit du pourcentage, n’excédant pas 100%, de l’atteinte permanente à l’intégrité physique ou psychique par le montant que prévoit l’annexe II au moment de la manifestation de la lésion professionnelle en fonction de l’âge du travailleur à ce moment.
+Le pourcentage d’atteinte permanente à l’intégrité physique ou psychique est égal à la somme des pourcentages déterminés suivant le barème des préjudices corporels adopté par règlement pour le déficit anatomo-physiologique, le préjudice esthétique et les douleurs et la perte de jouissance de la vie qui résultent de ce déficit ou de ce préjudice.
+Si un préjudice corporel n’est pas mentionné dans le barème, le pourcentage qui y correspond est établi d’après les préjudices corporels qui y sont mentionnés et qui sont du même genre.
+Art. 85 Latmp :
+Le barème des indemnités pour préjudice corporel adopté par règlement doit permettre de déterminer un pourcentage additionnel lorsqu’un travailleur subit, en raison d’un accident du travail ou d’une maladie professionnelle, des déficits anatomo-physiologiques à des organes symétriques ou un déficit anatomo-physiologique à un organe symétrique à celui qui est déjà atteint.
+À cette fin, le barème tient compte de la nature des organes atteints et du caractère anatomique ou fonctionnel des déficits.
+Art. 86 Latmp :
+Le montant de l’indemnité pour préjudice corporel ne peut être inférieur à 500 $ lorsque le travailleur a subi un déficit anatomo-physiologique.
+Art. 87 Latmp :
+Lorsqu’un travailleur subit, en raison d’un même accident du travail ou d’une même maladie professionnelle, une ou des atteintes permanentes à son intégrité physique ou psychique et que le total des pourcentages de ces atteintes excède 100%, il a droit de recevoir, en outre du montant de l’indemnité déterminé conformément à l’article 84, une somme égale à 25% du montant de l’indemnité déterminé sur la base du pourcentage excédentaire.
+Art. 88 Latmp :
+La Commission établit le montant de l’indemnité pour préjudice corporel dès que les séquelles de la lésion professionnelle sont médicalement déterminées.
+Lorsqu’il est médicalement impossible de déterminer toutes les séquelles de la lésion deux ans après sa manifestation, la Commission estime le montant minimum de cette indemnité d’après les séquelles qu’il est médicalement possible de déterminer à ce moment.
+Elle fait ensuite les ajustements requis à la hausse dès que possible.
+Art.89 Latmp :
+Un travailleur qui, en raison d’une récidive, d’une rechute ou d’une aggravation, subit une nouvelle atteinte permanente à son intégrité physique ou psychique alors que le montant de son indemnité pour préjudice corporel a déjà été établi, a droit à une nouvelle indemnité pour préjudice corporel déterminée en fonction du pourcentage de cette nouvelle atteinte.
+Si le pourcentage total de l’atteinte permanente à son intégrité physique ou psychique, comprenant le pourcentage déjà déterminé et le pourcentage qui résulte de la récidive, de la rechute ou de l’aggravation, excède 100%, le travailleur a droit de recevoir :
+1°	le montant de l’indemnité déterminé en fonction d’un pourcentage de 100% moins celui qui a déjà été déterminé; et
+2°	un montant égal à 25% du montant de l’indemnité déterminé sur la base de ce pourcentage total moins 100%.
+Le montant de la nouvelle indemnité pour préjudice corporel prévu par le premier ou le deuxième alinéa est calculé en fonction de l’annexe II en vigueur au moment de la récidive, la rechute ou l’aggravation et en fonction de l’âge du travailleur à ce moment.
+Art. 90 Latmp :
+La Commission paie au travailleur des intérêts sur le montant de l’indemnité pour préjudice corporel à compter de la date de la réclamation faite pour la lésion professionnelle qui a causé l’atteinte permanente à l’intégrité physique ou psychique du travailleur.
+Le taux de ces intérêts est déterminé suivant les règles établies par règlement. Ces intérêts sont capitalisés quotidiennement et font partie de l’indemnité.
+Art. 91 Latmp :
+L’indemnité pour préjudice corporel n’est pas payable en cas de décès du travailleur.
+Cependant, si le travailleur décède d’une cause étrangère à sa lésion professionnelle et qu’à la date de son décès, il était médicalement possible de déterminer une séquelle de sa lésion, la Commission estime le montant de l’indemnité qu’elle aurait probablement accordée et en verse un tiers au conjoint du travailleur et l’excédent, à parts égales, aux enfants qui sont considérés personnes à charge.
+En l’absence de l’un ou de l’autre, la Commission verse le montant de cette indemnité au conjoint ou aux enfants qui sont considérés personnes à charge, selon le cas.
+Arts. 92 et ss Latmp : prévoient le versement d’une indemnité de décès qui est versé aux bénéficiaires. 
+Art. 95 Latmp : présomption de décès liée à une maladie professionnelle
+Matelot qui tombe en mer
+Art. 98 Latmp : calcul de l’indemnité de décès au conjoint survivant
+Art. 99 Latmp : rente au conjoint invalide
+Art. 101 Latmp : rente versée au conjoint
+Arts. 102 et 103 Latmp : rente à l’enfant mineur 
+Arts. 104 et 105 Latmp : rente à l’enfant majeur
+Arts. 106 et 108 Latmp : rente pour les autres personnes à charge
+Art. 109 Latmp : indemnité versée au conjoint à titre de somme forfaitaire
+Art. 110 Latmp : indemnité versée au père et à la mère à titre de somme forfaitaire
+Art. 111 Latmp : frais funéraires dans certaines circonstances peuvent être comblés
+Les autres indemnités et l’assistance médicale
+Art. 112 Latmp:
+Le travailleur victime d’une lésion professionnelle a droit, sur production de pièces justificatives, à une indemnité maximale de:
+1°	300 $ pour le nettoyage, la réparation ou le remplacement des vêtements endommagés par suite d’un accident du travail;
+2°	300 $ par année pour les dommages causés à ses vêtements par une prothèse ou une orthèse au sens de la Loi sur les laboratoires médicaux et sur la conservation des organes et des tissus (chapitre L-0.2) dont le port est rendu nécessaire en raison d’une lésion professionnelle.
+Art. 113 Latmp:
+Un travailleur a droit, sur production de pièces justificatives, à une indemnité pour la réparation ou le remplacement d’une prothèse ou d’une orthèse au sens de la Loi sur les laboratoires médicaux et sur la conservation des organes et des tissus (chapitre L-0.2) endommagée involontairement lors d’un événement imprévu et soudain attribuable à toute cause, survenant par le fait de son travail, dans la mesure où il n’a pas droit à une telle indemnité en vertu d’un autre régime.
+L’indemnité maximale payable pour une monture de lunettes est de 125 $ et elle est de 60 $ pour chaque lentille cornéenne; dans le cas d’une autre prothèse ou orthèse, elle ne peut excéder le montant déterminé en vertu de l’article 198.1.
+Art. 144 Latmp:
+Les indemnités versées en vertu de la présente loi sont incessibles, insaisissables et non imposables, sauf l’indemnité de remplacement du revenu qui est saisissable, jusqu’à concurrence de 50%, pour le paiement d’une dette alimentaire.
+La Commission doit toutefois, sur demande du ministre de l’Emploi et de la Solidarité sociale, déduire des indemnités payables à une personne en vertu de la présente loi le montant remboursable en vertu de l’article 90 de la Loi sur l’aide aux personnes et aux familles (chapitre A-13.1.1). La Commission remet le montant ainsi déduit au ministre de l’Emploi et de la Solidarité sociale.
+Elle doit également, sur demande de Retraite Québec, déduire de l’indemnité de remplacement du revenu payable à une personne en vertu de la présente loi, les montants de rente d’invalidité ou de la rente de retraite qui ont été versés à cette personne en vertu de la Loi sur le régime de rentes du Québec (chapitre R-9) et qui sont recouvrables en vertu de cette loi. Elle remet les montants ainsi déduits à Retraite Québec.
+Art. 189 Latmp:
+L’assistance médicale consiste en ce qui suit:
+1°	les services de professionnels de la santé;
+2°	les soins ou les traitements fournis par un établissement visé par la Loi sur les services de santé et les services sociaux (chapitre S-4.2) ou la Loi sur les services de santé et les services sociaux pour les autochtones cris (chapitre S-5);
+3°	les médicaments et autres produits pharmaceutiques;
+4°	les prothèses et orthèses au sens de la Loi sur les laboratoires médicaux et sur la conservation des organes et des tissus (chapitre L-0.2), prescrites par un professionnel de la santé et disponibles chez un fournisseur agréé par la Régie de l’assurance maladie du Québec ou, s’il s’agit d’un fournisseur qui n’est pas établi au Québec, reconnu par la Commission;
+5°	les soins, les traitements, les aides techniques et les frais non visés aux paragraphes 1° à 4° que la Commission détermine par règlement, lequel peut prévoir les cas, conditions et limites monétaires des paiements qui peuvent être effectués ainsi que les autorisations préalables auxquelles ces paiements peuvent être assujettis.
+Les montants versés auront un impact sur le calcul de la cotisation à verser à l’employeur. 
+Section 4 : la procédure d’évaluation médicale
+La loi prévoit plusieurs obligations pour le médecin qui assure le suivi et prescrit les soins et traitements au travailleur.
+Art. 2 Latmp « » :
+Art. 192 Latmp :
+Le travailleur a droit aux soins du professionnel de la santé de son choix.
+Un médecin majoritairement
+La compétence du professionnel de la santé ou du médecin est prévu à l’art. 212 Latmp et cette compétence ne peut porter que sur 5 aspects. Voir le tableau ci-bas. 
+*Cependant, la détermination de la relation entre l’état médical et le fait accidentel appartient à la CNESST et plus tard s’il y a lieu au tribunal, mais non pas au médecin évaluateur.*
+Le choix du médecin qui prendra charge du travailleur revient à :
+La Commission des normes, de l’équité, de la santé et de la sécurité du travail (CNESST)
+L’employeur
+Le travailleur
+c), le médecin qui prendra charge du travailleur sera choisi par le travailleur. Il assurera son suivi et lui prescrira les soins et traitements. La CNESST et l’employeur sont liés par les conclusions du médecin traitant sauf si l’un ou l’autre se prévaut de son droit de contestation (arts. 204 et 212, 224 et 224.1 L.a.t.m.p.).
+Annexe 1 : processus d’évaluation médicale
+Section 5 : le droit de retour au travail 
+Arts. 235 Latmp : 
+Le travailleur qui s’absente de son travail en raison de sa lésion professionnelle:
+1°	continue d’accumuler de l’ancienneté au sens de la convention collective qui lui est applicable et du service continu au sens de cette convention et au sens de la Loi sur les normes du travail (chapitre N‐1.1);
+2°	continue de participer aux régimes de retraite et d’assurances offerts dans l’établissement, pourvu qu’il paie sa part des cotisations exigibles, s’il y a lieu, auquel cas son employeur assume la sienne.
+Le présent article s’applique au travailleur jusqu’à l’expiration du délai prévu par le paragraphe 1° ou 2°, selon le cas, du premier alinéa de l’article 240.
+Art. 236 Latmp :
+Le travailleur victime d’une lésion professionnelle qui redevient capable d’exercer son emploi a droit de réintégrer prioritairement son emploi dans l’établissement où il travaillait lorsque s’est manifestée sa lésion ou de réintégrer un emploi équivalent dans cet établissement ou dans un autre établissement de son employeur.
+Art. 239 Latmp :
+Le travailleur qui demeure incapable d’exercer son emploi en raison de sa lésion professionnelle et qui devient capable d’exercer un emploi convenable a droit d’occuper le premier emploi convenable qui devient disponible dans un établissement de son employeur.
+Le droit conféré par le premier alinéa s’exerce sous réserve des règles relatives à l’ancienneté prévues par la convention collective applicable au travailleur.
+Art. 240, al.1 Latmp :
+Les droits conférés par les articles 236 à 239 peuvent être exercés :
+1°	dans l’année suivant le début de la période d’absence continue du travailleur en raison de sa lésion professionnelle, s’il occupait un emploi dans un établissement comptant 20 travailleurs ou moins au début de cette période; ou
+2°	dans les deux ans suivant le début de la période d’absence continue du travailleur en raison de sa lésion professionnelle, s’il occupait un emploi dans un établissement comptant plus de 20 travailleurs au début de cette période.
+Généralement, les conventions collectives vont prévoir des périodes qui dépassent celles prévues par la loi. 
+Les arts. 170.1 -170.4 Latmp prévoient les mécanismes de ce constituent une contrainte excessive au retour au travail par l’employeur. La décision de la CNESST peut faire en sorte que le délai est échu et que le travailleur doit retourner au travail s’il n’y a pas de contrainte excessive. La Commission possède des pouvoirs particuliers pour s’enquérir et juger ce qui constitue une contrainte excessive. 
+Art. 242 Latmp :
+Le travailleur qui réintègre son emploi ou un emploi équivalent a droit de recevoir le salaire et les avantages aux mêmes taux et conditions que ceux dont il bénéficierait s’il avait continué à exercer son emploi pendant son absence.
+Le travailleur qui occupe un emploi convenable a droit de recevoir le salaire et les avantages liés à cet emploi, en tenant compte de l’ancienneté et du service continu qu’il a accumulés.
+Au salaire, au vacances… 
+Fait l’objet de plusieurs décisions jurisprudentielles et d’une controverse
+Art. 274, al.1 Latmp doit aviser sans délai son employeur dès qu’il est informé par le professionnel de la santé de la date de consolidation de la lésion professionnelle. 
+Exemple : Marie, travailleuse chez Aspiretout inc. à titre de secrétaire depuis 12 ans, s’est blessée au dos. Sa réclamation a été acceptée par la CNESST et après quatre mois de repos et de traitements de physiothérapie, sa lésion est consolidée par son médecin qui a charge. Le rapport final du médecin indique qu’elle ne conserve aucune atteinte permanente ni limitations fonctionnelles de sa blessure. Marie peut-elle retourner à son emploi? Si oui, quelle démarche doit-elle effectuer? Motivez votre réponse.
+Réponse : Marie doit aviser son employeur que sa lésion est consolidée et qu’elle n’en conserve aucune limitation (art. 274 L.a.t.m.p.). Elle peut reprendre son emploi, son employeur doit la reprendre (art. 236 L.a.t.m.p.). La durée du droit de retour au travail dépend du nombre de travailleurs de l’établissement au début de la période d’incapacité (art. 240 L.a.t.m.p.). De toute façon, dans la situation de Marie, son droit de retour au travail ne peut être expiré puisqu’il ne s’est pas écoulé plus d’une année depuis le début de son incapacité. De plus, même si ce délai était expiré, sous réserve qu’il puisse faire la démonstration de l’existence d’une contrainte excessive, l’employeur est présumé pouvoir réintégrer le travailleur lorsque celui-ci redevient capable d’exercer son emploi ou qu’il devient capable d’exercer un emploi équivalent ou un emploi convenable disponible chez son employeur après l’expiration du délai pour exercer son droit au retour au travail (art. 170.3 L.a.t.m.p.). L’obligation d’accommodement de l’employeur demeure donc après l’expiration des délais prévus à l’article 236 L.a.t.m.p.
+Section 6 : Le processus de réadaptation
+Art. 145, al.1 Latmp :
+La commission peut, dès qu’elle accepte une réclamation pour une lésion professionnelle et avant la consolidation de cette lésion, accorder au travailleur des mesures de réadaptation adaptées à son état de santé et visant à favoriser sa réinsertion professionnelle, dans les cas et aux conditions prévues au présent chapitre et par règlement. 
+La réadaptation se divisent en 3 catégories :
+Physique (arts. 148-150 Latmp) : reprise optimale de la capacité physique du travailleur pour favoriser son retour. Les services vont à des soins médicaux à des logements adaptés aux conditions physiques
+Sociale (arts.151-165 Latmp) : des services psychosociaux, le remboursement de frais personnels de garde d’enfant, l’adaptation de son domicile et de son véhicule en fonction de sa capacité résiduelle, remboursement des coûts courants des travaux de la demeure
+Professionnelle (arts.166-178 Latmp) : l’adaptation d’un poste de travail, programme de réadaptation professionnelle à l’école et des services de support en recherche d’emploi, subvention à un travailleur qui veut se partir une entreprise suivant une lésion.
+Section 7 : La procédure de réclamation et les droits de contestation
+Les arts. 265 et ss Latmp prévoient la façon d’entamer une réclamation. 
+Art. 265 Latmp : 
+Le travailleur victime d’une lésion professionnelle ou, s’il est décédé ou empêché d’agir, son représentant, doit en aviser son supérieur immédiat, ou à défaut un autre représentant de l’employeur, avant de quitter l’établissement lorsqu’il en est capable, ou sinon dès que possible.
+Si le travailleur n’avise pas on employeur dans un délai raisonnable peut entrainer l’inapplicabilité de l’art. 28 Latmp à la présomption de lésion professionnelle
+Art. 268, al. 1 Latmp :
+L’employeur tenu de verser un salaire en vertu de l’article 60 avise la Commission que le travailleur est incapable d’exercer son emploi au-delà de la journée au cours de laquelle s’est manifestée la lésion professionnelle et réclame par écrit le montant qui lui est remboursable en vertu de cet article.
+L’avis de l’employeur et sa réclamation se font sur le formulaire prescrit par la Commission.
+[…] 
+Art. 269 Latmp :
+L’employeur transmet à la Commission le formulaire prévu par l’article 268, accompagné d’une copie de l’attestation médicale prévue par l’article 199, dans les deux jours suivants :
+1°	la date du retour au travail du travailleur, si celui-ci revient au travail dans les 14 jours complets suivant le début de son incapacité d’exercer son emploi en raison de sa lésion professionnelle; ou
+2°	les 14 jours complets suivant le début de l’incapacité du travailleur d’exercer son emploi en raison de sa lésion professionnelle, si le travailleur n’est pas revenu au travail à la fin de cette période.
+Il remet au travailleur copie de ce formulaire dûment rempli et signé.
+L’employeur se fera rembourser par la suite ce montant.
+La réclamation à la CNESST est prévue aux arts. 270 et 271 Latmp. Il y a un formulaire pour les travailleurs et le délai de prescription est de 6 mois, soit à compter de la lésion ou du décès du travailleur. 
+Pour la maladie professionnelle, l’art. 272 Latmp prévoit une autre marche à suivre. Le délai de 6 mois commence a compté du moment que le travailleur est informé que la lésion est issue de son travail. 
+Art. 352 Latmp : pour un motif sérieux, la commission peut décider de prolonger le délai de prescription. On peut penser à un état psychologique grave. 
+Pas droit d’appel. Par contre, la possibilité de contester la décision du TAT par une requête en révision judiciaire devant la Cour supérieure. Notamment, l’art. 15 Litat permet pour des motifs raisonnables au tribunal de relever la partie d’avoir agi à l’extérieur du délai imputable de 60 jours pour contester une décision de la Commission. Les règles du TAQ s’appliquent et l’art. 47 Litat. 
+Une décision de la Commission a effet directement même si elle est contestée. Les indemnités reçus en attente de la décision du tribunal ne seront pas réclamées, que les 14 premiers jours qui auront été payés préalablement par l’employeur. 
+Annexe 2 : contestation d’une décision autre que médicale
+La Commission rend une décision, qu’une vérification interne est possible et pour contester une décision interne de la Commission ce n’est que le TAT qui peut s’en occuper. 
+À la fois le processus de réclamation et de contestation peuvent se faire avec des formulaires faciles à compléter.

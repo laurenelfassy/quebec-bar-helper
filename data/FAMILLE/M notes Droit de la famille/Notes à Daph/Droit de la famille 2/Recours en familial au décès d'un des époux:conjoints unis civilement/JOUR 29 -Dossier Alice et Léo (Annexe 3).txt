@@ -1,0 +1,91 @@
+Alicia et Léo se rencontrent à l’été 2001 à Québec, où ils résident tous les deux. Alicia retient les services de Léo pour l’aménagement paysager de sa maison. Il exécute le mandat avec brio et Alicia tombe sous son charme. Ils se marient à Québec, le 30 juin 2002, sans avoir signé de contrat de mariage au préalable.
+Au moment du mariage, Alicia, qui est dentiste, possède une maison à Sillery, dans la ville de Québec, et le couple y emménage, aussitôt après le mariage. À ce moment, la maison d’Alicia vaut 300 000,00 $ et est grevée d’une hypothèque de 200 000,00 $. Quant à Léo, il est paysagiste et propriétaire de sa propre entreprise, depuis 2000, qu’il opère sous le nom « Les Jardins Éden », laquelle entreprise ne vaut alors rien.
+En mai 2003, Alicia donne naissance au premier enfant du couple, prénommé Brian. Le deuxième fils du couple, Tom, naît en 2006.
+En juillet 2021, Alicia éprouve de graves ennuis de santé et cesse de travailler. Le couple subit aussi des difficultés matrimoniales. À l’automne 2021, Alicia demande à Léo de quitter la résidence familiale, ce qu’il fait.
+Alicia décède d’un cancer le 25 août 2022. Léo apprend alors qu’à l’automne 2021, Alicia a changé son testament pour retirer le nom de Léo comme bénéficiaire afin de le remplacer par celui des enfants Brian et Tom qui sont ainsi devenus ses légataires universels. 
+Tout au long du mariage, les parties ont accumulé des gains auprès de Retraite Québec.
+Léo veut savoir comment sera partagée la valeur des biens du couple, considérant que ses fils Brian et Tom sont les légataires universels d’Alicia.
+Pour répondre à cette question, vous proposez à Léo de procéder d’abord bien par bien afin qu’il vous fournisse toutes les informations requises concernant les biens du couple.
+Léo vous indique ce qui suit à propos de la résidence familiale.
+En janvier 2013, le couple a décidé d’acheter, en parts égales, une maison unifamiliale à Cap-Rouge, Québec, au prix de 650 000,00 $. Alicia a alors vendu la maison de Sillery qu’elle possédait avant mariage et dont l’hypothèque avait été entièrement remboursée depuis avec les revenus de son travail. Cette vente a été faite pour le prix net de 450 000,00 $.
+Alicia a alors utilisé cette somme de 450 000,00 $ à l’acquisition de la nouvelle résidence du couple. Léo a investi une somme de 50 000,00 $ qu’il avait économisée depuis le mariage à même ses revenus provenant de son entreprise « Les Jardins Éden ». Le solde du prix de vente de la maison, soit 150 000,00 $, a été payé à même un prêt hypothécaire contracté par les époux conjointement, auprès de la Caisse de Cap-Rouge, remboursable sur 20 ans.
+En 2016, Léo hérite à la suite du décès de sa mère. Avec le produit de cet héritage, il rembourse alors entièrement le solde de l’hypothèque qui était toujours de 150 000,00 $. À ce moment, la résidence vaut 700 000,00 $. Au moment du décès d’Alicia en août 2022, la maison vaut 975 000,00 $ et aucune hypothèque ne grève l’immeuble.
+NOTA :	aux fins du présent exercice, ne tenez pas compte du passif fiscal latent qui pourrait être lié à la disposition éventuelle de certains biens.
+1.	Quelle est la valeur partageable de la part d’Alicia dans la résidence familiale de Cap-Rouge, pour sa succession? Faites état de tous vos calculs et motivez votre réponse.
+Il s’agit d’un remploi d’une somme provenant d’un bien du patrimoine familial pour l’achat d’un nouveau bien du patrimoine. 
+La valeur nette de la maison au moment de la demande de (art. 417, al.1 C.c.Q.) : 
+Valeur nette : 975 000 $ (valeur marchande) - 0 $ (dette)= 975 000 $ /2 = 487 500 $
+Déductions pour un bien possédé avant le mariage faisant partie du patrimoine familiale puisque la résidence sert à la famille (art. 415, al.1 et 418, al.1 C.c.Q.) :
+Valeur nette au moment du mariage de la résidence : 300 000 $ (valeur marchande) – 200 000 $ (hypothèque) = 100 000 $ 
+Déductions additionnelles pour la plus-value acquise pendant le mariage (art.418, al.2 C.c.Q.) :
+150 000 $ (450 000 $ - 300 000 $ Plus-value pendant le mariage) X 100 000 $ (valeur nette) / 300 000 $ (valeur brute) = 50 000 $
+Valeur du remploi : 100 000 $ + 50 000 $ = 150 000 $ 
+Ensuite, on doit établir la valeur de la déduction proportionnelle du remploi (art. 418, al.3 C.c.Q.).
+162 500 $ (487 500-325 000 $ Plus-value acquise pendant le remploi) X 150 000 $ (valeur du remploi) / 325 000 $ (650 000 $ / 2 valeur brute du bien 2 au moment du remploi) = 75 000 $
+Déduction totale : 150 000 $ (remploi) + 75 000 $ (remploi proportionnel) = 225 000 $
+Valeur partageable : Valeur nette (487 500 $) – Valeur des déductions au remploi (225 000 $) = 262 500 $
+2.	Quelle est la valeur partageable de la part de Léo dans la résidence familiale de Cap-Rouge? Faites état de tous vos calculs et motivez votre réponse.
+Valeur nette (art. 417, al.1 C.c.Q.) : 975 000 $ (valeur marchande) - 0 $ (dette)= 975 000 $ /2 : 487 500 $
+Valeur déductions (art. 418, al.1 et al.2 C.c.Q.) : 208 928,57 $
+Déduction pour avoir fait un apport pendant le mariage pour l’acquisition de la maison 2 qui fait partie du patrimoine familiale (art. 418, al.1 C.c.Q.) : apport de 150 000 $ 
+137 500 $ (plus-value acquise : 487 500 $ - 350 000 $) X 150 000 $ (apport) / 350 000 $ (700 000 / 2 valeur brute du bien) = 58 928,57 $
+150 000 $ + 58 928,57 $ = 208 928,57 $ 
+Valeur partageable : VN (487 500 $) – Déductions (208 928, 57 $) = 278 571,43 $
+*  *  *  *  *
+Léo vous indique ce qui suit à propos des meubles de la résidence familiale.
+En mai 2002 (mais se marient le 30 juin 2002), il a fait l’acquisition d’un nouveau mobilier pour le couple, d’une valeur de 50 000,00 $, payé comptant à même ses économies. Ce mobilier a été livré à la maison d’Alicia à Sillery, quelques jours avant le mariage et Alicia s’est alors débarrassée de ses vieux meubles. Les meubles se trouvent maintenant à la maison de Cap-Rouge et ils ne valent plus que 30 500,00 $.
+3.	Quelle est la valeur partageable des meubles dont Léo est propriétaire? Faites état de tous vos calculs et motivez votre réponse.
+Bien faisant partie du patrimoine familiale même s’ils sont acquis avant le mariage (art. 415, al.1 C.c.Q.)
+VN au moment du décès (art. 417, al.1 C.c.Q.) : 30 500,00 $ - 0$ dette = 30 500,00 $.
+Déduction 1 : VN au moment du mariage (art. 418, al.1 C.c.Q.) : 50 000 $ - 0$ dette = 50 000 $ 
+Déduction 2 : 19 500 $ Moins-value (50 000 $ -  30 500 $ = 19 500 $) X 50 000 $ (valeur nette) / 50 000 $ (valeur brute) = (19 500 $) (art. 418, al.2 C.c.Q.)
+Déduction totale : 50 000 $ - 19 500 $ = 30 500 $ 
+VP : VN (30 500 $) – déductions (30 500 $) = 0 $
+*  *  *  *  *
+Léo vous indique ce qui suit à propos d’une maison située à Baie-Saint-Paul, dont le couple est propriétaire.
+En 2011, à des fins d’investissement, le couple a acquis en copropriété, et en parts égales, une résidence complètement meublée, rue des Bouleaux, à Baie-Saint-Paul, laquelle est louée à l’année, à des amis. Cette maison fut acquise pour un prix de 550 000,00 $, payé comme suit : 
+-	Alicia paie sa part comptant, à même une indemnité en réparation d’un préjudice corporel reçue l’année précédente. En effet, Alicia a subi un grave accident de ski en 2007 et elle en est restée légèrement handicapée au pied gauche. La compagnie d’assurances du jeune skieur responsable de l’accident a conclu avec Alicia un règlement à l’amiable, acceptant de lui verser la somme de 275 000,00 $ en réparation du préjudice subi, somme qu’elle a employée à cet achat;
+-	Léo paie la sienne en empruntant 175 000,00 $ de son père qui lui donne les 100 000,00 $ additionnels en cadeau.
+Par la suite, les époux se partagent les revenus nets de loyer en parts égales : Alicia utilise cet argent pour sa passion, les voyages et Léo rembourse les intérêts du prêt consenti par son père qui, jusqu’à ce jour, n’exige pas le remboursement du capital. 
+Au printemps dernier, le couple a dû effectuer des travaux de fondation à l’immeuble qui s’enfonçait dangereusement. Léo a fait appel à la firme Hérault et Asselin pour un travail de solidification des fondations. Il en a coûté 25 000,00 $, somme qu’Alicia a payée avec les versements mensuels de l’assurance invalidité qu’elle recevait depuis qu’elle avait cessé de travailler. Un évaluateur agréé a confirmé à Léo la semaine dernière que l’immeuble vaut maintenant 750 000,00 $, soit la même valeur qu’avant les travaux de fondation.
+4.	Quelle est la valeur partageable des acquêts d’Alicia quant à sa part dans la résidence louée de Baie-Saint-Paul, pour sa succession ? Faites état de tous vos calculs et motivez votre réponse.
+Maison : valeur marchande 375 000 $ (750 000 $/2)
+Propre : Indemnité en réparation d’un préjudice corporel 275 000 $ (454, al.1 et 450 (3) C.c.Q.)
+Travaux de fondation : 
+25 000 $ provenant de son assurance invalidité pour avoir cessé de travailler (art. 453, al.1 C.c.Q. TOUS LES REMPLACEMENTS DE REVNUS) : acquêt 
+25 000 $ pas supérieure ou égale à celle du bien propre de 750 000 $ alors, demeure les coûts demeurent propres (art. 455, al.2 C.c.Q.). 
+Puisqu’il n’y a pas eu d’enrichissement la somme avant et après les travaux est de 750 000 $ et de toute façon les impenses étaient nécessaires (art. 477 C.c.Q.), il n’y aura pas de récompense. 
+5.	Quelle est la valeur partageable des acquêts de Léo quant à sa part dans la résidence louée de Baie-Saint-Paul ? Faites état de tous vos calculs et motivez votre réponse.
+Maison : valeur marchande 375 000 $ (750 000 $/2)
+Acquêts : 175 000 $ (art. 449, al.1 C.c.Q.)
+Propres : 100 000 $ (art. 450 (2) C.c.Q.)
+Propres / acquêts : Art. 451, al.1 C.c.Q.
+100 000 $ (propre) > coût d’acquisition total du bien 137 500 $ (275 000 $) /2 = 137 500 $)
+Non, donc c’est un acquêt à charge de récompense aux propres. 
+Récompense de 100 000 $ / 275 000 $ X 375 000 $ = 136 363,64 $
+*  *  *  *  *
+Léo vous mentionne aussi les éléments suivants à propos des dettes et autres placements et investissements du couple. 
+En 2020, il a fait l’acquisition d’un nouveau tracteur pour son entreprise « Les Jardins Éden ». Avec le consentement d’Alicia, il a obtenu une marge de crédit de 68 000,00 $, garantie par hypothèque sur la résidence familiale et il a utilisé la totalité de cette somme pour payer le tracteur. Il ne rembourse que les intérêts de ce prêt, qu’il s’est engagé à rembourser seul et à l’entière exonération d’Alicia. De plus, en 2021, il a dû remplacer sa rétrocaveuse devenue totalement inutilisable. Sans cet investissement, il n’aurait pas pu maintenir les revenus de son entreprise. Il a donc utilisé 22 000,00 $ à même les revenus de son entreprise pour l’achat d’une rétrocaveuse Kubota. Son entreprise vaut maintenant 200 000,00 $, quant aux éléments d’actif (c.-à-d. tracteur, rétrocaveuse et achalandage), sans le passif.
+Il vous mentionne aussi qu’en août 2021, Alicia a encaissé la totalité des REER qu’elle avait accumulés depuis le mariage, soit une somme brute de 100 000,00 $, pour pourvoir à sa part des dépenses familiales. À la suite de cet encaissement et après la retenue fiscale, sa banque lui a remis une somme nette de 50 000,00 $, mais il ne reste plus que 19 000,00 $. De plus, le 20 décembre 2021, ne pouvant plus conduire, Alicia a vendu pour 60 000,00 $ la voiture BMW qu’elle avait acquise en 2018 au prix de 90 000,00 $, somme qui provenait d’un gain réalisé la même année à la loterie. Cette voiture était utilisée autant pour ses propres déplacements que pour ceux de la famille. Alicia a versé cette somme à son compte bancaire pour lui permettre de continuer à assumer sa part des dépenses de la famille, mais il ne reste plus que 31 000,00 $ au solde du compte. 
+6.	a)	Quelle est la valeur partageable des acquêts de Léo quant à l’entreprise « Les Jardins Éden » ? Faites état de tous vos calculs et motivez votre réponse.
+Entreprise (propre) : 200 000 $ possédée avant le mariage (art. 450(1) C.c.Q.)
+Investissement nécessaire pour maintenir les revenus à même les revenus de l’entreprise : 22 000 $ propre et aucune récompense (art. 457,al.2 C.c.Q.) 
+Tracteur : en remplacement d’un propre, soit un outil de travail nécessaire à sa profession (art. 450(3) et (6) C.c.Q.) Donc une dette contractée au profit d’un propre et non acquittée donne lieu à une récompense comme si elle avait été payée par des acquêts (art 478 C.c.Q.)
+	b)	La somme de 19 000,00 $ provenant de l’encaissement d’une somme de 100 000,00 $ retirée des REER d’Alicia doit-elle être partagée en vertu des règles de la société d’acquêts? Faites état de tous vos calculs, le cas échéant, et motivez votre réponse.
+Oui, les sommes ont été encaissées alors ils ne sont plus des REER. Les 19 000 $ sont donc des sommes contenues dans un compte en banque (art. 449, al.1 C.c.Q.) et des acquêts.
+Commentaire : pas de paiement compensatoire, car les sommes sont utilisés pour les besoins de la famille 
+	c)	La somme de 31 000,00 $ toujours au compte bancaire d’Alicia (transférée au nom de sa succession), solde provenant de la vente de sa voiture BMW, doit-elle être partagée en vertu des règles de la société d’acquêts? Faites état de tous vos calculs, le cas échéant, et motivez votre réponse.
+Oui. Les sommes dans son compte en banque sont notamment acquêts (art. 449, al.1 C.c.Q.). 
+Commentaire : somme perçue pour les besoins de la famille alors, très peu de chance de succès pour un recours sous l’art. 421 C.c.Q.
+7.	Léo veut connaître les valeurs qu’il doit partager avec la succession d’Alicia ainsi que vos recommandations à propos du partage des biens du patrimoine familial et du régime matrimonial.
+a)	Calculez la créance découlant du partage du patrimoine familial.
+Créance :
+Valeur partageable de la succession d’Alicia : 262 500,00 $
+Valeur partageable de Léo : 278 571,43 $
+Créance à la succession d’Alicia : 278 571,43 $ – 262 500,00 $ = 8 035,72 $
+	2
+-	Si la résidence familiale est vendue 975 000,00 $ : Léo et la succession d’Alicia recevront chacun 487 500,00 $ ET Léo devra verser 8 035,72 $ à la succession; Léo conservera les meubles.
+-	Si Léo veut conserver la propriété de la résidence familiale, il devra verser 495 535,72 $ (487 500,00 $ + 8 035,72 $) à la succession d’Alicia. Léo conservera aussi les meubles.
+b)	Remplissez les formulaires « État du patrimoine familial » et « État de la société d’acquêts » et établissez la créance découlant du partage des acquêts.
+c)	Faites vos recommandations à Léo à propos du partage du patrimoine familial et des acquêts. Motivez votre réponse 
+On va recommander à Léo de renoncer au partage des acquêts (art. 473 C.c.Q.) puisque la valeur de ses acquêts sont plus élevés. La renonciation devra respecter par acte notarié et inscrite (art. 469 C.c.Q.). Comme il renonce, il ne pourra pas utiliser l’art. 482 C.c.Q. Il sera toujours tenu de ses dettes soit du prêt de son père et du 68 000 $ de l’entreprise. 

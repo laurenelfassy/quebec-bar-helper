@@ -1,0 +1,1 @@
+Cochez la case si l’étudiant-stagiaire a posé le geste requis.

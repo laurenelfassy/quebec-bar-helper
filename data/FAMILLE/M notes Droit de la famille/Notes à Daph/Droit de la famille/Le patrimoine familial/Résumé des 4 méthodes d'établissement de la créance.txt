@@ -1,0 +1,40 @@
+Établissement	de	la	créance 	
+Biens	de	catégorie	1 	
+Dominique 	 Maxime 	
+Valeur	partageable 	:	175	000	$	 Valeur	partageable 	:	285 	000	$	
+1re	méthode 	:	
+La	créance	est	égale	à	la	moitié	de	 la	différence	entre	les	valeurs	partageables	des	époux. 	
+285	 000	 $	-	175	 000	 $/2	=	55	000	 $	
+2e	méthode 	:	
+La	 plus	 petite	 créance	 s’éteint	 par	 compensation	 et	 la	 créance	 est	 égale	 à	 la	 différence	 entre	 les	
+créances	respectives	des	conjoints. 	
+Dominique	a	dr oit	à	la	moitié	de	285 	000	 $	:	 142	 500	 $	
+Maxime	a	droit	à	la 	moitié	de	 175	 000	 $	:	 87	500	$	
+Compensation	entre	les	créances 	:	 55	000	 $	montant	dû	à	 Dominique 	
+3e	méthode 	:	
+La	créance	est	égale	à	la	moitié	de	la	valeur	partageable	totale	moins	sa	propre	 valeur	partageable. 	
+Valeur	partageable	Dominique	 :	 175	 000	 $	
+Valeur	partageable	Maxime 	:	 +285	 000	 $
+460	000	 $
+Créance	de	Dominique 	:	
+La	moitié	de	la	valeur	partageable	totale 	:	 230	 000	 $
+Moins	sa	valeur	partageable 	:	 -175	 000	 $
+55	000	 $
+Dette	de	 Maxime 	:	
+La	moitié	de	la	valeur	partageable	totale 	:	 230	 000	 $
+Moins	sa	valeur	partageable 	:	 -285	 000	 $
+(55	000	 $)
+4e	méthode 	:	
+La	créance	est	égale	à	la	moitié	de	la	valeur	partageable	totale	plus	ses	déductions	moins	la	valeur	nette	des	biens	 possédés	par	le	conjoint. 	
+Prenant	pour	acqu is	que	la	valeur	nette	de	Dominique	est	de	225 	000	 $	et	une	déduction	de	50 	000	 $,	
+pour	une	valeur	partageable	de	 175	 000	 $.	
+Prenant	pour	acquis	que	la	v aleur	nette	de	Maxime	est	de	300 	000	 $	et	une	déduction	de	 15	000	 $,	
+pour	une	valeur	partageable	de	285 	000	 $.	
+Dominique 	 Maxime 	
+½	de	la	valeur	partageable	totale 	:	 230	 000	 $	 			230	 000	 $	
+Déductions 	:	 		50	000	 $	 		15	000	 $	
+(devrait 	avoir) 	:	 280	 000	 $	 245	000	 $	
+Moins 	:	
+La	valeur	nette 	:	 -225	 000	 $ -300	 000	 $
+(à	recevoir	ou	à	payer)	 :	 55	000	 $ (55	000	 $)
+

@@ -1,0 +1,1261 @@
+PREUVE 
+Les principes généraux
+Celui qui veut faire valoir un droit, mais ne peut le prouver est dans la même situation que celui n’ayant pas de droit
+Absence de preuve = absence de droit
+Qu’est-ce que la preuve? 
+Ensemble de données qui permet au juge de rendre une décision
+Se fait par des moyens légaux qui démontrent la véracité d'un fait ou d’une situation qui aura créé, modifié, transformé ou éteint un droit ou une obligation.
+La preuve existe donc pour faire la démonstration d’une obligation contractuelle ou extracontractuelle au sens de 1372 C.c.Q.
+2803 C.c.Q.: fardeau pour prouver ces moyens
+Principaux outils → C.c.Q et C.p.c.
+On doit déterminer Qu’est-ce qu’il faut prouver? 
+Il faut identifier chacun des éléments de notre fardeau de preuve
+Lorsqu’on effectue notre théorie de la cause, à l’étape des éléments constitutifs de notre fardeau de preuve, c’est l’étape qui va nous aider à déterminer l’objet de notre preuve. 
+Ex: en responsabilité civile extracontractuelle, il faut prouver faute, dommage et lien de causalité. Il faut pour chacun des éléments de preuve identifier comment on va les prouver et c’est ce qu’on appelle les moyens de preuve
+2811 C.c.Q.: quelles sont les moyens de preuve
+Écrit
+Témoignage
+ Présomption,
+Aveu 
+Élément matériel
+Preuve et ses exigences doit constamment être une préoccupation pour l’avocat (de l’entrevue initiale jusqu’à l’instruction de la cause)
+Preuve en deux temps
+Avant l’instruction 
+Celle qui découle de l’acte introductif d'instance qui permet au demandeur de limiter les éléments dont il entend faire la preuve
+De l'exposé sommaire de la défense ou de la défense écrite où le défendeur va aussi limiter les éléments dont il entend faire la preuve
+Et des accessoires (interrogatoires préalables, moyens préliminaires et autres moyens à la disposition des parties pour découvrir la preuve)
+2. Lors de l’instruction
+Prévoit la présentation de la preuve par le demandeur et son fardeau
+Prévoit la présentation de la preuve par le défendeur et son fardeau
+Présentation de la preuve visant à contrer celle présentée par la partie adverse 
+Les notions générales de la preuve civile
+Les exigences de la preuve 
+Exigences de base
+Preuve doit être de la meilleure qualité possible (2860 C.c.Q)
+Règle de la meilleure preuve
+Lorsqu’un fait ou un acte juridique existe par écrit : il faut produire l’écrit pour le prouver ET l’original de l’écrit
+Règle de la nécessité de l’écrit 
+À défaut de l’original, preuve secondaire est possible par tout autre moyen (2811 c.c.Q.). 
+Donc, un témoin qui a vu l’écrit peut en relater le contenu précis. 
+Ex: un contrat qui a brûlé dans un feu, personne n’a une copie, un témoin peut se présenter et dire le contenu de l’écrit.
+Preuve doit répondre aux exigences du fardeau de preuve (2803 C.c.Q)
+Fardeau de preuve → l’obligation qui incombe à une partie qui allègue des faits d’en établir l’existence
+Celui qui veut faire valoir un droit doit prouver les faits qui soutiennent sa prétention → fardeau qui appartient en premier lieu au demandeur
+Celui qui prétend qu’un droit est nul, a été modifié ou est éteint doit prouver les faits sur lesquels sa prétention est fondée → le défendeur qui prétendra qu’il n’a pas d’OB ou qu’il n’a pas commis de faute. Il devra le prouver. 
+Le terme « faits » de 2803 englobe les actes juridiques. C-à-d la manifestation de la volonté dans le but de créer, transférer, modifier ou éteindre un droit. 
+Preuve doit être prépondérante (2804 C.c.Q)
+En matière civile, la prépondérance c’est la règle.
+Balance des probabilités
+Pas besoin d’une preuve HTDR, ni d’une certitude absolue 
+Il suffit simplement de rendre probable le fait dont on entend faire la preuve.
+Preuve prépondérante → 50% + 1
+Preuve devra être pertinente (2857 C.c.Q)
+Élément preuve est pertinent dans la mesure où il aura une influence sur la décision rendue par le tribunal 
+Pertinence peut s’exercer sur deux niveaux
+En lien avec les faits en litige 
+En lien avec l’appréciation que le juge doit faire d’une preuve avec sa force probante 
+Un élément de preuve non pertinent sera non recevable (il ne pourra pas faire partie du dossier, ni être considéré par le tribunal)
+Preuve doit respecter les règles de recevabilité (2811 C.c.Q)
+Moyen utilisé pour prouver que le fait doit être légalement permis pour pouvoir faire partie du dossier
+Condition essentielle à son introduction au dossier 
+« La preuve d’un acte juridique ou d’un fait peut être établie par écrit, par témoignage, par présomption, par aveu ou par la présentation d’un élément matériel, conformément aux règles énoncées dans le présent livre et de la manière indiquée par le Code de procédure civile ou par quelque autre loi. »
+Lorsqu’il s'agit de prouver un fait, nous utilisons en général la preuve par témoin
+Mais on peut parfois prouver un fait par aveu, élément matériel ou la présomption
+L’acte juridique doit en principe être prouvé par écrit
+Existe plusieurs exceptions et interdictions par rapport à la preuve par écrit 
+Il faut produire l’écrit pour le prouver ET l’original de l’écrit (2860 C.c.Q.)
+Recevabilité vs preuve probante
+Recevabilité → faculté pour qu’une preuve fasse partie du dossier et pouvoir être considérée par le tribunal
+Force probante → valeur, poids ou la considération que le tribunal portera à cette preuve
+Question
+Vrai ou Faux→ Pierre Lemelin a prêté la somme de 20 000 $ à Jean-Luc Auclair.
+Ce dernier a signé en sa faveur un billet promissoire, que Pierre Lemelin avait rangé dans un classeur, dans le bureau qu’il avait aménagé à son domicile. Mercredi dernier, un incendie a complètement détruit sa résidence. Comme Jean-Luc Auclair a fait défaut de lui rembourser le montant de 20 000 $ à échéance, il doit exercer un recours pour lui réclamer cette somme. Il ne pourra faire la preuve testimoniale de ce prêt, puisque la valeur du litige est de 20 000 $.
+FAUX → l’article 2860, al. 2 C.c.Q. permet la preuve par tous moyens, lorsqu’une partie ne peut malgré sa bonne foi et sa diligence produire l’original de l’écrit quand cet écrit a existé. Cette règle s’applique, quel que soit le montant en litige (la prohibition de l’article 2862 C.c.Q. ne s’applique pas ici et ne peut être invoquée par Jean-Luc Auclair).
+La mise en preuve des pièces et autres éléments de preuve
+Lorsqu’il y a une pièce qu’on veut invoquer lors de l’audience (instruction) → OB de communiquer cette pièce ET la produire au greffe du tribunal
+Avant d’entreprendre cette étape, il faut savoir qu’il y a deux types de pièces : soutien et autres
+Pièce au soutien  → pièce sans laquelle il n’y a pas de recours 
+Ex: recours pour vice caché → acte d’acquisition de l’immeuble. 
+Il n’y a pas de pièce au soutien en responsabilité extracontractuelle (car il n’y a pas de pièce au soutien de la faute)
+Autres éléments de preuve 
+1e étape: Communication de pièce ou élément de preuve
+Si on veut utiliser une pièce ou élément de preuve pour une D.I.I
+Pièce au soutien → Il faut la communiquer (247 C.p.c.): 
+Par avis d’assignation accompagnant la D.I.I.
+OU
+En joignant à la D.I.I une copie de cette pièce 
+Autre élément de preuve → communication selon protocole (246 C.p.c), OU avec la déclaration commune qui accompagne la demande d’inscription pour jugement (248 C.p.c.)
+Pièce qui accompagnent un acte de procédure autre qu’une D.I.I ex: défense écrite
+Pièce au soutien de la défense → communiquée de l’une de ces façons: 
+Identifiée dans dans la défense
+Dans un avis joint à la défense
+En pièce jointe à la défense
+Autre élément de preuve → communiqué de l’une de ces façons:
+Selon protocole de l'instance (246 C.p.c.) 
+Au plus tard, à l’occasion de la demande d’inscription pour jugement (248 C.p.c.)
+Pièce ou élément de preuve qui accompagne une demande en cours d’instance
+Doit être communiqué(e) dans les + brefs délais. (252 C.p.c.)
+2e étape: La production
+Il faut voir à ce que les pièces ou éléments de preuve soient produites au greffe du tribunal (250 C.p.c.)
+À moins que les pièces et les autres éléments de preuve n’aient déjà été produits au greffe du tribunal en vue de la conférence préparatoire à l’instruction, les parties les produisent, au moins 15 jours avant la date fixée pour l’instruction; ce délai est d’au moins trois jours à l’avance si la date de l’instruction est fixée à moins de 15 jours. Cependant, dans tous les cas, le tribunal peut demander que les pièces et les autres éléments de preuve lui soient remis dans le délai qu’il indique.
+Le juge saisi du dossier pourra prendre connaissance à l'avance les éléments de preuve → efficacité! 
+Si procédure par défaut: les pièces doivent être produites avec la demande d’inscription pour jugement par défaut (al.2)
+3e étape: Introduction en preuve
+Pour que le juge considère ces éléments comme faisant valablement partie de la preuve 
+Faut démontrer que ces pièces sont vraies → aussi appelé « Preuve distincte de leur authenticité »
+L'avocat doit se questionner s’il doit démontrer l'authenticité. 
+Existe une façon simple de raccourcir cette procédure → une partie peut transmettre une MED à la partie adverse de reconnaître l’origine et l’intégrité du document et de l’information qu’il porte (264 C.p.c.)
+Dispense lors de l’instruction de faire la preuve de la fabrication de tel pièce
+Ex: un reçu de taxi. Dans le cadre d’un recours en responsabilité extracontractuelle, on réclame les dépenses relatives au transport. Pour justifier, il faut produire des reçus de taxis, techniquement, il faut communiquer les reçus, les produire au greffe du tribunal (250 C.p.c.) et ensuite de les produire à l'audience. Pour les produire à l'audience, techniquement le chauffeur de taxi devrait être assigné pour attester que ce reçu est un vrai reçu. Pour éviter la présence du chauffeur, il faut transmettre à l’aide d’une mise en demeure de reconnaître l'origine et l’intégrité de ce reçu, une copie de reçu à la partie adverse. Si dans 10 jours pas de contestation → on peut prendre pour acquis qu’elle reconnaît l’origine et l'intégrité donc pas de preuve spécifique à faire lors de l’instruction. 
+En résumé, lorsqu’on a un élément de preuve ou une pièce qu’on veut utiliser lors de l’instruction, 1) il faut la communiquer à la partie adverse, 2) produire au greffe, 3) la produire lors de l’instruction avec le témoin compétent SAUF SI la pièce n’est pas en notre possession auquel cas, il faut citer à comparaître le témoin qui va apporter la pièce et c’est lui qui va produire cette pièce ou élément de preuve.
+L’écrit comme moyen de preuve
+Introduction - L’écrit comme moyen de preuve (2812 C.c.Q à 2842 C.c.Q)
+Écrit est soit instrumentaire ou non-instrumentaire
+Instrumentaire → constate un acte juridique (une manifestation de volonté)
+Non-instrumentaire →  rapporte un fait 
+Ex: rapport d'événements
+4 catégories écrit: 
+Authentique (2813-2821 C.c.Q.)
+Devant un officier
+Instrumentaire → ex: contrat notarié
+Non-instrumentaire → ex: certificat de naissance
+Semi-authentique (2822-2825 C.c.Q.)
+Vient d’officier public étranger
+Peut être instrumentaire ou non instrumentaire
+Sous seing privé (2826-2830 C.c.Q.)
+Pas devant un officier 
+Constate un acte juridique, donc obligatoirement instrumentaire 
+Autres écrits (2831-2836 C.c.Q.)
+4.1 Écrit non-signé (2831 C.c.Q.)
+Habituellement utilisé dans le cours des activités de l’entreprise 
+Instrumentaire car constate acte juridique
+4.2 Écrits pur et simple (2832 C.c.Q.)
+Constatent des faits 
+Non-instrumentaire 
+Écrit est presque toujours recevable sauf si l’écrit s’apparente à un témoignage où des conditions particulières pourront s’appliquer. 
+L’acte authentique 2813-2821 C.c.Q.)
+Caractéristiques
+Reçu par un officier public compétent en vertu des lois du Québec
+Constate un acte instrumentaire ou non-instrumentaire
+Catégories (2814 C.c.Q.)
+Caractère public
+Caractère privé (acte notarié, procès-verbal d’un abornement d’un arpenteur)
+Force probante 
+Preuve à l’égard de tous→ donc qu’on utilise entre les parties ou à l'égard d’un tiers → acte authentique fera preuve de sa confection (2813 C.c.Q), de son contenu (2818 C.c.Q) et s’il agit d’un acte notarié, il fera preuve de l’acte juridique et preuve des déclarations accessoires qui se rapportent à cet acte juridique (2819 C.c.Q). 
+PAS besoin d’utiliser 264 cpc 
+Aussi, la copie attesté par l’officier public compétent confère le caractère d’original à cette copie et qu’elle supplée à l’original (2820 C.c.Q)
+Mise en preuve
+Communiquer l’acte authentique (246 et s. Cpc), produire au greffe du tribunal (250 C.p.c.)
+Pas de preuve distincte d'authenticité à faire, car présumé authentique (2813 C.c.Q.)
+La contestation
+Il faut déterminer s’il s’agit d’un fait pour notaire avait pour mission de constater OU d’un fait que le notaire avait pour mission d’inscrire.
+Différence
+Mission de constater → notaire a été pris à témoin 
+Ex: date. du lieu, fait que la partie voulait vendre un bien et non pas le donner, information dans l’acte a été altérée depuis sa conditions, etc  
+Il faudra procéder pour une demande de déclarer faux cet acte (2821 C.c.Q et 258 C.p.c)
+Il est supposé avoir vérifié le bien-fondé des faits 
+Mission d’inscrire → fait qu’on demande au notaire de consigner à son acte sans qu’il vérifie le bien fondé. 
+Si le notaire a bien fait son travail et qu’on veut le contester car on dit que le fait ne serait pas vrai, on peut faire la preuve par tous moyens sans la nécessité d’attaquer l’acte. 
+Toutefois, si on demande au notaire d’inscrire un fait et qu’il a mal fait son travail et a inscrit une mention erronée contrairement à ce qu’on lui avait dit d’inscrire, il faudra remettre en question le travail du notaire par une demande de déclarer faux l’acte  (2821 C.c.Q. et 258 C.p.c)
+L’acte semi-authentique (2822-2825 C.c.Q.)
+Caractéristiques
+Reçu dans un officier public hors Québec
+Peut constater un acte instrumentaire ou non-instrumentaire
+Catégories
+L’acte qui émane apparemment d’un officier public étranger compétent fait preuve, à l’égard de tous, de son contenu, sans qu’il soit nécessaire de prouver la qualité ni la signature de cet officier. (2822 C.c.Q)
+La procuration sous seing privé faite hors du Québec lorsqu’elle est certifiée par un officier public compétent qui a vérifié l’identité et la signature du mandant. (2823 C.c.Q)
+Les actes, copies et procurations mentionnés dans la présente section peuvent être déposés chez un notaire pour qu’il en délivre copie et cette copie fera preuve de sa conformité et supplée à l’orignal (2824 C.c.Q)
+Mis en preuve d’un acte semi-authentique en notre possession → Il faut le communiquer, produire au greffe (250 C.p.c) et vue la teneur des articles 2822 et 2823
+On n’aura aucunement à faire de preuve d’authenticité, il faut juste dire au juge qu’on a communiqué et produit le document et qu’on le produit (dépose) devant lui avec, au besoin, la cote si elle n’a pas déjà été attribuée 
+Contestation (262 C.p.c.)
+Peut viser les formalités la validité qui n’a pas été accomplie
+Peut porter sur la dénégation de l’acte lui même, l’origine de l’acte 
+Dénégation: Action de nier, de dénier, de contester, de refuser de reconnaître comme vrai
+Peut viser l’intégrité de l’information que cet acte porte
+Il faudra procéder par 262 al.2 (cpc) → dire un des motifs visés par la contestation énoncés précédemment + déclaration sous serment qui conteste l’origine et l'intégrité de ce document
+Question: Une copie de l’acte de naissance 
+Vrai ou Faux: Une copie de l’acte de naissance de Sonia Valerian, initialement rédigé en Pologne, mais inséré au registre de l’état civil du Québec au moment de son arrivée et de l’établissement de son domicile au Québec, est un acte authentique. Cette copie a été délivrée par le directeur de l’état civil pour prouver la date de naissance de Sonia Valerian et démontrer sa qualité d’héritière dans une demande en justice.
+L’acte sous seing privé
+Caractéristiques
+PAS reçu devant un officier public compétent
+Caractère privé
+Il constate un acte juridique 
+Signé par les parties DE L’ACTE 
+Aucune autre formalité
+Catégories
+Peut être bilatéral ou synallagmatique
+Ex: contrat de vente
+Peut être unilatéral 
+Ex: testament ou lorsqu’un CR signe une quittance en faveur de son DB.
+Dans tous les cas, l’acte sous seing privé sera complet s’il porte la signature de tous ceux dont le consentement est requis au fin de l’acte juridique qu’il contient.
+Force probante (2828 C.c.Q):
+Celui qui invoque un acte sous seing privé doit en faire la preuve → il faudra prouver la confection (al.1)
+Toutefois, l’acte opposé à celui qui paraît l’avoir signé ou à ses héritiers est tenu pour reconnu s’il n’est pas contesté de la manière prévue au Code de procédure civile (al.2)
+Le législateur crée une présomption d’authenticité lorsqu’on utilise l’acte contre celui qui paraît l’avoir signé. S’il ne conteste pas, il y reconnaissance implicite de son contenu et reconnaissance implicite de son authenticité et l’acte sous seing privé fait preuve, à l’égard de ceux contre qui il est prouvé, de l’acte juridique qu’il renferme et des déclarations des parties qui s’y rapportent directement. (2829 C.c.Q).
+Force probante quant aux tiers
+2828 al.1C.c.Q s’applique et il n’y aura AUCUNE présomption
+Il va falloir un témoin pour mettre en preuve cet acte sous seing privé
+Bonne idée d’utiliser 264 C.p.c. pour faire venir un témoin juste pour prouver l’authenticité de l’acte. S’il n’est pas donné suite à cette MED dans les 10 jours de son envoi, la confection de l’acte sera établie et pas besoin de faire la preuve de cette acte lors de l’instruction
+Quand l’acte sous seing privé est prouvé → L’acte sous seing privé fait preuve, à l’égard de ceux contre qui il est prouvé, de l’acte juridique qu’il renferme et des déclarations des parties qui s’y rapportent directement. (2829 C.c.Q)
+L’acte sous seing privé n’a point de date contre les tiers, mais celle-ci peut être établie contre eux par tous moyens (2830 C.c.Q.)
+Bref acte sous seing privé ne fait pas preuve de sa date À MOINS que cet acte sous seing privé ne soit intervenu dans cadre des activités d’une entreprise
+Mise en preuve quant aux parties
+Bref, pour que l’acte sous seing privé passe de nos mains jusqu’à celles du juge
+Communiquer aux parties
+Produire au greffe du tribunal selon 250 C.p.c
+Si on veut utiliser cet acte sous seing privé contre une partie à l’acte, et qu’elle n’a pas contesté la confection de l’acte ou l’authenticité de l’acte, la présomption de 2828 al.2 prend tout son effet, et on aura pas à faire la preuve de la confection de cet acte lors de l’instruction
+S’il y a contestation conformément au CPC, il faut un témoin pour établir la confection de cet acte
+Mise en preuve quant aux tiers
+Communiquer aux parties
+Produire au greffe du tribunal selon 250 C.p.c
+Établir la confection (car pas de présomption de confection de 2828 al.2 C.c.Q.)
+264 C.p.c. peut nous éviter la preuve de la confection
+Si la MED n’a pas fait l’objet de contestation de la partie adverse → confection établie
+Si tiers conteste cet acte selon la manière du CPC → faudra avoir un témoin avec nous lors de l’instruction pour établir l’origine et l’authenticité de cet acte sous seing privé
+Contestation par une partie
+C’est quand les formalités requises pour établir la validité de l’acte n’ont pas été accomplies OU pcq il y a délégation de l’acte OU contestation de l’origine de l’acte OU contestation de l’intégrité de l'information qu’il porte 
+262 al.2 C.p.c.→ déclaration sous serment indiqué les raisons qu’elle conteste l’acte
+Contestation par un tiers
+Si reçu MED de 264 C.p.c, ce tiers devra produire une déclaration sous serment en vertu de 264 al.2 C.p.c pour contester l’acte
+Résultat: celui qui entend utiliser l’acte devra faire la preuve par témoin lors de l’instruction!
+Question: Un contrat d’achat 
+Vrai ou Faux: On vous remet un contrat d’achat de papier par Papeterie inc. chez Grossistes de Papier inc., signé par les représentants autorisés des deux sociétés, dans le cadre d’un recours en réclamation d’une indemnité d’assurance intenté par Papeterie inc. contre les Assurances Providence inc.
+Pour que cet acte fasse preuve, contre l’assureur, de l’acte juridique qu’il contient, des déclarations qui s’y rapportent et de la date, il faut que sa confection soit établie.
+VRAI → il s’agit ici de faire valoir un acte sous seing privé (art. 2826 C.c.Q.; contrat d’achat) à l’égard d’un tiers (assureur), non partie à cet acte. Pour que cet acte fasse preuve, contre l’assureur, de l’acte juridique qu’il contient, des déclarations qui s’y rapportent et de la date, il faut que sa confection soit établie (art. 2828, al. 1 C.c.Q.). Dès que la confection aura été établie, cet acte sous seing privé prouvera l’acte juridique qu’il renferme contre le tiers qu’est l’assureur à l’égard de cet acte juridique (art. 2829 C.c.Q.) et la date sera présumée (art. 2830, al. 2 C.c.Q.) car l’acte a été passé dans le cadre des activités d’entreprise.
+L’écrit d’entreprise
+Caractéristiques
+Non-signé 
+Habituellement utilisé dans le cours des activités de l’entreprise
+Sert à constater un acte juridique 
+Prévu à 2831 C.c.Q
+Ex: coupon de caisse du supermarché, billet d’autobus, etc
+Force probante
+Celui qui invoque un écrit non signé doit prouver que cet écrit émane de celui qu’il prétend en être l’auteur (2835 C.c.Q)
+Comment faire cette preuve? 
+Par témoin
+OU
+Transmettre à la partie adverse la MED de reconnaître l’origine et l’authenticité du document (264 C.p.c)
+Si elle n’est PAS contestée, la confection est prouvée → écrit fait preuve de son contenu (2835 C.c.Q)
+Mise en preuve
+Communiquer l’écrit
+Produire au dossier de la cour
+Produire lors de l’audience 
+Par un témoin compétent
+OU
+Si 264 C.p.c. a été transmise, la preuve de la confection sera déjà faite
+Contestation (2836 C.c.Q.)
+Par tous moyens incluant la preuve par témoignage pour contredire l’acte juridique qu’il contient
+;L’écrit pur et simple (2832 C.c.Q.)
+Caractéristiques
+Ni authentique (pas d’officer)
+Ni semi-authentique (pas d’officier)
+Constate qu’un fait
+Ex: agenda, carte d’affaire, liste d’épicerie
+Force probante
+Peu importante
+Ne peuvent tenir lieu de témoignage WTF
+Lorsqu’on utilise ce type d’écrit contre celui qui semble en être l’auteur, il pourra alors valoir comme aveu extrajudiciaire ou comme commencement de preuve
+Lorsque c’est la partie qui a elle-même confectionné cet écrit qui veut l’utiliser, il n’y a AUCUNE force probante → self serving évidence, pas permis dans le code
+On ne peut pas se considérer soi-même de la preuve à l’encontre de qui que ce soit 
+Écrit pourra être utilisé comme témoignage (292 et 293 C.p.c)
+Aux conditions prévues à 2833, 2834, 2843, 2869 à 2873 C.c.Q que nous verrons plus tard
+Mise en preuve
+Communication (246 et s. C.p.c.)
+Produire au greffe (250 C.p.c)
+Produire un témoin compétent pour prouver de qui il émane (authenticité)
+À moins de faire MED de 264 C.p.c et que celle-ci était jointe du simple écrit et est restée sans réponse (si non contestée). La provenance sera donc prouvée 
+Contestation
+Par tous moyens (2836 C.c.Q)
+Possible d’établir le contraire de ce que l’écrit contient par un simple témoignage
+Question→ Les lettres des clients
+L’entreprise Les Velours Pamela inc. a vendu des lots de tissus à Confection Chaton ltée. Confection Chaton ltée poursuit Les Velours Pamela inc. devant la Cour supérieure parce que le tissu en question était défectueux. De nombreux articles lui ont été rendus par des acheteurs insatisfaits.
+Confection Chaton ltée a, en sa possession, 23 lettres de clients qui attribuent les retours de marchandises au manque d’uniformité dans la couleur du tissu. Elle entend mettre en preuve ces lettres pour prouver que le tissu était défectueux, et ce, pour éviter de faire déplacer chacun des auteurs des lettres qui ont des activités d’entreprise un peu partout au Canada. Les personnes qui ont écrit ces lettres ne feraient que répéter ce qui est contenu dans l’écrit.
+Vrai ou Faux→ Les lettres des clients de Confection Chaton ltée peuvent être utilisées comme moyen de preuve.
+VRAI → les lettres des clients sont des écrits ni authentiques ni semi-authentiques qui rapportent des faits (art. 2832 C.c.Q.). Ce qui y est contenu est de la nature d’un témoignage, car chaque client y explique qu’il retourne la marchandise en raison du manque d’uniformité dans la couleur du tissu. Ce sont des déclarations extrajudiciaires écrites qui constituent a priori de l’ouï-dire.
+Cependant, elles constitueront une exception à l’ouï-dire dans la mesure où elles auront été communiquées en vertu de l’article 292 C.p.c (qui vaudra communication de 246 et suivants C.p.c.) et qu’elles auront été ensuite produites au greffe du tribunal conformément à l’article 250 C.p.c.
+Si la partie adverse n’exige pas la présence de ces clients à l’enquête ou ne requiert pas d’autorisation du tribunal pour interroger ces clients hors la présence du tribunal, les lettres des clients vaudront alors leur témoignage et constitueront un moyen de preuve approprié pour établir le fait que le tissu était défectueux. Si la présence à l’enquête est exigée, la présence des clients sera alors requise et ceux-ci devront être cités à comparaître pour témoigner du fait du manque d’uniformité du tissu.
+Par ailleurs, les lettres ne constituent pas un commencement de preuve pour plusieurs raisons : le commencement de preuve doit émaner de la partie adverse (art. 2865 C.c.Q.). Il aurait donc fallu que l’auteur de ces lettres soit Les Velours Pamela inc. Qui plus est, le commencement de preuve n’est pas en soi un moyen de preuve : le commencement de preuve est une manière de rendre recevable la preuve testimoniale dans des situations où elle est normalement interdite, comme à l’article 2862 ou 2863 C.c.Q.
+ATTENTION → ici on demandait à prouver le contenu des lettres PAS juste leur existence (si on n’avait que demander ça 2832 + 2857 CCQ auraient été suffisants)
+L’administration de la preuve avant l’instruction
+L’effet de la communication d’un écrit invoqué au soutien d’un acte de procédure 
+Nous avons l’OB de communiquer tout écrit (au soutien ou tout autre élément de preuve) si nous voulons nous en servir lors de l’instruction.
+250 C.p.c → produire cet écrit au greffe avant l’instruction
+Toutefois, cette production ou dépôt ne fera PAS en sorte que cette pièce sera automatiquement mise en preuve, cela dépend de la nature de la pièce ! 
+Si on a communiqué + produit un acte authentique → cet acte sera avéré quant à son contenu et sa confection (2821 C.c.Q.)
+Pas besoin de témoin pour procéder à la mise en preuve et du dépôt lors de l’audience de cet acte
+Même chose pour les actes semi-authentiques
+Sa seule communication + production (minimalement 15 jours avant - 250 C.p.c.) suffira, donc pas besoin lors de l'instruction de le mettre en preuve avec un témoin 
+Même chose pour les actes sous seing privé quand on l’utilise contre la partie qui semble l’avoir signé en raison de la présomption de confection (2828 al.2 C.c.Q) . 
+Sa seule communication et production au greffe vaudra mise en preuve lors de l’audience. On n’aura pas à prouver que la pièce est bonne et valable. 
+Toutefois, quand on utilise un acte semi-authentique ou un acte sous seing privé contre la partie qui semble l’avoir signé, il se peut qu’ on puisse contester la confection de ces documents (262 C.p.c) il faudra donc faire une mise en preuve avec témoin ou expert. 
+Ex: ça pourrait  être un expert en écriture qui vient observer les signatures pour voir si ce sont les bonnes 
+Question -La pertinence d’une pièce
+Vrai ou faux: Julie Lamothe réclame un montant de 200 000 $ dans un recours en responsabilité civile contre Arthur Sauvé, en raison d’une chute survenue dans l’escalier menant à la résidence de ce dernier. Dans sa demande introductive d’instance, elle allègue que dans le cadre d’une instance distincte, une autre personne, soit Jean-Paul Rancourt, a également poursuivi Arthur Sauvé pour une chute dans le même escalier. Au soutien de cette allégation, elle communique la demande introductive d’instance de Jean-Paul Rancourt. Cette allégation est non pertinente.
+VRAI, cette allégation n’est pas pertinente au sens de l’article 2857 C.c.Q., puisque le seul fait du recours judiciaire de Jean-Paul Rancourt contre Arthur Sauvé dans une autre affaire ne peut démontrer la faute du défendeur Arthur Sauvé dans la demande en justice de Julie Lamothe. Le défendeur pourra présenter, à titre de moyen préliminaire, une demande de radiation de cette allégation non pertinente et ce, en vertu de l’article 169, al. 2 C.p.c.
+La communication de certains éléments de preuve
+Plusieurs éléments de preuve doivent être communiqués avant la date du procès
+Le témoignage par déclaration 
+292 C.p.c
+Une partie peut produire à titre de témoignage, outre une déclaration prévue au livre De la preuve du Code civil, la déclaration écrite de son témoin, y compris un constat d’huissier, pourvu que cette déclaration ne vise à prouver qu’un fait secondaire du litige et qu’elle ait été préalablement notifiée aux autres parties.
+Une autre partie peut, avant la date fixée pour l’instruction, exiger la présence à l’enquête du témoin concerné ou encore obtenir l’autorisation du tribunal de l’interroger hors sa présence
+Pour remplacer la présence de témoin, il est possible d’avoir une déclaration écrite. Toutefois, l’autre partie pourra quand même exiger la présence de cette personne à la cour pour qu’elle puisse être contre-interrogée (principe fondamentale du droit de contre interroger un témoin).  Si la partie adverse accepte que la déclaration écrite tienne lieu du témoignage du témoin, elle reconnaît que c’est ce que le témoin aurait dit s’il serait venu en présence au tribunal, sans pour autant reconnaître la véracité des faits qui y sont contenus DONC toute partie pourra présenter une preuve contraire.
+La force probante
+Laissé à l’appréciation du tribunal comme le témoignage (2845 Ccq)
+Rapport de l’expert
+293 C.p.c
+Le rapport de l’expert tient lieu de son témoignage. Pour être recevable, il doit avoir été communiqué aux parties et versé au dossier dans les délais prescrits pour la communication et la production de la preuve. Autrement, il ne peut être reçu que s’il a été mis à la disposition des parties par un autre moyen en temps opportun pour permettre à celles-ci de réagir et de vérifier si la présence du témoin serait utile. Il peut toutefois être reçu hors ces délais avec la permission du tribunal.
+Avant de donner la permission→tribunal sera très exigeant
+239 C.p.c → communication du rapport de l’expert
+S’il s’agit de notre expert, 239 al.2 C.p.c prévoit → L’expert d’une partie remet son rapport à celle-ci, laquelle doit, si elle entend s’en prévaloir, le communiquer aux autres parties et le verser au dossier du tribunal dans les délais prescrits pour la communication de la preuve.
+Certains autres éléments de preuve doivent être communiqués avant la date du procès MAIS ils devront faire l’objet d’une preuve d’authenticité ou de confection avant de pouvoir être considérés par le tribunal
+Pour s’éviter de  devoir faire une telle preuve d’authenticité (confection) → 264 C.p.c
+Une partie peut MED une autre partie de reconnaître l’origine d’un document ou l’intégrité de l’information qu’il porte.
+Ceci permettra d’éviter de faire une preuve d’authenticité ou de confection, on évite la présence d’un témoin supplémentaire au tribunal
+But: faciliter la mise en preuve d’un élément de preuve ou un élément matériel (qui doit techniquement faire l’objet d’une preuve d’authenticité - 2855 C.c.Q)
+264 al.2 C.p.c→La mise en demeure doit être notifiée au moins 30 jours avant l’instruction; elle est accompagnée d’une représentation adéquate du document ou de l’élément de preuve s’il n’a pas déjà été communiqué ou, en l’absence de telle représentation , d’une indication permettant d’y avoir accès (certains objets ne peuvent être reproduits)
+264 al.3 C.p.c→ La partie mise en demeure admet ou nie l’origine ou l’intégrité de l’élément de preuve dans une déclaration sous serment dans laquelle elle précise ses motifs; elle notifie cette déclaration à l’autre partie dans un délai de 10 jours (suivant la réception de la MED). L’effet sera pour la partie ayant transmis la MED de devoir prouver l’origine du document ou l’intégrité de son information
+Il faut de bon motifs pour contester cette MED
+264 al.4 C.p.c → Le silence de la partie en demeure vaut reconnaissance de l’origine et de l’intégrité de l’élément de preuve, mais non de la véracité de son contenu.
+Si la MED aurait pour objet un acte sous seing privé utilisé contre une partie qui n’est PAS le signataire, le silence de la partie équivaut à un aveu judiciaire de l’origine de la confection du document. Toutefois, cette reconnaissance ne vaut pas pour la date puisqu’il s’agit d’un tiers (2830 C.c.Q) (à moins que ce soit dans le cadre des activités d’une entreprise), il sera toujours possible pour ce tiers de contredire le contenu de ce document puisqu’il ne fait pas partie de ce document et la prohibition de 2863 C.c.Q ne s’applique pas à lui
+Rappel: l’acte sous seing privé est signé par les parties de celui-ci MAIS peut être invoqué à un tiers, qui lui est partie au litige. Il y a les parties à l’acte ET les parties au litige qui peuvent être des tiers à l’acte
+La communication d’une pièce en la possession de la partie adverse ou d’un tiers
+Comment obtenir communication de pièce en possession d’une partie ou un tiers
+Possible de les obtenir avant instruction
+Si une partie est en possession: 
+De documents: possible de les obtenir à l’aide d’un interrogatoire préalable
+D’un élément matériel: possible de l’obtenir en vertu de 251 al.1 C.p.c
+Si un tiers est en possession: 
+D’un document: devra le fournir par un interrogatoire préalable OU si demande lui en est faite conformément à 251 al.2 C.p.c
+D’un élément matériel : on obtient cette pièce à l’aide de 251 al.2 C.p.c.
+Il faut envoyé un citation comparaître désignant cette pièce ou élément (270 C.p.c) OU à l’occasion de l’instruction, il pourrait être tenu de fournir le document ou l’élément de preuve sur demande (286 C.p.c )
+Les principaux interrogatoires préalables 
+L’interrogatoire orale préalable à l’instruction (art.226 et s.s C.p.c)
+L’interrogatoire sur déclaration sous serment (105 et 222 C.p.c)
+L’interrogatoire écrit (223 et s.s C.p.c)
+Articles généraux s’appliquant aux 3 types d’interrogatoires préalables
+221 et s.s. 
+ L’interrogatoire préalable à l’instruction, qu’il soit écrit ou oral, peut porter sur tous les faits pertinents se rapportant au litige et aux éléments de preuve qui les soutiennent; il peut également avoir pour objet la communication d’un document. Il ne peut être fait que s’il a été prévu dans le protocole de l’instance, notamment quant aux conditions, au nombre et à la durée des interrogatoires.
+Avant l’instruction
+Il ne pourra PAS y avoir d’interrogatoire lorsque la valeur du litige est inférieure à 50 000$ (229 C.p.c.)
+Tribunal peut intervenir sur la durée des interrogatoires 
+Quel est l’utilité de l’interrogatoire préalable? 
+Permet d’explorer les faits soutenus par la partie adverse
+De mieux comprendre les informations qu’elle entend mettre en preuve
+Obtenir des documents de la partie adverse
+Évaluer la preuve de la partie adverse
+Évaluer la suite des choses pour le dossier 
+Obtenir un aveu ou un commencement de preuve
+Personnes qui peuvent être interrogées (221 al.2 C.p.c.)
+1°  le représentant, l’agent ou l’employé d’une partie
+2°  la victime et toute personne impliquée dans le fait générateur du préjudice lorsque la demande en justice invoque la responsabilité civile d’une partie (dés fois le recours n’est pas entrepris par la victime elle-même, mais c’est entrepris en raison des dommages subies par la victime)
+3°  la personne pour laquelle une partie agit comme administrateur du bien d’autrui;
+4°  la personne pour laquelle une partie agit comme prête-nom ou de qui elle tient ses droits par cession, subrogation ou autre titre analogue.
+Ce sont des personnes qui sont proches du litige!
+Toute autre personne peut être interrogée avec son consentement et celui de l’autre partie OU sur autorisation d’un juge, aux conditions que celui-ci précise (al.2)
+Le mineur ou le majeur inapte ne peut être interrogé sans une telle autorisation (donc même s’il fait partie de la liste à l’al.1)
+Si pareille interrogatoire devient non-pertinent → il devient abusif → tribunal peut y mettre fin (230 C.p.c)
+1) L’interrogatoire oral préalable à l’instruction (art. 226 et s.s C.p.c)
+Interrogatoire doit être prévu dans le protocole (221 C.p.c)
+226 C.p.c.
+La partie qui entend procéder à un interrogatoire oral, préalable à l’instruction, doit en informer la personne qu’elle veut interroger au moins cinq jours à l’avance et lui préciser la raison de sa convocation, la nature, l’objet, le moment et le lieu de l’interrogatoire.
+Si aucun accord n’est intervenu entre les parties sur ces points, cette personne est citée à comparaître (269 C.p.c) à la date et au lieu indiqués dans la citation, laquelle est signifiée au moins cinq jours avant la date prévue pour l’interrogatoire. Donc pas besoin d'être prévu dans le protocole ? contradiction avec 221?
+Oui besoin d’être dans le protocole (221 cpcp), mais c'est slm quand il n’y a pas eu d’accord entre les partie sur la raison de sa convocation, la nature l’objet, le moment et le lieu de l’interro (226 cpc). C'est lié avec la phrase qui suit MERCI donc ils vont juste dire dans le protocole qu’il ne sont pas d'accord? Bin soit ça OU il vont juste pas en parler genre cest pas mentionner dans le protocole donc pas d’accord 
+Idéalement on tente de s’entendre avec la partie adverse ou son avocat pour les modalités relatives à la tenue de l’interrogatoire préalable
+Sinon citation à comparaître (226 C.p.c.)
+Déroulement
+Possible de poser des questions suggestives (280 al.2 C.p.c.) pk 280 s’applique ici c’est dans la section de l’audition?, on s'en fout, le lien est + à faire avec l’interrogatoire en général et comment les questions peuvent être posées surtout à 280 al.2 OKI GOOD PERF JSUT TO BE SURE
+L'avocat de la personne interrogée peut poser elle-même quelques questions pour clarifier ce que le client dit mais PAS de questions suggestives!
+280 al.2 C.p.c. dit que les questions suggestives sont permises slm si le témoin a entre autre des intérêts opposés à la partie qui l’interroge (donc si c’est la partie adverse qui l’interroge)
+Avocat de la partie reste présent lors de l’interrogatoire pourra s’objecter à certaines questions
+228 al.2 C.p.c.: 
+Si les objections soulevées pendant l’interrogatoire portent sur le fait que la personne interrogée ne peut être contrainte (secret professionnel)
+Sur les droits fondamentaux (ex: droits de la Charte) 
+OU
+Sur une question soulevant un intérêt légitime important (ex: secret commercial lors d’un litige entre deux compétiteurs commerciales)
+→ Cette personne peut alors s’abstenir de répondre. Ces objections doivent être présentées au tribunal dans les cinq jours pour qu’il en décide.
+228 al.3 C.p.c.
+Autres objections, notamment celles portant sur la pertinence, n’empêchent pas la poursuite de l’interrogatoire, le témoin DOIT répondre. 
+Ces objections sont notées pour être décidées lors de l’instruction, à moins qu’elles ne puissent être soumises au tribunal pour qu’il en décide sur-le-champ.
+Question →L’interrogatoire au préalable 
+Vous accompagnez votre client à l’occasion de son interrogatoire au préalable par Me Claude Brisson, l’avocat de la partie adverse. L’interrogatoire par Me Brisson se termine et vous vous apprêtez à poser quelques questions à votre client. Me Brisson formule une objection au motif qu’il s’agit de son interrogatoire et qu’il a le droit de refuser que vous posiez des questions à son témoin.
+L’objection de Me Claude Brisson est-elle bien fondée?
+NON → L’avocat de la partie interrogée peut poser des questions pour faire expliquer des réponses déjà fournies ou s’expliquer sur des faits nouveaux révélés lors du contre-interro (art. 280, al. 4 et 227 C.p.c.).
+La portée des interrogatoires préalables
+Même si l’interrogatoire peut porter sur faits pertinents se rapportant au litige et aux éléments de preuve qui les soutiennent (221 al.1 C.p.c.), l’interrogatoire ne peut PAS:
+Devenir une expédition de pêche 
+Provoquer des questions non pertinentes ou inutiles 
+Obliger le témoin de faire des recherches fastidieuses ou à confectionner lui-même de la preuve qui servirait la partie adverse.
+L’introduction facultative des interrogatoires préalables au dossier
+Résultat de l’interrogatoire → ne fait pas partie automatiquement du dossier de la cour
+227 al.2 C.p.c
+La déposition fait partie du dossier des parties elles-mêmes (et non du dossier de la cour) et celle qui a procédé à l’interrogatoire peut soit en produire l’ensemble de la déposition ou des extraits à titre de preuve soit ne pas la produire. 
+Une autre partie peut demander au tribunal d’ordonner la production de tout autre extrait qui ne peut être dissocié d’un extrait déjà produit.
+Cette production se fera au choix de l'avocat ayant procédé à l'interrogatoire, jamais il ne sera contraint de verser cette interrogatoire au dossier 
+Fait au délai prévu du protocole de l’instance
+La production au dossier de la cour = l’introduction en preuve du témoignage contenu par l’interrogatoire! 
+La personne interrogée pourra être interrogé lors de l’audience (279 al.3 C.p.c)
+Possible de présenter une preuve contraire à ce qui a été relevé dans l’interrogatoire préalable
+Attention à l’avocat qui a procédé à l’interrogatoire préalable → en produisant l’interro préalable, attention de ne pas introduire une preuve illégale (une preuve à laquelle on se serait nous-mêmes opposé)
+Ex: si le témoin est en train de faire la preuve d’un acte juridique par ce seul témoignage et normalement vous vous seriez objecté à cette preuve, mais que vous produisez cet interrogatoire où il mentionne ces faits, vous auriez contribué vous-mêmes à introduire une preuve par témoin à un acte juridique alors que c’était interdit. À l’instruction, vous n’allez pas pouvoir s’objecter à ce motif.  
+Un interrogatoire non-produit peut être utilisé comme déclaration extrajudiciaire pour attaquer la crédibilité d’un témoin en contre-interrogatoire.
+Les expertises
+231 C.p.c
+Objet d’une expertise
+L’expertise a pour but d’éclairer le tribunal et de l’aider dans l’appréciation d’une preuve en faisant appel à une personne compétente dans la discipline ou la matière concernée.
+L’expertise consiste, en tenant compte des faits relatifs au litige, à donner un avis sur des éléments liés à l’intégrité, l’état, la capacité ou l’adaptation d’une personne à certaines situations de fait, OU sur des éléments factuels OU matériels liés à la preuve. Elle peut aussi consister en l’établissement ou la vérification de comptes ou d’autres données ou porter sur la liquidation ou le partage de biens. Elle peut également consister en la vérification de l’état ou de la situation de certains lieux ou biens.
+Particularités sur l’examen physique, mental ou psychosocial
+Lorsqu’une demande prend en considération l’état de la personne ET qu’il est nécessaire d’examiner cet état pour statuer → pourra avoir lieu l’examen physique, mental ou psychosocial (242 C.p.c.)
+D’autres conditions très spécifiques (243 C.p.c)
+Préavis à la personne concernée (al.1)
+La personne concernée peut retenir les services de l’expert de son choix (al.2)
+Portée et intervention du tribunal (244 C.p.c)
+Paramètres permettant de maintenir le principe d’inviolabilité de l'individu, puisque un examen de la sorte peut être abusif 
+Peut empêcher la tenu de l’examen, en modifier les conditions ou même ordonner à la personne (sur demande) de se soumettre à un examen supplémentaire
+L’introduction au dossier de l’expertise (quelle qu’elle soit) est facultative si elle est faite à notre demande (239 al.2 C.p.c) → slm obligatoire si on décide de s’en prévaloir
+Une fois introduite au dossier, l’expertise tiendra lieu du témoignage de l’expert conformément à l’article 293 C.p.c 
+Il se peut qu’il faut le dossier médical d’une personne 
+ 245 C.p.c
+Le tribunal peut, si cela est nécessaire pour établir l’état physique ou mental d’une partie, de la personne concernée par la demande ou de celle qui a subi le préjudice donnant lieu au litige, ordonner à l’établissement de santé et de services sociaux qui détient le dossier de la personne examinée ou dont le décès a donné lieu à une demande fondée sur la responsabilité civile, de communiquer le dossier à une partie et de lui laisser prendre copie des renseignements pertinents à la preuve.
+Cette demande peut avoir lieu de consentement entre les parties, mais cela s’applique que dans les cas de la personne qui est soumise à l'examen de 242 C.p.c ET ne concerne que des dossiers de responsabilité civile.
+Les dossiers médicaux doivent être dans un établissement de santé et de services sociaux prévus par la loi donc dans un établissement public seulement ET le dossier doit avoir une pertinence directe avec le litige.
+251 al.2 C.p.c
+Le tiers (établissement de santé, médecin, même privé) qui détient un document se rapportant au litige ou est en possession d’un élément matériel de preuve est tenu, si le tribunal l’ordonne, d’en donner communication, de le présenter aux parties, de le soumettre à une expertise ou de le préserver.
+Pour toute autre situation non visée par l’article 245, il est possible d’obtenir le dossier médical d’une personne en passant par 251 al..2 C.p.c.! 
+On peut donc avoir le dossier médical d’une personne pour une demande AUTRE QU’en responsabilité civile
+Ex→ personne doit obtenir le paiement d’une rente payable pour une assurance invalidité, c’est un litige contractuel, on peut avoir dossier médical en vertu de 251 al.2 C.p.c.
+Autres expertises → doivent être prévues au protocole (232 C.p.c.)
+Peut viser un bien meuble ou immeuble 
+Expertise commune (233C.p.c.) ou ordonnée par le tribunal (234 C.p.c.) → rapport d’expertise fait automatiquement partie du dossier sans la discrétion de qui que ce soit quant à son introduction en preuve (239 al.1 C.p.c)
+Question-Les expertises
+Vrai ou Faux ? 
+Un rapport préparé par un expert de la société Hydrauliques en tous genres inc. confirme que la pompe à eau de la résidence de Paul Gingras est conforme aux normes du Code national du bâtiment. Cette expertise a été préparée dans le cadre d’un recours en vices cachés.
+Le rapport de la société Hydrauliques en tous genres inc. peut être déposé lors de l’instruction sans aucune formalité particulière.
+FAUX → pour que le rapport d’expertise puisse servir en preuve lors de l’instruction, il doit d’abord avoir été inclus au protocole de l’instance (art. 148, al. 2(4) et 158, al. 1(2) C.p.c.), il doit ensuite être communiqué dans les délais prévus pour la communication de la preuve (art. 239, al. 2 C.p.c.) et produit (art. 250 C.p.c.). Il pourra alors remplacer et tenir lieu du témoignage de l’expert (art. 293 C.p.c.).
+L’administration de la preuve à l’instruction
+La présentation de la preuve à l’instruction
+En principe: La preuve est publique (11 C.p.c) et reconnue par la Charte québécoise (art.23 Charte Qc)
+Exception: huis clos (12 C.p.c) → juge peut l’ordonner lorsque la protection des personnes impliquées devient nécessaire (très exceptionnel!)
+Par contre en matière familiale et de jeunesse, c’est la règle (15 C.p.c)
+Peut avoir exclusion des témoins pour que les témoignages ne se contaminent pas (279 al.2 C.p.c)
+Chaque partie peut demande à ce que toute personne présente dans la salle qui devra témoigner plus tard, de se retirer et d’attendre à l’extérieur de la salle d’audience pour éviter que les témoignages ne se contaminent 
+Les seules parties admises à rester seraient les parties elles-mêmes et leurs experts le cas échéant 
+265 C.p.c
+Premier article de la marche de l’instruction 
+Lors de l’enquête, la partie sur laquelle repose la charge de la preuve procède la première à l’interrogatoire de ses témoins. L’autre partie présente ensuite sa preuve. Après quoi la première peut présenter une contre-preuve. Le tribunal peut autoriser l’interrogatoire d’autres témoins.
+Étapes: 
+Le demandeur commence par interroger ses témoins (265 al.2 C.p.c)
+Chaque témoin est interrogé par l’avocat du DM
+La partie adverse peut contre-interroger ces témoins (280 al.3 C.p.c)
+Le demandeur peut réinterroger ses témoins sur des faits nouveaux ou fournir des explications (280 al.4 C.p.c)
+Avec la permission du tribunal, le témoin peut ensuite se retirer et après on passe aux autres témoins. Ce sera comme ça pour chaque témoin en demande
+À travers ses témoins, le DM devra présenter les faits, mais voir aussi à ce que chaque élément de preuve soit valablement produit en preuve
+Le défendeur présente ensuite sa preuve (265 al.2 et 280 C.p.c)
+DF fait entendre ses témoins à la suite des autres tout comme le DM l’a fait. Chaque témoin sera contre-interrogé et pourra être réinterrogé par l’avocat l’ayant convoqué (en DF)
+Après le demandeur pourrait présenter une contre-preuve (265 al.2 C.p.c)
+Une preuve qui sert à contrer les éléments établies par la preuve du défendeur
+Ne peut PAS servir à bonifier la preuve présentée en demande principale → slm contrer celle du df 
+L’interrogatoire principal
+Doit porter sur les faits que le témoin en a eu personnellement connaissance (2843 C.c.Q)
+Le témoin devra témoigner de mémoire sans notes (s’il a des notes que ce soit des notes qu’il a lui-même confectionnées, qu’ils soient contemporaines aux évènements et que la partie adverse pourra prendre connaissance)
+Différentes modalités qui régissent l’interrogatoire (280 C.p.c)
+Les questions doivent porter sur des faits pertinents au litige seulement. Elles ne doivent pas être posées de manière à suggérer la réponse désirée; cependant, la question sera valable si le témoin cherche manifestement à éluder une question ou à favoriser une autre partie ou si, étant lui-même partie, il a des intérêts opposés à la partie qui l’interroge.
+Questions suggestives → se répondent par un oui ou par un non et elles sont elle-même porteuses de la réponse. Ces questions sont interdites à notre propre témoin. Il faut des questions larges et ouvertes
+Exception à l’interdiction des questions suggestives
+Le témoin récalcitrant, partial ou la partie adverse (280 al.2 C.p.c.)→ 
+Question suggestive sera valable si le témoin cherche manifestement à éluder une question
+Question suggestive sera valable si le témoin cherche manifestement à favoriser une autre partie
+Question suggestive sera valable si le témoin est lui-même partie et qu’il a des intérêts opposés à celui qui l’interroge
+C’est quand nous avons nous-même comme témoin, la partie adverse ou l’un de ses témoins 
+Les déclarations antérieures incompatibles (281 C.p.c.)
+La partie qui convoque un témoin peut attaquer la crédibilité de son témoignage si elle prouve par d’autres témoins le contraire de ce qu’il a dit
+Elle peut aussi le faire, avec la permission du tribunal, si elle prouve que le témoin a fait des déclarations antérieures incompatibles avec son témoignage actuel, pourvu que le témoin ait d’abord été interrogé à cet égard. 
+On doit donner la chance à notre propre témoin qui nous présente une version des faits surprenantes l’occasion de se justifier et de s’expliquer pourquoi il dit ca avant de présenter la preuve qu’il dit des faits incompatibles par rapport à d’autres déclarations
+Donc faut pas tout de suite l’accuser 
+Il s’agira d'interroger le témoin sur les circonstances de la déclaration antérieure (date, etc)
+Ensuite, il faut obtenir l’autorisation du tribunal pour questionner le témoin et produire la déclaration si elle est écrite. 
+Une fois la permission obtenue, il est possible de contre-interroger le témoin et lui poser des question suggestives afin d’établir cette déclaration antérieure incompatible.
+Quelles seront les effets d’une déclaration antérieure incompatible?
+Crédibilité du témoin sera très affectée
+On pourrait établir des faits favorables à notre théorie 
+La déclaration incompatible peut devenir un aveu extrajudiciaire 
+Si la déclaration antérieure était dans un interrogatoire préalable à l’instruction, celui-ci deviendrait un aveu judiciaire
+Le contre-interrogatoire
+280 al.3 C.p.c: lorsque la partie a terminé l’interrogatoire du témoin qu’elle a convoqué, toute autre partie ayant des intérêts opposés peut le contre-interroger sur tous les faits du litige (dont ceux mis en preuve à l'interrogatoire principal) et établir de toutes les manières les causes permettant de réfuter son témoignage
+But du contre-interrogatoire: 
+Compléter la preuve de celui qui contre-interroge 
+Affaiblir la preuve établie par ce témoin qui a été interrogé 
+Établir toute cause de reproches: erreur, invraisemblances, faiblesses du témoignages
+Exagération du témoignage
+Mettre en preuve des déclarations antérieures incompatibles (281 C.p.c.)
+ Si de tels déclarations antérieures sont mises en preuve, le tribunal aura le choix de croire au moment d’établir la force probante: 
+Aucune des versions ni celle de la version antérieure, ni celle soutenue par le témoignage actuel 
+OU
+La déclaration antérieure seulement 
+OU
+De ne croire que le témoignage actuel livré devant lui
+Le ré-interrogatoire du témoin par la partie qui l’a produit
+Une fois le contre-interrogatoire complété, il sera possible faire la ré-interrogatoire du témoin
+280 al.4 C.p.c → Le témoin peut être entendu de nouveau par la partie qui l’a convoqué:
+Pour être interrogé sur des faits nouveaux révélés par le contre-interrogatoire
+OU
+Pour expliquer ses réponses aux questions posées par une autre partie.
+Une fois cet exercice fait, la preuve du demandeur sera déclarée CLOSE. Le défendeur aura ensuite le fardeau de preuve, c’est ce qu’on appelle le renversement du fardeau de preuve 
+DF procèdera à l’administration de sa preuve (2803 C.c.Q et 265 al.2 C.p.c). 
+Une fois la preuve du défendeur complétée, le demandeur pourra au besoin présenter une contre preuve (but: réfuter les éléments soulevés par la partie défenderesse OU encore rétablir en sa faveur la prépondérance de la preuve) 
+Le demandeur ne peut pas reprendre les éléments produits en interrogatoire ou ajouter des éléments qu’il a oublié de dire dans la preuve principale (le tribunal ne le permettra pas → il ne peut pas bonifier la preuve présentée en demande principale 
+L’absence d’un témoin  
+Il existe plusieurs moyens pour pallier à l’absence d’un témoin
+Ajournement (266 al.2 C.p.c)
+Cependant, si la partie justifie de sa diligence et établit que le témoin absent est nécessaire et que son absence n’est due à aucune manœuvre de sa part, le tribunal peut ajourner l’instruction. L’ajournement peut être évité si l’autre partie consent à ce que la partie expose, sous serment, les faits que le témoin défaillant rapporterait et admette soit la vérité de ces faits, soit que le témoin en déposerait.
+Bref, le tribunal peut reporter l’instruction
+Le témoignage différé à la discrétion du juge ou si les parties le conviennent (295 C.p.c)
+Permet d’interroger le témoin un peu à l’avance
+L’interrogatoire peut, si le tribunal le permet ou si les parties en conviennent, être tenu hors la présence du tribunal, au lieu et au moment fixés par celui-ci ou convenus par les parties.
+Permet à un témoin d'être interrogé, contre-interrogé et son témoignage fera partie du dossier comme s’il témoignait par anticipation
+Le témoignage différé pour cause de maladie ou d’un handicap (296 C.p.c)
+Si la maladie ou le handicap d’un témoin l’empêche de se rendre à l’audience, le tribunal peut, même d’office, ordonner l’interrogatoire du témoin à distance par un moyen technologique ou charger un commissaire de recueillir son témoignage. Il peut procéder de même s’il y a lieu d’éviter des déplacements à un témoin qui réside en un lieu éloigné.
+Un témoin peut témoigner à distance par visioconférence si sa maladie ou son handicap l’empêche d’être physiquement présent à la cour
+Il est devant le tribunal et son témoignage a lieu en même temps que l’instruction
+ Le dépôt de la déclaration antérieure du témoin absent (2869 C.c.Q)
+En principe,  le témoignage doit être rendu à l'instance par le témoin lui-même (2843 C.c.Q) donc toute déclaration antérieure qui serait rapportée lors de l’instruction constitue du ouï-dire. MAIS, il y a une exception à 2869 C.c.Q
+Si les parties sont d’accord une telle déclaration peut être rapportée et valoir preuve. 
+Si les parties ne sont pas d’accord à ce que pareille déclaration antérieure rapportée vaille preuve en l’absence du témoin, il est possible de demander au tribunal en vertu de 2870 C.c.Q d’utiliser cette déclaration antérieure pour valoir preuve des faits qu’elle contient. Évidemment,  deux conditions s’imposent :
+La nécessité de recevoir la preuve de cette déclaration antérieure parce qu’il est impossible ou déraisonnable de recevoir le témoignage de la personne  qui l’a dit 
+Cette déclaration antérieure doit présenter des garanties suffisamment sérieuses pour qu’on puisse s’y fier. Celles-ci sont présumées dans trois cas →
+Déclaration faite dans le cadre des activités d’une entreprise
+Déclaration qui existe  car elle est contenu dans un registre dont la tenue est exigée par la loi. Ex: un p-v d'administrateur de personne morale
+Déclarations spontanées et contemporaines de la survenance des faits. 
+On utilise 2870 C.c.Q. pour la déclaration antérieure d’un témoin absent car l’article dit « déclaration faite par une personne qui ne comparaît PAS comme témoin » et non 2871 C.c.Q., car là il s’agit d’une déclaration antérieure d’un témoin présent!
+L’admission (266 al.2)
+L’ajournement peut être évité si l’autre partie consent à ce que la partie expose, sous serment, les faits que le témoin défaillant rapporterait et admette soit la vérité de ces faits, soit que le témoin en déposerait.
+Possible de faire reconnaître par l’autre partie que si notre témoin était présent, voici ce qu’il dirait ou encore mieux que la partie adverse admette que les faits relatés sont vrais (ce qui l’empêcherait de présenter une preuve contraire)
+Les méthodes alternatives
+Visio-conférence
+Interrogatoire (257 C.p.c)
+Intéressant quand on prévoit qu’un témoin sera absent 
+Interrogatoire différé de l’art. 296 et hors cours 295 C.p.c
+Si malgré l’absence d’un témoin, on choisit de procéder ou qu’un tribunal nous ordonne de procéder malgré nos tentatives, il n’est plus possible de pallier à l’absence du témoin.
+Les objections
+Les objections (283, 284 C.p.c.; 2859 C.c.Q.)
+Qu'est-ce qu’une objection? Une objection vise à sanctionner les règles de preuve et éviter qu'une preuve illégale soit reçue dans le dossier de la cour. La plupart des règles sur la recevabilité de la preuve sont d’ordre privé.
+2859 C.c.Q
+La plupart des règles relatives à la recevabilité de la preuve sont d’ordre privé
+Le tribunal NE peut suppléer d’office les moyens d’irrecevabilité résultant des dispositions du présent chapitre (chapitre des moyens de preuve) qu’une partie présente ou représentée a fait défaut d’invoquer.
+Le tribunal ne s'objecte pas aux moyens de preuve → ça revient aux avocats! 
+Absence d’objection = introduction au dossier d’une preuve illégale ou irrecevable
+Distinction entre la recevabilité et la force probante 
+Recevabilité d’une preuve → se soulève au moyen d'une objection
+Force probante → se présente lors des plaidoiries seulement (donc ça veut dire qu’elle était légale puisqu’elle est entrée au dossier?)oui thats how i see it , force probante c genre le poids que taccorde a la preuve goodie
+Étapes
+On doit dire objection et se lever ! Il faut formuler le motif de notre objection de manière claire et précise. 
+On ne peut pas se lever à l’avance. 
+On s’objecte à la question posée ou la réponse à la question,  c’est qu’il s’agira de l’introduction d’une preuve irrecevable ou illégale 
+L'objection doit être utile et pertinente 
+Une fois l’objection formulée, la partie adverse peut répliquer à l’objection
+Jugement rendu par le tribunal en cours d’instruction → 
+Le tribunal peut soit prendre la preuve sous réserve (preuve fera partie du dossier) et on ne peut aller en appel de cette décision qu’avec le jugement final 
+EXCEPTION → si l’admission de cette preuve concerne une objection relative au secret professionnel OU au secret fonctionnaire de l'État (283, 284 C.p.c.) → il faudra immédiatement aller en appel!! C’est urgent, l’appel sera de plein droit. 
+Rappel: secret professionnel art. 9 Charte QC
+Le tribunal pourra rejeter l’objection
+En disant que l’objection n’est pas fondée, qu’elle ne se justifie pas 
+La preuve présentée fera partie du dossier
+Si la preuve porte sur le secret professionnel ou le secret du fonctionnaire de l’État → il faudra aller en appel immédiatement et de plein droit. (31 C.p.c)
+Tout autre objection rejetée(donc ø secret professionnel, ni secret du fonctionnaire) sera sujet à appel avec le jugement final. (31 C.p.c)
+Le tribunal pourra accueillir (ou maintenir) l’objection (31 C.p.c)
+La preuve ne fera pas partie du dossier
+Tribunal se prive donc d’une preuve, il partira délibérer sans celle-ci
+Sujet à appel immédiat (pas attendre le jugement final) MAIS sur permission!
+NE PAS OUBLIER : S’il s’agit d’un appel immédiat de plein droit ou sur permission,, ces jugements ne pourront PAS faire l’objet d’un appel au jugement final. Ça doit être fait maintenant (immédiatement)! Rendu au jugement final il y a aura chose jugée, il sera rendu trop tard! IT'S NOW OR NEVER!!!
+Les motifs d’objection (99, 272, 276, 280 al.2, 282 à 284 C.p.c.; 2857, 2858, 2860 C.c.Q.; 9 Charte des droits et libertés de la personne; 131 Loi sur le Barreau; 60.4 Code des professions)
+5 motifs d’objection: 
+1) La pertinence 
+2857 C.c.Q.: on peut faire la preuve de tout fait pertinent
+Tribunal n’acceptera pas qu’une preuve non-pertinente se fasse au détriment de la ressource  judiciaire
+Dans le doute, le tribunal va permettre la preuve, car la pertinence d’une preuve ne s'établit qu’à la fin du processus judiciaire 
+2) Les questions suggestives
+À notre propre témoin, lors de l’interrogatoire principal, → interdit de poser des questions suggestives (280 al.2 C.p.c.)
+3) La règle de la meilleure preuve (2860 C.c.Q.)
+Celle de la nécessité d’un écrit
+Quand un témoin réfère à un écrit, on doit pouvoir voir cet écrit et non simplement se fier au témoignage du témoin
+4) La preuve inattendue
+Preuve d’un fait qui n’a pas été allégué dans la procédure
+Prend la partie adverse par surprise
+Cette partie s'objecte à ce que cette preuve se fasse 
+5) La non-contraignabilité ou la confidentialité
+Principe: tous peuvent être contraint de témoigner (276 C.p.c.)
+Exception: en matière d’outrage au tribunal, les principes de droit pénal régissent cette preuve et celui accusé d’outrage même en matière civil, a le droit de garder silence et est non contraignable c’est quoi le rapport entre le principe et l’exception? → bin ça dit qu’en civil si il y a de l’outrage là tu pourrais NE PAS être contraint de t.moigner (tu pourrais choisir de garder le silence) alors que le principe normalement cest de pouvoir être contrain so de ne PAS pouvoir garder le silence 
+Situations où une personne non citée comme témoin devra témoigner:
+Personne présente dans la salle d’audience n’ayant pas reçu de citation à comparaître pour témoigner → elle pourra être citée à témoigner (272 C.p.c.) 
+Motifs pour refuser de témoigner
+L’information à divulguer est protégée par le secret professionnel (284 C.p.c., 9 Charte QC.)
+L'information à divulguer constitue une communication privilégiée (voir plus bas)
+L’information à divulguer constitue une communication entre conjoints (282 C.p.c.)
+L’information à divulguer est détenue par le fonctionnaire de l’État (283 C.p.c.)
+Le secret professionnel 
+9 Charte QC 
+284 C.p.c.
+2858 C.c.Q. → preuve obtenue en violation des droits fondamentaux 
+Législateur considère que le secret professionnel est un gros droit fondamental
+Le + important des droits fondamentaux, car le législateur lui donne une protection plus grande que les autres droits fondamentaux
+Législateur conçoit le droit au secret professionnel comme étant une façon pour un justiciable d'être en relation avec un professionnel pour obtenir des conseils. Dans cette fonction, le justiciable est appelé à révéler des informations qu’il souhaite garder confidentielles. 
+Les conditions pour que la communication soit protégée
+Une consultation avec un professionnel
+Cette consultation est voulue confidentielle
+Dans le cadre d’une relation professionnelle
+Donc toutes informations reçue par un professionnel lors de ses services avec un client jouit d'une protection en particulier
+On veut empêcher par l’objection relative au secret professionnel que ces informations confidentielles concernant un justiciable soit révélées au grand jour 
+Ces informations ont été données dans le cadre d’une relation de services professionnels et d’une relation basée sur une assurance que ces informations resteront confidentielles 
+Toutes les communications sont visées dans cette relation → communications orales ou écrites. 
+Communication préparée par l’avocat directement ou par un tiers à la demande de l’avocat
+Si lors de l’instruction d’une cause il y avait une objection concernant le secret professionnel et qu’elle fait l’objet d'une réplique vigoureuse de la partie adverse, tribunal peut prendre connaissance de cette communication ex parte → hors la présence des parties (afin de déterminer si la communication devrait bénéficier de la protection relative au secret professionnel)
+Principales limites au secret professionnel (exceptions faisant en sorte que le secret professionnel n’est PAS appliqué): 
+Lorsque la consultation ou la communication est relative à un objet criminel 
+Lorsque le client y renonce expressément ou implicitement 
+Ex: celui qui poursuit en responsabilité XC pour préjudice corporel et qui renonce à la protection du secret professionnel pour le personnel l’ayant soigné, il accepte donc qu’on expose toutes les informations concernant ses informations médicales
+Lorsque le témoin se réfère à un document possiblement privilégié durant son témoignage
+Il renonce donc à cette protection
+Lorsque l’information est divulguée à un tiers ou lorsqu’un tiers assiste à la rencontre entre l’avocat et le client, sauf si la présence du tiers est nécessaire 
+Ex: tu dis à ton coiffeur une info confidentielle par rapport à un professionnel  → secret professionnel tombe à l’eau
+Lorsque la sécurité publique est clairement et gravement menacée de manière imminente 
+Ex: un client va voir un avocat et lui dit que dans les prochaines minutes, il ira dans un centre commercial tuer des gens → avocat est justifié de ne pas se protéger derrière le secret professionnel car la sécurité publique est en jeu
+Comme en common law 
+Plusieurs communications sont privilégiées: 
+Toute communication écrite ou verbale faite entre deux parties, un avocat et une partie non-représentée ou même entre deux avocats dans le but de régler un litige
+Reste une communication privilégiée qui ne pourra pas être mise en preuve car elle aura été faite dans le but de régler le litige 
+Information détenue par le fonctionnaire de l’État (283 C.p.c.)
+Communications faites entre conjoints (282 C.p.c.)
+Le conjoint ayant reçu l’information ne peut être contraint à la divulguer 
+Question: Les motifs d’objection
+Après le témoignage de votre client, Roger Dumais, vous faites témoigner votre expert, Carl Laflamme, afin d’obtenir des précisions sur son rapport.
+En réponse à une question quant au fait que les arbres coupés par le propriétaire étaient situés à moins de dix mètres de la Petite Rivière Saint-Jean, Carl Laflamme précise que ce n’est pas lui qui a pris les mesures, mais son assistant, Luc Audet, ce qui est de toute façon mentionné dans son rapport. Il ajoute qu’il n’a pas personnellement constaté la distance entre les arbres et la rivière.
+L’avocat de la défenderesse formule alors une objection à la réponse donnée relativement au fait que les arbres coupés sont à moins de dix mètres de la Petite Rivière Saint-Jean.
+Quel est le motif de cette objection?
+c) L’expert n’a pas constaté ce fait lui-même. Il s’agit d’un fait que l’expert n’a pas constaté lui-même. C’est donc du ouï-dire. En conséquence, le témoignage de l’expert Carl Laflamme ne peut être reçu au sujet de la distance qui sépare les arbres coupés de la rivière. Seul, le témoignage de Luc Audet serait recevable à ce sujet.
+La définition, la recevabilité et la mise en preuve du témoignage
+La définition, la recevabilité et la mise en preuve du témoignage (2853, 2845, 2867 C.c.Q.; 105, 139, 182, 221 à 223, 227, 253, 257, 269 et s., 277 à  280 et 295 et s. C.p.c.)
+Définition du témoignage (2843 C.c.Q)
+« Le témoignage est la déclaration par laquelle une personne relate les faits dont elle a eu personnellement connaissance ou par laquelle un expert donne son avis.
+Il doit, pour faire preuve, être contenu dans une déposition faite à l’instance, sauf du consentement des parties ou dans les cas prévus par la loi. »
+Pour utiliser un témoignage, il faut la présence d’une personne qui en a constaté personnellement les faits. On parle de perception de l’un ou l’autre des 5 sens (goût, toucher, entendre, vue, senti)
+Le témoignage est utile pour mettre en preuve des faits purs et simples, des faits juridiques, mais il peut également servir à établir une présomption, un aveu ou un commencement de preuve.
+Mise en preuve
+Pour assurer la présence du témoin lors de l’audience, il faut l’assigner avec une citation à comparaître (faire avec le modèle du Ministre de la Justice disponible sur son site) (269 et s.s C.p.c.)
+Il est signé par un juge ou un greffier si à la demande d’une partie ou par l’avocat. 
+Enjoint au témoin de se présenter à l’heure et la date inscrite afin de témoigner. 
+Citation à comparaître doit être signifiée 139 C.p.c minimalement 10 jours vacant que la présence du témoin soit requise au tribunal
+Il faut une indemnité au témoin pour au moins sa première journée d’audience, de ses frais de transport, d'hébergement et de nourriture le cas échéant (273 C.p.c)
+Témoin sera assermenté lors de l’audience 
+Témoin sera d’abord interrogé par la partie qui l’a assigné, il sera ensuite contre-interrogé par les autres parties ou avocats. Si de nouveaux faits ont surgis lors du contre-interrogatoire, il sera ré-interrogé par la partie qui l’a assigné (280 C.p.c.)
+279 C.p.c
+Possibilité de témoigner à distance lorsque la technologie et les circonstances le permettent mais le juge peut toujours exiger la présence physique du témoin à l’audience 
+Exceptions de la nécessité d’entendre les témoins lors de l’audience
+1. Conservation d’un témoignage fait avant l’instance pour l’utiliser plus tard (253 C.p.c.) 
+La personne qui prévoit qu’elle sera partie à un litige peut, si elle a des raisons de craindre qu’une preuve dont elle aura besoin ne se perde ou ne devienne plus difficile à présenter, interroger les témoins dont elle craint l’absence, le décès ou la défaillance; elle peut aussi faire examiner une chose ou un bien dont l’état peut influer sur le sort du litige. Elle y procède avec l’accord de l’intéressé qui sera éventuellement le demandeur ou le défendeur ou avec l’autorisation du tribunal
+Avant l’instance, on peut conserver un témoignage pour être utilisé plus tard lors d’un litige éventuel
+2. Cause par défaut (182 C.p.c.)
+Lorsqu’un défendeur est en défaut de répondre à l’assignation OU de présenter lors de la conférence de gestion OU de contester la demande, il peut être inscrit par jugement par défaut. 
+Possibilité, plus tôt que de faire entendre le témoin à l’audience, de procéder plus tôt  par déclaration sous serment des témoins.
+3. Interrogatoire sous serment (105 al.3 et 222 C.p.c)
+Comme on prive la partie adverse de son droit au contre-interrogatoire → la partie adverse pourra exiger que la personne qui a déclaré soit interrogée hors la présence du tribunal
+​​Dans le cas où la preuve d’une partie est faite par un témoignage porté dans une déclaration sous serment, une autre partie peut citer le déclarant à comparaître pour être interrogé sur cette déclaration. L’interrogatoire peut porter non seulement sur les éléments de preuve attestés dans la déclaration, mais sur tous les autres faits pertinents. Le défaut du déclarant entraîne le rejet de la déclaration.
+Si cet interrogatoire est produit au dossier de la cour (227 C.p.c), le témoignage fera partie du dossier
+Façon de capturer le témoignage autrement que devant le juge durant l’audience 
+4. Interrogatoires préalables à l’instruction
+Lorsqu’une partie, un de ses représentants ou un tiers est interrogé au préalable, il donne un témoignage qui peut (s’il est produit au dossier) faire partie du dossier et être considéré par le juge lors de l’instruction. 
+Façon de capturer le témoignage autrement que devant le juge durant l’audience comme cela devrait habituellement se faire 
+5. Interroger hors la présence du tribunal (295 C.p.c)
+C’est pour un témoin dont on craint l’absence mais dans un litige déjà entrepris contrairement à 253 C.p.c.!
+Un peu comme quand on vote par anticipation
+Cela permet de témoigner à l’avance
+Le témoin témoigne, est interrogé, est contre-interrogé, interrogé au besoin et sa déposition fera partie du dossier
+L’interrogatoire peut, si le tribunal le permet ou si les parties en conviennent, être tenu hors la présence du tribunal, au lieu et au moment fixés par celui-ci ou convenus par les parties.
+Force probante du témoignage (2845 C.c.Q)
+La valeur à accorder au témoignage est laissée à la discrétion du tribunal 
+Question: Le témoin
+Vrai ou Faux : Toute personne est apte à témoigner.
+FAUX: Il existe des exceptions aux personnes aptes à témoigner. Ainsi, une personne est inapte à témoigner si elle souffre d’une incapacité physique ou mentale ou, si en raison de son jeune âge, elle n’est pas en mesure de rapporter des faits dont elle a eu personnellement connaissance ou si elle ne comprend pas la nature du serment (art. 276 C.p.c. et 2844 C.c.Q.).
+Par ailleurs, un huissier, bien qu’il soit apte à témoigner, ne peut être cité à comparaître pour témoigner de faits ou d’aveux dont il aurait eu connaissance lors de la notification d’un acte de procédure. D’autres personnes ne sauraient être contraintes à témoigner, même si elles sont aptes à le faire (voir art. 282, 283 et 284 C.p.c. notamment).
+Le témoignage de l’enfant (34, 2844 et 2845 C.c.Q.; 24, 290 et 291 C.p.c.)
+Enfant peut agir comme témoin (2844 C.c.Q)
+L’enfant qui est en mesure de rapporter les faits dont il a eu connaissance peut témoigner s’il est assermenté comme un adulte. 
+Toutefois, si l’enfant (selon l’avis du juge) ne comprend pas la nature du serment (34 C.p.c.), peut être admis à rendre témoignage SANS cette formalité (donc sans être assermenté comme un adulte), si le juge estime qu’il est assez développé pour pouvoir rapporter des faits dont il a eu connaissance, et qu’il comprend le devoir de dire la vérité; toutefois, un jugement ne peut être fondé sur la foi de ce seul témoignage → le témoignage devra être corroboré
+Enfant peut être accompagné par une personne apte à l’aider ou à le rassurer (290 C.p.c)
+291 C.p.c.
+Le juge peut interroger le mineur ou le majeur inapte en salle d’audience OU en son cabinet; 
+Si l’intérêt d’un majeur inapte le requiert, il peut également, après en avoir avisé les parties, l’interroger là où il réside OU là où il est gardé, OU encore en tout autre lieu approprié. 
+Le juge peut, si les circonstances l’exigent, interroger le mineur ou le majeur inapte hors la présence des parties, après avoir avisé celles-ci.
+Bref, règles pour le mineur et majeur inapte sont sensiblement les mêmes 
+Plusieurs modalités existent pour faciliter le témoignage d’un enfant (c’est au tribunal de déterminer dans les circonstances, lesquelles seraient applicables)
+Dispositions particulières dans d‘autres lois sur le témoignage de l’enfant → comme la Loi sur la preuve du Canada et la Loi sur la protection de la jeunesse
+Le témoignage de l’expert (2843 et 2845 C.c.Q.; 235 à 241, 293 C.p.c.; R c. Lavallée)
+2843 C.c.Q : témoignage est la déclaration par laquelle un expert donne son avis
+Donc un témoin ordinaire peut témoigner mais un expert peut aussi
+Utilité d’un expert
+Aide le tribunal à tirer des inférences, car il possède des connaissances spécifiques dans un domaine en particulier hors des compétences du juge ou du tribunal
+Les experts peuvent être tenus d’agir sous serment (235 al.2  C.p.c)
+Expert doit souscrire à la déclaration relative à la mission de l’expert prévue par le Ministère de la Justice et disponible sur son site Web: 
+Doit être impartial, s’acquitter de son devoir sans manquement grave, avoir les compétences requises, etc
+3 catégories d’expert (235 à 237 C.p.c).
+D’une partie
+Commun aux parties 
+Commis par le tribunal
+Chacun de ses experts possède des devoirs et obligations (235 à 237 C.p.c.)
+Le juge n’est PAS lié par l’expertise (238 C.p.c)
+L’expert ne témoigne pas en principe lors de l’audience (contrairement aux témoins ordinaires), son rapport tient lieu du témoignage tel qu’il est prévu à 293 C.p.c
+Force probante
+Laissée à l’appréciation du tribunal
+Tribunal va tenir compte de sa crédibilité, la validité des tests qu’il a effectué, son objectivité et de son désintéressement par rapport aux parties
+R c. Lavallée [1990] 1 R.C.S. 852
+Le témoignage par déclaration assermentée (2845 C.c.Q.; 105, 106, 181, 182. 222, 277, 279, 414, 509 et s., 516 et s. et 529 et s. C.p.c.)
+Possible de rendre témoignage autrement qu’en salle d’audience par la déclaration assermentée (105 et 106 C.p.c)
+Déclaration assermentée constitue à un témoignage écrit 
+La déclaration sous serment fait preuve de son contenu comme le témoignage
+Force probante (2845 C.c.Q)
+Laissée à l’appréciation du tribunal
+La preuve par une telle déclaration peut être permise lorsque la défense est orale. (106 al.2 C.p.c)
+Utilisation de la déclaration assermentée dans les cas suivants:
+PEUT être utilisée pour:
+La preuve par défaut (181 et 182 C.pc) dans les causes où:
+DF n’a pas répondu à l’assignation 
+DF s’est pas présenté à la conférence de gestion
+OU
+DF n’a pas présenté ses moyens de contestation 
+DOIT être utilisée pour: 
+Demande d’injonction interlocutoire (106, 509 et s.s C.p.c)
+Pourvoi en contrôle judiciaire (106, 529 et s.s C.p.c)
+Saisie avant jugement (106, 516 et s.s C.p.c)
+Dans les trois derniers cas (injonction, contrôle judiciaire, saisie avant jugement), la preuve orale peut être permise (106 al.2 C.p.c.) 
+Les demandes en matières familiales (414 C.p.c)
+La prohibition du ouï-dire
+La prohibition du ouï-dire (2832 à 2834, 2843 et 2869 C.c.Q.; 277 à 280 C.p.c.)
+Déclaration extrajudiciaires 
+C’est quelque chose qu’un témoin dit OU écrit OU fait en dehors de l’instance
+Extrajudiciaire = en dehors de l'instance
+Dans l'univers des déclarations extrajudiciaires, certaines sont visées par le ouï-dire → celles dans la case de gauche du tableau ci-dessus 
+Déclaration extrajudiciaires ressemblant fortement à du ouï-dire mais qui n’en sont PAS → case de droit du tableau
+Situations qui sont du ouï-dire mais qui représentent des exceptions, donc il s’agit de ouï-dire permis par la loi (case du bas tableau)
+Définition du ouï-dire
+Ouï-dire = déclaration verbale qui est faite par une personne autre que le témoin OU déclaration écrite du témoin, et qui est présentée pour prouver la véracité de ce qui y est affirmé.
+Déclaration extrajudiciaire visée par l’interdiction du ouï-dire
+Si déclaration écrite : celle qui décrit un événement, un écrit non instrumentaire, un compte rendu, un rapport d’enquête, etc. (écrit qui rapporte un fait pour prouver le fait; peut devenir admissible si se qualifie dans l’une ou l’autre des trois exceptions que nous verrons plus tard). 
+Ex: cas où un témoin qui est terrorisé d’aller devant le tribunal et dit qu’il préfère écrire ce qu’il a vu et signer l’écrit pour le présenter au tribunal pour tenir lieu du témoignage. En principe, c’est interdit (car c’est du ouï-dire écrit). 
+Si déclaration orale : témoignage par personne interposée, rapporter les paroles d’une autre personne qui n’est pas présente à l’enquête pour prouver la véracité de ce qui est dit.
+Ex: un témoin témoigne et dit « Roger m’a dit qu’il a vu un ours. » Si l’objectif est de prouver la présence d’un ours, cette preuve ne sera pas admissible, car c’est du ouï-dire. Il faut que Roger soit présent pour affirmer qu’il a vu l’ours. 
+Principe: ces déclarations sont inadmissibles en preuve (attention voir en bas)
+Ouï-dire est irrecevable (en principe) car il fait en sorte qu’un témoin témoigne sur qqch qu’il n’a pas lui-même perçu (contrairement à 2843 C.c.Q). 
+Puisque la personne ayant elle-même perçu les faits n’est pas présente et les fait passer par quelqu’un d’autre, elle n’a pas pu être assermentée, ce qui est une condition essentielle au témoignage ET elle ne peut pas être contre-interrogée sur les faits
+La seule personne pouvant être contre-interrogée est le témoin mais ce n’est pas lui qui a lui-même perçu les faits donc le contre-interrogatoire est impossible 
+Bref raisons principales pourquoi le ouï-dire est irrecevable: 
+Le témoin n’a pas perçu les faits par lui-même, la vraie personne n’a pas été assermentée et le contre interrogatoire est impossible 
+La seule solution d’éviter ces problème que la personne ayant constaté les faits par elle-même soit présente
+2832 C.c.Q
+L’écrit ni authentique ni semi-authentique qui rapporte un fait peut, sous réserve des règles contenues dans ce livre, être admis en preuve à titre de témoignage ou à titre d’aveu contre son auteur.
+Bref: un témoignage pourrait être rendu par écrit alors que techniquement un témoignage écrit est à priori du ouï dire. 
+Lorsque ca dit : ‘’sous réserve des règles contenues dans ce livre’’, c’est qu'en raison des règles prévues  un peu + loin dans le C.c.Q., ces déclarations écrites qui normalement constituent du ouï dire peuvent devenir admissibles. (On verra ces règles plus tard)
+Les déclarations extrajudiciaires non visées par l’interdiction du ouï-dire (2831, 2832, 2835, 2845, 2850 à 2852, 2860 et 2867 C.c.Q.; 264 C.p.c.)
+Ce sont des déclarations qui ressemblent à du ouï-dire mais qui n’en sont PAS 
+Donc, admissibles en preuve en tout temps
+Déclaration qui n'exprime pas la connaissance d’un fait OU qui exprime la connaissance d’un fait mais qui n’est pas invoquée pour prouver ce fait. Ce serait le cas de la déclaration: 
+Présentée pour prouver qu’il y a eu une déclaration et non pour prouver la véracité du contenu dans la mesure où l’existence-même de la déclaration est pertinente 
+Dans l’exemple où Roger disait avoir vu un ours, si la présence de l’ours est inutile à la preuve que j’entends faire (ex: mon intérêt est slm de prouver que Roger a parlé), alors mon témoignage ne constitue pas du ouï-dire car je dois simplement prouver que Roger à parler, sans égard au contenu de ce qu’il a dit 
+Qui fait partie des faits en litige, par exemple: le propos injurieux en diffamation
+Si j’ai été diffamé, je vais faire entendre en preuve le témoignage des gens ayant entendus ceux qui ont dit du mal à propos de moi 
+Lorsque cette personne témoigne à propos du mal qu’elle a entendu être dit à mon égard, le but n’est pas de prouver la vérité des propos dits par la personne diffamante (ex: la personne a dit que j’étais une fraudeuse, pas besoin de prouver si c’est vrai). Le témoignage a seulement but de prouver que le propos a été tenu 
+But: démontrer qu’un propos injurieux a été tenu, pas la véracité du propos
+Établissant un fait psychologique, physique ou mental ou sentimental (intention, mauvaise foi, amour, haine…)
+Lorsque le témoin témoigne que le DM avait mal, que le DF était en amour, etc. → PAS de ouï-dire
+Qui vise à établir la connaissance d’un fait
+Ex: je suis au garage, mon garagiste avertit l’un de ses clients aussi présent que ses freins sont défectueux et que par la suite un accident survient. Mon garagiste pourrait me faire témoigner pour que je dise que le garagiste a bel et bien dit au client que ses freins devaient être réparés
+Ne s'agit pas de démontrer que les freins étaient bel et bien défectueux, le but est de démontrer que le client a été averti 
+Principe: pour prouver que le DF connaissait le fait 
+Celle qui vient d’un écrit instrumentaire
+Écrits instrumentaires constatent essentiellement un acte juridique 
+Pas du ouï-dire, ça ce ne sont pas des faits, mais seulement des actes juridiques
+Celle qui vient d’un aveu extrajudiciaire 
+Difficile de distinguer la déclaration extrajudiciaire de l'aveu extrajudiciaire (on va le voir plus tard)
+Déclaration extrajudiciaire → appartient à l’univers de la preuve par témoignage
+Aveu extrajudiciaire → appartient à un autre moyen de preuve (l’aveu)
+Puisque l’aveu a besoin du support d’un témoin pour être mis en preuve, il se peut qu’une personne soit assermentée devant le tribunal, qu’on ait l’impression qu’elle soit entrain de rendre témoignage mais qu’elle ne soit plutôt qu'en train de mettre un preuve un aveu. Il ne serait donc pas question de ouï-dire, puisque le ouï-dire et les déclarations extrajudiciaire appartiennent au témoignage 
+Aveu = reconnaissance d'un fait de nature à avoir des conséquences juridiques défavorables contre celui qui en est l'auteur (habituellement une des parties au litige)
+L'avocat (et nous aussi) doit se demander le but recherché par la mise en preuve de la déclaration extrajudiciaire écrite ou orale. S'agit-il de démontrer:
+La véracité du fait contenu? 
+OU 
+L’existence de la déclaration? 
+OU 
+L’aveu contenu par cette déclaration? 
+Les exceptions à la prohibition du ouï-dire (343, 1525, 2195, 2832, 2845, 2859 et 2869 à 2871 C.c.Q.; 25, 106, 266, 292, 509 et 520 C.p.c.; Arès c. Veneer)
+Elles sont du ouï-dire donc devraient être inadmissibles MAIS elles le deviennent pour l’une des trois raisons mentionnées ci-dessous! 
+1) Consentement des parties (2859 C.c.Q. implicite ou 2869 C.c.Q. explicite)
+Une déclaration extrajudiciaire peut devenir admissible du consentement des parties (2859 C.c.Q.) 
+Les Tribunaux ont tranché que la prohibition des ouï-dire n’est pas une disposition d’ordre public, donc à défaut de vous objecter lorsqu’une preuve par ouï-dire est a lieu devant vous, le ouï-dire est admis de consentement tacite par vous
+Le tribunal sera en droit de croire que vous acceptez que pareille preuve soit ainsi faite
+Ce consentement peut être explicite (2869 C.c.Q.)
+« La déclaration d’une personne qui ne témoigne pas à l’instance ou celle d’un témoin faite antérieurement à l’instance est admise à titre de témoignage si les parties y consentent; est aussi admise à titre de témoignage la déclaration qui respecte les exigences prévues par le présent chapitre ou par la loi. »
+Le code prévoit donc le consentement exprès explicite des parties pour rendre une déclaration extrajudiciaire qui autrement constitue du ouï-dire
+Autre exemple d’acceptation expresse d’une déclaration extrajudiciaire qui autrement du ouï dire 266 al.2 C.p
+Si lors du linstruction, bien qu'un témoin dûment assigné fasse défaut d'être présentent → possible avec le consentement de la partie adverse, d'obtenir par la partie adverse la reconnaissance de la partie adverse que si le témoin était présent, il dirait telle ou telle chose ou témoignerait de tel ou tel fait 
+On se retrouve devant un consentement exprès à une déclaration extrajudiciaire qui autrement constituerait du pur ouï-dire 
+2) Cas prévus par la loi (292 C.p.c.; dossiers médicaux, preuve par déclaration sous serment: 509, 520 C.p.c.)
+292 C.p.c.
+En principe, une déclaration écrite ne peut pas remplacer le témoignage de celui ayant constaté ces faits car par sa déclaration écrite il n'est pas présent par le tribunal MAIS législateur a prévu des cas ou cette déclaration écrite peut être utilisée en prévue MÊME si en théorie, cela serait du ouï-dire (292 C.p.c.)
+« Une partie peut produire à titre de témoignage, outre une déclaration prévue au livre De la preuve du Code civil, la déclaration écrite de son témoin, y compris un constat d’huissier, pourvu que cette déclaration ne vise à prouver qu’un fait secondaire du litige ET qu’elle ait été préalablement notifiée aux autres parties. Une autre partie peut, avant la date fixée pour l’instruction, exiger la présence à l’enquête du témoin concerné ou encore obtenir l’autorisation du tribunal de l’interroger hors sa présence. »
+On peut remplacer le témoignage d’un individu par sa déclaration écrite, la notifier à la partie adverse ET si la partie adverse tient à contre-interroger cet individu, elle nous exigera sa présence lors de l’instruction OU pourra obtenir de faire pareil contre-interrogatoire hors la présence du tribunal avec la permission du tribunal (al.2)
+Pratique pour les témoins qui sont là pour témoigner à propos de faits secondaires au litige 
+Les dossiers médicaux constituent des écrits constatant des faits au sens de 2832 C.c.Q.
+Reconnu par la CSC que les annotations dans un dossier médical sont fiables même si elles répondent en tous points aux conditions du ouï-dire écrit. 
+Puisqu'elles sont fiables, elles sont une exception à la prohibition du ouï-dire 
+Déclarations sous serment (105 C.p.c.) à l’appui de l’injonction interlocutoire ou de la saisie avant jugement (509 Cp.c et 520 C.p.c)
+Ces déclarations peuvent contenir du oui-dire en autant que le déclarant déclare ses sources 
+3) Déclarations extrajudiciaires légalement admissibles (2870-2871 C.c.Q.)
+Peut arriver qu’on aille besoin de faire témoigner une personne pour lui faire dire ce qu’une autre personne à dit OU qu’on aille besoin  pour établir ce qu’une autre personne aurait dit, d’un écrit que cette autre personne aurait fait 
+Normalement, ces déclarations extrajudiciaire constituent du ouï-dire MAIS elles sont admissibles si:
+On avise la partie adverse qu’on compte utiliser telle déclaration extrajudiciaire (si elle est écrite → on lui communique l’écrit)
+Partie adverse peut consentir (2869 C.c.Q.) OU refuser que cette déclaration soit utilisée afin de démontrer les faits qui y sont contenus auquel cas, on devra demander l’autorisation du tribunal
+Ex: on appelle dans un restaurant, la serveuse nous répond et alors qu’elle prend notre commande, elle s'exclame « oh le four à bois explose » et lorsqu’elle dit cela, en effet, le four explose qui brûle tout le restaurant (aucun survivant). Par la suite, un procès s'instruit et il faut démontrer la cause de l’explosion. Un seul témoin a véritablement vu ce qu’il s’est passé, c’est la serveuse et involontairement elle nous l’a dit au téléphone. On doit démontrer l’explosion. 
+Comme le témoin n’est plus là (ex: décès de la serveuse ) pour venir témoigner de l’explosion, on voudra utiliser ce qu’on a entendu, même si on n’en n’a pas été véritablement témoin. Il faudra demander la permission au tribunal (25 C.p.c. et 2870 C.c.Q.). 
+On devra démontrer la nécessité de recevoir notre déclaration en tant que client pour démontrer la véracité de ce qui s’est passé, car il est impossible ou déraisonnable d’exiger la présence du témoin (décès)
+On devra démontrer la fiabilité de la déclaration du témoin n’étant pas là et qu’elle a été faite devant une personne en autorité. 3 situations ou pareille déclaration est présumée fiable (2870 al.3 C.c.Q.): 
+Si elle est faite dans le cadre des activités d'une entreprise (ex: gens d’environnement Canada qui consigne la météo à chaque jour → on présume que ces faits sont fiables)
+S’il s'agit de document dans un registre dont la loi exige la tenue (ex: 343 Cpc: p-v d’actionnaires de personne morale)
+Lorsque la déclaration a été fait de façon spontanée et contemporaine (ex: ce que la serveuse a déclaré par rapport à l'explosion du four, car c'est en réaction directe à l'événement, elle n’a pas le temps de traiter ses propos donc on pourra témoigner et prouver l’Explosion du four-à bois meme si c’est du ouï-dire)
+C’est donc du ouï-dire que la loi permet
+Force probante: à l’appréciation du tribunal comme le témoignage 
+Arès c. Vebber, 1970 R.C.S. 608
+Question→ le ouï-dire
+Dans une affaire opposant Robert à Jacqueline, Me Arnaud Smith, avocat de Jacqueline, fait entendre Luc au sujet d’une conversation dont il a été témoin alors qu’il attendait dans le cabinet du notaire :
+Q :    Qui était dans la salle d’attente avec vous?
+R :    Jacqueline et Robert.
+Q :    Comment était Jacqueline?
+R :    Elle n’était pas bien du tout. Elle était comme en transe. La secrétaire du notaire est venue la chercher, s’est présentée et lui a demandé si elle était bien Jacqueline. Jacqueline l’a regardée comme si elle ne comprenait pas sa question et c’est Robert qui a répondu : « Oui c’est bien elle, mais elle n’a pas son appareil auditif. »
+Vous pouvez formuler une objection au motif que le témoin rapporte les paroles du défendeur et cela constitue du ouï-dire.
+Faux
+puisque la déclaration provient de la partie adverse, Robert, qui est présent, ce qui constitue un cas où le ouï-dire est permis.
+L’irrecevabilité de la preuve testimoniale
+Même si le ccq prévoit que la preuve de tout fait pertinent peut être faite par tous moyens (2857 C.c.Q.), il existe certaines règles concernant la recevabilité de la preuve testimoniale qu’on appelle les règles d’irrecevabilité de la preuve testimoniale 
+Les 3 règles d'irrecevabilité de la preuve testimoniale de l’article: 
+2860 C.c.Q. 
+2862 C.c.Q.
+2863 C.c.Q.
+1) L’irrecevabilité de l’article 2860 C.c.Q. (2860 C.c.Q.)
+2860 C.c.Q.: 
+« L’acte juridique constaté dans un écrit ou le contenu d’un écrit doit être prouvé par la production de l’original ou d’une copie qui légalement en tient lieu.
+Toutefois, lorsqu’une partie ne peut, malgré sa bonne foi et sa diligence, produire l’original de l’écrit ou la copie qui légalement en tient lieu, la preuve peut être faite par tous moyens.
+À l’égard d’un document technologique, la fonction d’original est remplie par un document qui répond aux exigences de l’article 12 de la Loi concernant le cadre juridique des technologies de l’information et celle de copie qui en tient lieu, par la copie d’un document »
+On ne peut pas témoignage prouver le contenu d'un écrit alors même qu'un écrit existe → il faut produire l’écrit ET son original 
+MAIS si cet original est perdu OU détruit, on peut obtenir la permission du tribunal de faire la preuve secondaire du contenu de l’écrit ET si on a l'autorisation, cette preuve pourra être faite par tous moyens, dont par témoins 
+Le témoin viendra donc relater le contenu d'un écrit qu'il aurait lu 
+2) L'irrecevabilité de l’article 2862 C.c.Q. (2861, 2862, 2865 C.c.Q.)
+2862 C.c.Q.
+« La preuve d’un acte juridique ne peut, entre les parties, se faire par témoignage lorsque la valeur du litige excède 1 500 $.
+Néanmoins, en l’absence d’une preuve écrite et quelle que soit la valeur du litige, on peut prouver par témoignage tout acte juridique dès lors qu’il y a commencement de preuve; on peut aussi prouver par témoignage, contre une personne, tout acte juridique passé par elle dans le cours des activités d’une entreprise. »
+Existe plusieurs exceptions et tempéraments à cette règle
+Absence d’écrit (2861 C.c.Q.) 
+« Lorsqu’il n’a pas été possible à une partie, pour une raison valable, de se ménager la preuve écrite d’un acte juridique, la preuve de cet acte peut être faite par tous moyens. »
+Ce serait le cas, par exemple ou des relations de proximité (ex: familiales) entre les parties font en sorte que pour certains actes juridiques, ces parties ne font pas d’écrits entre elles pour constater ces actes 
+Valeur du litige de moins de 1500$ (2862 C.c.Q.)
+Si on est dans un litige ou la valeur est inférieure ou égale à 1500$ → preuve testimoniale sera permise entre les parties pour permettre cet acte juridique 
+Dans le cadre des activités d’une entreprise (2862 al.2 C.c.Q.) 
+Cette preuve par témoin peut aussi être faite si elle est utilisée contre celui exerçant des activités d'une entreprise au sens de 1525 C.c.Q. 
+Donc contre un commerçant, la preuve testimoniale sera habituellement permise pour prouver un acte juridique intervenu entre lui et vous
+Ne s'applique pas au tiers (2862 C.c.Q.)
+Cette règle ne s’applique qu’aux parties
+Un tiers au litige pourrait prouver cet acte juridique par son propre témoignage 
+Lorsqu’il y a un commencement de preuve (2862 al.2 C.c.Q.)
+Définition du commencement de preuve (2865 C.c.Q.)
+« Le commencement de preuve peut résulter d’un aveu ou d’un écrit émanant de la partie adverse, de son témoignage ou de la présentation d’un élément matériel, lorsqu’un tel moyen rend vraisemblable le fait allégué. »
+Preuve testimoniale pourrait être permise si vous avez réussi à établir un commencement de preuve
+Commencement de preuve sera constitué de toutes sortes d’éléments de preuve provenant de la partie adverse 
+Ex: j’ai prêté 50k à Julie, qui ne me rembourse pas. J’entame des procédures judiciaires contre Julie. Afin de prouver mon prêt, je ne pourrais PAS ni par mon propre témoignage, ni par le témoignage de mes témoins, tenter d'établir le prêt fait à Julie, car entre les parties, la preuve par témoignage d’un acte juridique qui dans un litige est plus élevé que 1500$ n’est PAS permise. MAIS je pourrais tenter d’établir un commencement de preuve
+Témoin d’une partie n’est PAS un tiers au litige (il est relié à la partie). Voir intervention forcée vs volontaire en procédure civile 
+Comment établir un commencement de preuve
+Trouver des éléments de l’univers de la personne qu’on poursuit (ex: Julie) afin d’établir des indices comme étant vraisemblable ce que j'allège (ex: le prêt)
+Ex: après le prêt, Julie s’est achetée une voiture de luxe, assigné le gérant de sa banque pour démontrer qu’un dépôt de 50 000$ a été fait dans son compte de banque 
+SI le tribunal trouve le tout vraisemblable, il me permettra de témoigner pour établir ce que j'allège (ex: le prêt) et l’interdiction de témoigner tombera 
+3) L’irrecevabilité de l’article 2863 C.c.Q. (2831, 2836, 2859 et 2862 à 2865 C.c.Q.)
+2863 C.c.Q : « Les parties à un acte juridique constaté par un écrit ne peuvent, par témoignage, le contredire ou en changer les termes, à moins qu’il n’y ait un commencement de preuve. »
+Pour l’application de cette règle, on doit évidemment être en présence d’un acte juridique et non pas d’un document qui ne fait que constater un fait
+Ne s'applique pas à 2832 C.c.Q. 
+L’acte juridique en question doit être dans un écrit dont la confection ou l’authenticité ne fait PAS l'objet de contestation 
+L’authenticité et la confection du document étant reconnues, on peut mettre en vigueur cette règle d’irrecevabilité et on ne pourra pas contredire par écrit cet acte
+Cette règle n’est pas d’ordre public et est du ressort exclusif des parties pour son application (2859 C.c.Q.)
+À défaut de s’objecter, la preuve sera premise et le juge n’interviendra pas 
+Ex: A poursuit B en réclamation de loyer, invoquant au soutien de sa DII un bail commercial prévoyant un loyer mensuel de 1500$. En défense, B prétend que le loyer était, contrairement à ce qui est indiqué dans le bail, de 1200$ par mois. 
+B va tenter de contredire le bail pour établir que le montant est de 1200$, mais il ne pourra pas témoigner à cet effet MAIS en contre-interrogatoire, l'avocat de B pourra demander à A pourquoi pendant deux ans, A a reçu 1200$ par mois et qu’il n'a jamais envoyé de MED à B
+On pourrait également produire en preuve des documents émanant de A qui démontreront que A déclare dans ses bilans des revenus de 1200$ par mois contrairement au montant du bail
+On pourrait également utiliser les hésitations de A lorsqu'on lui pose pareilles questions 
+Par la suite, B voudra témoigner pour prouver son prêt, il se peut donc qu’il y aille une objection à ce que le témoin témoigne pour prouver son prêt. On pourra arguer qu’en raison du témoignage de A, des différents éléments de preuve mis en preuve en présence de tous ces éléments (commencement de preuve, 2865 C.c.Q.), B voudra alors témoigner pour prouver que le loyer est 1200$ 
+Évidemment, la partie adverse m'objectera au motif que la preuve par témoin est irrecevable pour contredire le bail, à cette objection, je pourrais répliquer que compte tenu des éléments de preuve établis (témoignage de A, autres éléments provenant de l’univers de A), font en sorte qu’un commencement de preuve a été établi 
+Si le tribunal nous donne raison qu’un commencement de preuve a été établi, la preuve par témoin de B sera permise pour établir que le loyer était de 1200$ par mois 
+Exceptions à l’irrecevabilité de 2863 C.c.Q.
+En présence d’un commencement de preuve
+Lorsqu’il s’agit d’interpréter l’écrit (2864 C.c.Q.)
+Comprendre une clause, la portée, connaître l’intention des parties 
+Compléter un écrit manifestement incomplet  (2864 C.c.Q.) 
+Manque un élément essentiel laissé en blanc (ex: la date, le lieu)
+Pour compléter l’écrit, la preuve testimoniale sera premise 
+Pour attaquer la validité de l’acte juridique (2864 C.c.Q.)
+S’il manque l’une des 4 conditions essentielles à la formation d’un contrat (cause, capacité, consentement, objet) 
+Pour prouver l’un ou l’autre des 4 éléments, la preuve testimoniale sera permise 
+Lorsqu’on tente de prouver d’autres actes juridiques valablement faits →how will we remember this (pas contredire) →jai compris. Idk, I guess we’ll need to make space in our brains for this
+Permis d’utiliser la preuve testimoniale lorsqu’on tente de prouver un acte juridique autre que celui faisant l’objet d’un écrit (ex: un acte juridique intervenu avant celui par écrit, concomitant à celui écrit ou même postérieur à celui par écrit) 
+Ex: contrat de prêt intervenu par écrit assorti d'un cautionnement qui lui n’est pas par écrit, d'avoir confié une tâche à un entrepreneur par écrit et lui en confier une seconde sans contrat écrit, entente qui aurait modifié l’écrit si cette entente était verbale on pourrait utiliser la preuve par témoins dans la mesure où cette preuve testimoniale est permise 
+Lorsqu’un tiers veut contredire l’écrit
+Comme l’interdiction ne s’applique qu’entre les parties, un tiers peut par son témoignage contredire l’écrit
+Pour contredire l’écrit d’entreprise 
+2831 C.c.Q.
+2836 C.c.Q.
+Pareil écrit peut être contredit par tous moyens et donc, par la preuve testimoniale de l’une ou l’autre des parties
+Peut-on contredire ou changer les termes d’un écrit valablement fait par un moyen autre que la preuve testimoniale?
+Oui, il pourra l’être par un : 
+Autre écrit (ex: contre-lettre)
+Aveu judiciaire écrit ou verbal 
+Aveu extrajudiciaire écrit (PAS oral, car il se prouve par témoignage qui est lui-même interdit) à voir →still dont get it lol, genre je comprends qu’il prouve par témoignage mais c still un autre moyen de preuve. I dont understand this shit  c parce qu’un aveu extrajudiciaire oral a pas le choix de se prouver par témoignage, quelqu’un va temoigner et va dire: elle ma dit ca→ c un témoignage. Tandis qu’un aveu judiciaire oral se fait pendant l’instance ca va deja etre enregistré et prouvé donc ca reste un aveu, un aveu extrajudiciaire écrit se prouve avec lecrit. DONC laveu extrajudiciaire oral est le seul qu on a pas le choix de le prouver par témoignage (c qqn qui va dire yo this gurl admitted to this) 
+Preuve par présomption
+Élément matériel dans la mesure ou il ne participe pas par la preuve par témoignage 
+Question La contradiction d’un écrit 
+Vrai ou Faux : Un commerçant achète des fenêtres givrées. Or, l’écrit constatant cet achat porte la mention d’un modèle « non givré ». Le commerçant acheteur, alors très pressé, demande au vendeur de modifier cette mention, mais signe l’écrit tel quel, puisque le vendeur lui confirme qu’il effectuera la modification par la suite. Toutefois, cette modification n’est jamais apportée à l’écrit signé par les parties. La livraison des fenêtres non givrées est effectuée en l’absence de l’acheteur qui n’a pu signaler à ce moment la non-conformité des matériaux d’une valeur de 18 700 $.
+Le commerçant acheteur (demandeur) dépose une demande en exécution spécifique contre le commerçant vendeur (défendeur) et réclame qu’il lui livre le modèle « givré » tel que convenu.
+Le témoignage du commerçant acheteur est recevable pour contredire cet écrit.
+FAUX, le témoignage du commerçant acheteur n’est pas recevable. Il faut, au préalable, considérer la nature juridique de cet écrit, soit un acte sous seing privé (art. 2826 C.c.Q.). Une fois sa confection établie (ce qui serait le cas ici puisque le commerçant acheteur ne nie pas sa signature), il fait preuve non seulement de l’acte juridique qu’il renferme (la vente), mais aussi des déclarations des parties qui s’y rapportent (mention « non givré » qui signifie que l’acheteur achète des fenêtres non givrées) (art. 2829 C.c.Q.). Le témoignage proposé vise à contredire la mention « non givré » apparaissant dans le contrat car l’acheteur veut, par son témoignage, établir qu’il a acheté des fenêtres givrées et que le vendeur lui a livré un produit non conforme à ce qui a été convenu. En raison de l’article 2863 C.c.Q., ce témoignage est irrecevable.
+Signalons que la possibilité d’utiliser la preuve testimoniale en présence d’un acte passé dans le cours des activités d’entreprise de l’un ou l’autre des contractants n’existe que lorsqu’il s’agit de PROUVER cet acte juridique (art. 2862 C.c.Q.) et non pour CONTREDIRE un acte juridique déjà établi-prouvé par écrit (art. 2863 C.c.Q.). Ici, puisque l’acte juridique a déjà été mis en preuve par l’écrit qui le constate, on cherche plutôt à contredire par témoignage cet écrit et cela n’est pas permis vu l’interdiction de l’article 2863 C.c.Q. procédure. D’autres personnes ne sauraient être contraintes à témoigner, même si elles sont aptes à le faire (voir art. 282, 283 et 284 C.p.c. notamment).
+Par ailleurs, il ne s’agit pas de prouver un contrat distinct de celui qui est écrit, auquel cas, la preuve par témoin ne serait pas utilisée pour contredire l’écrit mais bien pour prouver ce contrat distinct. Toutefois, même s’il était question d’un contrat distinct, ce dernier, vu la valeur du litige, n’aurait pu être prouvé par témoignage.
+Pk cette exception s’applique pas ? lorsqu’on tente de prouver d’autres actes juridiques valablement fait → jai compris, ecq c’est pcq on ne tente PAS de prouver un autre acte que celui faisant l’objet de l'écrit (l’écrit qui mentionnait les fenêtres non givrées?) 
+L’élément matériel de preuve
+La présentation d’un élément matériel
+2854 C.c.Q
+La présentation d’un élément matériel constitue un moyen de preuve qui permet au juge de faire directement ses propres constatations. Cet élément matériel peut consister en un objet, de même qu’en la représentation sensorielle de cet objet, d’un fait ou d’un lieu.
+Il s’agit de présenter au juge un objet concret tangible ex: brique, un habit, plante, bien meuble, bien immeuble, 
+Peut aussi être une représentation sensorielle (ex: photo, un plan, une maquette)
+Permet au juge de faire lui-même ses propres constatations sans qu’il n’ait à réalisé la situation ou le fait qu’en ferait le récit d'un témoin. Il peut lui-même voir avec ses yeux ce dont il s’agit, plutôt que de se faire raconter par un témoin ou autrement par la preuve 
+Recevabilité (2868 C.c.Q)
+La preuve par la présentation d’un élément matériel est admise conformément aux règles de recevabilité prévues pour prouver l’objet, le fait ou le lieu qu’il représente.
+L’élément matériel est presque toujours recevable, mais il y a des limites par d’autres règles de recevabilité du code.
+Ex: 2862 C.c.Q→ La preuve d’un acte juridique ne peut, entre les parties, se faire par témoignage pour prouver un acte juridique lorsque la valeur du litige excède 1 500 $.
+Donc si la preuve par témoignage n'est pas permise pour prouver l’acte juridique, l’élément matériel qui procéderait du témoignage ne serait pas permis. Si je ne peux pas prouver par mon témoignage que le défendeur a emprunté l’argent de ma part, je ne peux non plus présenter en preuve un élément matériel comme une vidéo de moi qui dit «le défendeur a emprunté de l’argent de ma part’», c’est la même chose que si c’était une preuve par témoignage. C’est la limite à la recevabilité de l’élément matériel!
+BREF, si le témoignage est interdit, on ne peut pas mettre en preuve un élément matériel qui est l'équivalent d'un témoignage 
+L’élément matériel doit faire une preuve distincte d’authenticité pour être considéré par le tribunal (2855 C.c.Q)
+La présentation d’un élément matériel, pour avoir force probante, doit au préalable faire l’objet d’une preuve distincte qui en établisse l’authenticité. Cependant, lorsque l’élément matériel est un document technologique au sens de la Loi concernant le cadre juridique des technologies de l’information, cette preuve d’authenticité n’est requise que dans le cas visé au troisième alinéa de l’article 5 de cette loi.
+Art. 5 al.3 LCCJTI: quand le document dont le support ou la technologie ne permettent ni d’affirmer ni de dénier que l’intégrité en est assurée 
+On doit démontrer que l’élément matériel est le vrai objet (on ne l’a pas modifié, ni altéré depuis la survenance des faits). 
+Si c’est une représentation sensorielle d’un objet, il faut démontrer la méthode utilisée pour la représentation (comment la photo est prise, etc) et ce qui est représentée sur la photo (par ex)
+Après l’élément matériel pourra être prise en considération par le tribunal.
+Mise en preuve
+On doit le communiquer (246 s.s)
+Il faut le produire au greffe 
+Lors de l’audience → faire une preuve distincte d'authenticité
+Preuve d'authenticité peut être évitée si on a envoyé la MED de 264 C.p.c de reconnaître l’origine et l’intégrité d’un document (et qu’elle soit non-contestée). 
+La simple production de cette MED à laquelle sera jointe l’élément matériel → suffira d’établir l’authenticité.
+Il peut s’agir aussi d’un objet 
+Un objet n’est pas techniquement reproductible (ex: difficile de cloner une brique)
+249 C.p.c → La partie qui ne peut remettre à la partie qui le demande copie d’une pièce ou d’un autre élément de preuve, en raison de leur nature ou des circonstances, est tenue d’y donner accès par un autre moyen.
+Même si on ne peut reproduire l’objet, on doit le rendre disponible à la partie adverse.
+Il est possible que le tribunal demande de produire cette pièce (287 C.p.c)
+S’il s’agit d’un immeuble, l’effet combiné de 267 C.p.c et 2810 C.c.Q permettra au tribunal une visite des lieux
+Ex: Le tribunal s’est déplacé sur un terrain de golf dans un cas de respo extracontractuelle (où un golfeur a frappé un autre golfeur avec une balle). Le tribunal voulait s’assurer de la configuration des lieux par lui-même, c’est mieux que si les témoins venaient lui expliquer la configuration 
+La prof dit que cette preuve est meilleure que celle que pourrait apporter un témoin mais à ne pas confondre avec la règle de 2860 C.c.Q qui doit être comprise comme nécessitant un écrit lorsqu’il existe
+La règle de la meilleure preuve (2860 C.c.Q.) → ne concerne que les écrits
+VS
+ La preuve la meilleure → c’est un élément matériel
+Force probante (2856 C.c.Q)
+Le tribunal peut tirer de la présentation d’un élément matériel (objet ou représentation sensorielle) toute conclusion qu’il estime raisonnable
+Étant donné qu’il fait lui-même les constatations, on le laisse en tirer les conclusions à partir des faits ou de leur représentations présentées à lui 
+Question-La force probante de l’élément matériel
+Vrai ou Faux →
+Vous désirez que la partie adverse conserve les sandales qu’elle portait le jour de l’accident afin de les exhiber au tribunal. Des photographies prises par votre expert en sinistres révèlent qu’il s’agissait de sandales sans lanières à l’arrière et, en apparence, fort usées.
+Vous pouvez demander que la partie adverse conserve les sandales afin de les exhiber au procès.
+VRAI → selon l’article 251, al. 1 C.p.c., vous pouvez demander que la partie adverse conserve ses sandales afin de les exhiber lors du procès, puisqu’il s’agit d’un élément matériel de preuve. Elle est alors tenue de les présenter aux autres parties et de les préserver.
+Au surplus, l’article 20, al. 1 C.p.c. prévoit l’obligation pour les parties de s’assurer de préserver les éléments de preuve pertinents.
+L’aveu 
+L’aveu
+2850 C.c.Q
+ L’aveu est la reconnaissance d’un fait de nature à produire des conséquences juridiques contre son auteur.
+ « La reconnaissance d’un fait » → aveu porte seulement sur un fait! 
+Un témoin ne peut pas dire que « j'ai commis une faute » → la qualification du comportement relève du tribunal exclusivement! 
+MAIS la partie peut dire j'suis tombé parce que mes lacets étaient détachés. Les parties peuvent reconnaître des faits qui leurs sont défavorables.
+L’aveu ne peut pas porter sur le droit 
+« [...] de nature à produire des conséquences juridiques défavorables contre son auteur »
+Cette conséquence juridique porte sur le fardeau de preuve de la partie adverse
+Lorsqu’une partie fait un aveu sur un fait (qu’elle le reconnait), elle se trouve à soulager en partie le fardeau de preuve de la partie adverse
+L’aveu porte normalement sur un fait à prouver par la partie adverse qu’elle n’aura donc pas à prouver  
+contre son auteur
+Auteur = celui qui fait l’aveu
+Peut émaner que  d’une partie à l’instance ou de son mandataire, PAS d’un tiers
+Tout tiers qui reconnaîtrait un fait qui lui est autrement défavorable, s’il n’est pas partie à l’instance, on ne serait PAS en présence d’un aveu → témoignage? On pense que oui
+2851 C.c.Q
+ L’aveu peut être exprès ou implicite
+Exprès →peut être écrit ou verbal → reconnaissance concrète 
+Implicite→ celui qui découle de la conduite et des comportements. 
+Ex: lorsqu’une personne paie un fournisseur, il reconnaît implicitement détenir un contrat avec lui pour lequel il est débiteur
+Donc ne découle pas d’une reconnaissance écrite ou verbale 
+Il ne peut toutefois résulter du seul silence que dans les cas prévus par la loi (al.2 C.c.Q)
+On verra plus loin
+Deux types d’aveu 
+Judiciaire 
+Extrajudiciaire
+Question→ l’aveu 
+Vrai ou Faux 
+Il est possible, au moyen d’un aveu, de contredire la date et la mention « lecture faite, les parties ont signé en ma présence » contenues dans un acte d’hypothèque immobilière.
+FAUX: l’aveu ne peut faire échec au contenu d’un acte authentique rapportant des faits que l’officier public avait mission de constater. Une partie, par son aveu, ne peut contredire ou changer les termes d’un écrit exprimant des faits que le notaire avait l’obligation de constater et qu’il a déclaré avoir constatés. Il faut d’abord procéder par voie de demande de faire déclarer faux l’acte authentique (art. 2821 C.c.Q.; art. 258 C.p.c.) et attaquer ensuite cet écrit par tout moyen de preuve (Bélanger c. Courtemanche, [1966] R.L. 276, C.P.).
+L’aveu judiciaire 
+Définition
+Fait au cours de l’instance
+Toujours recevable en preuve en principe
+Mise en preuve de l’aveu judiciaire EXPRÈS 
+Introduit par la partie elle-même ou l’avocat (à leur initiative)
+Dans un acte de procédure 
+Ex: demandeur qui poursuit pour paiement, reconnaître avoir reçu 50% du prix
+Lors de l’interrogatoire (280 C.p.c)
+Lors d’un acquiescement à la demande (217 C.p.c)
+Dans une déclaration sous serment (106 et 414 C.p.c)
+À l’initiative de l’autre partie
+Lors de l’interrogatoire de la partie adverse tenu hors la présence du tribunal (253 C.p.c)
+Interrogatoire sous serment (105 C.p.c)
+Interrogatoire préalable (221 C.p.c) sous mesure que ce soit communiqué et produit selon 227 C.p.c
+Témoignage rendu par anticipation (295 C.pc.)
+Lors du contre-interrogatoire de la partie adverse (253 C.pc)
+Lors de l’interrogatoire ou du contre-interrogatoire d’une partie à l’instruction (280 C.p.c)
+Mise en preuve de l’aveu judiciaire IMPLICITE
+Lorsqu’il y a absence de contestation d’une pièce avant l’inscription pour instruction et jugement (262 C.p.c)
+Lorsqu’il y a absence de déclaration sous serment niant l’origine d’un document ou son intégrité (264 C.p.c) 
+Lorsqu’il y a un défaut de répondre à un interrogatoire écrit (225 C.p.c)
+Ces trois situations font en sorte que le silence d’une partie équivaut à un aveu implicite. 
+Force probante (2852 C.c.Q)
+L’aveu fait par une partie au litige, ou par un mandataire autorisé à cette fin, fait preuve contre elle, s’il est fait au cours de l’instance où il est invoqué. Il ne peut être révoqué, à moins qu’on ne prouve qu’il a été la suite d’une erreur de fait.
+La partie qui regrette son aveu pourrait le révoquer s’il y a eu erreur de fait OU possible de désavouer l’avocat qui a fait l’aveu
+Erreur de fait: la partie s’est basée sur des faits pour baser son aveu mais qui finalement étaient inexistants
+Une fois l’aveu fait et non-révoqué, il fait preuve en entier de ce qui est contenu et aucune autre preuve est nécessaire pour établir le fait ainsi avoué
+L’aveu extrajudiciaire
+Fait hors de l’instance au cours de laquelle il est invoqué OU celui qui aurait pu avoir été fait dans une autre instance.
+Comme il s’agit d’un fait, cet aveu extrajudiciaire doit être allégué et ensuite prouvé
+La recevabilité
+Si aveu extrajudiciaire écrit → il est toujours recevable en preuve 
+Sauf une seule exception prévue à 1609 C.c.Q où le CR d’une réclamation pour préjudice corporel obtient une quittance, transaction ou déclaration faite par le DB → elle sera sans effet s’il l’a obtenu dans les 30 jours du fait dommageable. 
+Aveu extrajudiciaire verbal → presque toujours recevable 
+Celui mis en preuve à travers un témoin qu’il aura entendu 
+OU 
+Celui contenu dans un interro préalable qui n’a pas été communiqué au dossier de la cour (Si communiqué c’est un aveu judiciaire). 
+L’exception qui empêche un aveu extrajudiciaire verbal est 2867 C.c.Q
+L’aveu, fait en dehors de l’instance où il est invoqué, se prouve par les moyens recevables pour prouver le fait qui en est l’objet. 
+Ex: A poursuivi B en remboursement de prêt qu’il lui a fait. Alain n’a pas constaté ce prêt par écrit et donc A désire présenter une preuve par témoignage pour établir le prêt. 2862 C.c.Q empêche la preuve testimoniale d’un acte juridique entre les parties lorsque le litige excède 1500$. Toutefois, A apprend que B a parlé à C et il lui a dit avoir emprunté de l’argent de A. C raconte ceci à A. Donc A aimerait que C vienne témoigner l’aveu extrajudiciaire verbal formulé par B mais 2867 empêche ce type de preuve puisque si la preuve par témoin n’est pas recevable pour prouver l’acte juridique, la preuve de l’aveu ne peut non plus être fait par témoignage. (mais 2862 ne vaut qu’entre les parties , Charles c un tiers pourquoi ca marche pas?) mais regarde la phrase tiré des ndc→ Un tiers au litige pourrait prouver cet acte juridique par son propre témoignage ca fait pas de sens? Pcq Charles n’est PAS un tiers, il est le témoin de A, so si tu ne peux pas faire qqchose par une partie à 2862, tu ne peux pas plus le faire par son tiers. Donc, pas possible de prouver cet aveu par le témoignage (pas un moyen recevable, 2867 C.c.Q.)
+Mise en preuve
+En alléguant l’aveu extrajudiciaire dans les procédure et en faisant la preuve 
+Tout fait doit être allégué 
+Tout fait qu’on compte faire la preuve doit être allégué (99 C.p.c)
+Si l’aveu XJ est écrit: communiqué produit au dossier de la cour, faire l’objet d’une preuve distincte d’authenticité doit être présenté (2832 C.c.Q), car il s’agit d’un simple écrit qui constate un fait
+On peut éviter cette preuve distincte d’authenticité si on fait MED de 264 C.p.c. et qu’il n’y a pas contestation OU qu’il a reconnaissance → on n’aura qu’à produire au greffe la MED et le doc joint 
+Si l’aveu XJ est verbal
+On devra faire entendre le témoin ayant entendu l’aveu (attention 2867 et 2862 C.c.Q.)
+Ex: si Pierre a chuté sur un trottoir appartenant à la municipalité, et qu’il poursuit la municipalité. Si on fait entendre la personne qui a ramassé Pierre lors de sa chute, et que Pierre lui a dit qu’il est tombé à cause que ses lacets n’ont pas été attachés (bref il lui avoue que ce n’est pas de la faute de la municipalité), on fera entendre cette personne pour faire prouver l’aveu verbal de Pierre.
+Force probante
+2852  al.2 C.c.Q 
+Al. 1: force probante de l’aveu judiciaire 
+Al.2: aveu extrajudiciaire
+La force probante de tout autre aveu est laissée à l’appréciation du tribunal.
+La contestation 
+Celui qui voudrait contester l’aveu XJ (habituellement l’auteur même de cet aveu) pourra le faire en expliquant les circonstances et la portée de l’aveu XJ qu’il a fait en expliquant que peut-être son aveu n’a pas été fait de façon libre et volontaire et pk il rapporte désormais un propos différent de son aveu devant le tribunal 
+Indivisibilité de l’aveu
+En principe, il faut prendre l’aveu dans son entier sans enlever des portions pouvons nous être défavorables 
+Trois types d’aveux
+Aveu pur et simple 
+Reconnaissance d’un fait énoncé en une seule proposition 
+Ex: je reconnais devoir l’argent à Alain
+Aveu qualifié
+Par lequel on qualifie autrement l’opération juridique OU on y ajoute une condition 
+Ex : Bernard dit oui j'ai reçu d’Alain, mais ce n’est pas un prêt, c’est un don. OU oui j'ai reçu l’argent, mais le remboursement n’est pas dû maintenant. 
+On ajoute une condition à l’aveu qui en change la teneur. 
+On ne peut PAS le découper → on doit le prendre en entier
+Formulé en aveu qualifié, il est inutile en preuve.
+Aveu complexe
+Celui par lequel l’aveu contient deux faits qui s'annulent à toute fin utile
+Ex: Bernard dirait j’ai reçu de l’argent d’Alain mais je l'ai complètement remboursé OU j’ai reçu l’argent d’Alain, mais Alain me devait déjà de l’argent. Les 2 sont de mêmes montants, car ils s’annulent 
+Résultat: il ne peut PAS être utilisé en preuve, car l’effet du 2e fait annule les effets du premier 
+L’aveu NE peut être divisé (2853 C.c.Q.) MAIS
+Exceptions à l’indivisibilité de l’aveu 
+L’aveu contient des faits étrangers à la contestation liée
+La partie contestée de l’aveu soit invraisemblable ou contredite par des indices de mauvaise foi ou par une preuve contraire
+Absence de connexité entre les faits mentionnés dans l’aveu
+1) L’aveu contient des faits étrangers à la contestation liée
+Définition de la contestation liée: les faits qui sont contenus à la demande introductive rencontrés par les faits qui constituent la défense. On sait sur quoi la contestation portera, la contestation est liée. 
+Lorsque pour la première fois lors de l’instruction, B vient dire que le prêt ne lui est pas dû, ce fait apparaît très tard dans le processus. B aurait dû le dire dès le début, dès qu’on lui a demandé d’exposer ses moyens de défense, donc, ce fait constitue un fait étranger à la contestation liée, ici on découpe l’aveu, on enlève la portion ne nous intéressant pas et on garde juste l’aveu simple.
+2) La partie contestée de l’aveu soit invraisemblable ou contredite par des indices de mauvaise foi ou par une preuve contraire
+Cas de Bernard qui invoque l’acte juridique entre les parties comme n’étant pas un prêt, mais bien un don. Si on met en preuve que le pouvoir économique d’Alain n’est pas plus grand que celui de Bernard, il serait invraisemblable qu’Alain fasse un don de cette ampleur, même si c’est son ami. On pourra donc découper l’aveu de B et garder que la portion qui nous intéresse, celle au fait qu’il a reçu l’argent.
+3) Absence de connexité entre les faits mentionnés dans l’aveu.
+On la retrouve seulement dans l’aveu complexe
+B reconnaît avoir reçu l’argent mais que Alain lui-même lui devait de l’argent. Normalement, ces deux faits s’éteignent par compensation, MAIS le deuxième fait que Bernard ajoute est un fait qui n’est aucunement connexe avec le prêt initial qu’Alain réclame. En pareil cas, on pourrait découper dans l’aveu et garder juste la première portion qui nous est favorable.
+Mais la compensation c’est un moyen de défense, how would he prove it, il peut tu le prouver par un acte juridique d’abord, genre c juste que tu peux pas utilise l’aveu extrajudiciaire? Oue, genre que il va être découpé de l’aveu s’il nest pas en lien avec la première créance, mais tu pourras srm l’invoquer dune autre facon →okok perf
+Question→La force probante de l’aveu extrajudiciaire
+Vrai ou Faux 
+La force probante de l’aveu extrajudiciaire, écrit ou verbal, est laissée à l’appréciation du tribunal.
+VRAI: selon l’article 2852, al. 2 C.c.Q., la force probante de tout aveu autre que celui fait au cours de l’instance où il est invoqué est laissée à l’appréciation du tribunal.
+La preuve par présomption 
+La preuve par présomption
+Prouver un fait indirectement
+Définition (2846 C.c.Q.)
+La présomption est une conséquence que la loi ou le tribunal tire d’un fait connu à un fait inconnu.
+Deux types
+Présomption légale → loi tire
+C’est la loi qui indique le fait inconnu et prouvé par l’établissement de la présomption 
+Deux sortes
+Absolue → lorsque le législateur utilise le mot « réputé » 
+Ex: 1422 C.c.Q
+Simple →  lorsque le législateur utilise le mot « présumées »
+Ex: 525 C.c.Q
+Présomption de faits → tribunal tire d’un fait connu à un fait inconnu.
+Ce n’est PAS la loi qui tire la présomption, c’est le tribunal
+Le juge lui-même trouve le résultat. 
+Ex: quand il faut déterminer la cause du décès de l’assuré ou la cause de l'incendie en l’absence de preuve directe
+Si on a l’image d’un livre qui brûle 
+Si nous avons la preuve directe de la cause (ex: qqn a allumé l’allumette, cet événement a été capté par un caméra de surveillance) 
+Si nous n’avons PAS de preuve directe (ex:aucun témoin, aucun film) MAIS si on a une image où il y a une chandelle à côté du livre, nous allons penser que la cause de l’incendie c’est la chandelle allumée. Par présomption, on conclut que le fait de la chandelle qui allume l’incendie s’est véritablement produit alors que la preuve n’est pas directement à cet effet
+Mise en preuve de la présomption légale
+S’effectue en prouvant les faits inclus dans la disposition de la loi
+Si on continue avec l’exemple de la présomption de paternité de 525 C.c.Q. Les seuls éléments à prouver: un enfant est né d’une mère mariée à cet homme, automatiquement cet homme est le père. C’est une présomption.
+Si on n’avait pas cette présomption, il faudrait que la mère établisse la paternité du père par tous moyens (ex: tests ADN)
+Mise en preuve de la présomption de faits
+Il faut prouver les faits qui entourent le fait inconnu, qui permettent de croire en l’existence de ce fait dont nous n’avons pas la preuve directe (donc fait inconnu)
+La force probante
+Présomption légale 
+Une fois la preuve tous les faits inclus dans la disposition de la loi (aucune autre preuve nécessaire) → le fait inconnu est prouvé et existe
+Présomption de faits 
+Partie doit établir les faits et indices qui permettent de croire à l’existence du fait inconnu
+Les indices devront être graves, précis et concordants (selon la jurisprudence)
+Grave → lorsqu’il y a un rapport étroit entre cet indice et le fait inconnu. 
+Ex: bidon d’essence vide sur les lieux d’un incendie, c’est un fait grave pour participer à l’établissement de la présomption
+Précis → doivent tendre directement et seulement à l'établissement du fait inconnu. 
+Ex: accident dont on cherche la cause et le vechiule ayant subi l’accident ne presente aucune trace de freinage, on peut conclure que c’est soit un suicide ou surprise. 
+Lorsqu’un fait peut mener à deux hypothèses distinctes → PAS précis
+Ex: accident de voiture et dans l’auto, on trouve des drogues ET mauvaises conditions météorologiques (donc l’accident a été causé par lequel?)
+Concordants → faits par leur ensemble doivent tendre entre eux à établir le fait inconnu, celui qu’on tend à prouver
+Le tribunal sera invité à appliquer le principe de l’induction pour conclure à l'existence du fait inconnu.
+Un peu comme quand on a vu l’image de la chandelle à côté du livre qui a expliqué le livre en feu dans notre tête 
+Contestation
+Présomption légale absolue → aucune preuve contraire ne peut être apportée 
+Présomption légale simple ou présumée → une preuve contraire est possible. 
+Ex: dans le cas de la présomption de la paternité, l’époux pourra apporter une preuve qu’il n'est pas le père de l’enfant.
+Présomption de faits → une fois que le fait inconnu est prouvé, il y a renversement de fardeau de preuve et la partie adverse devra présenter une preuve allant à l’encontre de cet fait présumé 
+Il existe certaines modalités particulières pour contredire certaines présomptions légales à 2866 C.c.Q.
+Lorsque cette présomption n’est PAS d’ordre public, elle peut être contredite par un aveu fait à l’instance durant laquelle la présomption est invoquée (al.2)
+Question-La valeur probante de la présomption
+Vrai ou Faux 
+La présomption légale d’un fait réputé peut être réfutée par la partie adverse.
+FAUX → ​​le second alinéa de l’article 2847 C.c.Q. énonce que la présomption légale qui concerne des faits réputés est absolue et aucune preuve ne peut lui être opposée.
+Les documents technologiques
+Les documents technologiques
+Les écrits et les différents moyens de preuve reposent souvent sur des supports des technologies de l’information (ex: magnétiques, électroniques, sans fil, optiques). Bref, toute technologie permettant de contenir de l’information 
+On a tous déjà acheté un bien par Internet, et c'est un acte ayant quand même une valeur juridique 
+Il peut être sous seing privé dans le sens ‘’traditionnel du terme’’
+Courriel est un simple écrit (2832 C.c.Q.) → fait appel au technologie de l'information
+La LCCJTI a été adoptée le 1er nov 2001
+Loi d’application générale, car ses dispositions s’appliquent à toute loi n’ayant pas de disposition particulière quant au support de certains documents 
+Elle couvre l’ensemble des règles applicables aux technologies de l’information
+On va se contenter que des règles de la LCCJTI concernant le droit de la preuve
+L’équivalence fonctionnelle des documents
+L'interchangeabilité des documents
+Libre choix des supports pour les différents documents
+Écrit reste un écrit qu’il soit sur un support papier ou technologique, donc la LCCJTI ne vient PAS créer un nouveau moyen de preuve (on reste avec les 5 moyens de preuve classique→écrit, témoignage,aveu, présomption, élément matériel)
+Conséquences et effets de la LCCJTI
+Valeur juridique d’un document technologique équivaut à celle d’un document papier quel que soit le support utilisé (Si certaines normes sont respectés)
+Document technologique peut servir comme mode de communication à moins qu’une loi prévoit un mode en particulier (à défaut tout doc technologique peut servir de mode de communication)
+L’expression du consentement par une marque autre que la signature traditionnelle est permise (2827 C.c.Q.), à moins qu’une disposition de la loi n’exige la signature traditionnelle
+LCCJTI complète les dispositions du CCQ du droit de la preuve  pour tous documents technologiques et facilite l’application de certaines notions juridiques du droit de la preuve au doc technologique
+LCCJTI intègre maintenant  dans le droit de la preuve, de nouvelles notions:
+Le document (3 LCCJTI)
+Un document est constitué d'informations portées par un support. L’information y est délimitée et structurée, de façon tangible ou logique selon le support qui la porte, et elle est intelligible sous forme de mots, de sons ou d’images. L’information peut être rendue au moyen de tout mode d’écriture, y compris d’un système de symboles transcriptibles sous l’une de ces formes ou en un autre système de symboles.
+Délimitée et structurée qui est portée sur un support 
+Doc existe sans égard à la classification de son support
+Notion de document s’applique à tous documents auxquels nos lois québécoises peuvent référer, qu’il s’agissent d’un écrit, enregistrement, captation, photo, vidéo → dans tous les cas, il s’agit d’un document au sens de la loi car il contient une information organisée
+Intégrité (6 LCCJTI)
+« L’intégrité du document est assurée, lorsqu’il est possible de vérifier que l’information n’en est pas altérée et qu’elle est maintenue dans son intégralité, et que le support qui porte cette information lui procure la stabilité et la pérennité voulue.
+L’intégrité du document doit être maintenue au cours de son cycle de vie, soit depuis sa création, en passant par son transfert, sa consultation et sa transmission, jusqu’à sa conservation, y compris son archivage ou sa destruction.
+Dans l’appréciation de l’intégrité, il est tenu compte, notamment des mesures de sécurité prises pour protéger le document au cours de son cycle de vie. » 
+Un doc technologique pourra être utilisé dans la mesure où son intégrité est assurée pour faciliter cette intégrité → 7 LCCJTI
+« Il n’y a pas lieu de prouver que le support du document ou que les procédés, systèmes ou technologies utilisés pour communiquer au moyen d’un document permettent d’assurer son intégrité, à moins que celui qui conteste l’admission du document n’établisse, par prépondérance de preuve, qu’il y a eu atteinte à l’intégrité du document. »
+Il y a donc une présomption d’intégrité DU SUPPORT de l’information → ce sera à celui prétendant à l’atteinte à l’intégrité de ce doc entre le moment de sa création et de sa présentation, de faire la demande conformément à 262 C.p.c. avec une déclaration sous serment 
+Authenticité n’est pas la même chose que l’intégrité
+Ce document peut avoir la fonction d’original (2860 al.3 CCQ)
+Neutralité technologique 
+Expression qui signifie que le législateur ne prévoit pas l’utilisation d’une technologie en particulier dans une loi donnée
+Une loi neutre au plan technologique ne préférera pas l’utilisation d’une technologie ou d’un support à une autre 
+Donc le principe du libre choix du sport du document en raison du fait de l’égalité des supports et de la valeur de ces supports (2 LCCJTI)
+Ex: La signature peu importe sa forme et son support, si elle répond aux exigences de 2827 C.c.Q. peut être traditionnelle manuscrite OU technologique (ex: signer un email)
+Équivalence des documents 
+5 LCCJTI
+« La valeur juridique d’un document, notamment le fait qu’il puisse produire des effets juridiques et être admis en preuve, n’est ni augmentée ni diminuée pour la seule raison qu’un support ou une technologie spécifique a été choisi.
+Le document dont l’intégrité est assurée à la même valeur juridique, qu’il soit sur support papier ou sur un autre support, dans la mesure où, s’il s’agit d’un document technologique, il respecte par ailleurs les mêmes règles de droit.
+Le document dont le support ou la technologie ne permettent ni d’affirmer, ni de dénier que l’intégrité en est assurée peut, selon les circonstances, être admis à titre de témoignage ou d’élément matériel de preuve et servir de commencement de preuve, comme prévu à l’article 2865 du Code civil.
+Lorsque la loi exige l’emploi d’un document, cette exigence peut être satisfaite par un document technologique dont l’intégrité est assurée »
+À partir du moment ou l'intégrité d'un doc technologique est assurée, il peut être utilisé en preuve pour servir ce à quoi il devait servir 
+Ex: s’il devait servir à établir un contrat, un contrat peut être un acte sous seing privé (2826 C.c.Q) (si le doc technologique respecte les règles de fond de 2826 C.c.Q)
+Ex: on peut utiliser des CD contenant des informations écrites, des rapports  pour remplacer les rapports papiers qui auraient dû être communiqués à l’autre partie → équivalence des supports (support papier des pages de rapports et le support CD qui contiennent les documents) 
+Équivalence fonctionnelle
+Sert à déterminer l’utilisation faite d’un document technologique
+Ainsi un doc technologique à la même fonction qu’un document papier
+S’il sert à prouver un contrat, le document technologique sera qualifié d’écrit
+C’est l’usage qu’on fait de ce doc techno
+Impacts de la LCCJTI sur le droit de la preuve
+Aucun véritable impact → LCCJTI donne des critères pour appliquer nos principes de la preuve aux documents technologiques (faire le lien entre les principes du C.c.Q et les documents technologiques)
+Valeur juridique d’un doc n’est PAS influencé par le support
+Ex: qu’il s'agisse de certificats d’actions, un article de journal, un dossier médical → on pourra l'avoir sur support traditionnel de papier OU support technologique (principe d’interchangeabilité des supports)
+Principe d’interchangeabilité des supports
+Rappel: Valeur juridique d’un doc n’est PAS influencé par le support
+Exceptions:
+Un contrat de consommation exige un écrit sur support papier (25 LPC) 
+Hypothèque immobilière doit faire l’objet d’un acte notarié (2693 C.c.Q.)
+Un achat sur un site transactionnel devient un acte sous seing privé. Si l’intégrité est assurée et les conditions de l’acte sous seing privé ont été respectée (2826 C.c.Q.); le message de confirmation de l’achat fait preuve de l’acte juridique, des déclarations et de la date (2829 et 2830 C.c.Q.) how is this an exception → i guess que cest pcq vu que c'est un message techno donc sur support techno, il va avoir valeur juridique (fait preuve de l’acte juridique de l’achat) slm sil respecte 2826 ccq okok
+Valeur juridique découle de l’intégrité des documents technologiques
+Si l’intégrité est préservée selon les exigences de la LCCJTI, il est possible de les transférer, les archiver, les changer de support, et les transmettre dans des réseaux tout en conservant leur pleine valeur juridique 
+LCCJTI énonce les conditions pour accorder une valeur juridique à ces documents 
+LCCJTI énonce les exigences précisées à l,égard des différentes étapes du cycle de vie du document 
+Si l’intégrité du document n’est pas assurée, ce document peut quand même servir d’éléments matériels, de témoignage ou de commencement de preuve 
+Lien entre la personne et le document
+Pour être utilisé en preuve, le doc doit être relié à la personne qui en est l’auteur
+Pour les docs papiers, cela se conçoit facilement puisque la signature relit la personne au document
+38 et s. LCCJTI → conditions par lesquelles un document technologique sera relié à son auteur, notamment quant à la forme que peut prendre la signature 
+Transfert de documents (17 LCCJTI)
+Faire passer le document d’un support à un autre
+Ex: quand on numérise un document papier pour l’archiver (support papier à support technologique) 
+Pour détruire l’original papier, la reproduction numérique pourra remplacer l’original (17 LCCJTI), cela pourra être possible lorsqu’on pourra certifier ou documenter le transfert auquel il aura été procédé  
+La personne procédant au transfert devra documenter le transfert  en décrire les circonstances, la date du transfert, attester que la copie ainsi obtenue est totalement conforme à la copie originale à partir de laquelle le transfert a été fait ainsi que les moyens utilisé pour s’assurer que l’intégrité du support sur lequel elle a procédé au transfert 
+Donc possible dorénavant de procéder à l'archivage numérique des documents (2842 al.2 C.c.Q)
+Faut surtout retenir que la valeur juridique des documents est prévisible grâce à la LCCJTI, ce qui facilitera l’admission en preuve, car cette valeur ne tient pas compte du support utilisé mais plutôt de l’intégrité de l’information portée par ce support  what does this mean, bin que tser la valeur est prévisible pcq la lccjti dit la présomption d’intégrité et que la valeur dun doc va pas changer que ca soit un papier ou un techno, la valeur dun doc est vrm reliée à son intégrité donc techniquement avec la présomption dintegrité ton doc a de la valeur juridique
+Question-Le support adéquat
+Vrai ou Faux
+Pour qu’un contrat soit valide et exécutable, il doit nécessairement être signé par tous les participants sur un support papier.
+Faux, selon l’article 2 de la Loi concernant le cadre juridique des technologies de l’information, à moins que la loi n’exige l’emploi d’un support ou d’une technologie spécifique, chacun peut utiliser le support ou la technologie de son choix.
+Question-Les documents technologiques
+Dans le cadre d’un litige, il est mis en preuve que tous les employés de la défenderesse, l’entreprise Marché Aucoin inc., utilisent le même logiciel comme agenda pour y inscrire leur emploi du temps de façon systématique. Afin de prouver l’existence et la durée du temps qui a été investi lors d’une rencontre tenue le 15 mars dernier, l’avocat de la demanderesse tente, entre autres, d’introduire en preuve la reproduction, sur support papier, d’entrées tirées des agendas de deux employés de Marché Aucoin inc.
+Une objection est formulée par l’avocat de la défenderesse quant à la production de ces documents au motif que la reproduction sur support papier de ces entrées ne présente pas les critères de fiabilité prévus par la loi sans avoir accompli quelque autre formalité. Selon l’avocat de Marché Aucoin inc., cette preuve ne constitue pas la meilleure preuve en vertu de l’article 2860 C.c.Q.
+Vrai ou Faux→ Cette objection est mal fondée.
+Vrai →  les entrées effectuées via le logiciel contenant l’agenda des employés de la défenderesse et leur emploi du temps constituent des écrits au sens de l’article 2837, al. 1 C.c.Q. Étant donné que l’écrit est un support faisant appel aux technologies de l’information, l’écrit est qualifié de document technologique selon l’article 2837, al. 2 C.c.Q. Ce document technologique sert d’original ou de meilleure preuve, en vertu de l’article 2860, al. 3 C.c.Q., car il répond aux exigences de l’article 12 de la Loi concernant le cadre juridique des technologies de l’information. Selon l’article 2839 C.c.Q. ou l’article 6 L.c.c.j.t.i., l’intégrité d’un document est assurée lorsqu’il est possible de vérifier que l’information n’en est pas altérée et qu’elle est maintenue dans son intégrité. Par ailleurs, en vertu de l’article 2840 C.c.Q. ou de l’article 7 L.c.c.j.t.i., il n’y a pas lieu de prouver que le support du document permet d’en assurer son intégrité.
+Questions
+248 cpc?: la dispense je la comprends pas
+Question 1 (exigence de la preuve) → pk la prohibition de 2862 ccq ne s’applique pas? 
+2860 s’applique aux écrits existants OU perdus ou détruits vs 2862 s’applique quand il n’y a pas JAMAIS eu d’écrit 
+Pas une question juste un commentaire→ Définition preuve de la confection: preuve à l'effet que le document mis en preuve par une partie est le véritable document tel qu'un allègue la partie. 
+Question→la pertinence d’une pièce→moi dans ma tête c’est pertinent LOL no?
+Same jsuis confuse 
+264 c’est juste pour envers un tiers?? 
+Oui pcq présomption de 2828 al.2 C.c.Q. s’applique pour quand c’est mis en preuve envers les parties à l’acte (on se rappelle que c’est partie à l’acte pour l’acte sous seing privé, donc il a présomption d’authenticité ENTRE les parties donc pas besoin de 264 SAUF quand il est mis en preuve au tiers car pas de présomption donc va faire ta MED)
+Comment un billet de bus est une acte passé dans des activités d’une entreprise 2831 ccq 
+N’importe quoi qui sort d’une entreprise pas devant un officier et pas signé = 2831 (ex: facture d’épicerie)
+Pk on dit que l’acte pur et simple ne peut pas être un témoignage alors que 2832 ccq dit que oui 
+Sab check avec fred 
+Question interro préalable wtf justification avec 227 et 280 al.4 cpc? Vois pas le lien
+→Règle de la déposition à l’interro préalable est soumise aux règles de l’interro principal 
+C'est quoi un fonctionnaire d’état , comment on va reconnaitre ca a l'examen? 283 cpc→TU TRAVAILLES POUR LE GOUV. POUR LETAT, POUR LE MINISTERE
+Exceptions de l’interrogatoire sous serment vs interrogatoire hors tribunal → les deux le but est d'interroger qqn hors tribunal?? 
+Oui
+P.46 différence entre catégorie A) et D)
+2852 C.c.Q→ un mandataire autorisé c’est quoi? Ctu genre le tuteur du mineur ou c comme le témoin de la partie?
+1609→dans les 30 jours means after le préjudice corporel
+Différence entre 2860 al.2 et 2861 
+Question: La contradiction d’un écrit –p.54-55 →est ce que la modification crée un autre acte? 
+P.61 ndc
+Exercice 2 bloc 1 → cest quand debord qu’on peut utilisé 2862 al.2 CCQ? Comme, comment un acte juridique passé dans le cours d’une entreprise ne pourrait pas être par écrit? 
+Exercice 4 bloc 1 → j’avais parlé de 2813, 2818 et 2821 comme quoi cetait M-A qui allait devoir faire une inscription de faux 
+Ne pas oublier 4 cpc 
+Bloc 1 - dossier Ville de blabla → question 2, pk on parle pas de 2860 ccq, ecq cest pcq l’état des droits cest non-instrumentaire so ne constate pas un acte juridique so pas 2860??
+Articles de bullshit de municipalité 
+Exercice pratique→bloc 4→ comprends pas laffaire de l’aveu, 1 ) pk c complexe( genre i kinda get it mais jai besoin dun truc pour différencier entre aveu complexe et qualifié) 2) dequoi c invraisemblable?? Pk on peut le divisier
+P.64 des notes, commentaire 
+Art.245 :examiné et respo civile? OU soit exam soit respo ?

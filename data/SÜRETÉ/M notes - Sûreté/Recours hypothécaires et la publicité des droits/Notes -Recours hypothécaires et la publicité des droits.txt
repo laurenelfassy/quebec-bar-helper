@@ -1,0 +1,223 @@
+LES RECOURS HYPOTHÉCAIRES ET LA PUBLICITÉ DES DROITS
+Action personnelle, vente par le créancier, vente sous contrôle en justice, etc. Le choix des recours est vaste pour le créancier titulaire d’une hypothèque sur un bien. Mais avant de décider de prendre possession du bien pour l’administrer soi-même ou encore de le prendre en paiement, mieux vaut connaître les avantages et les inconvénients propres à chaque recours et ainsi déterminer quelle est la meilleure option selon les circonstances en l’espèce. Par ailleurs, comme la compréhension du registre foncier et du registre des droits personnels et réels mobiliers ne peut être dissociée de la compréhension des sûretés, nous analyserons également plus en détail le fonctionnement et le contenu de ces deux registres.
+Section 1 : L’action personnelle
+En plus des différents recours hypothécaires dont peut se prévaloir le créancier hypothécaire, celui-ci dispose également de l’action personnelle (art. 2748 C.c.Q.) qui lui permet d’obtenir un jugement et de le faire exécuter sur l’ensemble des biens de son débiteur (art. 2644 C.c.Q.). Puisque ce recours comporte des avantages comme des inconvénients, il est important d’en connaître les effets afin d’en évaluer sa pertinence.
+Le créancier bénéficie du droit au cumul des recours. Le créancier hypothécaire peut à la fois dans la même demande introductive d’instance : intenter un recours avec un volet hypothécaire et une action à volet personnel. 
+Exemple : A doit 100 000$ à B qui bénéficie d’une hypothèque conventionnelle sur l’immeuble de X. Si B reçoit. 80 000$ lors de la vente sous contrôle de justice de l’immeuble X, il pourra poursuivre son action personnelle pour le solde de sa créance de 20 000$ en tant que créancier ordinaire. 
+Par contre, l’un des 4 recours hypothécaires est la prise en paiement et son exercice éteint totalement la dette due par le débiteur alors, si le créancier choisit ce recours, l’action personnelle ne sera pas possible. 
+Les conditions d’application, les étapes et les formalités de l’action personnelle (arts. 1594-1597 C.c.Q.)
+Il n’y a aucune formalité, aucune étape préalable, mais la créance doit exister, être valable et le débiteur doit être en demeure.
+Les effets, les avantages et les inconvénients de l’action personnelle (arts. 1514, 2646, 2761 C.c.Q. et 702, 703 et 766 C.p.c.)
+Les effets 
+Une fois que le jugement est exécutoire lorsque le délai de 30 jours d’appel est terminé, Il pourra ainsi saisir l’ensemble des biens du débiteur pour que l’ensemble soit vendu sous contrôle de justice (arts. 702, 703 et 766 C.p.c.). Par contre, si d’autre créanciers se manifestent par le dépôt d’une réclamation dans ce processus de vente, l’officier chargé de la vente sera tenu de préparer un ordre de collocation. Le créancier hypothécaire sera payé en préférence sur la vente seulement du bien hypothéqué et pour les autres biens, il sera colloqué tel un créancier ordinaire. 
+Avantages
+Aucune mesure préalable, aucune formalité autre que la nécessité que le débiteur doit en demeure
+Il n’y a pas de délai accordé au débiteur pour corriger la situation à l’exception du délai donné dans la mise en demeure (comparativement à un recours hypothécaire où de longs délais sont offerts au débiteur pour corriger la situation)
+Le créancier dans le cadre du recours personnel peut réclamer de l’intégralité de sa créance TANT QU’IL Y A UNE CLAUSE DU BÉNÉFICE DU TERME DANS LE CONTRAT, ce qui est toujours le cas ou s’il n’y en a pas, il pourra bénéficier de l’art. 1514 C.c.Q. Cette disposition permet de prononcer la déchéance du terme automatiquement lorsque le débiteur est insolvable, en faillite ou qu’il diminue l’une de ses sûretés. 
+Inconvénients
+Les délais puisque le recours personnel ne peut avoir lieu sans l’intervention des tribunaux par le biais d’une demande introduction d’instance
+Une fois que le jugement est exécutoire, le créancier ne pourra exercer son droit que sur l’ensemble des biens du débiteur. Il ne bénéficie pas du droit de suite. 
+Le débiteur poursuivit personnellement peut se prévaloir des articles de la Loi sur la faillite qui aura pour effet de suspendre complètement les effets du recours personnel à son égard. S’il s’agit plutôt d’un créancier hypothécaire, la faillite ne l’arrêtera pas. 
+Section 2 : Les recours hypothécaires
+L’art. 2748, al.2 C.c.Q. donne la liste exhaustive des 4 recours hypothécaires dont dispose un créancier pour faire valoir et réaliser sa sûreté :
+La prise de possession du bien hypothéqué à des fins d’administration (arts. 2773-2777 C.c.Q.)
+La prise en paiement de ce bien (arts. 2778-2783 C.c.Q.)
+La vente de celui-ci par le créancier (art. 2784-2790 C.c.Q.)
+La vente du bien sous contrôle de justice (arts. 2791-2794 C.c.Q.)
+Certains recours hypothécaires comportent plus d’avantages que d’autres et il est important d’en connaître les effets afin de choisir le recours le plus approprié selon les circonstances. Ce sont les 4 recours possibles et les parties ne pourraient pas en convenir un autre conventionnellement. 
+TOUTEFOIS, un créancier bénéficiant d’une hypothèque sur une créance bénéficie d’un droit additionnel et non d’une recours additionnel, soit celui de percevoir les créances sur lesquels il a une hypothèque (arts. 2743 et ss C.c.Q.). Nous n’aurons ainsi pas à appliquer toutes les étapes préalables d’un recours hypothécaire. 
+Vrai/Faux
+Le créancier hypothécaire dispose uniquement des recours suivants pour se faire payer : action personnelle, vente sous contrôle de justice, vente par le créancier et prise en paiement. 
+Faux, l’art. 2748 C.c.Q. précise également que le créancier hypothécaire peut prendre possession du bien grevé pour l’administrer.  
+Les conditions d’application des recours hypothécaires 
+L’art. 2748,al.2 C.c.Q. exige 2 conditions pour le créancier hypothécaire puisse exercer ses recours :
+Le débiteur doit être en défaut : dans la convention régissant le prêt et l’hypothèque il y a plusieurs engagements permettant de le mettre en défaut tels que le fait de ne pas payer, l’obligation du débiteur d’assurer ses biens, de payer les créances de l’État, de payer les impôts fonciers dans le cas d’une hypothèque immobilière… 
+ La créance doit être liquide (montant déterminé ou facilement déterminable comme c’est le cas d’un prêt alors que l’action en dommage nécessiterait un jugement pour qu’elle soit déterminable) et exigible (le créancier doit être en mesure d’en exiger le paiement et c’est le cas lorsque le contrat contient une clause de déchéance du terme ou encore en vertu de l’ art. 1514 C.c.Q., le créancier pourra invoquer la déchéance du terme lorsque le débiteur diminue ses sûretés) 
+Les conditions d’applications particulières
+2 des 4 recours hypothécaires ont une particularité : (1) la prise de possession pour fin d’administration et (2) la vente par le créancier. 
+La loi exige que le recours ne pourra être exercé que sur les biens d’une entreprise et ne peuvent pas être utilisés pour un bien donné par une personne physique. 
+Les étapes et les formalités des recours hypothécaires
+Les étapes et les formalités communes :
+La signification et l’inscription d’un préavis d’exercice d’un recours hypothécaire (art. 2757 C.c.Q.)
+À qui ?
+À 3 personnes : le constituant, le débiteur et à toute personne contre qui il entend exercer son droit.
+Exemple : A doit 50 000$ à B, en faveur de qui il consent une hypothèque sur un immeuble dont il est toujours propriétaire. En cas d’exercice d’un droit hypothécaire par B, ce dernier signifiera le préavis à A qui représente les 3 personnes visées par l’art. 2757 C.c.Q. 
+Exemple : Par contre, si A doit 50 000$ à Z et que B constitue une hypothèque sur son immeuble pour garantir cette dette et si cet immeuble est vendu à C, Z devra signifier son préavis à A, le débiteur, B, le constituant et C, la personne contre qui le droit est exercé, c’est-à-dire le propriétaire. 
+**Les autres créanciers n’auront pas être signifiés SAUF s’ils ont inscrit des droits sur le registre approprié et un avis d’adresse comme leur permet l’art. 3022 C.c.Q., cela déclenche l’obligation pour l’officier des droits de leur signifier le préavis d’exercice en vertu de l’art. 3017 C.c.Q.**
+Le contenu du préavis d’exercice
+L’art. 2758, al.2 C.c.Q. prévoit que le créancier doit dénoncer :
+Tout défaut par le débiteur d’exécuter ses obligations
+Rappeler le droit, le cas échéant, du débiteur ou d’un tiers, de remédier à ce défaut
+Le montant de la créance en capital et intérêts, s’il en existe
+La nature du droit hypothécaire que le créancier entend exercer (l’un des 4)
+Fournir une description du bien grevé
+Sommer celui contre qui le droit hypothécaire est exercé de délaisser le bien, avant l’expiration du délai imparti. 
+EXCEPTION = Art. 2759 C.c.Q. dispense au créancier de fournir un préavis en matière de créanciers titulaires d’une hypothèque grevant des valeurs mobilières ou des titres intermédiés si la convention le permet. 
+Attendre l’expiration du délai pour délaisser (art. 2749 C.c.Q.)
+Les délais sont prévus à l’art. 2758, al.2 C.c.Q. : 
+10 jours lorsque l’intention du créancier est de prendre possession du bien pour fin d’administration 
+3 autres recours (prise en paiement, vente sous contrôle de justice ou par le créancier) le délai va varier en fonction qu’il s’agisse d’un bien meuble ou immeuble. 
+ Meuble = Ce délai est de 20 jours à compter de l’inscription du préavis, mais de 30 jours s’il s’agit d’un contrat de consommation. 
+ Immeuble = Ce délai est de 60 jours 
+**C’est délais sont d’ordre public et ne peuvent pas être réduit SAUF DANS 2 CAS : 
+créanciers titulaires d’une hypothèque grevant des valeurs mobilières ou des titres intermédiés peut se dispenser du préavis si la convention le permet (art. 2759 C.c.Q.)
+Obtenir d’un tribunal un délaissement anticipé avant la fin des délais dans 3 situations (art. 2767 C.c.Q.) :
+Créance en péril
+Bien susceptible de se dépérir rapidement
+Bien susceptible de se déprécier rapidement
+Les délais sont présents pour 3 raisons : (1) L’art. 2761 C.c.Q. indique que le débiteur ou toute personne intéressée peuvent remédier à tout défaut (2) L’art. 2750 C.c.Q. prévoit qu’un créancier antérieur dans son rang peut faire valoir la priorité de son rang et ainsi il prend la place de celui ayant transmis le préavis d’exercice (3) L’art. 2764 C.c.Q. prévoit que le débiteur peut délaisser volontairement le bien (4) L’art. 2779 C.c.Q. prévoit que lorsque le créancier a choisi comme recours la prise en paiement, à savoir le transfert de propriété du bien au créancier pour qu’il se paie, et bien cela va avoir pour conséquence de rompre le droit de suite et de purger les hypothèques subséquentes. Ainsi, les créanciers de ces hypothèques subséquentes pourront se tourner vers de créancier afin de convaincre de le convaincre de changer de recours pour opter pour la vente par le créancier ou de la vente sous contrôle de justice 
+Demande en délaissement forcé, si aucun délaissement volontaire n’a été fait par le débiteur (art. 2765 C.c.Q.)
+La demande en délaissement forcé se fera par une demande introductive d’instance ayant 2 objets :
+De prononcer par le tribunal le délaissement forcé du bien
+Le tribunal donnera des conclusions adaptées (art. 2765 C.c.Q et art. 480 C.p.c.)
+Les étapes et les formalités particulières
+La vente sous contrôle de justice
+Si le créancier choisit la vente sous contrôle de justice, l’art. 2791 C.c.Q. permet au tribunal de se prononcer sur plusieurs éléments lorsque la demande introductive d’instance du créancier le prévoit : la personne qui y procédera, détermine les conditions et les charges de la vente, indique si elle peut être faite de gré à gré, par appel d’offres ou aux enchères et, s’il le juge opportun, fixe, après s’être enquis de la valeur du bien, une mise à prix (prix minimum pour la vente).
+La personne choisit pour y procéder est complétée par l’art. 2793, al.2 C.c.Q. mentionnant que cette personne agira au nom du propriétaire.
+Pour fixer la mise en prix, le tribunal devra avoir entre les mains une évaluation du bien par un évaluateur. L’art. 2791 C.c.Q. doit être lu en conjonction avec les arts. 742 et ss C.p.c. Tout particulièrement l’art. 761 C.p.c. encadre la vente du bien à un prix commercialement raisonnable. (art.  C.c.Q.) 
+La prise en paiement
+L’art. 2778 C.c.Q. prévoit une particularité lorsque le débiteur a déjà acquitté, au moment de l’inscription du préavis du créancier, la moitié, ou plus, de l’obligation garantie par hypothèque. Le créancier doit alors obtenir l’autorisation du tribunal pour exercer la prise en paiement sur le solde impayé. 
+Ce sera dans le cadre de la demande en délaissement forcé et dans laquelle il y aura une condition additionnelle à cet effet
+L’art. 2779 C.c.Q. permet aux créanciers subséquents de demander la modification du recours intenté et la cour d’appel a affirmé que ce recours peut être exercé non-seulement à l’intérieur des délais du C.c.Q., mais tant que la prise en paiement n’a pas été exercé. 
+Les effets, les avantages et les inconvénients de la vente sous contrôle de justice
+Les créanciers seront colloqués suivant leur rang jusqu’à ce qu’il n’ait plus d’argent à distribuer. Que tous les créanciers soient payer ou non, cette vente a pour effet d’éteindre tous les droits réels affectant l’immeuble sous réserve de l’art. 759 C.p.c. dont réfère l’art. 2794 C.c.Q. 
+Donc, l’acquéreur du bien, l’acquière alors que tous les droits seront éteints. 
+Avantages
+Permet à un créancier n’ayant pas été complètement payé d’avoir un recours personnel contre ce créancier pour espérer être payé. Un jugement ne sera prescrit que dans 10 ans alors un recours est possible et parfois le débiteur avait des cautions pour garantir la dette. 
+Inconvénients
+Les nombreuses formalités de l’art. 2791 C.c.Q. font en sorte que les coûts sont davantage élevés puisqu’il doit acquitter les honoraires d’avocat, mais aussi la personne désignée par le tribunal pour réaliser la vente sous contrôle de justice, l’évaluation du bien et pour la préparation de l’état de collocation.
+Les effets, les avantages et les inconvénients de la vente par le créancier
+Très peu utilisé en pratique. Le C.c.Q. encadre beaucoup moins ce recours et fait supporter un nombre important d’obligations sur les épaules du créancier. 
+Inconvénients
+La vente par le créancier ne purge pas les droits mentionnés sur le bien faisant l’objet de l’hypothèque, c’est-à-dire que les hypothèques postérieurs vont demeurer sur le bien à charge de l’acheter (art. 2790 C.c.Q.) 
+Le créancier qui choisit ce recours a l’obligation de vendre le bien sans retard inutile et à un prix commercialement raisonnable (art. 761 C.p.c.) et il doit agir dans le meilleur intérêt du débiteur (art. 2785 C.c.Q.). 
+Les effets, les avantages et les inconvénients de la prise en paiement
+Les effets
+Elle ne provoque pas de vente alors, aucun montant d’argent ne sera obtenu et la confection d’un ordre de collocation est inutile. Par l’effet de l’art. 2783 C.c.Q., le créancier en devient propriétaire et c’est ce droit de propriété qui éteint sa créance (art. 2782 C.c.Q.) et son hypothèque attachée à celle-ci s’éteint également (art. 2797 C.c.Q.).
+Sur les créanciers ordinaires et prioritaires, ce recours a pour effet de faire perdre leur droit sur ce bien puisqu’ils ne disposent pas d’un droit de suite. Il y a cependant deux exceptions à l’impossibilité de revendiquer :
+Les municipalités et les commissions scolaires (des créanciers prioritaires sur un immeuble) continueront d’avoir leur priorité et ce par l’application de l’art. 2654.1 C.c.Q.
+Créancier possédant un droit de rétention sur un bien meuble (créancier prioritaire) pourra faire opposer sa priorité au créancier exécutant la prise en paiement, de sorte à l’obliger à délaisser le bien, mais à charger de la priorité du détenteur (art. 2770 C.c.Q.).
+Les effets sur les créanciers hypothécaires sont prévus à l’art. 2783 C.c.Q. Le créancier devenant propriétaire du bien, le devient libre des hypothèques inscrites après la sienne alors, c’est ainsi dire que les hypothèques inscrites avant la sienne restent. 
+Exemple : A est un créancier hypothécaire de premier rang, B de second rang et C de troisième rang sur un meuble X. Si B prend le bien X en paiement, il le prendra libre de l’hypothèque de C et grevé de l’hypothèque de A. B n’est pas obligé de rembourser de suite l’hypothèque de A, mais A pourra exercer dès la survenance d’un défaut de B un recours hypothécaire par l’envoi d’un préavis.
+Les effets sur les créanciers détenteurs d’une hypothèque légale de la construction sont différents puisque ceux-ci doivent d’abord être payés avant toutes les autres hypothèques en vertu de l’ art. 2952 C.c.Q. Lorsque le créancier détient une hypothèque et exerce la prise en paiement, il va devenir propriétaire de ce bien, mais à charge des hypothèques légales de la construction grevant ce même immeuble SAUF dans la mesure où les hypothèques légales de la construction ont pris naissance par contrat ou par dénonciation auprès du propriétaire après que le créancier ayant exercé ses droits devienne propriétaire du bien et donc après que celui-ci a eu inscrit un préavis d’exercice. À ce propos, l’art. 2783, al.2 C.c.Q. prévoit que la prise en paiement rétroagit au moment de l’inscription du préavis d’exercice en prise en paiement. 
+Enfin les droits réelles créé après l’inscription du préavis d’exercice ne sont pas opposable au créancier prenant le bien en paiement (art. 2783, al.2 C.c.Q.).
+Inconvénients
+Il y a danger pour le créancier exerçant ce recours puisque peu importe la valeur de ce bien, sa créance s’éteindra (art. 2782 C.c.Q.). Si le bien vaut moins que sa créance, il en assumera ainsi la perte en découlant. 
+Il ne pourra pas intenter d’action personnel contre le débiteur ou contre d’éventuel cautions. 
+Avantages 
+Recours simple, rapide et souvent moins couteux puisqu’il y a moins de formalités. 
+Lorsque le délaissement est volontaire, ce recours permet au créancier d’éviter qu’il se tourne vers les tribunaux(art. 2764, al.2 C.c.Q.).
+Si l’état détenait une priorité, celle-ci disparaitra par l’effet du changement de propriétaire. 
+Vrai/Faux
+Comme pour la vente sous contrôle de justice, la prise en paiement mène à la vente du bien et au paiement des créances selon leur rang.
+Faux, contrairement à la vente sous contrôle de justice, la prise en paiement ne mène pas à la vente du bien et au paiement des créances selon leur rang. Le créancier hypothécaire qui prend le bien en paiement en devient propriétaire selon l’art. 2783 C.c.Q.
+Les effets, les avantages et les inconvénients de la prise en possession à des fins d’administration
+Par ce recours, le créancier remplace le débiteur pour administrer lui-même les biens d’une entreprise en espérant gérer des profits pour payer les dettes. Il n’y a aucune vente mais seulement une exploitation de l’entreprise par une pleine administration selon l’art. 2773 C.c.Q. renvoyant à l’art. 1306 C.c.Q.
+Lorsque l’acquittement de toutes les dettes est réalisé, le créancier est tenu de remettre à celui contre qui le droit hypothécaire a été exercé, outre le bien, tout surplus restant entre ses mains après l’acquittement de la dette, des dépenses de l’administration et des frais engagés pour exercer la possession du bien. (art. 2777 C.c.Q.). 
+Section 3 : Les effets de la publicité des droits et les droits qui y sont soumis ou admis
+La publicité des droits a principalement pour effet de rendre les droits opposables aux tiers et d’en établir leur rang. Certains droits doivent obligatoirement être publiés alors que d’autres le sont de manière facultative.
+Les effets de la publicité
+Les effets servent principalement à rendre public les informations au RDPRM ou au registre foncier. 
+L’art. 2941 C.c.Q. indique que la publicite sert :
+Rendre les droits opposables aux tiers
+Établir le rang entre les différents créanciers
+En matière de rang, la règle est établie à l’art. 2945 C.c.Q. : les droits prennent rang suivant la date, l’heure et la minute inscrites sur le bordereau de présentation ou, si la réquisition qui les concerne est présentée au registre foncier, dans le livre de présentation, pourvu que les inscriptions soient faites sur les registres appropriés.
+Il existe CEPENDANT des EXCEPTIONS au principe de l’art. 2945 C.c.Q. :
+Hypothèque légale de la construction qui porte sur la plus-value qu’apporte le constructeur sur l’immeuble. Celle-ci passera avant toutes les autre hypothèques publiées même si elle est publiée après (art. 2952 C.c.Q.)
+Hypothèque immobilière prend rang à compter de l’inscription du titre du constituant, mais après l’hypothèque du vendeur lorsqu’elle se retrouve dans l’acte d’acquisition du constituant (art. 2948, al.1 C.c.Q.)  même si elle est techniquement publiée après 
+L’équivalent de l’art. 2948, al.1 C.c.Q., mais en matière mobilière à l’art. 2954 C.c.Q.
+Exemple : A achète de B l’immeuble de X. A va se faire financer par Z pour pouvoir acheter l’immeuble. Avant la signature de l’acte de vente, la Banque Z publiera son hypothèque garantissant son prêt. Dans les jours suivants, l’acte de vente entre A et B est signé et publié. Si B n’est pas totalement payé et exige une hypothèque pour garantir son solde du prix de vente et que cette hypothèque se retrouve dans l’acte de vente comme c’est très souvent le cas, l’hypothèque du vendeur passera avant celle de la Banque Z, même si elle est inscrite après.
+L’hypothèque mobilière avec dépossession relativement à des valeurs mobilières ou à des titres intermédiés (art. 2714.2 C.c.Q.), le créancier prendra toujours rang en premier lorsqu’il détient la maitrise de ces valeurs mobilières ou de ses titres. 
+Les droits soumis ou admins à la publicité 
+Exemple : acte d’achat d’un immeuble (art. 2938, al.2 C.c.Q.) doit être publié. Celui d’un acte d’achat d’un meuble ne peut pas être publié. Un bail commercial peut être publié sans obligation.
+Certains droits doivent être publiés si l’on veut leur conféré une opposabilité. C’est le cas de l’hypothèque mobilière et immobilière (art. 2663 C.c.Q.). 
+Vrai/Faux
+La publication d’un bail immobilier est facultative mais confère certains avantages.
+Vrai, un bail immobilier peut être publié en vertu de l’art. 1852 C.c.Q. Sa publication n’est pas obligatoire, mais elle est permise. Bien que la publication de ce bail immobilier soit facultative, le locataire a intérêt à le publier pour pouvoir obliger l’acquéreur de l’immeuble à respecter ce bail jusqu’à son expiration, tel que le prévoit l’art. 1887, al. 2 du C.c.Q. 
+Section 4 : Les modes de publicité
+La publicité des droits s’effectue par le biais du registre foncier et du registre des droits personnels et réels mobiliers (RDPRM), à moins que la loi ne permette expressément un autre mode, tel que le prévoit l’art. 2934 C.c.Q. Dans le cadre de cette section, nous présenterons les différents modes de publicité des droits en abordant plus spécifiquement le contenu du registre foncier et celui du RDPRM.
+La publicité au moyen d’un autre mode expressément permis
+Selon l’art. 2934 C.c.Q. :
+Inscription au registre
+D’autres modes peuvent être prévus par la loi
+L’hypothèque mobilière avec dépossession (art. 2703 C.c.Q.) est publiée par la détention du bien ou du titre qu’exerce le créancier, et elle ne le demeure que si la détention est continue. 
+L’hypothèque légale en faveur des personnes qui ont participé à la construction ou à la rénovation d’un immeuble subsiste, quoiqu’elle n’ait pas été publiée, pendant les 30 jours qui suivent la fin des travaux. (art. 2727, al.1 C.c.Q.)
+L’hypothèque mobilière avec dépossession opérée par la maîtrise qu’obtient un créancier relativement à des valeurs mobilières ou à des titres intermédiés (art. 2714.2, al.1 C.c.Q.)
+La publicité au moyen d’une inscription au registre foncier
+Selon l’’art. 2969 C.c.Q. le registre foncier est tenu par l’officier de la publicité des droits. Le registre est divisé par circonscription foncière et que dans chacune il existe un index aux immeubles (art. 2972 C.c.Q.). 
+Pour consulter l’index aux immeubles, nous avons de besoin de (1) la circonscription foncière et (2) le numéro du lot. Voir ensuite l’exemple documentaire d’un index aux immeubles. 
+Dans la case droits à droite du document, il y a la date 2016-09-12 11h21 alors cela signifie que tous les droits apparaissant au registre ceux sont inscrit avant cette date. Donc, un droit inscrit le 12 décembre 2016 n’apparaitra pas et ça prendra environ 24h pour que la modification soit effectuée. On peut accéder au acte inscrit en appuyant sur le numéro d’inscription surligné. Dans la case remarques, on peut voir un montant, il s’agit du montant du prêt et non de l’hypothèque. L’avis d’adresse est un document que tout créancier qui inscrit un droit sur le registre foncier devrai déposé afin qu’il soit avisé de tout droit futur qui serait présenté pour inscription sur le même lot. Pour la colonne concernant les radiations, la lettre T et un numéro indiquerons que la créance a été entièrement recouvrée. L’information de la date de radiation ne sera pas indiquée par contre. 
+La publicité au moyen d’une inscription au registre des droits personnels (
+Contrairement au registre foncier, le RDPRM est centralisé à Mtl (art. 2969, al.2 C.c.Q.). Il est totalement informatisé. Les droits y sont inscrits de deux façons par le biais d’une fiche nominative (le nom du débiteur contre lequel les droits sont inscrits) que ce débiteur soit une personne physique ou morale. Lorsque l’on veut créer une fiche nominative pour une personne physique, il est essentiel d’avoir sa date de naissance. 
+La seconde façon d’inscrire est par une fiche descriptive du bien. C’est fiche ne peut pas être utilisée dans tous les cas, que ceux prévus par la loi. C’est-à-dire, les véhicules routiers visés par le R-RDPRM à l’art. 15. Il est possible de consulter le registre en entrant le numéro d’identification ou le numéro de série du bien.
+Exemple : véhicule faisant l’objet d’une location à long terme devrait être inscrite (art. 1852, al.2 C.c.Q.) ou d’une vente à tempérament (art. 1745, al.2 C.c.Q.). Si achat d’un véhicule usagé, il est prudent d’aller vérifier au RDPRM pour s’assurer que le vendeur est véritablement le propriétaire. 
+Les biens pouvant être inscrits par le biais d’une fiche descriptive peuvent être inscrits par une fiche nominative, mais l’inverse n’est pas possible. 
+Pour une hypothèque portant sur une universalité de véhicules ne peut pas être inscrite sur une fiche descriptive, mais uniquement par une fiche nominative.
+Le RDPRM ne permet pas de savoir qui est véritablement le propriétaire et de consulter l’acte qui créer le droit comparativement au registre foncier. 
+Analyse du document diffusé à l’écran de la capsule. C’est une fiche synectique. À la mention « date extrême d’effet » et la date mentionnée constituée la date d’extinction de l’hypothèque. C’est toujours 10 ans habituellement. 
+Quiz
+Trouvez l’intrus parmi les informations suivantes pouvant se retrouver au registre des droits personnels et réels mobiliers (RDPRM) en lien avec un véhicule routier :
+Un droit hypothécaire grevant le véhicule
+Une réserve de propriété
+Un bail de plus d’un an
+L’acte constitutif du droit hypothécaire grevant le véhicule
+d), car bien que le RDPRM permette de savoir qu’un droit a été publié, l’acte constitutif de ce droit n’est pas transmis au RDPRM.
+Section 5 : Le registre foncier
+En matière immobilière, la publicité des droits est effectuée au registre foncier, lequel contient des droits réels immobiliers ainsi que des droits personnels.
+(art. 2938 C.c.Q.) : oblige l’inscription de chaque immeuble au registre foncier. 
+On retrouvera au RDPRM : les réserves de droit de propriété, la cession de ces réserves (art. 1745 C.c.Q.), les ventes avec faculté de rachat et les cession de celles-ci (art. 1750 C.c.Q.), les donations mobilières (art. 1824 C.c.Q.), les baux d’une durée de plus d’un an (art. 1852 C.c.Q.) et le crédit-bail (art. 1847 C.c.Q.). 
+Le registre foncier permet de remonter la chaîne de titre comparativement au RDPRM. Le registre foncier peut contenir des droits réels et notamment des droits personnels. 
+Les droits réels immobiliers
+L’art. 2938, al.1 C.c.Q.: Sont soumises à la publicité, l’acquisition, la constitution, la reconnaissance, la modification, la transmission et l’extinction d’un droit réel immobilier. 
+Les plus fréquents :droit de propriété et les hypothèques : acte de vente, droit de résolution de la vente (art. 2939 C.c.Q.), acte de délaissement volontairement (art. 2781, al.2 C.c.Q.), jugement de prise en paiement (art. 2938 C.c.Q.), la donation immobilière (art. 1824 C.c.Q.), la transmission d’un droit de propriété par succession (art. 2998 C.c.Q.), les démembrements du droit de propriété(art. 1119 C.c.Q.), soit de l’usufruit, de l’usage, de la servitude et de l’emphytéose, modalité de droit de propriété (déclaration de copropriété (art. 1060 C.c.Q.)
+Aussi, du côté des hypothèques, on retrouve les hypothèques immobilières (art. 2663 C.c.Q.), l’hypothèque sur les loyers que génère cet immeuble (art. 2695, al.2 C.c.Q.), hypothèque légale de l’État (art. 2725 C.c.Q.), l’hypothèque résultat d’un jugement (art. 2730 C.c.Q.), l’hypothèque résultant d’un syndicat de copropriétaire (art. 2529 C.c.Q.) et l’hypothèque légale de la construction(art. 2727 C.c.Q.) 
+La transmission d’une créance hypothécaire (arts. 3003 et 3004 C.c.Q.), préavis d’exercice (art. 2757 C.c.Q.), l’avis d’abandon de la prise en paiement (art. 2779 C.c.Q.) et l’Avis de retrait de percevoir des loyers (arts. 2745 et 2695 C.c.Q.)
+Droits personnels
+Ils peuvent faire l’objet d’une inscription au registre foncier. 
+Exemple : bail immobilier (art. 1852 C.c.Q.), la déclaration de résidence familiale (arts. 404 et 405 C.c.Q.), 
+Section 6 : Le registre des droits personnels et réels mobiliers
+Le registre des droits personnels et réels mobiliers (RDPRM) contient des inscriptions visant la publicité des droits qui concernent un meuble, de même que celles de tout autre droit personnel, et ce, dans la mesure où la loi prescrit ou autorise expressément leur publication en vertu de l’art. 2938 C.c.Q.
+Les droits réels mobiliers 
+(art. 2938, al.3 C.c.Q.) : en l’absence d’une disposition à l’effet que le droit peut être publié, le droit ne pourra pas être publié au RDPRM. 
+Exemples : l’hypothèque mobilière conventionnelle ou légale (art. 2663 C.c.Q.), la transmission par la subrogation ou par la cession d’une créance hypothécaire mobilière (arts. 3003 et 3004 C.c.Q.), au préavis d’exercice d’un droit hypothécaire mobilier (art. 2757 C.c.Q.), l’avis de retrait d’autorisation de percevoir des créances hypothéqués (art. 2745 C.c.Q.),la réserve d’un droit de propriété d’un meuble acquis pour le service ou l’exploitation d’une entreprise et la réserve du droit de propriété d’un meuble ou d’un véhicule routier déterminés par l’art. 15.01 du R-RDPRM (art. 1745 C.c.Q.), la vente avec faculté de rachat d’un tel bien (art. 1750 C.c.Q.), le droit de propriété du crédit-bailleur sur un bien meuble (art. 1847 C.c.Q.), les stipulations d’insaisissabilité (art. 2949 C.c.Q.) et d’inaliénabilité (art. 1214 C.c.Q.), le bail mobilier soumis à la publicité en vertu de l’art. 1852, al.2 C.c.Q. et sa cession (art. 1852, al.3 C.c.Q.) : le bail de plus d’un an portant sur un bien meuble requis pour l’exploitation d’une entreprise ou sur un véhicule routier ou un autre meuble déterminés par l’art. 15.01 du R-RDPRM
+Les droits personnels
+2 catégories :
+La succession, un leg, une communauté de biens, partage des acquêts ou au partage du patrimoine familiale ou à la renonciation au partage (art. 2938, al.2 C.c.Q.)
+Les droits dont une disposition de la loi permet la publicité (art. 2938, al.3 C.c.Q.) : le contrat de mariage et sa modification (art. 442 C.c.Q.), sa clôture d’inventaire d’une succession (art. 795 C.c.Q.), le jugement de divorce en annulation de divorce ou en séparation de corps et finalement le bail mobilier admis à la publicité (art. 1851, al.1 C.c.Q.) 
+Vrai/Faux
+Tout comme le registre foncier, le registre des droits personnels et réels mobiliers permet toujours de remonter la chaîne de titres afin de connaître les anciens propriétaires.
+Faux, sauf pour certains cas d’exception (par exemple la réserve de propriété et sa cession), le registre des droits personnels et réels mobiliers ne contient habituellement pas d’informations relatives au droit de propriété d’un bien meuble.
+Section 7 : La préinscription d’une demande en justice et les réquisitions d’inscription
+Certaines demandes en justice peuvent faire l’objet d’une préinscription sur le registre foncier ou sur le registre des droits personnels et réels mobiliers (RDPRM). D’autre part, les réquisitions d’inscription sur l’un ou l’autre des registres peuvent prendre différentes formes et sont assujetties à des règles particulières.
+L’art. 2966 C.c.Q. : préinscrire une demande en justice. 
+C’est le cas de même pour toute demande en justice concernant un droit soumis lui-même à la publication (art. 2966, al.1 C.c.Q.). Par exemple : action en passation de titre en matière immobilière.
+La préinscription a un double effet : 
+Une certaine rétroactivité au jugement selon certaines conditions établies à l’art. 2968, al.1 C.c.Q.
+Empêcher les transactions sur cet immeuble vu l’existence d’un litige quant à un titre de propriété 
+En matière mobilière, l’art. 2966, al.2 C.c.Q. permet également la préinscription à condition que le droit contesté soit déjà préalablement inscrit au RDPRM. Par exemple : une révocation d’une donation pour cause d’ingratitude pourra être inscrite uniquement si la donation a été inscrite (art. 1824 C.c.Q.).
+Une action en passation de titre, pas possible, car le droit de propriété n’a pas été lui-même inscrit. 
+Si la demande en justice faisant l’objet de la préinscription est finalement interrompu par un règlement à l’amiable ou qu’elle est rejetée, l’art. 3066.2, al.1 C.c.Q. permettra la radiation de cette préinscription. 
+La Cour d’appel a décidé que les articles relatifs à la préinscription doivent être interprétés restrictivement. Aussi, la Cour a décidé que la préinscription d’une vente mobilière n’était pas possible. 
+Les réquisitions d’inscription sur le registre foncier
+L’art. 2982, al.2 C.c.Q. mentionne 3 façon de procéder :
+Par l’acte ou un extrait authentique (art. 2982, al.1 C.c.Q.) 
+Par un sommaire (art. 2980 et l’art.40 du R-sur la publicité des droits) 
+Quand ce n’est pas possible de procéder par l’acte lui-même lorsque l’acte ne possède pas les mentions nécessaires à l’inscription. Par exemple : jugement en délaissement forcé et en prise en paiement. On dépose le sommaire (l’art.40 du R-sur la publicité des droits) ainsi que l’acte de dépossession. 
+Par un avis lorsque la loi l’indique
+Exemple : avis d’hypothèque légale en matière de construction (art. 2727 C.c.Q.). 
+L’avis devrait inclure date et le lieu, la désignation, la signature de l’avocat, la nature de l’avis et le numéro d’inscription de l’acte. Devra aussi joindre des documents lorsque l’on publie un avis.
+Exemple : Lorsque l’on veut inscrire un avis résultant d’un jugement, on doit joindre également à l’avis une copie du jugement (art. 2730 C.c.Q.).
+Quel que soit le mode d’inscription choisi, l’art. 2988 C.c.Q. exige que le document présenté à l’inscription soit attesté.
+L’attestation
+Principales formes d’attestation :
+S’il s’agit d’un acte notarié, la signature du notaire constitue l’attestation exigée par la loi (arts. 2988 et 2992 C.c.Q.)
+S’il s’agit d’un acte sous seing privé visant l’inscription d’un droit , sa suppression ou sa réduction, l’attestation doit être conforme à l’art. 2991 C.c.Q. et être signée par un notaire ou un avocat. 
+S’il s’agit d’un avis d’inscription d’hypothèque légale (art. 2730 C.c.Q.) ou d’un avis cadastral (art. 3033 C.c.Q.), l’attestation doit également être conforme à l’art. 2991 C.c.Q. et être signée par un notaire ou un avocat (art. 2995, al.2 C.c.Q.) 
+S’il s’agit d’un avis d’inscription des droits résultant d’un bail, l’exactitude du contenu de l’avis doit être attestée par un notaire ou un avocat (art. 2999.1 C.c.Q.). En présentant l’avis cela permet de ne pas déposer le bail lui-même et les parties s’en réjouissent puisqu’elles n’ont pas à montrer le bail pouvant contenir parfois des éléments qu’ils veulent garder pour eux. 
+S’il s’agit d’un autre avis tel qu’un préavis d’exercice hypothécaire (art. 2757C.c.Q.), d’un avis d’abandon de prise en paiement (art. 2779 C.c.Q.), d’un bail immobilier dont la réquisition est faite par le présentation de l’acte (et non par l’avis décrit à l’art. 2999.1, al.2 C.c.Q.), ou d’une déclaration de résidence familiale, l’attestation doit simplement être conforme à l’art. 2995, al.2 C.c.Q., ce qui signifie que l’avis est signé par la personne qui le donne et par deux témoins. Ensuite, l’un des témoins signent une déclaration sous serment dans laquelle il affirme que le signataire et les deux témoins ont signé les documents en la présence de l’un et l’autre. Lorsque la déclaration n’est pas possible, l’attestation pourra être remplacé par un jugement (art. 2994 C.c.Q.).
+La désignation
+Pour inscrire au registre foncier, il est absolument nécessaire d’avoir le numéro du lot (art. 3032 C.c.Q.) et celui-ci doit être le bon. Aucun document ne peut être déposé au registre foncier sans le bordereau, aussi appelé le SLRI qui se complète sur le site web du registre foncier. 
+Les réquisitions d’inscription sur le registre des droits personnels et réels mobiliers
+Plus simple puisqu’il n’y a qu’une seule façon : l’avis (art. 2983 C.c.Q.) que l’on peut télécharger directement sur le site web. Contrairement au registre foncier, il n’y a pas d’attestation pour les inscriptions au RDPRM (art. 2995, al.1 C.c.Q.). Une fois remplie on peut le transmettre en ligne ou par la poste et il peut être accompagné de d’autres documents si nécessaire. 
+Exemple : Dans le cas d’u préavis d’exercice d’une recours hypothécaire mobilier, l’avis sera envoyé avec le procès-verbal de signification
+Doit avoir le non exact du constituant et si c’est une personne physique, sa date de naissance. 

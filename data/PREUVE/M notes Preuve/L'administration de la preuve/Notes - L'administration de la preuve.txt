@@ -1,0 +1,212 @@
+L'ADMINISTRATION DE LA PREUVE
+Section 1 : L’administration de la preuve avant l’instruction
+Les actes de procédure invoquent fréquemment, à l’appui des faits qu’elles allèguent, des documents ou des éléments matériels de preuve. La partie adverse doit pouvoir en prendre connaissance rapidement afin de bien se préparer.
+Si la cause se dirige vers une instruction, il faut s’assurer que ces pièces soient versées au dossier.
+L’effet de la communication d’un écrit invoqué au soutien d’un acte de procédure
+Nous avons l’obligation de dénoncer tout écrit qu’il soit au soutien ou qui constitue un autre moyen de preuve si nous voulons s’en servir lors du procès. 
+(Art. 250 C.p.c.) : l’écrit doit être produit au greffe au moins 15 jours avant l’instruction.
+Toutefois, pareil production ou dépôt au greffe ne fera pas automatiquement en sorte que cette pièce soit mise en preuve. Cela va dépendre de la nature de la pièce. 
+Si communication et ensuite production au greffe de l’acte authentique, compte tenu de l’effet de ces deux procédures, l’art. 2821 C.c.Q. fait en sorte que l’acte sera reconnu avéré quant à son contenu et à sa confection. Donc, nous n’aurons pas à faire entendre un témoin pour mettre en preuve l’acte. 
+Acte semi-authentique (Art. 2822 C.c.Q.), il en va de même. 
+Acte sous seing privé (Art. 2828, al.2 C.c.Q.), il en va de même. 
+Toutefois, si vous avez utilisé un acte authentique, un acte semi-authentique ou un acte sous seing privé contre la partie qui semble l’avoir signé, il se peut qu’on puisse contester la confection de ces documents et ce sera fait en vertu de l’ art. 262 C.p.c.
+En ce sens, lors de l’audience, il sera nécessaire de mettre en preuve la pièce par l’intermédiaire d'un témoignage et à la limite un expert en écriture afin d’examiner les signatures. 
+Vrai/Faux
+Julie Lamothe réclame un montant de 200 000 $ dans un recours en responsabilité civile contre Arthur Sauvé, en raison d’une chute survenue dans l’escalier menant à la résidence de ce dernier. Dans sa demande introductive d’instance, elle allègue que dans le cadre d’une instance distincte, une autre personne, soit Jean-Paul Rancourt, a également poursuivi Arthur Sauvé pour une chute dans le même escalier. Au soutien de cette allégation, elle communique la demande introductive d’instance de Jean-Paul Rancourt. Cette allégation est non pertinente.
+Vrai, cette allégation n’est pas pertinente au sens de l’art. 2857 C.c.Q., puisque le seul fait du recours judiciaire de Jean-Paul Rancourt contre Arthur Sauvé dans une autre affaire ne peut démontrer la faute du défendeur Arthur Sauvé dans la demande en justice de Julie Lamothe. Le défendeur pourra présenter, à titre de moyen préliminaire, une demande de radiation de cette allégation non pertinente et ce, en vertu de l’art. 169, al. 2 C.p.c.
+La communication de certaines éléments de preuve avant l’instruction
+Le témoignage par déclaration (Art. 292 C.p.c.)
+(Art. 292 C.p.c.) : Une partie peut produire à titre de témoignage, outre une déclaration prévue au livre De la preuve du Code civil, la déclaration écrite de son témoin, y compris un constat d’huissier, pourvu que cette déclaration ne vise à prouver qu’un fait secondaire du litige et qu’elle ait été préalablement notifiée aux autres parties.
+Une autre partie peut, avant la date fixée pour l’instruction, exiger la présence à l’enquête du témoin concerné ou encore obtenir l’autorisation du tribunal de l’interroger hors sa présence.
+Pour remplacer la présence d’un témoin, une partie pourrait exiger sa présence au procès afin de la contre-interroger sur sa déclaration sinon la déclaration valant témoignage prive les autres parties de son droit de la contre-interroger
+Cependant, si l’autre partie accepte que la déclaration écrite tienne lui de témoignage, elle reconnait de ce fait que le contenu est ce que le témoin serait venu affirmer au tribunal, sans reconnaitre par contre la véracité des faits contenus. Ainsi, toutes les parties pourront présenter une preuve contraire.
+Tout comme le témoignage, la force probante est laissée à l’appréciation du tribunal (Art. 2845 C.c.Q.). 
+Le rapport d’expert
+(Art. 293 C.p.c. ) :
+Le rapport de l’expert tient lieu de son témoignage. Pour être recevable, il doit avoir été communiqué aux parties et versé au dossier dans les délais prescrits pour la communication et la production de la preuve. Autrement, il ne peut être reçu que s’il a été mis à la disposition des parties par un autre moyen en temps opportun pour permettre à celles-ci de réagir et de vérifier si la présence du témoin serait utile. Il peut toutefois être reçu hors ces délais avec la permission du tribunal.
+Délais prescrits dans le protocole d’instance
+La communication du rapport d’expert est prévue à l’Art. 239 C.p.c. et plus particulièrement, s’il s’agit de notre expert, l’al.2 stipule que si j’ai l’intention d’utiliser le rapport d’expert, ce dernier doit avoir été communiqué et produit ou versé au dossier. 
+Les autres éléments de preuve 
+Il est nécessaire de faire une preuve distincte d’authenticité et de véracité. Toutefois, il est possible de contourner cette exigence en vertu de l’Art. 264, al.1 C.p.c. , soit en mettant l’autre partie en demeure de reconnaitre l’origine du document ou l’intégrité de l’informe qu’il porte.
+(Art. 264, al.2 C.p.c.)
+La mise en demeure doit être notifiée au moins 30 jours avant l’instruction; elle est accompagnée d’une représentation adéquate du document ou de l’élément de preuve s’il n’a pas déjà été communiqué ou, en l’absence de telle représentation, d’une indication permettant d’y avoir accès.
+La partie mise en demeure admet ou nie l’origine ou l’intégrité de l’élément de preuve dans une déclaration sous serment dans laquelle elle précise ses motifs; elle notifie cette déclaration à l’autre partie dans un délai de 10 jours.
+Le silence de la partie en demeure vaut reconnaissance de l’origine et de l’intégrité de l’élément de preuve, mais non de la véracité de son contenu.
+C’est vraiment facilitant par exemple dans le cas d’une preuve matérielle puisqu’une preuve d’authenticité au préalable doit être déposée distinctement (Art. 2855 C.c.Q.). – faire la mise en demeure permet vraiment de faciliter la mise en preuve et elle évite de faire recours au témoignage pour prouver l’authenticité. 
+L’effet de la contestation par la partie mise en demeure exigera au demandeur lors de l’instruction de prouver l’origine et l’intégrité. 
+Si la mise en demeure de reconnaitre avait pour objet un acte sous seing privé que l’on utilise contre une partie qui n’en est pas le signataire et bien, le silence de la partie ou sa reconnaissance équivaudra à un aveu judiciaire de son origine et de son intégrité. Toutefois, cette reconnaissance ne vaudra pas pour la date puisqu’il s’agit d’un tiers (Art. 2830, al.1 C.c.Q.). L’Art. 2830, al.2 C.c.Q. prévoit cependant que les actes passés dans le cadre des activités d’une entreprise sont présumés l’avoir été à la date inscrit. Il sera toujours possible pour ce tiers de contredire le contenu de ce document parce qu’il n’est pas parti à ce document alors, la prohibition de l’Art. 2863 C.c.Q. ne s’applique pas à lui. 
+La communication d’une pièce en la possession de la partie adverse ou d’un tiers avant l’instruction
+Si une partie est en possession d’un document, Il sera possible de l’obtenir lors d’un interrogatoire préalable. Si cette partie est en possession d’un élément matériel de preuve, il sera possible sur demande à cet effet, de l’obtenir (Art. 251, al. 1 C.p.c.). 
+Si une pièce est en la possession d’un tiers et qu’il s’agit d’un document, le tiers pourrait se voir dans l’obligation de fournir celui-ci lors d’un interrogatoire préalable ou si une demande lui en est faite conformément à l’Art. 251, al.2 C.p.c. Si le tiers est en possession d’un élément matériel, nous obtiendrons notamment cet élément par l’Art. 251, al.2 C.p.c.
+Lors de l’instruction, si nous désirons qu’une partie ou un tiers apporte une pièce ou un document, nous devons lui transmettre une citation à comparaitre désignant la pièce ou l’élément (Art. 270 C.p.c.) ou encore, lors de l’instruction sur simple demande, il pourra en vertu de l’art. 286 C.p.c. être tenu de fournir ce document ou cet élément de preuve.
+Les principaux interrogatoires préalables (Arts. 221-230 C.p.c.)
+Les principaux interrogatoires préalables à l’instruction(Art. 221 C.p.c.)
+L’interrogatoire oral préalable à l’instruction (Arts. 226 et s C.p.c.)
+L’interrogatoire sur déclaration sous serment (Arts. 105 et 222 C.p.c.)
+L’interrogatoire écrit (Arts. 223 et s C.p.c.)
+(Art. 221, al.1 C.p.c.) : L’interrogatoire préalable à l’instruction, qu’il soit écrit ou oral, peut porter sur tous les faits pertinents se rapportant au litige et aux éléments de preuve qui les soutiennent; il peut également avoir pour objet la communication d’un document. Il ne peut être fait que s’il a été prévu dans le protocole de l’instance, notamment quant aux conditions, au nombre et à la durée des interrogatoires.
+Il ne pourra pas avoir d’interrogatoire préalable lorsque la valeur de la réclamation est inférieure à 30 000 $ (Art. 229, al.1 C.p.c.). 
+L’interrogatoire préalable permet d’explorer les faits soutenus par la partie adverse, de mieux comprendre les informations qu’elle entend mettre en preuve, d’obtenir des documents, évaluer la preuve, évaluer la suite des choses pour le dossier (régler hors cours ou non), permet parfois d’obtenir un commencement de preuve ou même un aveu.
+Qui peut être interrogé ? 
+(Art. 221, al.2 et al.3 C.p.c.) : 
+Outre les parties, peuvent aussi être interrogés :
+1°	le représentant, l’agent ou l’employé d’une partie;
+2°	la victime et toute personne impliquée dans le fait générateur du préjudice lorsque la demande en justice invoque la responsabilité civile d’une partie;
+3°	la personne pour laquelle une partie agit comme administrateur du bien d’autrui;
+4°	la personne pour laquelle une partie agit comme prête-nom ou de qui elle tient ses droits par cession, subrogation ou autre titre analogue.
+Toute autre personne peut être interrogée avec son consentement et celui de l’autre partie ou sur autorisation d’un juge, aux conditions que celui-ci précise. Le mineur ou le majeur inapte ne peut être interrogé sans une telle autorisation.
+(Art. 230 C.p.c.): Le tribunal peut, sur demande, mettre fin à l’interrogatoire qu’il estime abusif ou inutile et peut, dès lors, statuer sur les frais de justice.
+(Art. 226 C.p.c.) : Interrogatoire orale
+La partie qui entend procéder à un interrogatoire oral, préalable à l’instruction, doit en informer la personne qu’elle veut interroger au moins cinq jours à l’avance et lui préciser la raison de sa convocation, la nature, l’objet, le moment et le lieu de l’interrogatoire. Si aucun accord n’est intervenu entre les parties sur ces points, cette personne est citée à comparaître (art. 269 C.p.c.) à la date et au lieu indiqués dans la citation, laquelle est signifiée au moins cinq jours avant la date prévue pour l’interrogatoire.
+Si le fait générateur du préjudice qui fonde la demande en justice est aussi un acte criminel, les mesures nécessaires sont prises pour que la personne victime ne soit pas, sans son consentement, confrontée avec l’auteur présumé ou avéré.
+Pour le déroulement de l’interrogatoire, la partie ayant assignée une personne pourra lui poser des questions suggestives puisqu’il s’agit habituellement d’une partie adverse ou une personne ayant des intérêts opposés et alors, l’art. 280, al.2 C.p.c. mentionne que les questions suggestives sont permises. 
+L’avocat de la personne qui est interrogé pourra poser elle-même des questions afin de clarifier les réponses de celui-ci, mais elles ne pourront pas être suggestives. L’avocat demeure présent demeure tout l’interrogatoire préalable afin de pouvoir former des objections à certaines questions.
+(Art. 228, al.2 C.p.c.) : Si les objections soulevées pendant l’interrogatoire portent
+Sur le fait que la personne interrogée ne peut être contrainte (Ex : médecin ou avocat tenu au secret professionnel) ou 
+Sur les droits fondamentaux (Charte) ou 
+Sur une question soulevant un intérêt légitime important (Ex : un secret commercial)
+Cette personne peut alors s’abstenir de répondre. Ces objections doivent être présentées au tribunal dans les cinq jours pour qu’il en décide.
+(Art. 228, al.3 C.p.c.) : Les autres objections, notamment celles portant sur la pertinence, n’empêchent pas la poursuite de l’interrogatoire, le témoin étant tenu de répondre. Ces objections sont notées pour être décidées lors de l’instruction, à moins qu’elles ne puissent être soumises au tribunal pour qu’il en décide sur-le-champ.
+Répondez par oui ou non
+Vous accompagnez votre client à l’occasion de son interrogatoire au préalable par Me Claude Brisson, l’avocat de la partie adverse. L’interrogatoire par Me Brisson se termine et vous vous apprêtez à poser quelques questions à votre client. Me Brisson formule une objection au motif qu’il s’agit de son interrogatoire et qu’il a le droit de refuser que vous posiez des questions à son témoin. L’objection de Me Claude Brisson est-elle bien fondée ?
+Non, l’avocat de la partie interrogée peut poser des questions pour faire expliquer des réponses déjà fournies (art. 280, al. 4 et 227 C.p.c.).
+L’introduction facultative des interrogatoires préalables au dossier
+Il ne fait partie automatiquement du dossier de la Cour et l’Art. 227, al.2 C.p.c. prévoit que la déposition fait partie du dossier des parties elles-mêmes. C’est seulement celle ayant procédé à l’interrogatoire qui peut soit en produire l’ensemble ou des extraits à titre de preuve ou soit jamais la produire. Une autre partie pourrait, si seulement des extraits ont été produits, ordonner la production de tout autre extrait qui ne pourrait être dissociés des autres produits. 
+Dans le cas où la partie décide de ne pas produire l’interrogatoire au dossier de la Cour, il ne pourra jamais être forcé de le déposer. La production au dossier de la Cour équivaut à l’introduction en preuve du témoignage contenu dans l’interrogatoire. 
+La partie interrogée préalablement peut être interrogée à nouveau lors de l’instruction selon l’Art. 279, al.3 C.p.c. il se toujours possible de présenter une preuve contraire. 
+Par contre, attention, l’avocat ayant procédé à l’interrogatoire préalable, ne pourra pas produire une preuve de l’interro qui est illégale. 
+Exemple : témoin fait la preuve par son seul témoignage d’un acte juridique et que la partie procédant à l’interrogatoire ne s’est pas objecté et bien, cette partie aura elle-même contribuée à introduire par témoin un acte juridique alors que c’est interdit. Il ne pourra plus à l’instruction s’objecter pour ce motif. 
+Par ailleurs, un interrogatoire n’ayant pas été produit pourra toujours être utilisé à titre de déclaration extrajudiciaire afin de servir à attaquer la crédibilité d’un témoin en contre-interrogatoire. 
+Les expertises à préparer avant l’instruction 
+(Art. 231 C.p.c.) : L’expertise a pour but d’éclairer le tribunal et de l’aider dans l’appréciation d’une preuve en faisant appel à une personne compétente dans la discipline ou la matière concernée.
+L’expertise consiste, en tenant compte des faits relatifs au litige, à donner un avis sur des éléments liés à l’intégrité, l’état, la capacité ou l’adaptation d’une personne à certaines situations de fait, ou sur des éléments factuels ou matériels liés à la preuve. Elle peut aussi consister en l’établissement ou la vérification de comptes ou d’autres données ou porter sur la liquidation ou le partage de biens. Elle peut également consister en la vérification de l’état ou de la situation de certains lieux ou biens.
+Particularités à l’égard de l’examen physique, mental ou psychosocial (Arts. 242-245 C.p.c.)
+(Art. 242, al.1 C.p.c.): L’examen physique ou mental d’une partie ou d’une personne concernée par une demande relative à l’intégrité, l’état ou la capacité, ou celui de la personne qui a subi le préjudice qui donne lieu au litige ne peut être exigé que si la considération de son état est nécessaire pour statuer.
+(Art. 243 C.p.c.) : d’autres conditions à respecter
+(Art. 244 C.p.c.) : principe d’inviolabilité de la personne humaine 
+L’introduction d’une demande d’expertise demeure facultative si elle a été faite à votre demande (Art. 239, al.2 C.p.c.). Une fois produite au dossier, l’expertise tiendra lieu du témoignage de l’expert (Art. 293 C.p.c.). 
+L’accès au dossier médical (Art. 245 C.p.c.)
+(Art. 245 C.p.c.): Le tribunal peut, si cela est nécessaire pour établir l’état physique ou mental d’une partie, de la personne concernée par la demande ou de celle qui a subi le préjudice donnant lieu au litige, ordonner à l’établissement de santé et de services sociaux qui détient le dossier de la personne examinée ou dont le décès a donné lieu à une demande fondée sur la responsabilité civile, de communiquer le dossier à une partie et de lui laisser prendre copie des renseignements pertinents à la preuve.
+Cette demande pourrait notamment avoir lieu de consentement entre les parties. Évidemment, l’art. 245 C.p.c. ne s’applique que dans le cas de la personne qui a été soumise à l’examen prévu à l’Art. 242 C.p.c. et ne concerne que des dossiers de responsabilité civile. 
+Les dossiers médicaux doivent être dans un établissement public seulement et doit avoir un élément de pertinence suffisant avec le litige. 
+Il y a une autre disposition du C.p.c. qui peut nous permettre d’avoir accès à un dossier médical et c’est l’art. 251, al.2 C.p.c. :
+Le tiers qui détient un document se rapportant au litige ou est en possession d’un élément matériel de preuve est tenu, si le tribunal l’ordonne, d’en donner communication, de le présenter aux parties, de le soumettre à une expertise ou de le préserver.
+Toutes les autres situations non-visées par l’art. 245 C.p.c. permettent à la partie d’obtenir un dossier médical, et ce même s’il est détenu dans une clinique privée. Lorsqu’il n’est pas dans un dossier en responsabilité civile également. 
+Exemple : désir obtenir le paiement d’une rente en vertu d’une assurance invalidité. Litige contractuel, le dossier médical pourrait ainsi être obtenu. 
+Les autres expertises 
+Toutes autres expertises devront être prévues au protocole et peut viser un bien meuble ou immeuble. L’introduction au dossier est facultative (Art. 239, al.2 C.p.c.) s’il s’agit de notre propre expertise. L’expertise commune ou celle ordonnée par le tribunal et son rapport qui ne émanera, fera automatiquement partie du dossier de la Cour sans discrétion de qui que ce soit. 
+Vrai/Faux
+Un rapport préparé par un expert de la société Hydrauliques en tous genres inc. confirme que la pompe à eau de la résidence de Paul Gingras est conforme aux normes du Code national du bâtiment. Cette expertise a été préparée dans le cadre d’un recours en vices cachés.
+Le rapport de la société Hydrauliques en tous genres inc. peut être déposé lors de l’instruction sans aucune formalité particulière.
+Faux, pour que le rapport d’expertise puisse servir en preuve lors de l’instruction, il doit d’abord avoir été inclus au protocole de l’instance (arts. 148, al. 2(4) et 158, al. 1(2) C.p.c.), il doit ensuite être communiqué dans les délais prévus pour la communication de la preuve (art. 239, al. 2 C.p.c.) et produit (art. 250 C.p.c.). Il pourra alors remplacer et tenir lieu du témoignage de l’expert (art. 293 C.p.c.).
+Section 2 : L’administration de la preuve à l’instruction
+(Art. 11, al.1 C.p.c.): La justice civile administrée par les tribunaux de l’ordre judiciaire est publique.
+Reconnu par l’art. 23 de la Charte québécoise. 
+(Art. 11, al.2 C.p.c.) : l’exception est le huis clos
+C’est le cas en matière familiale et en jeunesse. Le juge peut aussi ordonner le huis clos dans des circonstances très particulières (Art. 12 C.p.c.).
+Lorsqu’il est temps de présenter la preuve, chacune des parties peut demander que toute personne présente dans la salle et qui devra témoigner dans cette cause de se retirer de la salle de d’audience. 
+(Art. 13 C.p.c.): Sont admis à assister à l’audience qui se tient à huis clos les avocats et les notaires, leurs stagiaires, les journalistes qui prouvent leur qualité ainsi que, s’agissant d’audiences relatives à l’intégrité et à la capacité d’une personne, une personne que celle-ci considère apte à l’aider ou à la rassurer de même que toute autre personne que le tribunal considère apte à le faire. Le tribunal peut néanmoins refuser leur présence si les circonstances l’exigent pour éviter un préjudice sérieux à une personne dont les intérêts risquent d’être touchés par la demande ou l’instance.
+Peuvent également être admises les personnes dont la présence est, selon le tribunal, requise dans l’intérêt de la justice.
+Comment procéder à l’instruction (Art. 265 C.p.c.):
+Le demandeur interroge ses témoins (Arts. 265, al.2 et 280 C.p.c.)
+La partie adverse peut contre-interroger ces témoins (Art. 280, al.3 C.p.c.)
+Le demandeur peut réinterroger sur des faits nouveaux ou fournir des explications (Art. 280, al.4 C.p.c.)
+Le défendeur présente ensuite sa preuve (Arts. 265, al.2 et 280 C.p.c.)
+Le demandeur peut produire une contre-preuve (Art. 265, al.2 C.p.c.) : ne doit pas servir à bonifier la preuve présentée en demande principale, mais seulement à contrer celle du défendeur.
+(Art. 265 C.p.c.) 
+L’instruction comprend la phase de l’enquête consacrée à l’administration de la preuve, suivie de celle des débats où les parties font leur plaidoirie.
+Lors de l’enquête, la partie sur laquelle repose la charge de la preuve procède la première à l’interrogatoire de ses témoins (demandeur); l’autre partie présente ensuite sa preuve, après quoi la première peut présenter une contre-preuve. Le tribunal peut autoriser l’interrogatoire d’autres témoins.
+L’enquête close, la partie sur laquelle reposait la charge de la preuve présente ses arguments la première, suivie de l’autre partie. La première peut répliquer et, si cette réplique soulève quelque point de droit nouveau, l’autre partie peut y répondre. Nulle autre plaidoirie ne peut avoir lieu sans la permission du tribunal.
+Le tribunal peut, dans les conditions qu’il détermine, ajourner une instruction si les circonstances l’exigent. Il fixe alors immédiatement une autre date ou demande au greffier de reporter l’affaire au rôle pour qu’une autre date soit fixée.
+L’interrogatoire principal des témoins ordinaires
+(Art. 2843 C.c.Q.) : Le témoignage est la déclaration par laquelle une personne relate les faits dont elle a eu personnellement connaissance […]
+Devra témoigner de mémoire ou s’il a des notes qu’il a lui-même confectionné de manière contemporaine et que la partie adverse pourra prendre connaissance.  
+Le principe quant aux questions de notre propre témoin (Art. 280, al.2 C.p.c.) : 
+Les questions doivent porter sur des faits pertinents au litige seulement. Elles ne doivent pas être posées de manière à suggérer la réponse désirée[…]
+Deux exceptions à la prohibition des questions suggestives :
+(Art. 280, al.2 C.p.c.) : cependant, la question sera valable si le témoin cherche manifestement à éluder une question ou à favoriser une autre partie ou si, étant lui-même partie, il a des intérêts opposés à la partie qui l’interroge.
+La partie adverse ou un témoin récalcitrant partial
+(Art. 281 C.p.c.) : La partie qui convoque un témoin peut attaquer la crédibilité de son témoignage si elle prouve par d’autres témoins le contraire de ce qu’il a dit; elle peut aussi le faire, avec la permission du tribunal, si elle prouve que le témoin a fait des déclarations antérieures incompatibles avec son témoignage actuel, pourvu que le témoin ait d’abord été interrogé à cet égard.
+Les déclarations antérieures incompatibles
+Quels sont les effets d’une déclaration antérieure incompatibles ?
+La crédibilité du témoin en soit grandement affectée, il est possible aussi d’établir des faits qui sont favorable à notre théorie et donc défavorable à la partie adverse. Elle peut devenir un aveu extrajudiciaire et si cette déclaration antérieure était contenue dans un interrogatoire préalable valablement produit au dossier de la Cour, cette déclaration antérieure deviendra un aveu judiciaire.
+Le contre-interrogatoire
+(Art. 280, al.3 C.p.c.) :
+Lorsque la partie a terminé l’interrogatoire du témoin qu’elle a convoqué, toute autre partie ayant des intérêts opposés peut le contre-interroger sur tous les faits du litige et établir de toutes les manières les causes permettant de réfuter son témoignage.
+Le but du contre-interrogatoire est de tenter de compléter la preuve de celui qui contre-interroge et le corollaire est d’affaiblir la preuve établi par le témoin qui a été interrogé. 
+Pour but d’établir la faiblesse du témoignage, les exagérations du témoignage
+Peut avoir pour but de mettre en preuve des déclarations antérieures incompatibles. Le tribunal aura le pourvoir de, soit de croire aucune des versions, celle de la déclaration antérieure ou le témoignage actuellement livré devant lui. 
+La réinterrogatoire du témoin par la partie qui l’a produit
+Une fois l’interrogatoire complété, il est possible pour le demandeur de procéder à un réinterrogatoire (Art. 280, al.4 C.p.c.) :
+Le témoin peut être entendu de nouveau par la partie qui l’a convoqué soit pour être interrogé sur des faits nouveaux révélés par le contre-interrogatoire, soit pour expliquer ses réponses aux questions posées par une autre partie.
+Une fois le réinterrogatoire effectuée, la preuve du demandeur sera déclarée close et le fardeau de preuve tombe sur les épaules du défendeur. 
+Le défendeur procèdera à l’administration de sa preuve conformément à l’art. 265, al.2 C.p.c. et l’art. 2803 C.c.Q. Une fois la preuve du défendeur complétée, le demandeur pourra au besoin présenter une contre-preuve et cette dite preuve ne pourra servir qu’à réfuter des éléments soulevés par la partie défenderesse ou à réfuter en sa faveur la prépondérance de la preuve. Il ne s’agit pas de reprendre les éléments produits en demande principale ou d’ajouter des éléments oubliés. 
+L’absence d’un témoin
+Il existe différents moyens pour palier à l’absence d’un témoin. 
+L’ajournement de l’instruction (Art. 266, al.2 C.p.c.)
+Le témoignage différé à la discrétion du juge ou si les parties le conviennent (Art. 295 C.p.c.) : son témoignage lors de cet interrogatoire et contre-interrogatoire fera partie du dossier comme s’il avait témoigné par anticipation.
+Le témoignage différé pour cause de maladie ou d’un handicap par visioconférence (Art. 296 C.p.c.)
+Le dépôt de la déclaration antérieure du témoin absent (Art. 2869 C.c.Q.) : toutefois, si les parties ne sont pas d’accord que celle-ci valle preuve, il est toujours possible pour la partie d’utiliser l’Art. 2870 C.c.Q. et de demander au tribunal que cette déclaration soit recevable comme témoignage. 
+2 conditions s’imposent : (1) doit démontrer la nécessité de recevoir la déclaration puisqu’qu’il est impossible d’obtenir la comparution du déclarant comme témoin, ou déraisonnable de l’exiger, et (2) que les circonstances entourant la déclaration donnent à celle-ci des garanties suffisamment sérieuses pour pouvoir s’y fier. 
+Garanties sérieuses sont présumées dans 3 cas : (1) documents établis dans le cours des activités d’une entreprise (2) les documents insérés dans un registre dont la tenue est exigée par la loi (3) les déclarations spontanées et contemporaines de la survenance des faits.
+L’admission (Art. 266, al.2 C.p.c.) : faire reconnaitre par l’autre partie que c’est ce que le témoin viendrait affirmer ou encore mieux, faire admettre à l’autre partie que le contenu qu’il viendrait exposer au tribunal est véridique, ce qui l’empêcherait de présenter une preuve contraire. 
+Les méthodes alternatives. Par exemples : visioconférence, l’interrogatoire de l’Art. 257 C.p.c., l’interrogatoire différé de l’Art. 296 C.p.c. et l’interrogatoire hors Cour de l’Art. 295 C.p.c.
+Si vous décidez de procéder ou si le tribunal décide tout de même de procéder, il ne sera pas possible par la suite de palier à cette absence. 
+Section 3 : Les objections
+Vise à sanctionner les règles de preuve et surtout à éviter qu’une preuve illégale ne soit reçu dans le dossier de la Cour. 
+(Art. 2859 C.c.Q.) : Le tribunal ne peut suppléer d’office les moyens d’irrecevabilité résultant des dispositions du présent chapitre qu’une partie présente ou représentée a fait défaut d’invoquer.
+La tâche de s’objecter est imposée aux avocats. 
+Une absence d’objection résultera en l’admission d’une preuve au dossier.
+Distinction entre la recevabilité et la force probante :
+La recevabilité : se soulève au moyen d’une objection
+La force probante : la discussion se déroule lors des plaidoiries
+Suivant la décision du juge quant à l’objection, celui-ci produit des effets :
+Prendre la preuve sous réserve alors, la preuve sera admise et ne pourrait aller en appel qu’après avoir obtenu le jugement final. 
+Si l’admission de cette preuve sous réserve concernait le secret professionnel ou un fonctionnaire de l’État, l’appel sera direct compte tenu de l’urgence.
+Le tribunal peut rejeter l’objection et fait en sorte que la preuve présentée fera partie du dossier. Pour l’appel c’est la même chose que l’objective admis sous réserve. 
+Le tribunal peut maintenir l’objection ou l’accueillir, ce qui fait en sorte que la preuve ne fera pas partie du dossier. L’appel maintenant une objection fera l’objet d’un appel immédiat sous permission de la Cour d’appel et on ne doit pas attendre que le jugement de final ne soit rendu. 
+Dans les cas où un appel immédiat est nécessaire, ces jugements sur ces objections ne pourront pas faire l’objet d’un appel au moment de la réception de la décision finale, il sera ainsi trop tard. 
+Les motifs d’objection
+La pertinence (Art. 2857 C.p.c.)
+Dans le doute, la preuve sera admise. 
+Les questions suggestives (Art. 280, al.2 C.p.c.)
+Propre témoin en interrogatoire principale, c’est interdit 
+La meilleure preuve (Art. 2860 C.p.c .)
+La nécessité d’un écrit quand un témoin réfère à un écrit, on doit pouvoir consulter celui-ci et pas seulement se fier au témoignage. 
+La preuve inattendue 
+La preuve n’ayant pas été alléguée dans la procédure. Pas d’avance annoncé. 
+La non-contraignabilité ou la confidentialité
+En principe, tous peuvent être contraints à témoigner (Art. 276 C.p.c.). La seule exception est en matière d’outrage au tribunal puisqu’alors les principes de droit pénal régissent l’administration de cette preuve et celui accusé d’outrage même en matière civile a le droit de garder le silence et est non-contraignable (art. 61 C.p.c.). 
+La personne présente en salle d’audience n’ayant pas reçu de citation à comparaitre est tout de même contraignante pour témoigner (Art. 272 C.p.c.). 
+Une personne peut toutefois refuser de témoigner lorsque l’information est protégée par le secret professionnel, constitue une communication privilégiée ou encore, qu’il s’agit d’une communication entre conjoint ou d’une information détenue par le fonctionnaire de l’État (arts. 282, 283 et 284 C.p.c.).
+Le secret professionnel et la communication privilégiée 
+(Art. 284 C.p.c.) : 
+Le témoin ne peut être contraint si son témoignage porte atteinte au secret professionnel, sauf dans la mesure prévue à l’article 9 de la Charte des droits et libertés de la personne (chapitre C-12). Le tribunal assure d’office le respect de ce secret.
+(Art. 9 Charte Québécoise )
+(Art. 2858 C.c.Q.): 
+Le tribunal doit, même d’office, rejeter tout élément de preuve obtenu dans des conditions qui portent atteinte aux droits et libertés fondamentaux et dont l’utilisation est susceptible de déconsidérer l’administration de la justice.
+Il n’est pas tenu compte de ce dernier critère lorsqu’il s’agit d’une violation du droit au respect du secret professionnel.
+Les conditions pour que la communication soit protégée :
+Une consultation avec un professionnel
+Cette consultation est voulue confidentielle
+Dans le cadre d’une relation professionnelle 
+Toute communication : verbale, écrite et que cette communication soit préparée par l’avocat ou par un tiers, mais à la demande de l’avocat
+Dans le cas où il y a une objection et que la réplique est rigoureuse, le juge peut décider de prendre connaissance de la preuve ex parte afin de déterminer s’il s’agit d’une communication devant rester confidentielle. 
+Il existe toutefois des exceptions au secret professionnel :
+Lorsque la communication ou la consultation est relative à un objet criminel
+Lorsque le client renonce expressément ou implicitement 
+Lorsque le témoin se réfère à un document possiblement privilégié pendant son témoignage
+Lorsque l’information est divulguée à un tiers ou lorsqu’un tiers assiste à la rencontre entre l’avocat et le client sauf si la présence du tiers est nécessaire
+Lorsque la sécurité publique est clairement et gravement menacée de manière imminente 
+Toute communication faite verbalement ou par écrit entre les parties pour régler le litige restent une conversation privilégié qui ne pourra pas être mis en preuve, que ce soit entre l’avocat et la partie adverse non représentée ou les deux avocats des parties. 
+L’information détenue par le fonctionnaire de l’État (Art. 283 C.p.c.) et la communication entre conjoint (Art. 282 C.p.c.) sont deux cas où les personnes ne peuvent pas être contraintes à les divulguer. 
+Quiz
+Après le témoignage de votre client, Roger Dumais, vous faites témoigner votre expert, Carl Laflamme, afin d’obtenir des précisions sur son rapport.
+En réponse à une question quant au fait que les arbres coupés par le propriétaire étaient situés à moins de dix mètres de la Petite Rivière Saint-Jean, Carl Laflamme précise que ce n’est pas lui qui a pris les mesures, mais son assistant, Luc Audet, ce qui est de toute façon mentionné dans son rapport. Il ajoute qu’il n’a pas personnellement constaté la distance entre les arbres et la rivière.
+L’avocat de la défenderesse formule alors une objection à la réponse donnée relativement au fait que les arbres coupés sont à moins de dix mètres de la Petite Rivière Saint-Jean.
+Quel est le motif de cette objection ?
+Ces informations sont protégées par le secret professionnel
+Ce fait n’est pas pertinent au litige
+L’expert n’a pas constaté ce fait lui-même
+Cette question est suggestive
+c), il s’agit d’un fait que l’expert n’a pas constaté lui-même. C’est donc du ouï-dire. En conséquence, le témoignage de l’expert Carl Laflamme ne peut être reçu au sujet de la distance qui sépare les arbres coupés de la rivière. Seul, le témoignage de Luc Audet serait recevable à ce sujet.

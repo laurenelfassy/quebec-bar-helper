@@ -1,0 +1,219 @@
+PREUVE  CIVILE  CORRIGÉS  
+ 
+L’élément matériel, l’aveu, la présomption  | Corrigés  1 L’ÉLÉMENT MATÉRIEL, L’ AVEU,  
+LA PRÉSOMPTION  ET LES DOCUMENTS 
+TECHNOLOGIQUES  
+ 
+EXERCICE 1 
+ 
+DOSSIER MORIN  : CORRIGÉ  
+ 
+ 
+1. De quel(s) moyen(s) de preuve l’avocat de Manon Morin dispose -t-il pour établir qu’elle a 
+prêté à G uillaume Gauthier la somme de 40  000 $? 
+ 
+La première démarche consiste à s’interroger sur les moyens de preuve  dont l’avocat dispose 
+pour établir l’acte juri dique en question, soit un prêt de 40 000 $. On doit qualifier c es moyens 
+de preuve. Dans le cas présent, il dispose  : 
+ 
+a) du témoignage de Manon Morin elle -même;  
+ b) de l’aveu verbal extrajudiciaire de Guillaume Gauthier, dont peuvent témoigner Patrice 
+Pilon et Christiane Côté;  
+ 
+c) de l’aveu judiciaire dans la défense  écrite selon lequel le défendeur reconnaît avoir reçu 
+de la demanderesse un chèque de 40  000 $, en ajoutant cependant qu’il s’agissait d’une 
+considération en raison de services rendus.  
+ 
+Seconde démarche  : il faut s’interroger sur la recevabilité de ces mo yens  de preuve. Or, ces 
+moyens de preuve sont tous, pour l’instant, «  non recevables  » parce que  : 
+ 
+a) en ce qui concerne le témoignage de Manon Morin elle -même  : 
+ 
+Manon Morin ne pourra témoigner qu’elle a prêté à G uillaume Gauthier la somme de 
+40 000 $, parce qu’on ne peut prouver par témoignage un tel acte lorsque la valeur du 
+litige  est supérieure à 1  500 $ (art.  2862, al.  1 C.c.Q.).  L’exception de l’article  2861 C.c.Q. 
+serait difficilement applicable selon les faits soumis  : aucun fait ne nous amène à penser 
+que la relation qui existe entre les parties expliquerait l’absence d’écrit.  
+ 
+
+ CORRIG ÉS 
+ 
+L’élément matériel, l’aveu, la présomption  | Corrigés  2 b) en ce qui concerne l’aveu verbal extrajudiciaire de Guillaume Gauthier  : 
+ 
+Ici, cet aveu extrajudiciaire verbal n’est pas recevable, parce que l’aveu fait en dehors de 
+l’instance où il est invoqué se prouve par les moyens recevables pour prouver l e fait qui 
+en est l’objet (art.  2867 C.c.Q.). Or, comme on ne peut faire la preuve de ce prêt par 
+témoignage, on ne pourra non plus faire la preuve de l’aveu extrajudiciaire verbal par le 
+témoignage de Patrice Pilon ou celui de Christiane Côté  qui font  partie de la preuve 
+présentée par le demandeur  
+ 
+c) en ce qui concerne l’aveu dans la défense  : 
+ 
+Bien qu’il s’agisse de  prime abord d’un aveu, on doit considérer la deuxième partie de  la 
+phrase, soit «  en considération des services qu’il lui a rendus  ». Il s’agit d’un aveu qualifié 
+non divisible, c’est -à-dire qu’on ne peut retenir unique ment la partie qui fait l’affaire de 
+Manon Morin, soit le fait par le défendeur de reconnaître qu’il a reçu de  la demanderesse 
+un chèque de 40  000 $. Il faut nécessairement tenir compte de la qualification qu’il donne 
+à ce contrat, soit un paie ment pour services rendus (art.  2853 C.c.Q.).  
+ 
+Une fois cette démarche accomplie, il semble n’y avoir aucun moye n de preuve à la 
+disposition de l’avocat de Manon Morin. Mais , il faut retenir que l’article  2862,  al. 2 C.c.Q. 
+énonce que, en l’absence d’une preuve écrite et quelle que soit la valeur du litige, on peut prouver par témoignage tout acte juridique dès qu’i l y a commencement de preuve. 
+L’article  2865 C.c.Q. prévoit que le com mencement de preuve peut résulter soit d’un aveu 
+ou d’un écrit de la partie adverse, de son témoignage, etc., lorsqu’un tel moyen rend vraisemblables les faits allégués.  
+ Ainsi, l’avocat de Manon Morin procédera  à l’interrogatoire oral préalable à l’instruct ion 
+de Guillaume Gauthier (art.  221 et 226 C.p.c.) pour tenter d’ obtenir un commencement 
+de preuve (art.  2862 C.c.Q.) afin d’être en mesure de prouver le prêt fait à Gui llaume 
+Gauthier.  
+ 
+Par ailleurs, l’interrogatoire préalable de Guillaume Gauthier devrait également tendre à 
+démontrer que l’allégation de la défense, selon l aquelle il a reçu la somme de 40  000 $ 
+pour services rendus, est invraisemblable. Cela pourra perme ttre au tribunal de diviser 
+l’aveu de Guillaume Gauthier (art.  2853 C.c.Q.). Si cet interro gatoire préalable donne les 
+résultats espérés, il devra être c ommuniqué en vertu de l’article  227, al.  2 C.p.c. et produit 
+au greffe du tribunal dans le délai
+ prévu à l’article  250 C.p.c.  
+ Lors de l’instruction, l’avocat de Mano n Morin fera témoigner celle -ci et lui posera 
+évidemment des q uestions relatives au prêt de 40  000 $ consenti  à Guillaume Gauthier. 
+ CORRIG ÉS 
+ 
+L’élément matériel, l’aveu, la présomption  | Corrigés  3 Dans le cas où l’avocat de Guillaume Gauthier ferait une ob jection  en invoq uant 
+l’article  2862, al.  1 C.c.Q., l’avocat de Manon Morin plaidera alors que l’interrogatoire oral 
+préalable à l’instruction de Guillaume Gauthier, c ommuniqué en vertu de l’article  227, 
+al. 2 C.p.c. et déposé au greffe du tribunal, constitue  un commenceme nt de preuve , le cas 
+échéant.  
+ 
+Si le tribunal  rejette l’objection de l’avocat de Guillaume Gauthier, c’est que l’avocat de 
+la demanderesse aura réussi à établir ce commencement de preuve; le tribunal  permettra 
+donc non seulement la preuve du prêt de  40 000 $ par le témoignage de Manon Morin, 
+mais également la preuve de l’aveu verbal extrajudiciaire de Guillaume Gauthier 
+concernant son emprunt de 40  000 $, par le témoignage de Christiane Côté et de Patrice 
+Pilon. Le tribunal pourra également re tenir l’argument de l’avocat de Manon Morin, selon 
+lequel la défense contient un aveu de la part du défendeur, Guillaume Gauthier, mais que 
+cet aveu est divisible, toujours dans la mesure où l’interrogatoire oral préalable à 
+l’instruction a donné les résul tats voulus, c’est -à-dire que cet interrogatoire démont re 
+que l’allé gation du défendeur selon l aquelle il a reçu la somme de 40  000 $ pour services 
+rendus est invraisemblable.  
+  
+ CORRIG ÉS 
+ 
+L’élément matériel, l’aveu, la présomption  | Corrigés  4 EXERCICE 2  
+ 
+EXERCICE PRATIQUE  : CORRIGÉ  
+ 
+ 
+1. Dites si chaque énoncé est vrai ou faux et motivez votre réponse.  
+ 
+a) Le mardi 2  août , le bateau de Daniel Dupuis est entré en collision avec celui de Luc 
+Laporte. Daniel Dupuis a plaidé coupable à l’accusation d’avoir conduit, le mardi 2 août, 
+alors que sa capacité de conduite était affaiblie par l’alcool. Il est poursuivi par 
+l’assureur d e Luc Laporte en remboursement de l’indemnité versée à la suite de 
+l’accident. L’assureur ne pourra utiliser le plaidoyer de culpabilité à l’appui du recours 
+civil.  
+ 
+FAUX , car le plaidoyer de culpabilité donné par la partie adverse dans une cause pénale 
+peut constitue r un aveu extrajudiciaire qui peut être introduit en preuve ( Union Insurance 
+Co. c. Arsenault, [1961] R.C.S. 766; Ali c.  Compagnie d’assurances Guardian du Canada, 
+REJB 1999- 12678, C.A.; Ascenseurs Thysseb Montebay  inc. c.  Aspirot , EYB 2007 -127563, 
+C.A.)  à moins que la partie ne démontre qu’elle n’ a plaidé coupable que pour s’ éviter les 
+aléas d’un procès. L’ aveu extrajudiciaire étant laissé à l’appréciation du tribunal 
+(art. 2852, al. 2 C.c.Q. ), la partie pourra expliquer les circonstances l’ayant amenée  à 
+formuler pareil aveu.  
+ b) Un associé d’une société de comptables n’ est pas lié par des décla rations de la nature 
+d’un aveu qu’a pu faire un autre associé de cette société à un client mécontent des 
+services qui lui ont été rendus.  
+ 
+FAUX , la déclaration d’un associé constitue un aveu opposable à la société. Les associés 
+sont réputés s’être donné réciproquement le pouvoir de gérer la société (art.  2219 C.c.Q.) 
+et l’associé (ou l’administrateur d’une société) peut faire un aveu liant la société, si sa 
+déclaration est faite dans le cadre de son mandat et pendant sa durée ( Farr c. Curtiss -
+Wright Corporation , [1980] C.S. 159).  
+ 
+c) Patrick Parent est un expert en sinistres. Lorsqu’un assureur lui donne un mandat, il se précipite, dans la semaine suivant le fait dommageable, chez la victime ayant subi des 
+blessures corporelles et obtient d’elle une déclaration qui disculpe son assuré. Patrick 
+ CORRIG ÉS 
+ 
+L’élément matériel, l’aveu, la présomption  | Corrigés  5 Parent croit que les déclarations qu’il obtient de la victime comportent des aveux 
+extrajudiciaires qui sont opposa bles à cette victime.  
+ 
+FAUX , car les déclarations ob tenues du créancier dans les 30  jours du fait dommageable 
+et qui sont préjudiciables au créancier sont sans effet et, donc, irrecevables. L’article  1609 
+C.c.Q. énonce clairement ce principe.  
+ 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::  
+ 
+2. Indiquez en quoi chaque énoncé est conforme ou non au Code civil du Québec, au Code de 
+procédure civile ou à la  jurisprudence.  
+ 
+La société X.Y.Z. inc. a acheté de la société A.B.C. inc. un camion au prix de 40  000 $ et elle 
+prétend que le camion est affecté d’un vice caché. Elle lui réclame 25  000 $. 
+ 
+a) La société X.Y.Z. inc. n’aura pas à alléguer, dans la demande  introductive d’instance 
+déposée à la Cour du Québec, la déclaration verbale du président de la société A.B.C. 
+inc., selon laquelle il a admis que le camion qu’il a vendu était affecté d’un vice caché.  
+ 
+Cet énoncé n’est pas  conforme à l’article  99 C.p.c. (Leclerc  c. Robitaille , [1952] R.L. 257). 
+La déclaration du président de la société A.B.C.  inc. est un aveu extr ajudiciaire pur et 
+simple (art.  2850 C.c.Q.). Il s’agit d’un fait essentiel qui devra être allégué dans la 
+demande introductive d’instance de la société X.Y.Z.  inc., si elle désire en faire la preuve 
+à l’instruction.  
+ b) Étant donné que la déclaration du président de la société A.B.C. inc., selon laquelle il 
+savait que le camion était affecté d’un vice caché, a été faite verbalement et non par écrit, la société X.Y.Z. inc. ne pourra faire la preuve de cette déclaration lors de 
+l’instruction.  
+ 
+Cet énoncé n’est pas  conforme au Code civil du Québec, car l’aveu extrajudiciaire du 
+président de la société A.B.C. inc. porte sur un fait, soit l’existence et  la connaissance du 
+vice caché, qui pe ut être prouvé par témoin (art.  2843 et 2867 C.c.Q.).  
+ 
+c) La demande introductive d’instance de la société X.Y.Z. inc. contre la société A.B.C. inc., dans laquelle X.Y.Z. inc. réclame 25  000 $ en raison du vice caché d ont est affecté le 
+camion, contient l’allégation suivante au paragraphe  7 : 
+ 
+« La défenderesse, par l’entremise de son président, a recon nu et admis le lundi 
+4 janvier 0 001 qu’elle savait que le camion était affecté d’un vice caché;  » 
+ CORRIG ÉS 
+ 
+L’élément matériel, l’aveu, la présomption  | Corrigés  6  
+et la défense de la société A.B.C. inc. quant au paragraphe 7 de la demande introductive 
+d’instance de la société X.Y.Z. inc. comporte l’allégation suivante  : 
+ 
+« Elle nie l’énoncé  7 de la demande introductive d’instance et ajoute que, lors 
+de la rencontre du lundi 4  janvier 0 001, le président de la société A.B.C. inc. a 
+déclaré au président de la société X.Y.Z. inc. : « Comme je te l’ai mentionné 
+avant la vente du camion, je savais que le camion avait un problème mécanique 
+et c’est pourquoi j’ai accepté de te  le vendre au prix de 40  000 $; » 
+ 
+Ce paragraphe de la défense de la société A.B.C. inc. est un aveu judiciaire divisible.  
+ 
+Cet énoncé  n’est pas conforme à l’article  2853 C.c.Q. Il s’agit d’un aveu complexe, puisque 
+la défenderesse avoue le fait allégué (s oit la connaissance du défaut mécanique), mais 
+ajoute un fait distinct (soit que c’est pour cette raison qu’elle a consenti à le vendre 40 000 $) qui annule l’effet de l’aveu recherché . En principe, l’aveu complexe est 
+indivisible (art. 2853 C.c.Q.)  
+ 
+d) Lors de l’instruction devant le tribunal, l’avocat de la société X.Y.Z.  inc. contre -interroge 
+le président de la société A.B.C.  inc., William Watson, quant à l’allégation de la défense 
+mentionnée ci -dessus.  
+ 
+Q. : « N’est -il pas exact, M.  Watson, que vous n’a vez jamais dit à ma cliente avant la 
+vente du camion que ce dernier avait un problème mécanique? 
+ 
+R. : Non.  
+ Q. : Qu’avez -vous dit à ma cliente au sujet des problèmes mécaniques?  
+ 
+R. : Je ne m’en souviens plus.  
+ 
+Q. : N’est -il pas exact que vous avez dit à ma cliente que la raison pour laquelle vous 
+avez décidé de vendre ce camion au prix de 40  000 $, c’est parce que vous aviez 
+besoin d’argent rapidement?  
+ 
+R. : Je ne m’en souviens plus.  » 
+ 
+Le tribunal pourra décider de diviser l’aveu que comporte le paragraphe de la défense 
+de la société A.B.C. inc.  
+ 
+ CORRIG ÉS 
+ 
+L’élément matériel, l’aveu, la présomption  | Corrigés  7 Cet énoncé est conforme à l’article  2853 C.c.Q., car le tribunal pourra considérer que les 
+réponses données lors du contre -interrogatoire rende nt invraisemblable la deuxième 
+partie de l’aveu de William Watson de la société A.B.C. inc.  : « Comme je te l’ai mentionné 
+avant la vente du camion [...] et c’est pourquoi j’ai accepté de te le vendre au prix de 
+40 000 $; [...]. » 

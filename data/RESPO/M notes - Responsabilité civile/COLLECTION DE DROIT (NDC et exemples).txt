@@ -1,0 +1,231 @@
+COLLECTION DE DROIT – Responsabilité civile
+p. 24 – ATTENTION : dans le cas où nous avons un partage de responsabilité, nous ne pouvons pas opposer cet acte fautif afin de réduire le montant de l’indemnisation destiné à compenser le préjudice subi!
+FAUTE vs ERREUR : une erreur ne reflète pas chez son auteur une conduite négligente ou imprudente, mais traduit une défaillance dans le comportement dont même une personne normale prudente et diligente aurait pu être victime en prenant les moyens indiqués dans les circonstances. (EXEMPLE : on ne saurait reprocher à un médecin d'avoir opté pour tel diagnostic plutôt que de tels autres dès lorsqu'il a pris tous les moyens à sa disposition pour déterminer la nature d'une pathologie.)
+Faute omission = une faute d’un manquement au devoir général de ne pas causer préjudice à autrui. 
+Il n’existe aucun lien entre la grossièreté d’une faute et l’intensité de la réparation du préjudice.
+Sauf exception il n'est nullement nécessaire que le préjudice causé à autrui l'ait été de façon intentionnelle ou que l'auteur du préjudice ait été de mauvaise foi pour que naisse l'obligation de réparer le préjudice. 
+Ce qui est important c'est la nature objective du comportement (était-il celui d'une personne raisonnable soucieuse du bien-être d'autrui?)
+ATTENTION : dans l'instance donnée où la preuve révèle que la victime d'un préjudice a commis une faute plus grave que l'auteur du préjudice, telle qu'une faute lourde caractérisé par un comportement anormalement déficient voire inexcusable, il devient alors possible de plaider que la conduite impulsive de la victime constitue un novus actus dans les faits la rupture du lien de causalité existant entre la faute de la personne poursuivie et le préjudice subi par la victime. 
+Dans l'affaire Curateur public : il importe de préciser que la preuve d'une faute lourde d'une faute intentionnelle ne donne pas à elle seule ouverture à l'attribution des dommages punitifs en vertu de l'article 49 de la charte des droits et libertés de la personne. 
+Dans l’affaire Beaudoin c. T.W. Hand Fireworks (p.46) : dans cette affaire un jeune enfant perdit l'usage de l'œil après l'explosion d'une pièce pyrotechnique qu'il manipulait en compagnie d'un employé de son père le père plutôt que d'en disposer de façon sécuritaire avait décidé de la remettre à un des employés pas très futé pour que celui-ci en dispose ce qui ne fuit pas avec les résultats tragiques que l'on connaît. La cour demande si nous devons tenir la compagnie responsable pour le préjudice subi. Le tribunal devait conclure en espèces que le comportement très répréhensible du père constituait un novus actus, et par conséquent entraîner une rupture du lien de causalité entre la faute initiale de la société et le préjudice subi par l'enfant.
+PARTAGE DE LA RESPONSABILITÉ : ainsi si la preuve révèle qu'un seul et même préjudice a été causé à autrui par le comportement fautif distinct de plus d'une personne, la responsabilité sera partagée entre elle en proportion de la gravité de leur faute respective (Art 1478).
+RAPPEL : le préjudice étant solidaire dès lors que le champ de responsabilité est de nature extra-contractuelle (Art 1526)
+FAUTE COLLECTIF : dans l'hypothèse ou la preuve révèle que plusieurs personnes ont participé à un fait collectif fautif, par exemple une altercation ayant entraîné un préjudice ou encore que plusieurs personnes ont commis des fautes distinctes dont chacune aurait pu causer le préjudice sans il soit possible de déterminer laquelle a effectivement causé (EXEMPLE : Manifestation), la victime du préjudice pourrait s'adresser à l'une ou l'autre de ces personnes pour obtenir réparation de la totalité du préjudice subi (Art 1480)
+Mais s'il est possible d'identifier l'auteur ou les auteurs du préjudice l'article 1480 ne serait appliqué
+Pour que 1480 s’applique : deux conditions 
+1) il faut qu'il soit impossible de déterminer quelle personne a effectivement causé le préjudice
+2) il faut qu'il ait, soit un fait collectif fautif qui entraîne un préjudice, soit des fautes distinctes dont chacune est susceptible d'avoir causé le préjudice
+CUMULATIF!
+La cour nous dit pour que l'article 1480 impose une solidarité, il faut qu'il soit impossible de déterminer l'auteur de la faute ayant causé le préjudice et ce dans les 2 situations. (Page 35)
+ABUS DE DROIT (p.35) : une la personne qui a un comportement déraisonnable et excessif dans l'exercice d'un droit pourrait être considéré comme ayant commis une faute lourde, voire intentionnelle. 
+La preuve de l'intention malicieuse est requise
+La preuve de ce que constitue un comportement excessif et déraisonnable résulte d'une appréciation objective de la conduite de la personne
+Quelle que soit la gravité de l'abus de droit, celui-ci ne sera toutefois générateur de responsabilités que s'il est établi qu'il a contribué à la réalisation du préjudice. Donc une violation des articles 6 et 7 du code civil ne donne pas, en soi, ouverture à l'attribution des dommages punitifs en l'absence d'un fondement explicitement prévu par la loi (Art 1621)
+RESPONSABILITÉ PERSONNELLE DES PERSONNES MORALES ET DE LEURS ADMINISTRATEURS (p. 36) : 
+Exemple : la décision des membres d'un syndicat de déclencher une grève illégale constitue une faute qui engage la responsabilité personnelle du syndicat en tant que personne morale tout comme le comportement fautif de ces dirigeants. 
+Exemple : Il en va de même de la décision prise par les membres du Conseil d'administration d'une personne morale de poser un acte contraire à la loi, d'agir de façon intempestive ou de faire preuve d'aveuglement volontaire. 
+La responsabilité personnelle que peut encourir une personne morale ne fait pas échec à la responsabilité personnelle que peut encourir un administrateur comme de quoi celui-ci est assujetti aux prescriptions de l'article 1457 pour l’administrateur. 
+Pour les mandataires : suivant l'article 321 du code civil l'administrateur d'une personne morale est considéré comme le mandataire de celui-ci. C'est donc à la lumière des règles qui régissent le mandat (art 2130) qui convient d'analyser la responsabilité personnelle qu'encourt l'administrateur d'une personne morale.  
+TROUBLES DE VOISINAGE (p.40)
+Art 976 : «  les voisins doivent accepter les inconvénients normaux du voisinage qui n'excédant pas les limites de la tolérance qu'ils se doivent suivant la nature ou la situation de leurs fonds ou suivant les usages locaux ».
+Donc nous avons un « droit de nuire » entre voisins tant que la nuisance n’excède pas le seuil de tolérance requis dans le contexte donné
+RAPPEL : 976 est un régime de responsabilité sans faute : c-a-d le régime est fondé non pas sur l'appréciation du comportement fautif de l'auteur des inconvénients, mais sur le caractère excessif des inconvénients résultats de son comportement. (Donc, la responsabilité civile d'une personne sera engagée dès lors de la conduite et source d'inconvénients qui dépasse le seuil de tolérance généralement admis entre voisins). 
+976 s’applique seulement entre voisins, pas les tiers!
+C’est quoi un voisin? - le propriétaire, le locataire, toute personne exerçant un droit d'usage ou de jouissance de la propriété, toutes les personnes vivant avec le propriétaire ou le locataire. 
+Donc nous devons prouver (selon la prépondérance des probabilités) 
+Un rapport de voisinage
+Un trouble résultant de l’exercice du droit de propriété
+Des inconvénients anormaux. 
+Lien de causalité entre le préjudice et l’élément à l’origine du préjudice. 
+Pour conclure à la présence de troubles de voisinage qui dépassent le seuil de normalité, ce 2 critères sont centraux dans l'analyse des inconvénients : la gravité de l'inconvénient est la récurrence du trouble. 
+Le régime de responsabilité sans faute en place par l'article 976 n'écarte pas l'application du régime de responsabilité prévu à l'article 1457 cependant à cet article il rend nécessaire la démonstration d'une faute. 
+Ainsi les gestes intentionnels tels que les injures menacent et harcèlement posés par une personne dans le dessin de nuire a son voisin tombe sous l'empire de l'article 1457 et non sur l'article 976. 
+ATTEINTE ILLICITE À UN DROIT RECONNU PAR LA CHARTE QUÉBÉCOISE (p. 43)
+A l'article 49 de la charte des droits et libertés de la personne on prévoit que la personne qui est victime d'une atteinte illicite a droit à la réparation du préjudice moral matériel qui en résulte mais également condamner son auteur à des dommages et intérêts punitifs. 
+ATTEINTE ILLICITE DE LA CHARTE = aussi une faute civile et peut être sanctionné suivant les règles de 1457 (faute, préjudice et lien causale)!
+LIEN DE CAUSALITÉ : art 1607 (nous devons démontrer le lien causal pour obtenir réparation)
+	Dans l’affaire Laferrière c. Lawson, la Cour suprême a consacré le principe qu'une preuve qui ne peut établir un lien de causalité à l'égard d'un préjudice particulier peut quand même conclure à l'existence d'une causalité à l'égard d'un préjudice moindre. 
+Il appartient à la personne qui réclame réparation du préjudice subi de prouver le lien de causalité entre la faute et la personne. 
+La preuve par présomption est admise dans la mesure où les conditions requises sont réunies à savoir qu'elle soit grave précise et concordante selon l'article 2849. 
+Bien que nous devons caractériser le lien causal, il est parfois problématique : 
+La causalité physique (Longpré c. Thériault) (p. 45) : dans cette affaire nous avons un enfant âgé de 3 ans qui subit une fracture au crâne en chutant. Personne n'était témoin de l'accident dont est victime l'enfant. Parmi les causes possibles de la chute il y a le fait qu'il a pu chuter d'un escabeau menant à une galerie en construction ou encore à la galerie elle-même. Comme aucun expert ni entendu pour donner son avis quant à la cause probable de la facture, la cause du préjudice demeure dans les circonstances incertaines voire inconnues. 
+Donc pas de témoin, pas de preuve pour établir le LC. 
+L’affaire Dubois c. Dubois : dans cette affaire un jeune adolescent devient aveugle après avoir ingurgité de l'alcool de bois que lui avait refilé un copain. La victime ayant poursuivi non seulement l'amie qui lui avait refilé la bouteille d'alcool mais également le père de ce dernier ainsi que le propriétaire de la société d'autobus, la question se posait alors de savoir si la société d'autobus pouvait être tenue responsable du préjudice dont avait été victime l'adolescent. Dans cette affaire la cour d'appel en vient à la conclusion que la victime et son copain et le conducteur de l'autobus devaient être considérés comme ayant contribué à la réalisation du préjudice et partant comme des facteurs causals. (COMPARATIVEMENT À L’AFFAIRE FIREWORKS, DANS DUBOIS DUBOIS, NOUS N’AVONS PAS DE RUPURE DE LIEN CAUSAL, MAIS DANS FIRWORKS, UNE RUPTURE SURVIENT PAR LA NÉGLIGENCE DU PÈRE). 
+RESPONSABILITÉ POUR LE FAIT OU LA FAUTE D’AUTRUI + BIEN (p.55)
+Titulaire de l’autorité parentale (art 1459) : PRÉSOMPTION DE FAUTE PRÉSUMÉ
+C’est quoi le fait de la faute? – 1462
+Si nous avons un mineur entre 14-18 ans? - il est prouvé que les tribunaux ont été réticents à condamner les parents d'un enfant presque majeur. Une preuve adéquate et objective des circonstances réelles de l'exercice de l'autorité parentale à l'endroit des mineurs âgés de 14 à 18 ans devrait à notre avis atténuer encore la portée de cette présomption et la ramener en dessous du seuil de l'âge de 18 ans fixé par le législateur. (p.58)
+Il est possible d'avoir une défense d'absence de faute dans la garde la surveillance et l'éducation du mineur ce qui fait en sorte de réfuter la présomption établie. 
+Est-ce que les parents sont solidaire? – non. Puisque la solidarité ne se présume pas et qui n'est pas prévue à l'article 1459. Bien que les parents détiennent l’autorité parentale (art 600), ils ne sont pas tenus solidaires. 
+Conditions d’application du régime : 
+Preuve de lien de filiation
+La minorité
+Le fait ou faute dommageable prouvé dans les cas ou il est non douée de raison. 
+ATTENTION : le mineur ne peut se soustraire à l'obligation extracontractuelle de réparer le préjudice causé à autrui par sa faute (art 164)
+Un jugement sera exécutoire contre lui pendant 10 ans (art 2924)
+WHAT AGE ARE WE REASONNABLE? – la jurisprudence dit que 7 ans semblent majoritairement être celui retenu pour attribuer cette capacité de discernement aux mineurs
+En défense : pour repousser la présomption établie contre eux les parents doivent de façon prépondérante démontrer leur absence de faute à la fois dans la garde et la surveillance (obligation de moyens, p.61) mais aussi en rapport avec l'éducation donnée aux enfants.
+RESPONSABILITÉ DU GARDIEN – délégation de l’autorité parentale
+Délégation permis en vertu de 601
+Dans l’article 1460, nous avons une responsabilité partagée avec le gardien + les parents
+PRÉSOMPTION DE FAUTE SIMPLE! = peut être repoussé par une défense. 
+Est-ce qu’ils sont tenus solidairement? - bien que nous ne puissions pas présumer la solidarité, elle devrait être établie selon les règles de l'article 1526; par contre la nature même de cette coresponsabilité entre les parents et l'éducateur ou le tiers rend presque inévitable l'existence d'une solidarité entre eux. En effet le préjudice causé par l'enfant tel qu'il est mentionné serré dans l'hypothèse le résultat d'une combinaison de 2 fautes extracontractuelle
+Comment savoir que nous avons une délégation de l’autorité? – nous devons regarder la finalité recherchée par les parents. 
+Condition d’application : 
+La minorité
+L’acte préjudiciable de l’enfant (si les exigences de l’article 1462 est rempli (capacité de raison).
+La délégation de l’autorité
+En défense : le fardeau de preuve repose sur l'éducateur qui doit faire la preuve d'une absence de faute dans l'exercice du devoir qu'il s'était engagé d'accomplir vis-à-vis l'enfant. (Prouver de façon prépondérante)
+L'éducateur doit établir les circonstances générales dans lesquelles le devoir confié par les parents s'est exercé : ici il doit mettre en preuve l'organisation générale entourant la tâche déléguée, tels que des règlements de discipline et de sécurité, le ratio de sur veilleur dans l'établissement, etc.
+L'éducateur doit également démontrer l'imprévisibilité du dommage survenu. 
+Exemple qui n’a pas moyen de défense : une situation dangereuse ou un comportement agressif soit au cours de jeux de sports organisés connu du gardien mais lequel aucune mesure n'est prise 
+OU 
+L'intimidation d'un enfant connue des surveillants et des éducateurs et contre lequel rien n'est fait peut également engager leurs responsabilités. 
+FOR THE BABY SITTERS : art 1460 al.2 – nous avons un régime de FAUTE PROUVÉ et non de présomption de faute. Donc la victime (ou le parent de l’enfant) doit prouver la faute du baby sitter…. Nous n’avons pas de présomption contre elle (or else nobody would want to baby sit anymore).
+POUR LA PERSONNE NON DOUÉE DE RAISON (art 1462) 
+L’auditeur ou le gardien de fait ne sont responsables du préjudice causé par le fait d'une majeur que s'ils ont commis dans l'exercice de leur devoir de garde une faute lourde ou intentionnelle. 
+FAUTE LOURDE = 1474
+Condition de l’application 1462 : 
+Une garde 
+Un fait dommageable commis par une personne non douée de raison
+Une incapacité de l’auteur du dommage
+RESPONSABILITÉ DU COMMETTANT
+Rien ne nous empêche de poursuivre le patron en vertu de 1463 et le préposé en vertu de 1457. 
+Conditions d’application : 
+La faute
+Le lien de préposition entre le préposé et le patron
+La faute est dans les liens de ses fonctions (donc au bénéfice du patron)
+= 
+PRÉSOMPTION DE RESPONSABILITÉ (pas de moyens d’exonération)
+SEUL MOYEN DE DÉFENSE : il n'y a pas d'autre défense ouverte au commettant que celle d'établir que les conditions de mise en œuvre du régime ne sont pas réunies ou qu'il y a eu faute d'un tiers ou force majeure. Ex : boss doit démontrer que ce n’est pas son préposé. 
+Lien de préposition : le lien de proposition c'est le cas notamment de l'exercice du pouvoir de contrôle sur l'employé et de la surveillance ou de la vérification de son travail. Ce qui devrait être établi c'est l'autorité dont était l'instit le commettant d'imposer une méthode de travail à un ouvrier chargé d'exécuter une tâche. 
+Ce qui n’est PAS un lien de préposition : assigner un lieu ou un horaire de travail, le rappel de consignes de sécurité, ou de simples recommandations d'ordre général sur l'exercice d'une activité seront des éléments insuffisants pour établir la notion de contrôle nécessaire à la détermination de la qualité de préposé.
+Il n'existe pas de lien de proposition entre l'expert et le syndic ou l'autre professionnel qui le mandate à l'occasion d'une enquête disciplinaire. Exemple : l'exemple de l'ingénieur à qui un cadre viendrait indiquer comment tracer des plans et analyser la résistance de certains matériaux lorsqu'il n'est pas lui-même ingénieur il n'est pas un lien de proposition. 
+Donc nous devons voir aussi le contrat de travail pour voir si nous avons un lien de préposition. 
+Un lien familial peut également être un lien de préposition, mais doit le démontrer en entourant les faits.
+Cadre de l’exercice de ses fonctions : pour pouvoir se prévaloir de la présomption prévue à l'article 1463 la victime devra démontrer par prépondérance de preuve que l'acte fautif du préposé s'est produit dans le cadre de l'exercice de ses fonctions. 
+Nous devons absolument nous demander si les fonctions accomplies les téterelles au bénéfice et dans l'intérêt de l'employeur (ex : le gardien de sécurité qui à mis le feu à l’immeuble pour paraître un super employé). 
+RESPONSABILITÉ DU FAITS DES BIENS (art 1465)
+Condition d’application : 
+Un bien
+Le fait autonome du bien (DONC aucune intervention humain dans l’appréciation des faits)
+Le gardien du bien
+Fait autonome du bien : il ne y avoir de préjudices résultant du fait autonome d'un bien lorsque ce bien est sous le contrôle physique d'une personne qui le manipule, le déplace au moment où survient le dommage. (Dans ce cas c'est le régime général de responsabilité pour le fait personnel qui s'applique art 1457). 
+Par contre si l'action humaine se limite à la mise en marche du bien la présomption de l'article 1465 entre en jeu. En effet même les biens dynamiques requièrent une intervention humaine minimale pour mettre leurs forces motrices en action. Ce simple fait ne serait donc constitué un obstacle à l'application de l'article 1465. 
+Le gardien : un gardien n’est pas le propriétaire. La garde sera détenue par une personne qui ne sera pas propriétaire. Cette notion est purement factuelle et renvoie tant à l'usage qu'au pouvoir de direction. En principe le gardien est donc celui qui avait le pouvoir d'intervenir afin de prévenir le préjudice
+Exemple : une ville gardienne de son réseau aquatique, de l'égout ou de collection et d'é la création des eaux pluviales au sens de l'article 1465. L'électricité peut parfois être sous la garde du propriétaire alors que dans d'autres cas cette garde peut être placée sous la responsabilité du locataire suivant les circonstances actuelles ou les termes du bail.  
+Moyens de défense du gardien : puisque nous avons uen présomption de faute = possibilité de repousser…. En démontrant qu’il est impossible pour le gardien de prévenir le préjudice ou encore en prouvant la faute d’un tiers ou de la victime. OU force majeure. 
+RUINE DE L’IMMEUBLE (art 1467)
+Condition d’application 
+L’immeuble
+Le propriétaire de l’immeuble
+La ruine de l’immeuble
+Un défaut d’entretien
+PRÉSOMPTION DE RESPONSABILITÉ! (donc c’est tough de l’exonérer) 
+Seuls moyens de défense : la simple preuve de bon entretien général de l'immeuble suivant le critère de la personne raisonnable ne sera pas suffisant pour éviter au propriétaire une condamnation. L'ignorance d'un vice de construction par le propriétaire ne lui permet pas non plus d'échapper à sa responsabilité. Il pourra en fait écarter sa responsabilité qu'en prouvant une force majeure, la faute d'un tiers dont il ne saurait être tenue responsable ou une faute de la victime. 
+POUR LES ANIMAUX : 
+Moyens d’exonération : force majeure ou la faute de la victime. 
+RESPONSABILITÉ DU FABRICANT, DISTRIBUTEUR ET FOURNISSEUR
+Nous avons deux recours : le code civil met en point 2 régimes distincts de responsabilité du fabricant et des fournisseurs dans la chaîne de distribution. Ceux-ci doivent répondre de leurs responsabilités extra contractuelles lors de la poursuite intentée par un tier et de leur responsabilité contractuelle lorsqu'il s'agit d'un cocontractant (acheteur ou autre).
+Défaut de sécurité : 1468, 1469 et 1473
+Conditions d’application 
+Le fabricant 
+Le bien meuble
+Le tiers
+Le défaut de sécurité (Art 1469 nous donne la définition de défaut de sécurité)
+Le bien meuble : l'article 1468 précise que le fait pour un bien meuble de devenir partie intégrante d'un immeuble comme c'est le cas pour l'ascenseur, la baie vitrée d'un grand magasin, la chaudière d'un système de chauffage ne modifie pas la responsabilité du fabricant du distributeur ou du fournisseur. (p.89)
+Le fabricant : le fabricant est celui qui transforme une matière première et organise les composants d'un produit en vue d'en faire un bien meuble utilisable ou une partie de celui-ci. Il s'agit de toute participant au processus de fabrication du bien. 
+Exemple : le vendeur professionnel. 
+Défaut de sécurité : défaut de sécurité du bien meuble doit s'apprécier par rapport à l'utilisation normale du bien et au degré de connaissance, a l'habileté et aux attitudes que l'on doit normalement attendre de ces utilisateurs. 
+Exemple : un vice de conception ou de fabrication d'un bien ainsi que la mauvaise conservation préservation du bien. Obligation d’informer. 
+Dans les rapports contractuels assujettis à la loi sur la protection du consommateur la victime bénéficie d'une protection en cas de défaut d'indication nécessaire à la protection de l'utilisateur contre un risque ou un danger dont il ne pouvait lui-même se rendre compte (Art 53 de la LPC). 
++
+La victime doit démontrer son préjudice!
+Elle dispose d’un délai de 3 ans pour intenter son recours (Art 2925) à compter de l’apparition du préjudice (Art 2926)
+= PRÉSOMPTION DE RESPONSABILITÉ
+Exonération : Force majeure ou faute de la victime (article 1473). 
+PARTAGE DE RESPONSABILITÉ
+Comportement de la victime 
+La faute de la victime : 1478
+La personne douée de raison qui à cause d'un comportement fautif contribue à la réalisation du préjudice pour lequel elle réclame une réparation est appelée à supporter une part de responsabilité. 
+Elle verra alors l'indemnité à laquelle elle aurait normalement eu droit à être réduite d'autant ou encore son recours rejeté notamment si le tribunal considère qu'elle a été l'artisan de son propre malheur. 
+L’évaluation est laissée à la discrétion du tribunal
+Si la victime n'est pas douée de raison on ne pourra lui imposer son comportement objectivement fautif pour réduire l'indemnité à laquelle elle a droit. En effet l'article 1478 utilise des expression « faute » et non pas le « fait ». Donc la victime non douée de raison aura alors droit d'être indemnisée complètement par l'auteur du préjudice
+Acceptation des risques par la victime
+Une personne assume et accepte les risques normalement ou aux activités auxquelles elle participe volontairement et dont elle a la connaissance. Exemple : une personne qui pratique un sport tel que le badminton le patinage l'équitation le ski le vélo le hockey le saut en parachute etc. Assume les risques de blessures prévisibles raisonnables et inhérentes à l'activité et non les risques déraisonnables ou anormaux n'ayant aucun lien avec la pratique du sport !!!!! (COMME DANS L’EXAMEN… LE BOY QUI FAIT DU SKI… IL EST ÉGALEMENT RESPONSABLE)
+ATTENTION : un spectateur a une joute de hockey assume implicitement le risque d'être atteint par une rondelle déviée accidentellement dans les estrades. 
+Si la réalisation d'un risque implique également une faute de la part de quelqu'un d'autre tel qu'un autre skieur ou un autre spectateur ou encore de la part de la personne qui organise l'activité il sera possible à la victime de rechercher un responsabilité ces personnes, la victime n'étant tenue à supporter que les risques normaux inhérents à l'activité et non l'aggravation des risques résultant du comportement fautif. 
+En revanche si l'activité à laquelle participe une personne comporte des risques particuliers ou inhabituels dont elle ne peut avoir spontanément connaissance, la personne responsable de l'activité ou les lieux où elle se déroule est tenue d'informer la personne qui participe à l'activité de ces risques particuliers ou inhabituels. Si elle ne le fait pas, elle commet une faute qui pourrait en principe engendrer sa responsabilité. Pour sa part la personne qui dûment informé les risques du comportement de l'activité décide néanmoins d'y participer ne pourra se plaindre si un risque se matérialise et si elle subit un préjudice du fait de sa matérialisation. Elle devra assumer les conséquences. 
+Le refus de minimiser ses dommages
+En vertu de l'article 1479 la personne qui est tenue de réparer un préjudice ne répond pas à l'aggravation de ce préjudice que la victime pouvait éviter.
+Obligation de moyens, pas de résultat!
+La victime d'un préjudice n'est pas tenue de subir des traitements qui comportent un risque sérieux pour la santé ou pour sa vie ou encore qui ne lui serait pas bénéfique. Elle ne serait toutefois refusée les traitements qui pourraient améliorer sa condition dès lors que son refus paraît déraisonnable. Elle répond de l'aggravation de son état qui résulte de son refus de suivre ou de subir les traitements prescrits qui ne comportent pas de risques
+Pour les propos diffamatoires : Les personnes victimes de propos diffamatoires pourrait se voir poser le fait qu'elle n'a pas réagi publiquement pour se défendre ou encore qu'elle n'a pas demandé à l'auteur des propos de ce rétracter. Cette absence de rétraction de sa part est de nature à influer sur l'indemnité qu'elle serait en droit de recevoir pour compenser le préjudice résultant de l'atteinte à sa réputation.
+ATTENTION : force majeure = l'événement imprévisible et irrépressible qui peut constituer un cas de force majeure doit être tel qu'il l'empêche l'exécution d'une obligation de manière absolue et permanente. On considère des forces majeures le fait de la nature telle une pluie diluvienne, soit encore le fait d'une intervention humaine notamment le fait d'un tiers tel que dans le cas d'un vol à main armée mais non pas un vol simple!!!! Une grève légale est aussi une force majeure (voir l’affaire Cie Miron c. Brott : dans cette affaire, l’employé avait coupé un fil électrique et ne pouvait pas réparer le fil électrique avant 10 jours plus tard à cause d'une grève légale des employés d'hydro-québec. La cour supérieure devait statuer que la grève légale constituait en espèces un cas de force majeur pour hydro-québec.)
+Pour invoquer la force majeure, il faut que le défendeur démontre une preuve qui révèle qu'il n'y a pas été lui-même négligeant. (p. 102 et 103)
+LES AVIS D’EXCLUSION OU DE LIMITATION DE RESPONSABILITÉ
+Selon l'article 1474 une personne ne peut exclure ou limiter sa responsabilité pour le préjudice matériel causé par la faute intentionnelle ou une faute lourde. Elle ne peut aucunement exclure ou limiter sa responsabilité pour un préjudice corporel ou moral causé à autrui (ORDRE PUBLIC)
+Bien que la personne ne peut limiter son obligation de réparer le préjudice causé à autrui par sa faute il peut cependant un tel avis pouvait valoir comme dénonciation d'un danger. Il s'ensuit que la personne connaissance d'un tel avis est tenu de prendre les mesures qui s'imposent afin d'éviter d'être blessé. Si elle fait fi de l’avis et de la mise en garde qu'il comporte elle pourra être considérée comme ayant été elle-même fautive (art 1478). 
+EXEMPLE : La municipalité propriétaire d'un dépotoir est responsable de la surveillance du site, posséderait une affiche déclinant toute responsabilité à l'égard de quiconque s'aventurait sur le site. Dans l'éventualité ou un adolescent prendrait sur lui de pénétrer sur le site et de ses blessés la municipalité ne pourrait s'il était poursuivi en responsabilité civile et trouvée fautif invoquer l'existence de l'affiche pour se soustraire à l'obligation qui lui est faite en vertu de l'article 1457. Elle pourrait cependant faire valoir que la fiche constituait la dénonciation d'un danger et qu'en décidant d'ignorer l’affiche, De ça a commis une faute dont le tribunal devrait tenir compte. 
+EXEMPLE : lorsque nous avons une affiche « Fonte de neige et de glaçon », bien que cette affiche constitue certes une mise en garde de la part du propriétaire à l'égard de toute personne voulant pénétrer dans l'immeuble de faire attention en raison de la possibilité d'un glaçon ou de la neige qui se détache de la toiture. D'autres personnes qui voudraient pénétrer l'immeuble serait tenu de s'assurer qu'il n'y ait pas de danger imminent pour que la chute de neige ou de glaçons. Si elle ne le fait pas elle sera considérée comme ayant été fautif en vertu de l'article 1477 et 1478. 
+LPC : aucune stipulation qui exonère le commerçant !!!!! (Art 10 LPC)
+POUR LES ACCIDENTS DE VOITURE : la loi prohibe tout recours de responsabilité civile devant les tribunaux de droit commun en cas de décès ou de préjudice corporel causé par une automobile par son usage ou par son chargement (83.57 L.a.a) (p.115)
+DONC LA MINUTE QUE NOUS AVONS UNE VOITURE IMPLIQUÉ, IMPOSSIBLE DE FAIRE UN RECOURS EXTRA, NOUS DEVONS PASSER PAR LA LOI SUR L’ASSURANCE AUTOMBILE. 
+EXEMPLE : La simple utilisation ou conduite d'un véhicule automobile en tant que véhicule suffit pour que la loi s'applique. Il n'est pas nécessaire que le véhicule ait été une cause active de l'accident. À cet égard le chargement ou le déchargement d'un véhicule, l'action de monter et de descendre d'un véhicule automobile et compris dans la notion d'usage d'un véhicule, le fait d'ouvrir une portière et de déposer son sac à main sur le siège du conducteur, de même que celle d'effectuer le déneigement d'un véhicule = application de la L.A.A
+ATTENTION : si un passager fait une chute AVANT sa manœuvre de monter ou APRÈS celle de descendre, il n'y a pas d'accident automobile au sens de la loi. (p. 116)
+LA RESPONSABILITÉ DES NOTAIRES 
+Devoir d’authentification des actes (Art 10 Loi sur le notariat)
+Devoir de conseil : définis comme une obligation à la fois morale et légale qui incombe au notaire d'éclairer les parties, suivant leurs besoins respectifs et les circonstances particulières de chaque cas sur la nature et sur les conséquences juridiques parfois même économiques de leur pacte et conventions. »…. Il s'agit d'une obligation d'un moyen et cette obligation peut être solidaire ou in solidum 
+Examen des titres : « on définit généralement l'examen des titres comme l'examen en vertu duquel un notaire dresse la liste des transactions à partir de l'index aux immeubles et ensuite procède à l'analyse de chacun des actes pour être en mesure de se prononcer sur la validité, leurs effets juridiques et la capacité des parties qui figurent »
+Le dépôt, l’utilisation et la restitution des sommes en fidéicommis
+Le secret professionnel garantis 
+LE PRÉJUDICE (p.200)
+Préjudice corporel : atteinte à l’intégrité physique ou psychologique. 
+Exception : la jurisprudence considère la simple humiliation causée par une atteinte à la réputation comme ne constituant pas un préjudice corporel. 
+PRESCRIPTION 
+2930 = 3 ans
+2926.1 = 10 ans si c’est un acte criminel OU imprescriptible si c’est sexuel. 
+EXEMPLE : les affaires impliquent les arrestations illégales par les policiers municipaux Régis par la loi sur les cités et villes illustre bien cette dichotomie recours. Ainsi si la preuve révèle une atteinte initiale à l'intégrité physique lors de l'arrestation, la victime a alors subi un préjudice corporel et l'article 2930 trouve l'application. La victime a donc 3 ou 10 ans pour poursuivre, dépendamment des circonstances. MAIS si au contraire l'arrestation n'a entraîné qu'une filiation et détentrice ne s'agit pas d'un préjudice corporel et la courte prescription 6 mois s'applique !!!
+Rappel : Cinar corporatin : ce jugement rejoint les principes énoncés quant à la caractérisation du préjudice en fonction de la nature de l'atteinte première. 
+Préjudice matériel, moral : la Cour suprême dit : « c'est la violation initiale plutôt que les conséquences de cette violation qui sert de fondement pour décider du type de préjudice subi » CINAR
+EXEMPLE : une atteinte à un bien ou à un patrimoine constitue un préjudice matériel alors qu'une atteinte à la réputation ou autre constitue un préjudice moral
+CRITÈRE DU PRÉJUDICE : Direct, immédiat et certain! (Art 1607 et 1611 al.2)
+Direct et immédiat : de savoir quel préjudice est une suite directe et immédiate de la faute du débiteur. Tout ce qui peut permettre au tribunal de croire que l'accident n'a été que l'occasion de la manifestation des dommages et intérêts réclamés et non sa cause immédiate et directe permettra d'écarter la réclamation. 
+Certain : 1611 al.2 = le 2e alinéa concerne le préjudice futur. Le code civil exige pour que le préjudice futur soit compensé par le débiteur de l'obligation que ce préjudice soit certain et qu'il soit possible de l'évaluer. On n’exige pas une certitude absolue mais une probabilité sérieuse que le préjudice apparaîtrait selon l'évolution normale des choses d'une vie. 
+La règle actuelle veut que le préjudice futur soit apprécié de façon exacte au moment où le tribunal doit le liquider.
+Lorsqu'il ne peut pas procéder à cette évaluation il est possible pour le tribunal à la suite d'une demande spécifique faite par la victime immédiate d'un préjudice corporel de lui verser des recours pour le futur (Art 1615) lorsque la condition physique n’est pas stabilisée. 
+NOUS DEVONS FAIRE ATTENTION : PERTE PROBABLE VS PERTE DE CHANCE
+En effet lorsque la perte est considérée comme réelle et sérieuse et comme probable, donc plus supérieur à 50%, elle ne correspond plus à une perte de chance mais plutôt à une pure perte puisqu'elle a réalisation devient alors certaine au sens de l'article 1611. Par exemple lorsqu'une victime démontrer de manière prépondérante, donc à plus de 50%, l'existence d'une perte probable de profit, il ne s'agit pas d'une perte de chance de profit mais bien d'une simple perte de profit. 
+ATTENTION : la perte de chance doit être refusée en droit québécois lorsque cette chance avait moins de 50% de probabilité de se réaliser. 
+ÉVITER LA DOUBLE INDEMNISATION !!!! (ART 1608)
+EXEMPLE : l'assureur ou l'employeur compense une partie ou la totalité du préjudice éprouvé par la victime dans l'hypothèse où elle poursuit par ailleurs le responsable pour les mêmes dommages. 
+Le législateur confirme que le seul cas où on doit tenir compte de la compensation versé par un tier et celui où il y a subrogation en faveur de ce dernier. 
+ATTENTION : parmi les nombreux régimes publics de compensation du préjudice corporel seul le Régime des rentes du Québec ne prévoit PAS de subrogation légale en faveur de cette caisse de compensation. Pour les autres régimes le cumul n'est donc pas permis (exemple : la Loi qui vise à indemniser les victimes d’actes criminels) (p.211)
+Pour les assurances : Assurance de personnes VS assurance en dommages
+Ainsi en assurance de dommages l'assureur étant légalement subrogé (art 2474) le cumul est alors impossible. En revanche en matière d'assurance de personnes compte tenu de l'absence de toute subrogation légale la jurisprudence permet le cumul. 
+Il est possible de faire une assurance conventionnelle entre les parties, mais cette assurance doit être constaté par écrit, expresse et consentie par la victime (Art 1653 et 1654)
+EXEMPLE : si l'employeur s'est obligé par contrat à continuer de payer le salaire de son employé sans être subrogé au recours de ce dernier, la double compensation sera possible. En outre si l'employeur perd, par la faute du responsable, des journées de maladies accumulées, il pourra poursuivre ce dernier en raison de la perte de cet actif à condition d'en faire la preuve. 
+Indemnisation pour atteinte à un bien
+La destruction d'un bien qu'il soit meuble où immeuble de même que toute atteinte à un intérêt financier peut entraîner à l'égard de son propriétaire des pertes de nature économique qu'il importe de réparer. 
+PERTE PÉCUNIAIRE : 
+EXEMPLE : le propriétaire se voyait remettre un bateau neuf alors que le sien compte déjà 3 années d'usage, il y aurait enrichissement de sa part
+EXEMPLE : dans l'hypothèse où le bien n'a été que partiellement endommagé la somme sera allouée pour la remise en état à condition que la preuve n'en soit faite, encore là sera soustrait la portion représentant la plus-value du bien remis à neuf. Si le coût de réparation est plus élevé que la valeur intrinsèque du bien la jurisprudence considère comme plus juste de n'attribuer aux créanciers que la valeur du bien à moins que les circonstances spéciales qui doivent toutefois être prouvées par le créancier. 
+PERTE NON-PÉCUNIAIRE : 
+EXEMPLE : la perte d'un animal peut s'avérer source d'ennuis de tristesse ou d'inconvénient qui convient de réparer. 
+PLAFOND D’INDENMISATION : Comme l'a précisé la Cour suprême dans l'affaire Robinson il n'existe pas de plafond d'indemnisation pour les pertes non pécuniaires qui découlent d'une atteinte à un bien, puisque ce plafond n'est applicable qu'en matière de pertes non pécuniaires découlant d'un préjudice corporel (p.218)
+Indemnisation pour préjudice moral
+PERTE PÉCUNIAIRES :
+Dans leur évaluation aucun plafond n'est reconnu puisque l'indemnisation doit respecter le principe fondamental de la réparation intégrale. En d'autres mots il importe de remettre à la victime dans l'état patrimonial antérieur. 
+En matière de diffamation l'essentiel de la réclamation est le plus souvent constitué de pertes non économiques. 
+Dans le cas de fausses plaintes et de déclaration mensongère à la police, la personne diffamée peut réclamer les honoraires d'avocat pour assurer la défense ou toute plainte criminelles déposées à son égard.
+Indemnisation d’un préjudice corporel
+POUR LES PERTES NON-PÉCUNIAIRES : nous avons un plafond de 350,000$
+Indemnisation pour dommages résultant d’un décès
+En vertu du principe de la réparation intégrale les victimes par ricochet doivent être remplacées dans la situation économique où elles auraient été. 
+Il convient de calculer le salaire sur lequel aurait dû compter le défunt en fonction des fluctuations et des promotions normalement prévisibles. En d'autres mots comme en matière de blessures corporelles il s'agit de tracer le plan de carrière qui était envisagé pour la victime. 
+EXEMPLE : dans le cas d'un conjoint divorcé qui est créancier d'une pension alimentaire, celui-ci pourra la réclamer à l'auteur du préjudice. 
+EXEMPLE : en ce qui traite de la réclamation des enfants, si les parents doivent veiller à leur entretien jusqu'à 18 ans, le chiffre selon la preuve peu fluctué. En fait il s'agit de déterminer à quel moment l'enfant serait devenu complètement autonome
+EXEMPLE : si le conjoint décédé ne travaillait pas une somme pourrait également être allouée aux victimes. Il conviendra alors de faire la preuve de l'arrêt de travail étant temporaire. Des éléments tels que la carrière antérieure ou les années de scolarité seront prises en compte afin de déterminer la perte réelle. 
+EXEMPLE : dans l'éventualité où le conjoint restait à la maison, les tribunaux appliqueront de même principe qui les guide lors de blessures graves. Ainsi en comptabilisera la perte en fonction du coût des services rendus à la famille. 
+EXEMPLE : dans l'hypothèse d'un décès d'un enfant, le calcul se complique. Le caractère aléatoire d'une telle évaluation et évident puisque d'une part il n'est pas certain que les parents auraient eu besoin d'un soutien alimentaire de leur enfant et il n'est pas évident que ce dernier aurait été en mesure de leur apporter. C'est pour cela en l'absence d'une preuve de perte économique réelle les tribunaux refusent cette portion à la réclamation. En revanche si la preuve révèle un tel apport économique de la part de l'enfant, par exemple par la démonstration de l'existence d'une coutume à cet effet dans une communauté (les chinois subviennent traditionnellement à leur famille), une somme sera alors à l'ouest à ce titre. 
+Les frais funéraires : la doctrine est d'avis et considère que les frais funéraires représentent un préjudice directement compensable. 

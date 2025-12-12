@@ -1,0 +1,181 @@
+LE TRAITEMENT DES AFFAIRES PAR DÉFAUT, LES MOYENS PRÉLIMINAIRES ET LES INCIDENTS DE L’INSTANCE
+Section 1 : Le traitement des affaires inscrites par suite du défaut du défendeur
+Lorsque le défendeur choisit de ne pas notifier de réponse à l’assignation qui lui a été faite ou s’il néglige de le faire dans les délais, le demandeur pourra obtenir un jugement qui accueillera sa demande par défaut. Il en est de même lorsque le défendeur ne se présente pas à une conférence initiale de gestion ou ne conteste pas la demande sur le fond.
+(Art. 107, al.3 C.p.c.) : aucune DID ne peut être inscrite pour jugement à moins que le demandeur est produit la preuve de la notification. Selon la règle de l’Art. 17 C.p.c. concernant le droit de chacune des parties d’être appelé ou entendue, il faudra ainsi prouver que cette personne a valablement été notifiée.
+Le défaut du demandeur peut résulter de 3 situations (Art. 175, al.1 C.p.c.)
+Défaut de répondre à la demande formée contre lui (Art. 180, al.1 C.p.c.)
+Défaut de participer à la conférence de gestion (Art.180, al.2 C.p.c.)
+Défaut de contester la demande dans le délai prévu dans le protocole (Art. 180, al.2 C.p.c.)
+Dans tous les cas de défauts (3), le demandeur devra produire au greffe ses pièces, les autres éléments de preuve et sa déclaration sous serment (Art. 175, al.2 C.p.c.). 
+Attention parfois, s’il s’agit du défaut de répondre et que ce défaut est enregistré contre le procureur général, il devra avoir un préavis de 30 jours de donné au procureur général (Art. 180, al.1 in fine C.p.c.).
+Ensuite, le greffier spécial pourra rendre jugement sur le vu de la demande (que sur certaines demandes : Art. 181, al.1 C.p.c. et sur toute autre matière après une enquête Art. 181, al.3 C.p.c. SAUF en matière familiale), des pièces et de la déclaration sur serment attestant que le montant réclamé lui est dû (Art.181 C.p.c.). 
+S’il y a plusieurs défendeurs et que l’un ou quelque uns sont en défaut, le demandeur peut demander l’inscription pour jugement par le tribunal. Le tribunal peut toutefois refuser s’il juge que le litige requiert une décision uniforme pour tous les défendeurs (Art. 183 C.p.c.).
+Peut être pratique en cas de solidarité entre les différents défendeurs. 
+Dans tous les cas où le défendeur est en défaut, il ne pourra pas produire de témoin en cas d’enquête par le greffier spécial, mais il pourra cependant contre-interrogé les témoins cités par le demandeur (Art. 182, al. 3 C.p.c.).
+Vrai/Faux : La production des pièces 
+Lorsqu’une affaire est inscrite à la suite du défaut du défendeur, les pièces doivent être produites avec la demande d’inscription pour jugement.
+Vrai, art. 250, al.2 C.p.c. 
+Section 2 : Les moyens préliminaires (Arts. 166-169 C.p.c.)
+Avant de prendre position sur le fond de la demande, une partie peut faire valoir des moyens préliminaires par écrit. 
+Les délais sont prévus à l’art. 166, al.2 C.p.c.
+(Art. 85 C.p.c.)(Art. 87 C.p.c.)(Art. 141 C.p.c.)(Art. 150 C.p.c.)
+(Art. 153 C.p.c.) (Art. 154 C.p.c.) (Art. 491 C.p.c.)
+Les moyens déclinatoires
+Nous pourrons les utiliser dans 4 cas : 
+Autorité québécoise n’ont pas compétence pour entendre le litige (Art. 167, al.1 C.p.c.)
+Demande a été introduite devant le tribunal alors que les parties sont régies par un convention d’arbitrage au sens de l’art. 622 C.p.c. Le délai pour présenter un moyen déclinatoire sera de 45 jours
+La DID a été introduite dans un district qui n’est pas compétent au sens des arts. 41 et ss C.p.c.
+Servira à renvoyer le dossier devant le tribunal compétent lorsque le dossier a été porté en Cour supérieure alors que c’était la Cour du Québec qui avait compétence.
+*Seulement le d) pourra être soulevé en tout temps (Art. 167, al.2 C.p.c.)*
+Les moyens d’irrecevabilité 
+(Art. 168 C.p.c.)
+Une partie peut opposer l’irrecevabilité de la demande ou de la défense et demander son rejet dans l’une ou l’autre des circonstances suivantes :
+1°	il y a litispendance ou chose jugée;
+2°	l’une ou l’autre des parties est incapable ou n’a pas la qualité exigée pour agir;
+3°	l’une ou l’autre des parties n’a manifestement pas d’intérêt.
+Elle peut aussi opposer l’irrecevabilité si la demande ou la défense n’est pas fondée en droit, quoique les faits allégués puissent être vrais. Ce moyen peut ne porter que sur une partie de celle-ci.
+Le tribunal peut, sur le vu du dossier, refuser une demande en rejet en raison de l’absence de chance raisonnable de succès.
+La partie contre laquelle le moyen est soulevé peut obtenir qu’un délai lui soit accordé pour corriger la situation mais si, à l’expiration de ce délai, la correction n’a pas été apportée, la demande ou la défense est rejetée.
+L’irrecevabilité d’une demande n’est pas couverte du seul fait qu’elle n’a pas été soulevée avant la première conférence de gestion.
+À tout moment, ce moyen peut être soulevé. 
+Les autres moyens
+(Art. 169, al.2 C.p.c.) : demande de précisions quant aux allégations, de communiquer des documents et la radiation d’allégations non-pertinente. 
+(al.3) : Si la demande est accordée, le jugement qui y fait droit, permettra à la partie de modifier son acte en conséquence et on lui donnera un certain délai pour s’exécuter. À défaut de respecter le délai, la DID sera rejetée ou certaines allégations radiées.
+Vrai/Faux
+Pour que le greffier spécial puisse statuer sur tout acte de procédure en cours d’instance, il faut nécessairement que les deux parties consentent à lui donner compétence si l’acte est contesté.
+Faux, bien que l'art. 72, al. 1 in fine C.p.c. fasse référence à des procédures en cours d'instance et qu'il prévoie que l'accord des parties est nécessaire pour lui conférer compétence, certains incidents de l'instance (art. 184 et s. C.p.c.), notamment la demande de modification d'un acte de procédure et la demande pour cesser d'occuper, sont spécifiquement prévus à ce même paragraphe et il n'est pas nécessaire d'avoir le consentement des parties pour que le greffier spécial ait compétence dans ces cas. 
+Section 3 : Le cautionnement pour la sûreté des frais de justice
+Une personne qui ne réside pas au Québec peut intenter une poursuite civile pour faire valoir ses droits.
+Le défendeur peut requérir, à tout moment de l’instance, une ordonnance afin que cette personne fournisse un cautionnement pour assurer le paiement des frais de justice.
+Pas un moyen préliminaire a strictement parlé. 
+(Art. 101 C.p.c.) : cette demande est faite conformément à cette disposition quant au demande en cours d’instance.
+(Art. 492, al.1 C.p.c.)Possible d’un demandeur pas résident au Québec ou si c’est une personne morale, elle n’est pas domiciliée au Québec. 
+(Art. 77 C.c.Q.) : notion de domicile 
+Le cautionnement ne s’applique pas (Art. 493 C.p.c.) :
+En matière familiale
+En situation d’enlèvement international d’enfants
+À un ressortissant français
+Vrai/Faux
+Aucun cautionnement ne peut être imposé pour garantir le paiement des frais de justice à l’occasion de procédures judiciaires en matière familiale.
+Vrai, (Art. 493 C.p.c.)
+Section 4 : Les incidents de l’instance
+Plusieurs incidents peuvent survenir durant le déroulement de l’instance.
+Il s’agit de ceux qui régissent l’intervention de tiers à l’instance, qui concernent les avocats des parties, la reprise d’instance, la récusation, les actes de procédure et ceux qui mettent fin à l’instance.
+L’intervention de tiers à l’instance (Arts. 184-190 C.p.c.)
+Un tiers qui n’est une partie à l’instance peut ainsi intervenir à l’instance. Il peut le faire volontairement ou contre son gré (Art. 184 C.p.c.). 
+L’intervention volontaire (Arts. 185-187 C.p.c.)
+3 sous catégories :
+Agressive : un tiers cherche à faire valoir ou à obtenir un droit qui est déjà enjeu dans l’instance 
+Exemple : assureur subrogé dans les droits de l’assuré 
+Conservatoire : aider ou accompagner une partie dans le litige 
+Exemple : l’assureur qui prendrait fait et cause pour son assuré, notamment en matière d’assurance responsabilité.
+Dans le cas où l’intervention sera AGRESSIVE OU CONSERVATOIRE SEULEMENT, le tiers devient partie à l’instance (Art. 185, al.2 C.p.c.). Ces intervenants devront notifier aux parties par un acte d’intervention son intérêt pour agir, ses prétentions , les modalités de son interventions, les conclusion recherchées ainsi que les faits qui les justifient (Art. 186, al.1 C.p.c.).
+Les parties auront ensuite 10 jours pour s’opposer sinon le tiers sera présumé avoir l’intérêt pour agir et comme une partie à l’instance avec les modalités et les conclusions recherchées. Cependant, si l’une des parties s’opposent dans els 10 jours de la notification, le tiers devra présenter l’acte d’intervention au tribunal (Art. 186, al.2 C.p.c.). 
+Il présente donc une demande en cours d’instance en vertu de l’art. 101 C.p.c.
+Amical : strictement pour présenter quelques observations au juge
+(Art. 187, al.1 C.p.c.): doit faire l’objet d’une demande au tribunal en cours d’instance au tribunal conformément à l’art. 101 C.p.c. et d’un avis de présentation de 5 jours toujours selon l’a1.1. Le tribunal pourra permettre cette intervention s’il le juge opportun (al.2). 
+L’intervention forcée (Arts. 188-190 C.p.c.)
+(Art. 184,al.3 C.p.c.) : Elle est forcée lorsqu’une partie met un tiers en cause pour qu’il intervienne à l’instance afin de permettre une solution complète du litige ou pour lui opposer le jugement; elle est aussi forcée si la partie prétend exercer une demande en garantie contre le tiers.
+(Art. 188 C.p.c.) : L’intervention forcée s’opère par la signification au tiers d’un acte d’intervention dans lequel la partie expose les motifs qui justifient l’intervention du tiers à titre de partie et auquel est jointe la demande en justice (art. 101 C.p.c.). L’acte d’intervention propose en outre, compte tenu du protocole de l’instance, les modalités de l’intervention et indique au tiers qu’il doit y répondre dans les 15 jours qui suivent.
+L’acte d’intervention est aussi notifié aux autres parties lesquelles disposent d’un délai de 10 jours à compter de la réponse du tiers pour notifier leur opposition.
+Le tiers à 15 jours pour y répondre
+Les autres parties ont 10 jours pour s’opposer
+À l’intérieur de ces délais, s’il n’y a aucune opposition, il fait partie de l’instance et les modalités contenues dans l’acte d’intervention sont présumées acceptées. 
+La garantie simple
+Si l’intervention a pour but d’appeler le tiers en garantie simple afin qu’il soit personnellement obligé (Art. 189, al.1 C.p.c.) = le tiers ne pourra pas prendre fait et cause pour le demandeur en garantie, le tiers pourra seulement contester la demande formée contre le demandeur (Al.2).
+La garantie formelle
+Le tiers au contraire peut prendre fait et cause pour le demandeur en garantie et le demandeur peut alors demandeur d’être mis hors de cause (Art. 189, al.3 C.p.c.). 
+(Art. 190 C.p.c.) : La demande principale et celle en garantie sont jointes dans une seule instance et, à moins que le tribunal ne les disjoigne, elles sont assujetties au même protocole de l’instance, lequel est révisé pour tenir compte de la demande en garantie. Ces demandes sont instruites ensemble et il en est disposé par un seul jugement.
+Exemple : un piéton chute sur un trottoir glacé d’une municipalité. Il pourra poursuivre la municipalité et si celle-ci avait donné en sous-traitance le contrat de déneigement de ses trottoirs, la municipalité pourra ensuite appeler en garantie cet entrepreneur. 
+S’il y a un appel en garantie contre cet entrepreneur et que suivant les 10 jours de l’envoi de l’acte d’intervention au tiers il n’y a pas d’opposition, l’entrepreneur fera ainsi partie au litige. Le procès aura lieu en présence de ces trois parties. D’abord pour la demande principale entre la municipalité et le demandeur et ensuite dans la même instance et la même instruction, celui de l’entrepreneur et de la municipalité. 
+Les incidents concernant les avocats des parties (Arts. 191-195 C.p.c.)
+Désaveu et répudiation des actes lors d’excès des limites de son mandat
+En cours d’instance, une partie peut demander le désaveu (Art.101 C.p.c.) et la répudiation des actes qui ont excédé les limites de son mandat (Art. 191, al.1 C.p.c.). C’est possible qu’on soit obligé de le faire seulement après jugement et la procédure consiste en le dépôt d’une demande introductive d’instance en désaveu (Art. 191, al.2 C.p.c.) et en répudiation des actes non-autorisés. 
+Les effets d’un jugement favorable sont à l’art. 191, al.3 C.p.c.
+Le retrait, le décès ou l’inhabileté
+L’Art. 192, al.1 C.p.c. prévoit le scénario où l’avocat se retire du dossier, décède ou est inhabile. Le partie ainsi plus représenté devra ainsi être mis en demeure de désigner un nouvel avocat ou indiquer aux autres parties son intention d’agir seul. La partie aura 10 jours de la notification de la mise en demeure pour répondre et pendant ce temps, aucun acte de procédure ou jugement ne pourra être fait ou rendu. 
+L’Art. 192, al.3 C.p.c. mentionne que si la partie ne désigne pas un nouvel avocat, l’instance se poursuit comme si la partie n’était pas représentée. 
+La partie qui ne respecte pas les règles régissant la représentation comme ce serait le cas d’une personne morale non-représentée par avocat (Art. 86 C.p.c.), pourrait se voir, sans préavis et à la demande d’une partie, imposer l’inscription pour jugement ou si elle est défenderesse, le rejet de la demande. 
+Il y a une présomption de connaissance de la part de la partie dans ces cas : de l’inhabilité ou de la mort de l’avocat d’une autre partie ou de sa nomination à une charge ou fonction publique incompatible avec l’exercice de sa profession (Art. 192, al.5 C.p.c.). 
+L’inhabileté pour cause de conflit d’intérêt
+Pour sa part, l’art. 193 C.p.c. prévoit la possibilité à la demande d’une partie qu’un avocat soit déclaré inhabile pour cause de conflit d’intérêts lorsque : 
+Situation de conflit d’intérêts et n’y remédie pas
+S’il a transmis ou est susceptible de transmettre à une autre partie ou à un tiers des renseignements confidentiels
+S’il est appelé à témoigner dans l’instance sur des faits essentiels : dans ce dernier cas, l’inhabilité n’est déclarée que si des motifs graves le justifient.
+La demande est faite selon une demande en cours d’instance (Art. 101 C.p.c.).
+L’avocat demande à cesser d’occuper
+Art. 194, al.1 C.p.c. : avant que la date de l’instruction ne soit fixée, l’avocat peut cesser de représenter son client en notifiant à celui-ci ainsi qu’aux autres parties et au greffier son intention. 
+Art. 194, al.2 C.p.c. : Cependant, si la date d’instruction est fixée, il devra obtenir la permission du tribunal pour cesser d’occuper.
+Quiz - Une déclaration d’inhabileté peut être présentée lorsque l’avocat :
+représente des parties qui ont des intérêts opposés
+sera appelé comme témoin à l’instruction sur des faits essentiels
+agit contre un ancien client dans un dossier connexe
+toutes ces réponses
+d), dans toutes ces situations, une partie peut demander à ce que l’avocat soit déclaré inhabile (art. 193 C.p.c.).
+La reprise d’instance (Arts. 196-200 C.p.c.)
+L’instance ne sera pas retardée par le décès ou le changement d’état d’une partie (ex : une partie agissant en tant que tuteur pour son mineur et un jour ledit mineur devient majeur et celui-ci devient agir afin de reprendre l’instance) (Art. 196, al.1 C.p.c.).
+L’avocat devra notifier aux autres parties le changement (Art. 197, al.1 C.p.c.) et celui subsistant le changement pourra reprendre l’instance (Art. 198, al.1 C.p.c.).
+Les modalités de reprise d’instance sont prévues à l’art. 200, al.1 C.p.c. :
+Dépôt au greffe et la notification à toutes les parties à l’instance d’un avis indiquant les faits qui y donnent lieu. 
+Le droit de reprendre l’instance peut être contesté dans les 10 jours de cet avis; à défaut, la reprise d’instance est réputée admise.
+(Art. 200, al.2 C.p.c.) : Si les intéressés ne reprennent pas l’instance, une partie peut les mettre en demeure de le faire. S’ils n’obtempèrent pas à la mise en demeure dans les 10 jours, toute partie peut demander la mise au rôle comme dans les affaires par défaut si elle est demanderesse ou le rejet de la demande si elle est défenderesse.
+La récusation du juge (Arts. 201-205 C.p.c.) 
+Doute d’impartialité du juge, il pourra avoir une récusation à la demande du juge lui-même (Art. 201, al.1 C.p.c.). 
+La récusation peut également être demandée à la demande d’une partie (Art. 201, al.2 C.p.c.) et alors, celle-ci doit dénoncée ces motifs de récusation dans une déclaration qu’elle notifiera au juge concerné et aux autres parties. Alors, si le juge ne se récuse pas dans les 10 jours de la notification, une partie pourra présenter une demande formelle de récusation (voir plus bas). Une partie peut cependant renoncer à son droit de récuser. 
+Art. 204, al.1 C.p.c. : la demande de récusation sera notifiée au juge et aux autres parties à l’expiration des 10 jours suivant la notification de la déclaration de récusation prévue à l’art. 201, al.2 C.p.c.
+Art. 2014, al.2 C.p.c. : s’il n’y a pas eu de déclaration de récusation, la demande peut être faite à tout moment de l’instance pourvu que la partie justifie sa diligence à agir. Si la demande est déposée lors de l’instruction, la demande peut être orale et les motifs sont consignés au procès-verbal.
+Liste non-limitative de motifs sérieux de récusation (art. 202 C.p.c.) : 
+1°	le juge est le conjoint d’une partie ou de son avocat, ou lui-même ou son conjoint est parent ou allié de l’une ou l’autre des parties ou de leurs avocats, jusqu’au quatrième degré inclusivement;
+2°	le juge est lui-même partie à une instance portant sur une question semblable à celle qu’il est appelé à décider;
+3°	le juge a déjà donné un conseil ou un avis sur le différend ou il en a précédemment connu comme arbitre ou médiateur;
+4°	le juge a agi comme représentant pour l’une des parties;
+5°	le juge est actionnaire ou dirigeant d’une personne morale ou membre d’une société ou d’une association ou d’un autre groupement sans personnalité juridique, partie au litige;
+6°	il existe un conflit grave entre le juge et l’une des parties ou son avocat ou des menaces ou des injures ont été exprimées entre eux pendant l’instance ou dans l’année qui a précédé la demande de récusation.
+Art. 203 C.p.c.: Le juge est inhabile et ne peut entendre une affaire si lui-même ou son conjoint y ont un intérêt.
+Si la demande est formée alors qu’il n’y a qu’un seul juge siégeant dans le district ou l’instance est portés, le greffier doit informer le juge en chef (Art. 204, al.3 C.p.c.). 
+La demande de récusation est jugée par le juge lui-même saisi de l’affaire (Art. 205, al.1 C.p.c.). Sa décision peut faire l’objet d’un appel sur permission d’un juge de la Cour d’appel. Si le juge refuse la demande, il demeure saisi de l’affaire (Art. 205, al.2 C.p.c.). Si le juge décide de se récuser, le greffier en avise le juge en chef (Art. 205, al. 3 C.p.c.). 
+Vrai/Faux
+Seules les parties au litige peuvent demander la récusation du juge.
+Faux, conformément à l’art. 201, al.1ù C.p.c., le juge qui considère qu’une des parties peut avoir des motifs sérieux de douter de son impartialité est tenu de le déclarer sans délai au juge en chef et se récuser.
+Les incidents concernant les actes de procédures (Arts. 206-212 C.p.c.)
+Le retrait ou la modification d’un acte de procédures (Art. 206 C.p.c.) 
+Le retrait d’un acte de procédure de la partie qui l’a introduit vaut pour tout acte de procédure sauf pour la demande introductive d’instance. 
+Tous les actes de procédures sans exception peuvent faire l’objet d’une modification tant que :
+La modification ne retarde pas le déroulement de l’instance 
+N’est pas contraire aux intérêts de la justice
+Quant à la DID, il ne doit pas en résulter une demande entièrement nouvelle 
+La modification inclue : le retranchement, l’ajout ou en corriger
+Tant pour le retrait que la modification, la partie devra notifier aux autres parties du retrait ou de l’acte ainsi modifiée (Art. 207, al.1 C.p.c.) et les parties auront 10 jours pour s’opposer. S’il y a opposition, la partie voulant retirer ou modifier l’acte devra procéder par une demande en cours d’instance (Art. 101 C.p.c.). 
+Une modification pourrait notamment avoir lieu lors de l’instruction verbalement en présence de toutes les parties et sans autre formalité. Toutefois, un acte modifié dans les plus brefs délais devra être versé au dossier de la Cour (Art. 208 C.p.c.).
+Question de droit
+Les parties peuvent conjointement soumettre au tribunal un différend relativement à une question de droit soulevée par le litige (Art. 209 C.p.c.). C’est l’équivalent du jugement déclaratoire prévue par demande introductive d’instance prévue à l’Art. 142 C.p.c. Le tribunal en décide pendant l’instance ou sinon il reportera sa décision lors du jugement quant au fond du litige. 
+La jonction et la disjonction d’instances 
+Jonction :
+Art. 210, al.1 et 2 C.p.c. : Le tribunal peut, même lorsque les demandes ne résultent pas de la même source ou d’une source connexe, ordonner la jonction de plusieurs instances entre les mêmes parties portées devant le même tribunal, pourvu qu’il n’en résulte pas un retard indu pour l’une d’elles ou un préjudice grave à un tiers.
+Il peut en outre ordonner que plusieurs instances pendantes devant lui, entre les mêmes parties ou non, soient jointes pour être instruites en même temps et jugées sur la même preuve ou ordonner que la preuve faite dans l’une serve dans l’autre ou que l’une soit instruite et jugée avant les autres.
+À la place de prendre chacune un recours en vertu de l’Art. 143 C.p.c., la jonction arrivera plus tard.
+Disjonction :
+Art. 210, al.3 C.p.c. : Il peut également, si plusieurs demandes ont été jointes, ordonner qu’elles soient disjointes en plusieurs instances, s’il l’estime opportun eu égard aux droits des parties. 
+La scission de l’instance 
+Le tribunal peut de sa propre initiative diviser une instance (Art. 211 C.p.c.).
+Exemple : recours en responsabilité civile extracontractuelle lorsque le juge décide de procéder d’abord sur la question de savoir le défendeur a commis une faute avant prendre le processus relatif à la preuve des dommages. Selon l’issu de la faute, décider dans un second temps, s’il y a aura l’instruction sur le préjudice.
+La suspension de l’instance 
+Art. 212,al.1 C.p.c. : La Cour du Québec peut suspendre l’instance d’office lorsqu’elle est en présence d’un litige soulevant les mêmes questions qu’un litige en Cour supérieure. 
+Art. 212, al.2 C.p.c.: la suspension aura lieu tant que le jugement de la Cour supérieure ne sera pas en force de chose jugée. 
+Si les circonstances justifiant la suspension ne sont plus à jour, le juge peut en temps revenir sur la suspension. 
+Vrai/Faux
+Une partie peut, en tout temps et de plein droit, modifier ses actes de procédures. 
+Faux, les modifications sont admissibles uniquement si elles ne retardent pas le déroulement de l’instance ou ne sont pas contraires à l’intérêt de la justice (art. 206, al.1 C.p.c.). La partie qui entend modifier ses procédures doit notifier les autres parties et ces dernières disposent de 10 jours pour notifier leur opposition (Art. 207, al.1 C.p.c.). 
+Les incidents qui mettent fin à l’instance (Arts. 213-220 C.p.c.)
+Le désistement
+(Art. 213 C.p.c.) : le retrait de la demande introductive d’instance prend fin lorsque l’acte de désistement est notifié aux parties et déposé au greffe. 
+(Art. 2894 C.c.Q.) : l’interruption de prescription né précédemment par le dépôt de la DID sera annulé rétroactivement et il n’y aura pas eu d’interruption de prescription. 
+Le demandeur devra payer les frais de justice qu’aurait pu avoir souffert le défendeur sous réserve d’une entente entre les parties ou d’une décision du tribunal (Art. 213 C.p.c.).
+(Art. 214 C.p.c.) : la demande conjointe
+L’acquiescement à la demande 
+En tout temps (Art. 217, al.1 C.p.c.), le défendeur ou son mandataire autorisé pourra mettre fin à l’instance en acquiescent à la demande. L’acte d’acquiescement sera déposé au greffe et notifié aux parties (Art. 217, al.2 C.p.c.)et s’il s’agissait d’un mandat, ledit mandat sera également transmis. 
+Les effets d’un acquiescement total : (Art. 218, al.1 C.p.c.)
+Les effets d’un acquiescement partiel : (Art. 218, al.2 C.p.c.)
+(Art. 219 C.p.c.) : un seul parmi plusieurs défendeurs aura acquiescé à la demande et déposé un acquiescement, le tribunal pourrait faire dépendre le sort de l’acquiescement du jugement à être rendu à l’égard des autres défendeurs. 
+Le règlement de l’affaire ou règlement hors cour
+(Art. 220 C.p.c.) : obligation des parties qui mettent fin à l’instance par une transaction, de produire au greffe sans délai un avis de règlement. 

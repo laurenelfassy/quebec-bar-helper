@@ -1,7 +1,6 @@
-langchain-community
 streamlit
-langchain>=0.1.0
-langchain-openai
+langchain==0.0.354
+langchain-openai==0.0.5
 faiss-cpu
 openai
 tiktoken

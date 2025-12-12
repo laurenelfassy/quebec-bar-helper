@@ -1,4 +1,7 @@
-langchain
-langchain-openai
 langchain-community
-
+streamlit
+langchain>=0.1.0
+langchain-openai
+faiss-cpu
+openai
+tiktoken
